@@ -56,3 +56,31 @@ class WalkScore:
             raise InvalidLatLongException
 
         return jsonResp
+
+class TransitScore:
+    apiUrl = 'http://transit.walkscore.com/transit/score/?'
+
+    def __init__(self, apiKey):
+        self.apiKey = apiKey
+        #self.format = format
+
+    def makeRequest(self, city, state, lat = '', long = ''):
+        url = '%s&lat=%s&lon=%s&%s&wsapikey=%s' % (self.apiUrl, lat, long, urllib.urlencode({'city': city, 'state': state}), self.apiKey)
+        request = urllib2.Request(url)
+        opener = urllib2.build_opener(DefaultErrorHandler())
+        first = opener.open(request)
+
+        first_datastream = first.read()
+        # Append caching headers
+        request.add_header('If-None-Match', first.headers.get('ETag'))
+        request.add_header('If-Modified-Since', first.headers.get('Date'))
+
+        response = opener.open(request)
+        # some error handling
+        responseStatusCode = response.getcode()
+
+        # jsonify response
+        jsonResp = json.load(response)
+ 
+
+        return jsonResp
