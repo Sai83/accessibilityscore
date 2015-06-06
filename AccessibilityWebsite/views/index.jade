@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  h1= title
+  form(role="form")
+    div.form-group
+        label(for="zipcode") Zip Code
+        input#zipcode.form-control(type="zipcode", placeholder="Enter your zip code")
+        label(for="address") Address
+        input#address.form-control(type="address", placeholder="Enter Address")
