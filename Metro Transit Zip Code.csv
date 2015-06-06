@@ -1,0 +1,1032 @@
+Primary City,score,zip,acceptable_cities,unacceptable_cities,state,county,timezone,area_codes,latitude,longitude,country,estimated_population
+Ada,0,56510,Lockhart,,MN,Norman County,America/Chicago,218,47.29,-96.51,US,1974
+Adams,0,55909,,Johnsburg,MN,Mower County,America/Chicago,507,43.56,-92.71,US,1206
+Adolph,0,55701,Duluth,,MN,St Louis County,America/Chicago,218,46.84,-92.22,US,0
+Adrian,0,56110,,,MN,Nobles County,America/Chicago,507,43.63,-95.93,US,1666
+Afton,0,55001,,,MN,Washington County,America/Chicago,"612,651",44.9,-92.81,US,2750
+Ah Gwah Ching,0,56430,,,MN,Cass County,America/Chicago,218,47.06,-94.5,US,0
+Aitkin,0,56431,,,MN,Aitkin County,America/Chicago,"218,320",46.53,-93.71,US,7072
+Akeley,0,56433,,,MN,Hubbard County,America/Chicago,218,47,-94.72,US,1211
+Albany,0,56307,,,MN,Stearns County,America/Chicago,320,45.63,-94.56,US,4213
+Albert Lea,0,56007,"Manchester, Oakland",,MN,Freeborn County,America/Chicago,507,43.65,-93.36,US,17858
+Alberta,0,56207,,,MN,Stevens County,America/Chicago,320,45.57,-96.05,US,0
+Albertville,0,55301,Otsego,,MN,Wright County,America/Chicago,763,45.23,-93.66,US,8310
+Alborn,0,55702,,,MN,St Louis County,America/Chicago,218,46.97,-92.57,US,0
+Alden,0,56009,,,MN,Freeborn County,America/Chicago,507,43.67,-93.57,US,1471
+Aldrich,0,56434,,,MN,Todd County,America/Chicago,218,46.37,-94.93,US,0
+Alexandria,0,56308,,Alex,MN,Douglas County,America/Chicago,320,45.87,-95.37,US,20392
+Almelund,0,55002,,Center City,MN,Chisago County,America/Chicago,,45.52,-92.87,US,0
+Alpha,0,56111,,,MN,Jackson County,America/Chicago,507,43.63,-94.87,US,0
+Altura,0,55910,Minneiska,"Bethany, Elba, Norton, Weaver",MN,Winona County,America/Chicago,507,44.06,-91.93,US,1303
+Alvarado,0,56710,,,MN,Marshall County,America/Chicago,218,48.19,-96.99,US,0
+Amboy,0,56010,,,MN,Blue Earth County,America/Chicago,507,43.88,-94.15,US,1041
+Andover,0.736111111,55304,"Anoka, Ham Lake","County Market, Soderville",MN,Anoka County,America/Chicago,"763,612",45.25,-93.33,US,40521
+Angle Inlet,0,56711,,Penasse,MN,Lake of the Woods County,America/Chicago,218,49.21,-94.97,US,0
+Angora,0,55703,,Alango,MN,St Louis County,America/Chicago,218,47.77,-92.63,US,624
+Annandale,0,55302,,,MN,Wright County,America/Chicago,320,45.26,-94.11,US,5958
+Anoka,0.527777778,55303,"Andover, Nowthen, Oak Grove, Ramsey",,MN,Anoka County,America/Chicago,"763,612",45.21,-93.39,US,39074
+Appleton,0,56208,,,MN,Swift County,America/Chicago,320,45.2,-96.02,US,1764
+Arco,0,56113,,,MN,Lincoln County,America/Chicago,507,44.38,-96.18,US,0
+Argyle,0,56713,,,MN,Marshall County,America/Chicago,218,48.33,-96.81,US,896
+Arlington,0,55307,,,MN,Sibley County,America/Chicago,507,44.6,-94.07,US,2708
+Ashby,0,56309,,,MN,Grant County,America/Chicago,218,46.09,-95.81,US,1080
+Askov,0,55704,,"Aslo, Partridge",MN,Pine County,America/Chicago,320,46.18,-92.78,US,904
+Atwater,0,56209,,,MN,Kandiyohi County,America/Chicago,320,45.13,-94.77,US,2092
+Audubon,0,56511,,,MN,Becker County,America/Chicago,218,46.86,-95.98,US,1596
+Aurora,0,55705,,"Biwabik, Palo, Pineville, White",MN,St Louis County,America/Chicago,218,47.53,-92.24,US,2605
+Austin,0,55912,"Mapleview, Nicolville",Andyville,MN,Mower County,America/Chicago,507,43.67,-92.97,US,23996
+Avoca,0,56114,,,MN,Murray County,America/Chicago,507,43.94,-95.64,US,0
+Avon,0,56310,,,MN,Stearns County,America/Chicago,320,45.6,-94.45,US,4551
+Babbitt,0,55706,,,MN,St Louis County,America/Chicago,218,47.64,-91.94,US,1520
+Backus,0,56435,,,MN,Cass County,America/Chicago,218,46.82,-94.51,US,1961
+Badger,0,56714,,,MN,Roseau County,America/Chicago,218,48.77,-96.02,US,1052
+Bagley,0,56621,,"Copley, Ebro, Falk, Nora, Popple, Zerkel",MN,Clearwater County,America/Chicago,218,47.52,-95.4,US,3543
+Balaton,0,56115,,,MN,Lyon County,America/Chicago,507,44.23,-95.87,US,1176
+Barnesville,0,56514,Downer,,MN,Clay County,America/Chicago,218,46.64,-96.41,US,3111
+Barnum,0,55707,Mahtowa,Skelton,MN,Carlton County,America/Chicago,218,46.5,-92.68,US,2707
+Barrett,0,56311,,,MN,Grant County,America/Chicago,"320,218",45.91,-95.89,US,590
+Barry,0,56210,,,MN,Big Stone County,America/Chicago,320,45.55,-96.55,US,0
+Battle Lake,0,56515,,Amor,MN,Otter Tail County,America/Chicago,218,46.28,-95.71,US,2586
+Baudette,0,56623,Pitt,"Border, Carp, Clementson, Hackett, Spooner",MN,Lake of the Woods County,America/Chicago,218,48.71,-94.58,US,2425
+Baxter,0,56425,Brainerd,,MN,Crow Wing County,America/Chicago,218,46.34,-94.28,US,6468
+Bayport,0.5,55003,,"Baytown, Douglas",MN,Washington County,America/Chicago,651,45.01,-92.78,US,1707
+Beardsley,0,56211,,,MN,Big Stone County,America/Chicago,320,45.55,-96.71,US,0
+Beaver Bay,0,55601,,,MN,Lake County,America/Chicago,218,47.25,-91.29,US,0
+Beaver Creek,0,56116,,,MN,Rock County,America/Chicago,507,43.61,-96.36,US,496
+Becker,0,55308,,,MN,Sherburne County,America/Chicago,763,45.37,-93.87,US,7337
+Bejou,0,56516,,,MN,Mahnomen County,America/Chicago,218,47.44,-95.97,US,0
+Belgrade,0,56312,Regal,Spring Hill,MN,Stearns County,America/Chicago,320,45.45,-94.99,US,1997
+Belle Plaine,0,56011,,,MN,Scott County,America/Chicago,"952,507",44.62,-93.76,US,7401
+Bellingham,0,56212,,,MN,Lac Qui Parle County,America/Chicago,320,45.13,-96.28,US,490
+Beltrami,0,56517,,,MN,Polk County,America/Chicago,218,47.54,-96.52,US,0
+Belview,0,56214,,,MN,Redwood County,America/Chicago,507,44.6,-95.32,US,650
+Bemidji,0,56601,"Turtle River, Wilton","Grant Valley, Jones, Northern, Nymore, Port Hope, Sugar Bush, Ten Lake",MN,Beltrami County,America/Chicago,218,47.48,-94.87,US,22996
+Bemidji,0,56619,,,MN,Beltrami County,America/Chicago,218,47.48,-94.87,US,1066
+Bena,0,56626,,,MN,Cass County,America/Chicago,218,47.34,-94.2,US,0
+Benedict,0,56436,,,MN,Hubbard County,America/Chicago,218,47.15,-94.69,US,0
+Benson,0,56215,,,MN,Swift County,America/Chicago,320,45.31,-95.6,US,3906
+Bertha,0,56437,,,MN,Todd County,America/Chicago,218,46.26,-95.06,US,947
+Bethel,0,55005,East Bethel,"Linwood, Oak Grove",MN,Anoka County,America/Chicago,"763,651",45.4,-93.26,US,3718
+Big Falls,0,56627,,"Grand Falls, Nett River",MN,Koochiching County,America/Chicago,218,48.18,-93.8,US,0
+Big Lake,0,55309,,,MN,Sherburne County,America/Chicago,"763,612",45.33,-93.74,US,15038
+Bigelow,0,56117,,,MN,Nobles County,America/Chicago,507,43.5,-95.68,US,0
+Bigfork,0,56628,,Stokes,MN,Itasca County,America/Chicago,218,47.74,-93.65,US,1246
+Bingham Lake,0,56118,,Windom,MN,Cottonwood County,America/Chicago,507,43.9,-95.04,US,0
+Birchdale,0,56629,,"Indus, Manitou",MN,Koochiching County,America/Chicago,218,48.62,-94.1,US,0
+Bird Island,0,55310,,,MN,Renville County,America/Chicago,320,44.76,-94.89,US,1371
+Biwabik,0,55708,,,MN,St Louis County,America/Chicago,218,47.53,-92.35,US,755
+Blackduck,0,56630,,"Alvwood, Battle River, Birch, Cormant, Funkley, Hornet, Langor, Moose Park, Ponemah, Quiring, Summit",MN,Beltrami County,America/Chicago,218,47.72,-94.54,US,1927
+Blomkest,0,56216,Svea,,MN,Kandiyohi County,America/Chicago,320,44.94,-95.02,US,636
+Blooming Prairie,0,55917,Blmng Prairie,"Bixby, Newry, Summit",MN,Steele County,America/Chicago,507,43.86,-93.05,US,3275
+Blue Earth,0,56013,,,MN,Faribault County,America/Chicago,507,43.63,-94.09,US,3946
+Bluffton,0,56518,,,MN,Otter Tail County,America/Chicago,218,46.46,-95.23,US,0
+Bock,0,56313,,,MN,Mille Lacs County,America/Chicago,320,45.78,-93.55,US,0
+Borup,0,56519,,,MN,Norman County,America/Chicago,218,47.18,-96.5,US,0
+Bovey,0,55709,,Boray,MN,Itasca County,America/Chicago,218,47.29,-93.4,US,3212
+Bowlus,0,56314,Elmdale,,MN,Morrison County,America/Chicago,320,45.82,-94.4,US,1053
+Bowstring,0,56631,,,MN,Itasca County,America/Chicago,218,47.54,-93.79,US,0
+Boyd,0,56218,,,MN,Lac Qui Parle County,America/Chicago,"320,507",44.85,-95.9,US,509
+Braham,0,55006,,"Day, Grass Lake",MN,Isanti County,America/Chicago,320,45.72,-93.17,US,3121
+Brainerd,0,56401,"E Gull Lake, East Gull Lake",Baxter,MN,Crow Wing County,America/Chicago,"218,320",46.35,-94.19,US,23511
+Brandon,0,56315,Millerville,,MN,Douglas County,America/Chicago,"320,218",45.96,-95.59,US,1355
+Breckenridge,0,56520,,"Brushvale, Everdell",MN,Wilkin County,America/Chicago,218,46.26,-96.58,US,3351
+Brewster,0,56119,,,MN,Nobles County,America/Chicago,507,43.69,-95.46,US,917
+Bricelyn,0,56014,,,MN,Faribault County,America/Chicago,507,43.56,-93.81,US,697
+Brimson,0,55602,,"Ault, Bassett, Fairbanks, Toimi",MN,St Louis County,America/Chicago,218,47.27,-91.86,US,0
+Britt,0,55710,,Sandy,MN,St Louis County,America/Chicago,218,47.64,-92.68,US,1153
+Brook Park,0,55007,,Quamba,MN,Pine County,America/Chicago,320,45.94,-93.07,US,1954
+Brooks,0,56715,,,MN,Red Lake County,America/Chicago,218,47.81,-96,US,0
+Brookston,0,55711,,"Arrowhead, Brkston, Fine Lakes, Stoney Brook",MN,St Louis County,America/Chicago,218,46.86,-92.6,US,0
+Brooten,0,56316,,,MN,Stearns County,America/Chicago,320,45.5,-95.11,US,1173
+Browerville,0,56438,,,MN,Todd County,America/Chicago,"320,218",46.08,-94.86,US,2416
+Browns Valley,0,56219,,,MN,Traverse County,America/Chicago,"320,605",45.59,-96.83,US,881
+Brownsdale,0,55918,,Red Rock,MN,Mower County,America/Chicago,507,43.74,-92.86,US,889
+Brownsville,0,55919,,Reno,MN,Houston County,America/Chicago,507,43.69,-91.28,US,861
+Brownton,0,55312,,,MN,McLeod County,America/Chicago,320,44.73,-94.35,US,1419
+Bruno,0,55712,,,MN,Pine County,America/Chicago,"320,218",46.28,-92.66,US,0
+Buckman,0,56317,,,MN,Morrison County,America/Chicago,320,45.89,-94.09,US,0
+Buffalo,0,55313,,,MN,Wright County,America/Chicago,"763,612,320",45.17,-93.86,US,19513
+Buffalo Lake,0,55314,,,MN,Renville County,America/Chicago,320,44.73,-94.61,US,1068
+Buhl,0,55713,,Great Scott,MN,St Louis County,America/Chicago,218,47.49,-92.76,US,776
+Burnsville,0.666666667,55306,,,MN,Dakota County,America/Chicago,"612,952",44.76,-93.27,US,13644
+Burnsville,0.666666667,55337,,,MN,Dakota County,America/Chicago,"952,612,651",44.76,-93.27,US,38193
+Burtrum,0,56318,,,MN,Todd County,America/Chicago,320,45.86,-94.68,US,1013
+Butterfield,0,56120,,,MN,Watonwan County,America/Chicago,507,43.95,-94.79,US,898
+Byron,0,55920,,,MN,Olmsted County,America/Chicago,507,44.03,-92.64,US,6356
+Caledonia,0,55921,,Freeburg,MN,Houston County,America/Chicago,507,43.63,-91.5,US,4193
+Callaway,0,56521,,,MN,Becker County,America/Chicago,218,46.98,-95.91,US,620
+Calumet,0,55716,,,MN,Itasca County,America/Chicago,218,47.31,-93.26,US,0
+Cambridge,0,55008,,"Edgewood, Spectacle Lake",MN,Isanti County,America/Chicago,"651,763,612",45.56,-93.22,US,12059
+Campbell,0,56522,Doran,,MN,Wilkin County,America/Chicago,218,46.09,-96.4,US,522
+Canby,0,56220,,,MN,Yellow Medicine County,America/Chicago,"507,320",44.71,-96.26,US,2568
+Cannon Falls,0,55009,,"Miesville, Wastedo, White Rock",MN,Goodhue County,America/Chicago,"507,651",44.51,-92.9,US,7157
+Canton,0,55922,,,MN,Fillmore County,America/Chicago,507,43.53,-91.92,US,517
+Canyon,0,55717,,"Lake Nichols, Northland, Shaw",MN,St Louis County,America/Chicago,218,47.06,-92.4,US,0
+Carlos,0,56319,,,MN,Douglas County,America/Chicago,320,45.97,-95.29,US,1175
+Carlton,0,55718,,,MN,Carlton County,America/Chicago,218,46.66,-92.42,US,2685
+Carver,0,55315,,,MN,Carver County,America/Chicago,952,44.76,-93.62,US,3984
+Cass Lake,0,56633,,"Farden, Farris, Pike Bay, Schley, Wilkinson",MN,Cass County,America/Chicago,218,47.37,-94.6,US,3423
+Castle Rock,0,55010,,,MN,Dakota County,America/Chicago,,44.58,-93.09,US,0
+Cedar,0,55011,"Cedar E Bethl, Cedar East Bethel, East Bethel, Oak Grove",,MN,Anoka County,America/Chicago,"612,763",45.34,-93.24,US,9021
+Center City,0,55012,,Chisago Lake,MN,Chisago County,America/Chicago,651,45.39,-92.81,US,1720
+Ceylon,0,56121,,,MN,Martin County,America/Chicago,507,43.53,-94.63,US,554
+Champlin,0.534722222,55316,,,MN,Hennepin County,America/Chicago,"763,612",45.16,-93.38,US,20946
+Chandler,0,56122,,,MN,Murray County,America/Chicago,507,43.92,-95.94,US,505
+Chanhassen,0.409722222,55317,,,MN,Carver County,America/Chicago,"952,612",44.85,-93.55,US,17368
+Chaska,0.409722222,55318,,,MN,Carver County,America/Chicago,"952,612,651",44.82,-93.6,US,21769
+Chatfield,0,55923,,"Cummingsville, Pilot Mound",MN,Fillmore County,America/Chicago,507,43.84,-92.18,US,3817
+Chisago City,0,55013,,,MN,Chisago County,America/Chicago,651,45.37,-92.88,US,5532
+Chisholm,0,55719,,Balkan,MN,St Louis County,America/Chicago,218,47.48,-92.87,US,4623
+Chokio,0,56221,,,MN,Stevens County,America/Chicago,320,45.57,-96.17,US,706
+Circle Pines,0.409722222,55014,Lino Lakes,"Blaine, Columbus, Lexington",MN,Anoka County,America/Chicago,"651,612,763",45.13,-93.15,US,23573
+Clara City,0,56222,,,MN,Chippewa County,America/Chicago,320,44.95,-95.36,US,1724
+Claremont,0,55924,,,MN,Dodge County,America/Chicago,507,44.04,-92.99,US,1176
+Clarissa,0,56440,,,MN,Todd County,America/Chicago,218,46.12,-94.94,US,1002
+Clarkfield,0,56223,,,MN,Yellow Medicine County,America/Chicago,320,44.79,-95.8,US,1152
+Clarks Grove,0,56016,,,MN,Freeborn County,America/Chicago,507,43.76,-93.32,US,923
+Clear Lake,0,55319,,,MN,Sherburne County,America/Chicago,"320,763",45.44,-93.99,US,4530
+Clearbrook,0,56634,,"Eddy, Greenwood, Leon, Minnewaska",MN,Clearwater County,America/Chicago,218,47.69,-95.42,US,1243
+Clearwater,0,55320,Saint Augusta,,MN,Stearns County,America/Chicago,"320,763",45.41,-94.04,US,4200
+Clements,0,56224,,,MN,Redwood County,America/Chicago,507,44.37,-95.05,US,0
+Cleveland,0,56017,,,MN,Le Sueur County,America/Chicago,507,44.32,-93.83,US,1457
+Climax,0,56523,Eldred,,MN,Polk County,America/Chicago,218,47.6,-96.81,US,0
+Clinton,0,56225,,,MN,Big Stone County,America/Chicago,320,45.46,-96.44,US,668
+Clitherall,0,56524,,,MN,Otter Tail County,America/Chicago,218,46.27,-95.62,US,640
+Clontarf,0,56226,,,MN,Swift County,America/Chicago,320,45.37,-95.67,US,0
+Cloquet,0,55720,,"Knife Falls, Scanlon",MN,Carlton County,America/Chicago,218,46.72,-92.49,US,13288
+Cohasset,0,55721,,Bass Brook,MN,Itasca County,America/Chicago,218,47.26,-93.62,US,2857
+Cokato,0,55321,,,MN,Wright County,America/Chicago,320,45.07,-94.18,US,4178
+Cold Spring,0,56320,,,MN,Stearns County,America/Chicago,320,45.45,-94.43,US,6910
+Coleraine,0,55722,,,MN,Itasca County,America/Chicago,218,47.3,-93.42,US,1002
+Collegeville,0,56321,,,MN,Stearns County,America/Chicago,320,45.64,-94.31,US,0
+Cologne,0,55322,,,MN,Carver County,America/Chicago,"952,612",44.77,-93.78,US,2758
+Comfrey,0,56019,,,MN,Brown County,America/Chicago,507,44.11,-94.9,US,806
+Comstock,0,56525,,,MN,Clay County,America/Chicago,218,46.66,-96.74,US,0
+Conger,0,56020,,,MN,Freeborn County,America/Chicago,507,43.61,-93.52,US,0
+Cook,0,55723,Togo,"Bear Lake, Bearville North",MN,St Louis County,America/Chicago,218,47.85,-92.68,US,2093
+Correll,0,56227,,,MN,Big Stone County,America/Chicago,320,45.23,-96.16,US,0
+Cosmos,0,56228,,,MN,Meeker County,America/Chicago,320,44.93,-94.69,US,792
+Cottage Grove,0.409722222,55016,,,MN,Washington County,America/Chicago,"651,612",44.81,-92.92,US,29532
+Cotton,0,55724,Kelsey,Melrude,MN,St Louis County,America/Chicago,218,47.16,-92.47,US,623
+Cottonwood,0,56229,,,MN,Lyon County,America/Chicago,507,44.6,-95.67,US,1668
+Courtland,0,56021,,,MN,Nicollet County,America/Chicago,507,44.26,-94.34,US,953
+Crane Lake,0,55725,,,MN,St Louis County,America/Chicago,218,48.26,-92.48,US,0
+Cromwell,0,55726,,,MN,Carlton County,America/Chicago,218,46.67,-92.87,US,776
+Crookston,0,56716,,Gentilly,MN,Polk County,America/Chicago,218,47.77,-96.6,US,7173
+Crosby,0,56441,,Trommald,MN,Crow Wing County,America/Chicago,218,46.49,-93.95,US,2583
+Crosslake,0,56442,"Manhattan Bch, Manhattan Beach",Cross Lake,MN,Crow Wing County,America/Chicago,218,46.68,-94.09,US,2252
+Crystal Bay,0,55323,,Orono,MN,Hennepin County,America/Chicago,,44.97,-93.59,US,0
+Currie,0,56123,,,MN,Murray County,America/Chicago,507,44.07,-95.66,US,470
+Cushing,0,56443,,,MN,Morrison County,America/Chicago,"218,320",46.19,-94.57,US,1224
+Cyrus,0,56323,,,MN,Pope County,America/Chicago,320,45.61,-95.73,US,445
+Dakota,0,55925,,"New Hartford, Nodine",MN,Winona County,America/Chicago,507,43.91,-91.35,US,1005
+Dalbo,0,55017,,,MN,Isanti County,America/Chicago,763,45.68,-93.45,US,580
+Dalton,0,56324,,,MN,Otter Tail County,America/Chicago,218,46.17,-95.91,US,976
+Danube,0,56230,,,MN,Renville County,America/Chicago,320,44.79,-95.1,US,737
+Danvers,0,56231,,,MN,Swift County,America/Chicago,320,45.28,-95.75,US,0
+Darfur,0,56022,,,MN,Watonwan County,America/Chicago,507,44.05,-94.83,US,0
+Darwin,0,55324,,,MN,Meeker County,America/Chicago,320,45.09,-94.4,US,1126
+Dassel,0,55325,Kingston,,MN,Meeker County,America/Chicago,320,45.08,-94.3,US,3752
+Dawson,0,56232,,,MN,Lac Qui Parle County,America/Chicago,320,44.92,-96.04,US,1970
+Dayton,0.010127315,55327,,"Hassan, Otsego",MN,Hennepin County,America/Chicago,"612,763",45.18,-93.47,US,3210
+Deer Creek,0,56527,,,MN,Otter Tail County,America/Chicago,218,46.39,-95.32,US,721
+Deer River,0,56636,,"Deer Riv, Inger, Morse, Oteneagen, Zemple",MN,Itasca County,America/Chicago,218,47.33,-93.79,US,3996
+Deerwood,0,56444,,Cuyuna,MN,Crow Wing County,America/Chicago,218,46.47,-93.89,US,2583
+Delano,0,55328,,Independence,MN,Wright County,America/Chicago,"763,612,952",45.04,-93.78,US,7172
+Delavan,0,56023,,,MN,Faribault County,America/Chicago,507,43.76,-94.01,US,443
+Dennison,0,55018,Stanton,,MN,Goodhue County,America/Chicago,507,44.4,-93.02,US,885
+Dent,0,56528,,,MN,Otter Tail County,America/Chicago,218,46.55,-95.71,US,1391
+Detroit Lakes,0,56501,,,MN,Becker County,America/Chicago,218,46.81,-95.84,US,12936
+Detroit Lakes,0,56502,,,MN,Becker County,America/Chicago,218,46.81,-95.84,US,704
+Dexter,0,55926,,,MN,Mower County,America/Chicago,507,43.71,-92.7,US,705
+Dilworth,0,56529,,,MN,Clay County,America/Chicago,218,46.87,-96.69,US,3289
+Dodge Center,0,55927,,Wasioja,MN,Dodge County,America/Chicago,507,44.02,-92.84,US,3423
+Donaldson,0,56720,,,MN,Kittson County,America/Chicago,218,48.57,-96.89,US,0
+Donnelly,0,56235,,,MN,Stevens County,America/Chicago,320,45.69,-96.01,US,522
+Dover,0,55929,,,MN,Olmsted County,America/Chicago,507,43.96,-92.13,US,1072
+Dovray,0,56125,,,MN,Murray County,America/Chicago,507,44.05,-95.54,US,0
+Duluth,0,55801,,,MN,St Louis County,America/Chicago,218,46.78,-92.11,US,0
+Duluth,0,55802,,,MN,St Louis County,America/Chicago,"218,612",46.78,-92.11,US,1619
+Duluth,0,55803,,,MN,St Louis County,America/Chicago,218,46.78,-92.11,US,15005
+Duluth,0,55804,,,MN,St Louis County,America/Chicago,218,46.78,-92.11,US,12686
+Duluth,0,55805,,,MN,St Louis County,America/Chicago,218,46.78,-92.11,US,5750
+Duluth,0,55806,,,MN,St Louis County,America/Chicago,218,46.78,-92.11,US,6599
+Duluth,0,55807,,West Duluth,MN,St Louis County,America/Chicago,218,46.78,-92.11,US,7639
+Duluth,0,55808,,Morgan Park,MN,St Louis County,America/Chicago,"218,715",46.78,-92.11,US,4429
+Duluth,0,55810,"Hermantown, Proctor",,MN,St Louis County,America/Chicago,218,46.78,-92.11,US,7278
+Duluth,0,55811,Hermantown,,MN,St Louis County,America/Chicago,218,46.78,-92.11,US,19664
+Duluth,0,55812,,,MN,St Louis County,America/Chicago,218,46.78,-92.11,US,5525
+Duluth,0,55814,"Dlth Fed Pris, Duluth Federal Prison",,MN,St. Louis County,America/Chicago,218,46.78,-92.11,US,0
+Duluth,0,55815,,,MN,St. Louis County,America/Chicago,218,46.78,-92.11,US,0
+Duluth,0,55816,,,MN,St. Louis County,America/Chicago,218,46.78,-92.11,US,385
+Dumont,0,56236,Johnson,,MN,Traverse County,America/Chicago,320,45.71,-96.42,US,0
+Dundas,0,55019,,,MN,Rice County,America/Chicago,507,44.42,-93.2,US,1610
+Dunnell,0,56127,,,MN,Martin County,America/Chicago,507,43.56,-94.77,US,0
+Eagle Bend,0,56446,,,MN,Todd County,America/Chicago,218,46.16,-95.03,US,1336
+Eagle Lake,0,56024,,,MN,Blue Earth County,America/Chicago,507,44.15,-93.88,US,2391
+East Grand Forks,0,56721,E Grand Forks,E G Forks,MN,Polk County,America/Chicago,"218,701",47.93,-97.01,US,8479
+Easton,0,56025,,,MN,Faribault County,America/Chicago,507,43.76,-93.9,US,503
+Echo,0,56237,,,MN,Yellow Medicine County,America/Chicago,507,44.62,-95.41,US,534
+Eden Prairie,0.402777778,55344,,,MN,Hennepin County,America/Chicago,"952,763,612",44.84,-93.45,US,11838
+Eden Prairie,0.402777778,55346,,,MN,Hennepin County,America/Chicago,"952,612",44.84,-93.45,US,15754
+Eden Prairie,0.402777778,55347,,,MN,Hennepin County,America/Chicago,"952,612,651",44.84,-93.45,US,27496
+Eden Valley,0,55329,,,MN,Meeker County,America/Chicago,320,45.32,-94.54,US,1677
+Edgerton,0,56128,,,MN,Pipestone County,America/Chicago,507,43.87,-96.13,US,1750
+Effie,0,56639,,"Bigfork, Craigville",MN,Itasca County,America/Chicago,218,47.84,-93.63,US,0
+Eitzen,0,55931,,,MN,Houston County,America/Chicago,507,43.5,-91.46,US,0
+Elbow Lake,0,56531,,Erdahl,MN,Grant County,America/Chicago,"218,320",45.99,-95.97,US,1734
+Elgin,0,55932,,Potsdam,MN,Wabasha County,America/Chicago,507,44.13,-92.25,US,1853
+Elizabeth,0,56533,,,MN,Otter Tail County,America/Chicago,218,46.37,-96.13,US,0
+Elk River,0,55330,"Burns Township, Burns Twnshp, Nowthen, Otsego",,MN,Sherburne County,America/Chicago,"763,612",45.33,-93.56,US,31206
+Elko New Market,0,55020,"Elko, Elko New Mrkt",,MN,Scott County,America/Chicago,"952,612",44.56,-93.32,US,3023
+Elko New Market,0,55054,"Elko New Mrkt, New Market",,MN,Scott County,America/Chicago,952,44.57,-93.34,US,1662
+Elkton,0,55933,,,MN,Mower County,America/Chicago,507,43.65,-92.7,US,0
+Ellendale,0,56026,,,MN,Steele County,America/Chicago,507,43.87,-93.3,US,1719
+Ellsworth,0,56129,,,MN,Nobles County,America/Chicago,"507,712",43.52,-96.01,US,693
+Elmore,0,56027,,,MN,Faribault County,America/Chicago,"507,641",43.5,-94.08,US,816
+Elrosa,0,56325,,,MN,Stearns County,America/Chicago,320,45.56,-94.94,US,0
+Ely,0,55731,,,MN,St Louis County,America/Chicago,218,47.9,-91.85,US,4713
+Elysian,0,56028,,,MN,Le Sueur County,America/Chicago,507,44.2,-93.67,US,1164
+Embarrass,0,55732,,"Pike, Waasa",MN,St Louis County,America/Chicago,218,47.65,-92.19,US,1224
+Emily,0,56447,,,MN,Crow Wing County,America/Chicago,218,46.75,-93.96,US,839
+Emmons,0,56029,,,MN,Freeborn County,America/Chicago,"507,641",43.5,-93.48,US,634
+Erhard,0,56534,,,MN,Otter Tail County,America/Chicago,218,46.48,-96.09,US,1038
+Erskine,0,56535,,,MN,Polk County,America/Chicago,218,47.66,-96.01,US,1036
+Esko,0,55733,,,MN,Carlton County,America/Chicago,218,46.7,-92.36,US,4134
+Essig,0,56030,,,MN,Brown County,America/Chicago,507,44.32,-94.57,US,0
+Euclid,0,56722,,,MN,Polk County,America/Chicago,218,47.97,-96.63,US,0
+Evansville,0,56326,,,MN,Douglas County,America/Chicago,"218,320",46,-95.68,US,1258
+Eveleth,0,55734,,"Central Lakes, Fayal, Genoa, Leonidas",MN,St Louis County,America/Chicago,218,47.46,-92.54,US,5240
+Excelsior,0.409722222,55331,"Greenwood, Minnetrista","Deephaven, Orono, Shorewood, Tonka Bay",MN,Hennepin County,America/Chicago,"952,612",44.9,-93.56,US,16166
+Eyota,0,55934,Viola,Predmore,MN,Olmsted County,America/Chicago,507,43.98,-92.22,US,3011
+Fairfax,0,55332,,,MN,Renville County,America/Chicago,507,44.52,-94.72,US,1660
+Fairmont,0,56031,,,MN,Martin County,America/Chicago,"507,612",43.64,-94.45,US,10681
+Faribault,0,55021,,,MN,Rice County,America/Chicago,507,44.29,-93.27,US,22884
+Farmington,0,55024,,"Lakeville, Lakevle",MN,Dakota County,America/Chicago,"952,651,612,507",44.65,-93.17,US,26991
+Farwell,0,56327,,,MN,Douglas County,America/Chicago,320,45.75,-95.61,US,674
+Federal Dam,0,56641,,,MN,Cass County,America/Chicago,218,47.23,-94.21,US,0
+Felton,0,56536,,,MN,Clay County,America/Chicago,218,47.07,-96.5,US,0
+Fergus Falls,0,56537,Carlisle,,MN,Otter Tail County,America/Chicago,218,46.28,-96.06,US,15712
+Fergus Falls,0,56538,,,MN,Otter Tail County,America/Chicago,218,46.28,-96.06,US,0
+Fertile,0,56540,,Rindal,MN,Polk County,America/Chicago,218,47.53,-96.29,US,1566
+Fifty Lakes,0,56448,,,MN,Crow Wing County,America/Chicago,218,46.74,-94.09,US,0
+Finland,0,55603,,Murphy City,MN,Lake County,America/Chicago,218,47.41,-91.24,US,433
+Finlayson,0,55735,,"Bremen, Giese, Pine Lake, Wagner",MN,Pine County,America/Chicago,"320,218",46.2,-92.92,US,1404
+Fisher,0,56723,,,MN,Polk County,America/Chicago,218,47.79,-96.79,US,860
+Flensburg,0,56328,,,MN,Morrison County,America/Chicago,320,45.94,-94.53,US,0
+Flom,0,56541,,,MN,Norman County,America/Chicago,218,47.16,-96.13,US,0
+Floodwood,0,55736,Wawina,"Cedar Valley, Halden, Prairie Lake, Van Buren",MN,St Louis County,America/Chicago,218,46.92,-92.91,US,1241
+Foley,0,56329,Oak Park,Ronneby,MN,Benton County,America/Chicago,"320,763",45.66,-93.9,US,5983
+Forbes,0,55738,Zim,,MN,St Louis County,America/Chicago,218,47.28,-92.61,US,503
+Forest Lake,0,55025,Columbus,,MN,Washington County,America/Chicago,"651,612",45.27,-92.98,US,19742
+Foreston,0,56330,,,MN,Mille Lacs County,America/Chicago,320,45.73,-93.7,US,1389
+Fort Ripley,0,56449,,,MN,Crow Wing County,America/Chicago,"320,218",46.16,-94.36,US,1375
+Fosston,0,56542,,,MN,Polk County,America/Chicago,218,47.58,-95.74,US,2314
+Fountain,0,55935,,,MN,Fillmore County,America/Chicago,507,43.74,-92.13,US,806
+Foxhome,0,56543,,,MN,Wilkin County,America/Chicago,218,46.27,-96.31,US,0
+Franklin,0,55333,,,MN,Renville County,America/Chicago,507,44.53,-94.88,US,670
+Frazee,0,56544,,,MN,Becker County,America/Chicago,218,46.72,-95.69,US,4195
+Freeborn,0,56032,,,MN,Freeborn County,America/Chicago,507,43.76,-93.56,US,0
+Freeport,0,56331,Saint Rosa,,MN,Stearns County,America/Chicago,320,45.66,-94.68,US,1816
+Frontenac,0,55026,,,MN,Goodhue County,America/Chicago,651,44.49,-92.35,US,0
+Frost,0,56033,,,MN,Faribault County,America/Chicago,507,43.58,-93.92,US,0
+Fulda,0,56131,"Dundee, Kinbrae",,MN,Murray County,America/Chicago,507,43.87,-95.6,US,2076
+Garden City,0,56034,,,MN,Blue Earth County,America/Chicago,507,44.04,-94.18,US,470
+Garfield,0,56332,,,MN,Douglas County,America/Chicago,"320,218",45.94,-95.49,US,1209
+Garrison,0,56450,,,MN,Crow Wing County,America/Chicago,"320,218",46.3,-93.82,US,880
+Garvin,0,56132,,,MN,Lyon County,America/Chicago,507,44.21,-95.76,US,477
+Gary,0,56545,,,MN,Norman County,America/Chicago,218,47.37,-96.26,US,614
+Gatzke,0,56724,,,MN,Marshall County,America/Chicago,218,48.42,-95.78,US,0
+Gaylord,0,55334,,,MN,Sibley County,America/Chicago,507,44.55,-94.21,US,2581
+Geneva,0,56035,,,MN,Freeborn County,America/Chicago,507,43.82,-93.26,US,0
+Georgetown,0,56546,,,MN,Clay County,America/Chicago,218,47.07,-96.79,US,0
+Ghent,0,56239,,,MN,Lyon County,America/Chicago,507,44.51,-95.89,US,561
+Gibbon,0,55335,,,MN,Sibley County,America/Chicago,507,44.53,-94.52,US,1395
+Gilbert,0,55741,Mckinley,,MN,St Louis County,America/Chicago,218,47.49,-92.46,US,2722
+Gilman,0,56333,,,MN,Benton County,America/Chicago,320,45.73,-93.95,US,0
+Glencoe,0,55336,Biscay,,MN,McLeod County,America/Chicago,320,44.76,-94.14,US,7168
+Glenville,0,56036,"London, Myrtle",,MN,Freeborn County,America/Chicago,507,43.56,-93.27,US,1732
+Glenwood,0,56334,"Long Beach, Sedan",Terrace,MN,Pope County,America/Chicago,320,45.65,-95.38,US,4759
+Glyndon,0,56547,,Averill,MN,Clay County,America/Chicago,218,46.87,-96.57,US,2318
+Gonvick,0,56644,,"Berner, Hangaard, Pine Lake, Winsor",MN,Clearwater County,America/Chicago,218,47.73,-95.51,US,665
+Good Thunder,0,56037,,,MN,Blue Earth County,America/Chicago,507,44,-94.07,US,1473
+Goodhue,0,55027,Bellechester,,MN,Goodhue County,America/Chicago,"651,507",44.4,-92.62,US,2544
+Goodland,0,55742,,,MN,Itasca County,America/Chicago,218,47.16,-93.13,US,0
+Goodridge,0,56725,,Erie,MN,Pennington County,America/Chicago,218,48.14,-95.8,US,846
+Graceville,0,56240,,,MN,Big Stone County,America/Chicago,320,45.56,-96.43,US,790
+Granada,0,56039,,,MN,Martin County,America/Chicago,507,43.69,-94.34,US,912
+Grand Marais,0,55604,,"Croftville, Maple Hill",MN,Cook County,America/Chicago,218,47.75,-90.34,US,3068
+Grand Meadow,0,55936,,"Bennington, Frankford",MN,Mower County,America/Chicago,507,43.7,-92.57,US,1618
+Grand Portage,0,55605,,,MN,Cook County,America/Chicago,218,47.96,-89.68,US,502
+Grand Rapids,0,55730,,,MN,Itasca County,America/Chicago,218,47.22,-93.52,US,0
+Grand Rapids,0,55744,,,MN,Itasca County,America/Chicago,218,47.22,-93.52,US,16279
+Grand Rapids,0,55745,,Arrowhead Promotion Fulfillm,MN,Itasca County,America/Chicago,218,47.22,-93.52,US,0
+Grandy,0,55029,,,MN,Isanti County,America/Chicago,,45.63,-93.17,US,0
+Granite Falls,0,56241,Hazel Run,,MN,Yellow Medicine County,America/Chicago,"320,507",44.81,-95.53,US,3594
+Grasston,0,55030,,,MN,Pine County,America/Chicago,320,45.85,-93.08,US,1032
+Green Isle,0,55338,,,MN,Sibley County,America/Chicago,507,44.67,-94,US,1040
+Greenbush,0,56726,,,MN,Roseau County,America/Chicago,218,48.69,-96.18,US,1368
+Greenwald,0,56335,,,MN,Stearns County,America/Chicago,320,45.6,-94.85,US,0
+Grey Eagle,0,56336,,,MN,Todd County,America/Chicago,320,45.82,-94.74,US,1230
+Grove City,0,56243,,,MN,Meeker County,America/Chicago,320,45.15,-94.68,US,1436
+Grygla,0,56727,,,MN,Beltrami County,America/Chicago,218,48.29,-95.61,US,653
+Gully,0,56646,,Olga,MN,Polk County,America/Chicago,218,47.76,-95.62,US,0
+Hackensack,0,56452,,,MN,Cass County,America/Chicago,218,46.92,-94.51,US,1729
+Hallock,0,56728,,Northcote,MN,Kittson County,America/Chicago,218,48.76,-96.94,US,1247
+Halma,0,56729,,,MN,Kittson County,America/Chicago,218,48.66,-96.59,US,0
+Halstad,0,56548,,,MN,Norman County,America/Chicago,218,47.35,-96.82,US,573
+Hamburg,0,55339,,,MN,Carver County,America/Chicago,"952,320",44.73,-93.96,US,873
+Hamel,0,55340,"Corcoran, Medina",,MN,Hennepin County,America/Chicago,"763,612",45.07,-93.58,US,5637
+Hampton,0,55031,New Trier,,MN,Dakota County,America/Chicago,"651,507",44.6,-93,US,1764
+Hancock,0,56244,,,MN,Stevens County,America/Chicago,320,45.49,-95.79,US,1299
+Hanley Falls,0,56245,,,MN,Yellow Medicine County,America/Chicago,"507,320",44.69,-95.61,US,0
+Hanover,0,55341,,,MN,Wright County,America/Chicago,763,45.15,-93.65,US,2350
+Hanska,0,56041,,,MN,Brown County,America/Chicago,507,44.14,-94.49,US,1020
+Hardwick,0,56134,,,MN,Rock County,America/Chicago,507,43.77,-96.19,US,0
+Harmony,0,55939,Granger,,MN,Fillmore County,America/Chicago,"507,563",43.55,-92,US,1548
+Harris,0,55032,,,MN,Chisago County,America/Chicago,"651,320,763",45.6,-92.98,US,3026
+Hartland,0,56042,,,MN,Freeborn County,America/Chicago,507,43.8,-93.48,US,636
+Hastings,0,55033,,,MN,Dakota County,America/Chicago,"651,612",44.73,-92.85,US,25103
+Hawley,0,56549,Rollag,Dale,MN,Clay County,America/Chicago,218,46.87,-96.31,US,3869
+Hayfield,0,55940,,,MN,Dodge County,America/Chicago,507,43.89,-92.84,US,2199
+Hayward,0,56043,,,MN,Freeborn County,America/Chicago,507,43.64,-93.24,US,463
+Hector,0,55342,,,MN,Renville County,America/Chicago,"320,507",44.74,-94.71,US,1739
+Henderson,0,56044,,,MN,Sibley County,America/Chicago,"507,952",44.53,-93.9,US,1755
+Hendricks,0,56136,,,MN,Lincoln County,America/Chicago,"507,605",44.5,-96.42,US,1066
+Hendrum,0,56550,,,MN,Norman County,America/Chicago,218,47.26,-96.81,US,0
+Henning,0,56551,,Almora,MN,Otter Tail County,America/Chicago,218,46.32,-95.44,US,1748
+Henriette,0,55036,Grasston,,MN,Pine County,America/Chicago,320,45.87,-93.12,US,0
+Herman,0,56248,,,MN,Grant County,America/Chicago,320,45.81,-96.13,US,722
+Heron Lake,0,56137,,,MN,Jackson County,America/Chicago,507,43.79,-95.32,US,1003
+Hewitt,0,56453,,,MN,Todd County,America/Chicago,218,46.32,-95.08,US,699
+Hibbing,0,55746,Kelly Lake,"Brooklyn, Kitzville, Lavinia, Leetonia, Little Swan, Lynwood, North Hibbing, Ruby Junction, Silica, Stuntz, Wilpen",MN,St Louis County,America/Chicago,218,47.4,-92.94,US,13817
+Hibbing,0,55747,,,MN,St. Louis County,America/Chicago,218,47.4,-92.94,US,0
+Hill City,0,55748,,Haypoint,MN,Aitkin County,America/Chicago,218,46.98,-93.59,US,1139
+Hillman,0,56338,,,MN,Morrison County,America/Chicago,320,46,-93.88,US,1431
+Hills,0,56138,,,MN,Rock County,America/Chicago,"507,712",43.52,-96.36,US,796
+Hinckley,0,55037,,,MN,Pine County,America/Chicago,320,46.01,-92.93,US,3823
+Hines,0,56647,,Hagali,MN,Beltrami County,America/Chicago,218,47.68,-94.63,US,577
+Hitterdal,0,56552,,,MN,Clay County,America/Chicago,218,46.97,-96.25,US,0
+Hoffman,0,56339,,,MN,Grant County,America/Chicago,320,45.83,-95.78,US,916
+Hokah,0,55941,,,MN,Houston County,America/Chicago,507,43.76,-91.35,US,922
+Holdingford,0,56340,,,MN,Stearns County,America/Chicago,320,45.73,-94.47,US,1868
+Holland,0,56139,,,MN,Pipestone County,America/Chicago,507,44.09,-96.19,US,0
+Hollandale,0,56045,,,MN,Freeborn County,America/Chicago,507,43.75,-93.2,US,691
+Holloway,0,56249,,,MN,Swift County,America/Chicago,320,45.24,-95.91,US,0
+Holmes City,0,56341,,,MN,Douglas County,America/Chicago,320,45.8,-95.57,US,0
+Holyoke,0,55749,Wrenshall,,MN,Carlton County,America/Chicago,218,46.46,-92.38,US,0
+Homer,0,55942,,,MN,Winona County,America/Chicago,507,44,-91.54,US,0
+Hope,0,56046,,,MN,Steele County,America/Chicago,507,43.97,-93.34,US,0
+Hopkins,0.916666667,55305,Minnetonka,,MN,Hennepin County,America/Chicago,"952,612,763",44.92,-93.4,US,17425
+Hopkins,0.916666667,55343,"Eden Prairie, Minetonka Mls, Minnetnka Mls, Minnetonka, Minnetonka Mills",Edina,MN,Hennepin County,America/Chicago,"952,612",44.92,-93.4,US,20423
+Houston,0,55943,,,MN,Houston County,America/Chicago,507,43.76,-91.57,US,2607
+Hovland,0,55606,,,MN,Cook County,America/Chicago,218,47.83,-89.97,US,0
+Howard Lake,0,55349,,,MN,Wright County,America/Chicago,"320,763",45.05,-94.06,US,3293
+Howard Lake,0,55575,,,MN,Wright County,America/Chicago,320,45.05,-94.06,US,0
+Hoyt Lakes,0,55750,,,MN,St Louis County,America/Chicago,218,47.55,-92.11,US,1654
+Hugo,0,55038,"Centerville, Lino Lakes",Columbus,MN,Washington County,America/Chicago,651,45.15,-92.96,US,17873
+Humboldt,0,56731,,,MN,Kittson County,America/Chicago,218,48.92,-97.09,US,0
+Huntley,0,56047,,,MN,Faribault County,America/Chicago,507,43.71,-94.18,US,0
+Hutchinson,0,55350,,Cedar Mills,MN,McLeod County,America/Chicago,320,44.88,-94.37,US,15663
+Ihlen,0,56140,,,MN,Pipestone County,America/Chicago,507,43.91,-96.37,US,0
+International Falls,0,56649,Intl Falls,,MN,Koochiching County,America/Chicago,218,48.58,-93.4,US,7765
+Inver Grove Heights,0.180555556,55076,"Inver Grove, South Saint Paul, South St Paul",,MN,Dakota County,America/Chicago,"651,612",44.82,-93.05,US,18797
+Inver Grove Heights,0.180555556,55077,"Inver Grove, South Saint Paul, South St Paul, Sunfish Lake",,MN,Dakota County,America/Chicago,"651,612",44.82,-93.05,US,10368
+Iona,0,56141,,,MN,Murray County,America/Chicago,507,43.91,-95.78,US,0
+Iron,0,55751,Iron Junction,Mcdavitt,MN,St Louis County,America/Chicago,218,47.41,-92.64,US,1267
+Ironton,0,56455,Riverton,,MN,Crow Wing County,America/Chicago,218,46.48,-93.99,US,1358
+Isabella,0,55607,,,MN,Lake County,America/Chicago,218,47.61,-91.35,US,0
+Isanti,0,55040,,,MN,Isanti County,America/Chicago,"763,651,612",45.48,-93.25,US,10429
+Isle,0,56342,,,MN,Mille Lacs County,America/Chicago,320,46.14,-93.46,US,2498
+Ivanhoe,0,56142,,,MN,Lincoln County,America/Chicago,507,44.46,-96.25,US,845
+Jackson,0,56143,,,MN,Jackson County,America/Chicago,507,43.62,-94.98,US,3887
+Jacobson,0,55752,,"Ball Bluff, Cornish",MN,Aitkin County,America/Chicago,218,47,-93.26,US,0
+Janesville,0,56048,,,MN,Waseca County,America/Chicago,507,44.11,-93.7,US,3340
+Jasper,0,56144,Trosky,,MN,Rock County,America/Chicago,"507,605",43.84,-96.39,US,1065
+Jeffers,0,56145,,,MN,Cottonwood County,America/Chicago,507,44.05,-95.19,US,540
+Jenkins,0,56456,,Pine River,MN,Cass County,America/Chicago,218,46.65,-94.32,US,0
+Jordan,0,55352,,,MN,Scott County,America/Chicago,"952,763",44.66,-93.63,US,7551
+Kabetogama,0,56669,Ray,,MN,Koochiching County,America/Chicago,218,48.41,-93.21,US,0
+Kanaranzi,0,56146,,Adrian,MN,Rock County,America/Chicago,507,43.54,-96.11,US,0
+Kandiyohi,0,56251,,,MN,Kandiyohi County,America/Chicago,320,45.13,-94.93,US,851
+Karlstad,0,56732,,,MN,Kittson County,America/Chicago,218,48.57,-96.51,US,926
+Kasota,0,56050,,,MN,Le Sueur County,America/Chicago,507,44.29,-93.96,US,1311
+Kasson,0,55944,,Canisteo,MN,Dodge County,America/Chicago,507,44.02,-92.75,US,5978
+Keewatin,0,55753,,,MN,Itasca County,America/Chicago,218,47.4,-93.08,US,830
+Kelliher,0,56650,Saum,Shotley,MN,Beltrami County,America/Chicago,218,47.94,-94.44,US,571
+Kellogg,0,55945,Theilman,,MN,Wabasha County,America/Chicago,"507,651",44.3,-91.99,US,1297
+Kennedy,0,56733,,,MN,Kittson County,America/Chicago,218,48.64,-96.91,US,0
+Kenneth,0,56147,,,MN,Rock County,America/Chicago,507,43.75,-96.07,US,0
+Kensington,0,56343,,,MN,Douglas County,America/Chicago,320,45.77,-95.69,US,806
+Kent,0,56553,,,MN,Wilkin County,America/Chicago,218,46.43,-96.68,US,0
+Kenyon,0,55946,,"Bombay, Moland",MN,Goodhue County,America/Chicago,507,44.27,-92.98,US,2773
+Kerkhoven,0,56252,,,MN,Swift County,America/Chicago,320,45.19,-95.32,US,1099
+Kerrick,0,55756,Duquette,,MN,Pine County,America/Chicago,218,46.33,-92.58,US,0
+Kettle River,0,55757,,,MN,Carlton County,America/Chicago,218,46.48,-92.87,US,662
+Kiester,0,56051,,,MN,Faribault County,America/Chicago,507,43.53,-93.71,US,647
+Kilkenny,0,56052,,,MN,Le Sueur County,America/Chicago,507,44.31,-93.57,US,674
+Kimball,0,55353,Saint Augusta,,MN,Stearns County,America/Chicago,320,45.31,-94.3,US,2639
+Kinney,0,55758,,,MN,St Louis County,America/Chicago,218,47.52,-92.72,US,0
+Knife River,0,55609,,,MN,Lake County,America/Chicago,218,46.95,-91.78,US,0
+La Crescent,0,55947,,Dresbach,MN,Houston County,America/Chicago,507,43.82,-91.3,US,6757
+La Salle,0,56056,,,MN,Watonwan County,America/Chicago,507,44.07,-94.57,US,0
+Lafayette,0,56054,,La Fayette,MN,Nicollet County,America/Chicago,507,44.44,-94.39,US,835
+Lake Benton,0,56149,,,MN,Lincoln County,America/Chicago,507,44.26,-96.29,US,1056
+Lake Bronson,0,56734,,,MN,Kittson County,America/Chicago,218,48.73,-96.66,US,0
+Lake City,0,55041,,,MN,Wabasha County,America/Chicago,"651,507,952",44.44,-92.27,US,6678
+Lake Crystal,0,56055,,North Mankato,MN,Blue Earth County,America/Chicago,507,44.1,-94.21,US,3399
+Lake Elmo,0.402777778,55042,,Oakdale,MN,Washington County,America/Chicago,"651,612",44.99,-92.9,US,7753
+Lake George,0,56458,,,MN,Hubbard County,America/Chicago,218,47.2,-94.99,US,0
+Lake Hubert,0,56459,,,MN,Crow Wing County,America/Chicago,218,46.5,-94.25,US,0
+Lake Lillian,0,56253,,,MN,Kandiyohi County,America/Chicago,320,44.94,-94.88,US,900
+Lake Park,0,56554,,,MN,Becker County,America/Chicago,218,46.88,-96.09,US,2238
+Lake Wilson,0,56151,"Hadley, Slayton",,MN,Murray County,America/Chicago,507,43.99,-95.95,US,735
+Lakefield,0,56150,,,MN,Jackson County,America/Chicago,507,43.67,-95.17,US,2490
+Lakeland,0,55043,"Lake Saint Croix Beach, Lakeland Shores, Lakeland Shrs, Saint Marys Point, St Croix Bch, St Croix Beach, St Marys Point, St Marys Pt",,MN,Washington County,America/Chicago,"651,612",44.95,-92.77,US,3295
+Lakeville,0.444444444,55044,,"Antlers Park, Argonne",MN,Dakota County,America/Chicago,"952,612",44.67,-93.24,US,41090
+Lamberton,0,56152,,,MN,Redwood County,America/Chicago,507,44.22,-95.26,US,1198
+Lancaster,0,56735,Orleans,,MN,Kittson County,America/Chicago,218,48.85,-96.8,US,679
+Lanesboro,0,55949,Whalan,Highland,MN,Fillmore County,America/Chicago,507,43.71,-91.97,US,1598
+Lansing,0,55950,,,MN,Mower County,America/Chicago,507,43.74,-92.96,US,0
+Laporte,0,56461,,"Guthrie, La Porte",MN,Hubbard County,America/Chicago,218,47.21,-94.75,US,2368
+Lastrup,0,56344,,,MN,Morrison County,America/Chicago,320,46.03,-94.06,US,0
+Le Center,0,56057,,,MN,Le Sueur County,America/Chicago,507,44.38,-93.73,US,3405
+Le Roy,0,55951,,,MN,Mower County,America/Chicago,"507,641",43.51,-92.5,US,1315
+Le Sueur,0,56058,,,MN,Le Sueur County,America/Chicago,507,44.46,-93.9,US,5346
+Lengby,0,56651,,,MN,Polk County,America/Chicago,218,47.51,-95.63,US,0
+Leonard,0,56652,,"Clover, Dudley, Holst, Sinclair",MN,Clearwater County,America/Chicago,218,47.65,-95.26,US,0
+Leota,0,56153,,,MN,Nobles County,America/Chicago,507,43.8,-95.99,US,0
+Lester Prairie,0,55354,Lester Pr,,MN,McLeod County,America/Chicago,320,44.88,-94.03,US,2390
+Lewiston,0,55952,,,MN,Winona County,America/Chicago,507,43.98,-91.86,US,2291
+Lewisville,0,56060,,,MN,Watonwan County,America/Chicago,507,43.92,-94.43,US,0
+Lindstrom,0,55045,,,MN,Chisago County,America/Chicago,651,45.38,-92.84,US,6536
+Lismore,0,56155,,,MN,Nobles County,America/Chicago,507,43.74,-95.94,US,0
+Litchfield,0,55355,,,MN,Meeker County,America/Chicago,320,45.11,-94.52,US,8039
+Little Falls,0,56345,Sobieski,Elmdale,MN,Morrison County,America/Chicago,320,45.97,-94.36,US,12016
+Littlefork,0,56653,,"Happyland, Lindford",MN,Koochiching County,America/Chicago,218,48.39,-93.55,US,1087
+Loman,0,56654,,Black River,MN,Koochiching County,America/Chicago,218,48.51,-93.8,US,0
+Long Lake,0.402777778,55356,Orono,,MN,Hennepin County,America/Chicago,"952,763",44.98,-93.56,US,4768
+Long Prairie,0,56347,Little Sauk,,MN,Todd County,America/Chicago,320,45.97,-94.86,US,5290
+Longville,0,56655,,"Boy Lake, Brevik, Inguadona, Kego, Wabedo",MN,Cass County,America/Chicago,218,46.98,-94.21,US,1276
+Lonsdale,0,55046,Veseli,,MN,Rice County,America/Chicago,507,44.47,-93.42,US,4254
+Loretto,0,55357,Independence,"Corcoran, Greenfield, Medina",MN,Hennepin County,America/Chicago,"763,612",45.05,-93.63,US,2847
+Loretto,0,55595,,,MN,Hennepin County,America/Chicago,763,45.05,-93.63,US,0
+Loretto,0,55596,,,MN,Hennepin County,America/Chicago,763,45.05,-93.63,US,0
+Loretto,0,55597,,,MN,Hennepin County,America/Chicago,763,45.05,-93.63,US,0
+Loretto,0,55598,,,MN,Hennepin County,America/Chicago,763,45.05,-93.63,US,0
+Loretto,0,55599,,,MN,Hennepin County,America/Chicago,763,45.05,-93.63,US,0
+Lowry,0,56349,,,MN,Pope County,America/Chicago,320,45.7,-95.51,US,664
+Lucan,0,56255,,,MN,Redwood County,America/Chicago,507,44.4,-95.41,US,0
+Lutsen,0,55612,,,MN,Cook County,America/Chicago,218,47.63,-90.71,US,455
+Luverne,0,56156,,,MN,Rock County,America/Chicago,507,43.65,-96.2,US,5162
+Lyle,0,55953,,Nevada,MN,Mower County,America/Chicago,507,43.5,-92.94,US,793
+Lynd,0,56157,,,MN,Lyon County,America/Chicago,507,44.38,-95.89,US,638
+Mabel,0,55954,,,MN,Fillmore County,America/Chicago,507,43.52,-91.76,US,1204
+Madelia,0,56062,,,MN,Watonwan County,America/Chicago,507,44.04,-94.41,US,2661
+Madison,0,56256,Louisburg,,MN,Lac Qui Parle County,America/Chicago,320,45.01,-96.18,US,2338
+Madison Lake,0,56063,,,MN,Blue Earth County,America/Chicago,507,44.2,-93.81,US,2375
+Magnolia,0,56158,,,MN,Rock County,America/Chicago,507,43.64,-96.07,US,0
+Mahnomen,0,56557,,Beaulieu,MN,Mahnomen County,America/Chicago,218,47.31,-95.96,US,2240
+Makinen,0,55763,,"Colvin, Markham",MN,St Louis County,America/Chicago,218,47.35,-92.36,US,469
+Mankato,0,56001,Skyline,,MN,Blue Earth County,America/Chicago,"507,612",44.16,-93.99,US,30746
+Mankato,0,56002,,"N Mankato, No Mankato, North Mankato",MN,Blue Earth County,America/Chicago,507,44.16,-93.99,US,533
+Mankato,0,56003,North Mankato,"N Mankato, No Mankato",MN,Nicollet County,America/Chicago,507,44.16,-93.99,US,12372
+Mankato,0,56006,,,MN,Blue Earth County,America/Chicago,507,44.16,-93.99,US,0
+Mantorville,0,55955,,,MN,Dodge County,America/Chicago,507,44.06,-92.75,US,2451
+Maple Lake,0,55358,,,MN,Wright County,America/Chicago,"320,763",45.23,-94,US,4409
+Maple Plain,0,55348,,,MN,Hennepin County,America/Chicago,952,45,-93.66,US,0
+Maple Plain,0,55359,"Independence, Minnetrista","Medina, Orono",MN,Hennepin County,America/Chicago,"763,612,952",45,-93.66,US,5484
+Maple Plain,0,55393,,,MN,Hennepin County,America/Chicago,952,45,-93.66,US,0
+Maple Plain,0,55570,,,MN,Hennepin County,America/Chicago,952,45,-93.66,US,0
+Maple Plain,0,55571,,,MN,Hennepin County,America/Chicago,952,45,-93.66,US,0
+Maple Plain,0,55574,,,MN,Hennepin County,America/Chicago,952,45,-93.66,US,0
+Maple Plain,0,55576,,,MN,Hennepin County,America/Chicago,952,45,-93.66,US,0
+Maple Plain,0,55578,,,MN,Hennepin County,America/Chicago,952,45,-93.66,US,0
+Maple Plain,0,55579,,,MN,Hennepin County,America/Chicago,952,45,-93.66,US,0
+Maple Plain,0,55592,,,MN,Hennepin County,America/Chicago,952,45,-93.66,US,0
+Maple Plain,0,55593,,,MN,Hennepin County,America/Chicago,952,45,-93.66,US,0
+Mapleton,0,56065,,,MN,Blue Earth County,America/Chicago,507,43.92,-93.95,US,2377
+Marble,0,55764,,Greenway,MN,Itasca County,America/Chicago,218,47.32,-93.29,US,0
+Marcell,0,56657,,,MN,Itasca County,America/Chicago,218,47.59,-93.69,US,0
+Margie,0,56658,,,MN,Koochiching County,America/Chicago,218,48.09,-93.94,US,0
+Marietta,0,56257,Nassau,,MN,Lac Qui Parle County,America/Chicago,"320,507",45.01,-96.41,US,438
+Marine On Saint Croix,0,55047,Marine St Crx,"Marine, Marine On St Croix, New Scandia, St Croix",MN,Washington County,America/Chicago,651,45.2,-92.78,US,2345
+Marshall,0,56258,,,MN,Lyon County,America/Chicago,507,44.45,-95.78,US,12055
+Max,0,56659,,,MN,Itasca County,America/Chicago,218,47.61,-94.06,US,0
+Mayer,0,55360,,,MN,Carver County,America/Chicago,"952,612",44.88,-93.88,US,2244
+Maynard,0,56260,,,MN,Chippewa County,America/Chicago,320,44.9,-95.46,US,824
+Mazeppa,0,55956,,,MN,Wabasha County,America/Chicago,"507,651",44.27,-92.54,US,1676
+Mc Grath,0,56350,,,MN,Aitkin County,America/Chicago,"320,218",46.24,-93.27,US,0
+Mcgregor,0,55760,,"East Lake, Jevne, Lawler, Minnewana, Rice River, Salo, Shamrock, Sheshebee, Spalding, Turner",MN,Aitkin County,America/Chicago,218,46.6,-93.3,US,2224
+Mcintosh,0,56556,,,MN,Polk County,America/Chicago,218,47.63,-95.88,US,895
+Meadowlands,0,55765,Toivola,,MN,St Louis County,America/Chicago,218,47.07,-92.73,US,626
+Medford,0,55049,,Deerfield,MN,Steele County,America/Chicago,507,44.17,-93.24,US,2182
+Melrose,0,56352,"Meire Grove, Spring Hill",,MN,Stearns County,America/Chicago,320,45.67,-94.81,US,4670
+Melrude,0,55766,,"Ellsburg, Whiteface",MN,St Louis County,America/Chicago,218,47.24,-92.42,US,0
+Menahga,0,56464,,"Blueberry, Huntersville, Midway, Runeberg, Shell River",MN,Wadena County,America/Chicago,218,46.74,-95.1,US,3225
+Mendota,0.430555556,55150,Saint Paul,,MN,Dakota County,America/Chicago,,44.88,-93.15,US,0
+Mentor,0,56736,,,MN,Polk County,America/Chicago,218,47.69,-96.14,US,785
+Merrifield,0,56465,,,MN,Crow Wing County,America/Chicago,218,46.46,-94.17,US,1878
+Middle River,0,56737,,,MN,Marshall County,America/Chicago,218,48.43,-96.16,US,735
+Milaca,0,56353,,,MN,Mille Lacs County,America/Chicago,"320,763",45.75,-93.65,US,7245
+Milan,0,56262,,,MN,Chippewa County,America/Chicago,320,45.11,-95.91,US,605
+Millville,0,55957,,,MN,Wabasha County,America/Chicago,507,44.24,-92.29,US,659
+Milroy,0,56263,,,MN,Redwood County,America/Chicago,"507,320",44.41,-95.55,US,490
+Miltona,0,56354,,,MN,Douglas County,America/Chicago,"218,320",46.04,-95.29,US,1149
+Minneapolis,1,55401,,,MN,Hennepin County,America/Chicago,"612,763,952,651",44.96,-93.26,US,5440
+Minneapolis,1,55402,,,MN,Hennepin County,America/Chicago,"612,952,651,763",44.96,-93.26,US,1200
+Minneapolis,1,55403,,,MN,Hennepin County,America/Chicago,"612,651",44.96,-93.26,US,10370
+Minneapolis,1,55404,,,MN,Hennepin County,America/Chicago,"612,952",44.96,-93.26,US,14905
+Minneapolis,1,55405,,,MN,Hennepin County,America/Chicago,"952,612",44.96,-93.26,US,11100
+Minneapolis,1,55406,,,MN,Hennepin County,America/Chicago,"763,612,651,952",44.96,-93.26,US,26993
+Minneapolis,1,55407,,,MN,Hennepin County,America/Chicago,"612,651,952",44.96,-93.26,US,26247
+Minneapolis,1,55408,,,MN,Hennepin County,America/Chicago,"952,612,651",44.96,-93.26,US,20917
+Minneapolis,1,55409,,,MN,Hennepin County,America/Chicago,612,44.96,-93.26,US,9201
+Minneapolis,1,55410,Edina,,MN,Hennepin County,America/Chicago,"612,952",44.96,-93.26,US,17170
+Minneapolis,1,55411,,,MN,Hennepin County,America/Chicago,"612,763",44.96,-93.26,US,16898
+Minneapolis,1,55412,,,MN,Hennepin County,America/Chicago,"612,763,651,952",44.96,-93.26,US,15286
+Minneapolis,1,55413,,,MN,Hennepin County,America/Chicago,"612,651,763,952",44.96,-93.26,US,8673
+Minneapolis,1,55414,,,MN,Hennepin County,America/Chicago,"612,952,651,763",44.96,-93.26,US,10417
+Minneapolis,1,55415,,,MN,Hennepin County,America/Chicago,"612,763,651,952",44.96,-93.26,US,1196
+Minneapolis,1,55416,"Edina, Golden Valley, Saint Louis Park, St Louis Park",,MN,Hennepin County,America/Chicago,"763,952,612,651",44.96,-93.26,US,24658
+Minneapolis,1,55417,,,MN,Hennepin County,America/Chicago,"651,612",44.96,-93.26,US,20872
+Minneapolis,1,55418,"Saint Anthony, St Anthny Vlg, St Anthony, St Anthony Village",,MN,Hennepin County,America/Chicago,"612,763",44.96,-93.26,US,24247
+Minneapolis,1,55419,,,MN,Hennepin County,America/Chicago,"612,952",44.96,-93.26,US,22317
+Minneapolis,1,55420,Bloomington,,MN,Hennepin County,America/Chicago,"952,612",44.96,-93.26,US,18534
+Minneapolis,1,55421,"Columbia Heights, Columbia Hts, Fridley, Hilltop, Saint Anthony","St Anthony, St Anthony Village",MN,Anoka County,America/Chicago,"763,612,651,952",44.96,-93.26,US,21176
+Minneapolis,1,55422,"Crystal, Golden Valley, Robbinsdale",,MN,Hennepin County,America/Chicago,"763,612",44.96,-93.26,US,24243
+Minneapolis,1,55423,"Edina, Richfield",,MN,Hennepin County,America/Chicago,"612,952,218,763",44.96,-93.26,US,29761
+Minneapolis,1,55424,"Edina, Saint Louis Park, St Louis Park",,MN,Hennepin County,America/Chicago,"952,612",44.96,-93.26,US,8774
+Minneapolis,1,55425,Bloomington,,MN,Hennepin County,America/Chicago,"952,651,612",44.96,-93.26,US,7168
+Minneapolis,1,55426,"Golden Valley, Saint Louis Park, St Louis Park",,MN,Hennepin County,America/Chicago,"612,763,952,651",44.96,-93.26,US,20614
+Minneapolis,1,55427,"Crystal, Golden Valley, New Hope",,MN,Hennepin County,America/Chicago,"612,651,763,952",44.96,-93.26,US,20132
+Minneapolis,1,55428,"Brooklyn Center, Brooklyn Ctr, Brooklyn Park, Crystal, New Hope",,MN,Hennepin County,America/Chicago,"763,612",44.96,-93.26,US,23451
+Minneapolis,1,55429,"Brooklyn Center, Brooklyn Ctr, Brooklyn Park, Crystal",Brooklyn Pk,MN,Hennepin County,America/Chicago,"763,612",44.96,-93.26,US,21083
+Minneapolis,1,55430,"Brooklyn Center, Brooklyn Ctr",,MN,Hennepin County,America/Chicago,"612,763,952,651",44.96,-93.26,US,16574
+Minneapolis,1,55431,Bloomington,,MN,Hennepin County,America/Chicago,"952,612",44.96,-93.26,US,16251
+Minneapolis,1,55432,"Fridley, Spring Lake Park, Spring Lk Pk",,MN,Anoka County,America/Chicago,"612,763",44.96,-93.26,US,24668
+Minneapolis,1,55433,Coon Rapids,,MN,Anoka County,America/Chicago,"763,612",44.96,-93.26,US,27980
+Minneapolis,1,55434,Blaine,,MN,Anoka County,America/Chicago,"651,763,612",44.96,-93.26,US,24721
+Minneapolis,1,55435,"Bloomington, Edina",,MN,Hennepin County,America/Chicago,"612,952,651,763",44.96,-93.26,US,9825
+Minneapolis,1,55436,"Edina, Saint Louis Park, St Louis Park",St Louis Pk,MN,Hennepin County,America/Chicago,"952,612",44.96,-93.26,US,12140
+Minneapolis,1,55437,Bloomington,,MN,Hennepin County,America/Chicago,"952,612,651",44.96,-93.26,US,15947
+Minneapolis,1,55438,Bloomington,,MN,Hennepin County,America/Chicago,"952,612",44.96,-93.26,US,15427
+Minneapolis,1,55439,Edina,Bloomington,MN,Hennepin County,America/Chicago,"763,952,612,651",44.96,-93.26,US,8279
+Minneapolis,1,55440,,Minn,MN,Hennepin County,America/Chicago,952,44.96,-93.26,US,908
+Minneapolis,1,55441,"Medicine Lake, Plymouth",,MN,Hennepin County,America/Chicago,"763,952,612,651",44.96,-93.26,US,15526
+Minneapolis,1,55442,Plymouth,,MN,Hennepin County,America/Chicago,"612,763,651,952",44.96,-93.26,US,12403
+Minneapolis,1,55443,"Brooklyn Center, Brooklyn Ctr, Brooklyn Park",Brooklyn Pk,MN,Hennepin County,America/Chicago,"612,763",44.96,-93.26,US,27809
+Minneapolis,1,55444,"Brooklyn Center, Brooklyn Ctr, Brooklyn Park",Brooklyn Pk,MN,Hennepin County,America/Chicago,"763,612",44.96,-93.26,US,13638
+Minneapolis,1,55445,Brooklyn Park,Brooklyn Pk,MN,Hennepin County,America/Chicago,"612,763",44.96,-93.26,US,8177
+Minneapolis,1,55446,Plymouth,,MN,Hennepin County,America/Chicago,"763,612,952",44.96,-93.26,US,16542
+Minneapolis,1,55447,Plymouth,,MN,Hennepin County,America/Chicago,"763,612,952,651",44.96,-93.26,US,18811
+Minneapolis,1,55448,Coon Rapids,,MN,Anoka County,America/Chicago,"763,612",44.96,-93.26,US,24634
+Minneapolis,1,55449,Blaine,,MN,Anoka County,America/Chicago,"763,612",44.96,-93.26,US,19845
+Minneapolis,1,55450,,,MN,Hennepin County,America/Chicago,"612,763,952",44.96,-93.26,US,0
+Minneapolis,1,55454,,,MN,Hennepin County,America/Chicago,"612,651,763,952",44.96,-93.26,US,4068
+Minneapolis,1,55455,,,MN,Hennepin County,America/Chicago,"612,763,952,651",44.96,-93.26,US,0
+Minneapolis,1,55458,,,MN,Hennepin County,America/Chicago,612,44.96,-93.26,US,589
+Minneapolis,1,55459,,,MN,Hennepin County,America/Chicago,763,44.96,-93.26,US,0
+Minneapolis,1,55460,,,MN,Hennepin County,America/Chicago,612,44.96,-93.26,US,0
+Minneapolis,1,55467,,Wells Fargo Home Mortgage,MN,Hennepin County,America/Chicago,612,44.97,-93.26,US,0
+Minneapolis,1,55468,Damark,,MN,Hennepin County,America/Chicago,612,44.98,-93.26,US,0
+Minneapolis,1,55470,,,MN,Hennepin County,America/Chicago,612,44.96,-93.26,US,0
+Minneapolis,1,55472,,Abmps,MN,Hennepin County,America/Chicago,612,44.96,-93.26,US,0
+Minneapolis,1,55473,"Norwood Young America, Nya",,MN,Hennepin County,America/Chicago,612,44.96,-93.26,US,0
+Minneapolis,1,55474,,Ameriprise Financial,MN,Hennepin County,America/Chicago,612,44.96,-93.26,US,0
+Minneapolis,1,55478,,Macys,MN,Hennepin County,America/Chicago,612,44.96,-93.26,US,0
+Minneapolis,1,55479,,Wells Fargo Bank,MN,Hennepin County,America/Chicago,612,44.96,-93.26,US,0
+Minneapolis,1,55480,,,MN,Hennepin County,America/Chicago,612,44.96,-93.26,US,0
+Minneapolis,1,55483,,Qwest,MN,Hennepin County,America/Chicago,612,44.96,-93.26,US,0
+Minneapolis,1,55484,,Excel Energy,MN,Hennepin County,America/Chicago,612,44.96,-93.26,US,0
+Minneapolis,1,55485,,Wells Fargo Bank,MN,Hennepin County,America/Chicago,612,44.96,-93.26,US,0
+Minneapolis,1,55486,,Us Bank,MN,Hennepin County,America/Chicago,612,44.96,-93.26,US,0
+Minneapolis,1,55487,,Hennepin County Govt Ctr,MN,Hennepin County,America/Chicago,612,44.96,-93.26,US,0
+Minneapolis,1,55488,,Minneapolis Tribune,MN,Hennepin County,America/Chicago,612,44.96,-93.26,US,0
+Minneota,0,56264,Saint Leo,,MN,Lyon County,America/Chicago,"507,320",44.56,-95.98,US,1825
+Minnesota City,0,55959,Minn City,,MN,Winona County,America/Chicago,507,44.09,-91.75,US,1894
+Minnesota Lake,0,56068,Minnesota Lk,,MN,Faribault County,America/Chicago,507,43.84,-93.82,US,959
+Minnetonka,0.875,55345,Hopkins,,MN,Hennepin County,America/Chicago,"612,952",44.93,-93.46,US,19697
+Minnetonka Beach,0.430555556,55361,"Minetonka Bch, Minnetnka Bch",,MN,Hennepin County,America/Chicago,,44.93,-93.58,US,0
+Mizpah,0,56660,,"Forest Grove, Gemmell, Mozeppa",MN,Koochiching County,America/Chicago,218,47.92,-94.21,US,0
+Montevideo,0,56265,,,MN,Chippewa County,America/Chicago,320,44.95,-95.71,US,6866
+Montgomery,0,56069,,,MN,Le Sueur County,America/Chicago,507,44.43,-93.58,US,3792
+Monticello,0,55362,Otsego,,MN,Wright County,America/Chicago,"763,612",45.3,-93.8,US,14937
+Monticello,0,55365,,,MN,Wright County,America/Chicago,763,45.3,-93.8,US,0
+Monticello,0,55561,,,MN,Wright County,America/Chicago,763,45.27,-93.8,US,0
+Monticello,0,55563,,,MN,Wright County,America/Chicago,763,45.27,-93.8,US,0
+Monticello,0,55565,,,MN,Wright County,America/Chicago,763,45.3,-93.8,US,0
+Monticello,0,55580,,,MN,Wright County,America/Chicago,763,45.3,-93.8,US,0
+Monticello,0,55581,,,MN,Wright County,America/Chicago,763,45.3,-93.8,US,0
+Monticello,0,55582,,,MN,Wright County,America/Chicago,763,45.3,-93.8,US,0
+Monticello,0,55584,,,MN,Wright County,America/Chicago,763,45.3,-93.8,US,0
+Monticello,0,55585,,,MN,Wright County,America/Chicago,763,45.3,-93.8,US,0
+Monticello,0,55586,,,MN,Wright County,America/Chicago,763,45.3,-93.8,US,0
+Monticello,0,55587,,,MN,Wright County,America/Chicago,763,45.3,-93.8,US,0
+Monticello,0,55588,,,MN,Wright County,America/Chicago,763,45.3,-93.8,US,0
+Monticello,0,55589,,,MN,Wright County,America/Chicago,763,45.3,-93.8,US,0
+Monticello,0,55590,,,MN,Wright County,America/Chicago,763,45.3,-93.8,US,0
+Monticello,0,55591,,,MN,Wright County,America/Chicago,763,45.3,-93.8,US,0
+Montrose,0,55363,,,MN,Wright County,America/Chicago,"763,612,952",45.06,-93.91,US,3602
+Moorhead,0,56560,,Kragnes,MN,Clay County,America/Chicago,"218,701",46.86,-96.75,US,28610
+Moorhead,0,56561,,,MN,Clay County,America/Chicago,218,46.86,-96.75,US,0
+Moorhead,0,56562,,Concordia College,MN,Clay County,America/Chicago,218,46.86,-96.75,US,0
+Moorhead,0,56563,,Moorhead State University,MN,Clay County,America/Chicago,218,46.86,-96.75,US,0
+Moose Lake,0,55767,,,MN,Carlton County,America/Chicago,218,46.44,-92.76,US,2787
+Mora,0,55051,,"Brunswick, Knife Lake, Quamba, Warman",MN,Kanabec County,America/Chicago,"320,763",45.87,-93.29,US,7688
+Morgan,0,56266,Evan,,MN,Redwood County,America/Chicago,507,44.41,-94.92,US,1357
+Morris,0,56267,,,MN,Stevens County,America/Chicago,320,45.58,-95.9,US,4786
+Morristown,0,55052,,,MN,Rice County,America/Chicago,507,44.22,-93.44,US,1695
+Morton,0,56270,,,MN,Renville County,America/Chicago,507,44.55,-94.98,US,1035
+Motley,0,56466,,,MN,Cass County,America/Chicago,218,46.33,-94.64,US,2480
+Mound,0.430555556,55364,Minnetrista,"Orono, Shorewood",MN,Hennepin County,America/Chicago,"952,612,763",44.93,-93.66,US,12656
+Mountain Iron,0,55768,Parkville,Nichols,MN,St Louis County,America/Chicago,218,47.52,-92.62,US,2442
+Mountain Lake,0,56159,,Mt Lake,MN,Cottonwood County,America/Chicago,507,43.94,-94.92,US,2247
+Murdock,0,56271,De Graff,,MN,Swift County,America/Chicago,320,45.22,-95.39,US,1060
+Nashua,0,56565,,,MN,Wilkin County,America/Chicago,218,46.03,-96.3,US,0
+Nashwauk,0,55769,,"Cooley, Lone Pine",MN,Itasca County,America/Chicago,218,47.38,-93.16,US,1884
+Navarre,0,55392,,,MN,Hennepin County,America/Chicago,,44.95,-93.54,US,0
+Naytahwaush,0,56566,,,MN,Mahnomen County,America/Chicago,218,47.28,-95.63,US,0
+Nelson,0,56355,,,MN,Douglas County,America/Chicago,320,45.88,-95.26,US,518
+Nerstrand,0,55053,,Wheeling,MN,Rice County,America/Chicago,507,44.34,-93.06,US,903
+Nett Lake,0,55772,Orr,,MN,Koochiching County,America/Chicago,218,48.11,-93.07,US,0
+Nevis,0,56467,,"Mantrap, Nebish",MN,Hubbard County,America/Chicago,218,46.96,-94.84,US,1995
+New Auburn,0,55366,,,MN,Sibley County,America/Chicago,320,44.67,-94.22,US,0
+New Germany,0,55367,,,MN,Carver County,America/Chicago,"952,612,320",44.88,-93.97,US,831
+New London,0,56273,Hawick,,MN,Kandiyohi County,America/Chicago,320,45.29,-94.94,US,4234
+New Munich,0,56356,,,MN,Stearns County,America/Chicago,320,45.63,-94.75,US,0
+New Prague,0,56071,Heidelberg,,MN,Le Sueur County,America/Chicago,"952,612,507",44.54,-93.57,US,9948
+New Richland,0,56072,,,MN,Waseca County,America/Chicago,507,43.89,-93.49,US,2071
+New Ulm,0,56073,"Essig, Klossner, Searles",,MN,Brown County,America/Chicago,507,44.31,-94.46,US,14611
+New York Mills,0,56567,New York Mls,Butler,MN,Otter Tail County,America/Chicago,218,46.51,-95.37,US,2703
+Newfolden,0,56738,Holt,,MN,Marshall County,America/Chicago,218,48.35,-96.32,US,1143
+Newport,0.402777778,55055,,,MN,Washington County,America/Chicago,651,44.87,-92.99,US,2742
+Nicollet,0,56074,,,MN,Nicollet County,America/Chicago,507,44.27,-94.18,US,1798
+Nielsville,0,56568,,,MN,Polk County,America/Chicago,218,47.52,-96.81,US,0
+Nimrod,0,56478,,,MN,Wadena County,America/Chicago,218,46.63,-94.88,US,0
+Nisswa,0,56468,"Lake Hubert, Lake Shore",Lake Edwards,MN,Crow Wing County,America/Chicago,218,46.5,-94.29,US,4012
+Norcross,0,56274,,,MN,Grant County,America/Chicago,320,45.86,-96.19,US,0
+North Branch,0,55056,,"Branch, Sunrise, Weber",MN,Chisago County,America/Chicago,"651,612,763",45.51,-92.97,US,11285
+Northfield,0,55057,,Waterford,MN,Rice County,America/Chicago,"507,952,612",44.45,-93.16,US,17172
+Northome,0,56661,,"Ardenhurst, Bergville, Dora Lake, Grattan, Kinghurst, Nore, Shooks, Wildwood",MN,Itasca County,America/Chicago,218,47.87,-94.26,US,706
+Northrop,0,56075,Fairmont,,MN,Martin County,America/Chicago,507,43.73,-94.43,US,0
+Norwood,0,55383,,Norwood Young America,MN,Carver County,America/Chicago,952,44.76,-93.92,US,0
+Norwood,0,55554,,Norwood Young America,MN,Carver County,America/Chicago,952,44.76,-93.92,US,0
+Norwood,0,55583,,Norwood Young America,MN,Carver County,America/Chicago,952,44.76,-93.92,US,0
+Norwood Young America,0,55368,"Norwood, Nya",,MN,Carver County,America/Chicago,"952,320",44.76,-93.92,US,1961
+Noyes,0,56740,,Hallock,MN,Kittson County,America/Chicago,218,48.99,-97.2,US,0
+Oak Island,0,56741,,Warroad,MN,Lake of the Woods County,America/Chicago,218,49.31,-94.84,US,0
+Oak Park,0,56357,"Foley, Ronneby",,MN,Benton County,America/Chicago,"320,763",45.69,-93.94,US,858
+Odessa,0,56276,,,MN,Big Stone County,America/Chicago,320,45.26,-96.33,US,0
+Odin,0,56160,,,MN,Watonwan County,America/Chicago,507,43.86,-94.74,US,0
+Ogema,0,56569,,,MN,Becker County,America/Chicago,218,47.1,-95.92,US,981
+Ogilvie,0,56358,,,MN,Kanabec County,America/Chicago,320,45.83,-93.41,US,2594
+Okabena,0,56161,,,MN,Jackson County,America/Chicago,507,43.73,-95.31,US,0
+Oklee,0,56742,,,MN,Red Lake County,America/Chicago,218,47.83,-95.85,US,685
+Olivia,0,56277,,,MN,Renville County,America/Chicago,"320,507",44.77,-94.99,US,2788
+Onamia,0,56359,,,MN,Mille Lacs County,America/Chicago,320,46.06,-93.66,US,2684
+Ormsby,0,56162,,,MN,Watonwan County,America/Chicago,507,43.85,-94.69,US,0
+Oronoco,0,55960,,Douglas,MN,Olmsted County,America/Chicago,507,44.16,-92.54,US,2676
+Orr,0,55771,"Buyck, Gheen","Ash Lake, Cusson, Glendale, Kinmount, Leiding, Portage, Vermilion Dam",MN,St Louis County,America/Chicago,218,48.06,-92.82,US,1308
+Ortonville,0,56278,,,MN,Big Stone County,America/Chicago,320,45.3,-96.44,US,2209
+Osage,0,56570,,Snellman,MN,Becker County,America/Chicago,218,46.92,-95.25,US,1045
+Osakis,0,56360,,,MN,Todd County,America/Chicago,320,45.86,-95.15,US,3196
+Oslo,0,56744,,,MN,Marshall County,America/Chicago,"218,701",48.19,-97.12,US,536
+Osseo,0.555555556,55311,Maple Grove,"Corcoran, Hassan",MN,Hennepin County,America/Chicago,"612,763",45.11,-93.39,US,28970
+Osseo,0.555555556,55369,Maple Grove,"Dayton, Hassan",MN,Hennepin County,America/Chicago,"763,612,952",45.11,-93.39,US,29961
+Osseo,0.555555556,55569,Maple Grove,,MN,Hennepin County,America/Chicago,763,45.11,-93.39,US,0
+Ostrander,0,55961,,,MN,Fillmore County,America/Chicago,507,43.61,-92.42,US,0
+Ottertail,0,56571,,,MN,Otter Tail County,America/Chicago,218,46.42,-95.55,US,1526
+Outing,0,56662,,"Beulah, Crooked Lake, Rheiderland, Trelipe",MN,Cass County,America/Chicago,218,46.82,-93.94,US,472
+Owatonna,0,55060,,"Havana, Litomysl, Pratt",MN,Steele County,America/Chicago,507,44.08,-93.22,US,25176
+Palisade,0,56469,,"Libby, Logan, Morrison, Verdon, Waukenabo, Workman",MN,Aitkin County,America/Chicago,218,46.71,-93.49,US,837
+Park Rapids,0,56470,Lake Itasca,"Arago, Dorset, Hubbard, Lake Emma, Todd",MN,Hubbard County,America/Chicago,218,46.91,-95.06,US,8476
+Parkers Prairie,0,56361,Parkers Pr,,MN,Otter Tail County,America/Chicago,"320,218",46.15,-95.32,US,2040
+Paynesville,0,56362,Lake Henry,Spring Hill,MN,Stearns County,America/Chicago,320,45.37,-94.71,US,5003
+Pease,0,56363,,,MN,Mille Lacs County,America/Chicago,320,45.69,-93.65,US,0
+Pelican Rapids,0,56572,Pel Rapids,Cormorant,MN,Otter Tail County,America/Chicago,218,46.57,-96.08,US,4703
+Pemberton,0,56078,,,MN,Blue Earth County,America/Chicago,507,44,-93.78,US,0
+Pengilly,0,55775,,,MN,Itasca County,America/Chicago,218,47.33,-93.19,US,1086
+Pennington,0,56663,Blackduck,,MN,Beltrami County,America/Chicago,218,47.48,-94.47,US,0
+Pennock,0,56279,,,MN,Kandiyohi County,America/Chicago,320,45.14,-95.17,US,1087
+Pequot Lakes,0,56472,"Breezy Point, Jenkins",Pine River,MN,Crow Wing County,America/Chicago,218,46.6,-94.32,US,6122
+Perham,0,56573,,,MN,Otter Tail County,America/Chicago,218,46.59,-95.57,US,5226
+Perley,0,56574,,,MN,Norman County,America/Chicago,218,47.17,-96.8,US,0
+Peterson,0,55962,"Rushford Village, Rushford Vlg",Arendahl,MN,Fillmore County,America/Chicago,507,43.78,-91.83,US,678
+Pierz,0,56364,Harding,Genola,MN,Morrison County,America/Chicago,320,45.97,-94.1,US,4188
+Pillager,0,56473,,Sylvan,MN,Cass County,America/Chicago,218,46.32,-94.47,US,2795
+Pine City,0,55063,Beroun,"Chengwatana, West Rock",MN,Pine County,America/Chicago,"612,320",45.83,-92.96,US,7226
+Pine Island,0,55963,,,MN,Goodhue County,America/Chicago,507,44.21,-92.64,US,4522
+Pine River,0,56474,Jenkins,"Barclay, Blind Lake, Chickamaw Beach, Ponto Lake, Swanburg, Walden, Wilson, Woodrow",MN,Cass County,America/Chicago,218,46.72,-94.39,US,3464
+Pipestone,0,56164,"Hatfield, Verdi",,MN,Pipestone County,America/Chicago,"507,605",44,-96.31,US,4934
+Plainview,0,55964,,,MN,Wabasha County,America/Chicago,507,44.16,-92.16,US,3935
+Plato,0,55370,,,MN,McLeod County,America/Chicago,320,44.77,-94.03,US,685
+Plummer,0,56748,,,MN,Red Lake County,America/Chicago,218,47.91,-96.03,US,502
+Ponemah,0,56666,,,MN,Beltrami County,America/Chicago,218,48.04,-94.9,US,558
+Ponsford,0,56575,,,MN,Becker County,America/Chicago,218,46.97,-95.38,US,508
+Porter,0,56280,,,MN,Yellow Medicine County,America/Chicago,507,44.64,-96.16,US,454
+Preston,0,55965,,"Carimona, Greenleafton",MN,Fillmore County,America/Chicago,507,43.67,-92.08,US,2036
+Princeton,0,55371,,,MN,Mille Lacs County,America/Chicago,"763,612,320,651",45.57,-93.59,US,13602
+Prinsburg,0,56281,,,MN,Kandiyohi County,America/Chicago,320,44.93,-95.18,US,559
+Prior Lake,0.402777778,55372,Shakopee,,MN,Scott County,America/Chicago,"952,612",44.72,-93.43,US,26347
+Puposky,0,56667,,"Alaska, Durand, Liberty, Maple Ridge, Nebish, O Brien",MN,Beltrami County,America/Chicago,218,47.67,-94.9,US,541
+Racine,0,55967,,,MN,Mower County,America/Chicago,507,43.77,-92.48,US,804
+Randall,0,56475,,"Clough, Parker",MN,Morrison County,America/Chicago,320,46.08,-94.49,US,1386
+Randolph,0,55065,,,MN,Dakota County,America/Chicago,507,44.52,-93.01,US,974
+Ranier,0,56668,,,MN,Koochiching County,America/Chicago,218,48.61,-93.34,US,0
+Raymond,0,56282,,,MN,Kandiyohi County,America/Chicago,320,45.01,-95.23,US,1381
+Reading,0,56165,,,MN,Nobles County,America/Chicago,507,43.71,-95.75,US,0
+Reads Landing,0,55968,,,MN,Wabasha County,America/Chicago,651,44.39,-92.13,US,0
+Red Lake Falls,0,56750,Rl Falls,,MN,Red Lake County,America/Chicago,218,47.88,-96.27,US,2183
+Red Wing,0,55066,,,MN,Goodhue County,America/Chicago,"651,507,612",44.58,-92.6,US,15965
+Redby,0,56670,,,MN,Beltrami County,America/Chicago,218,47.84,-94.93,US,1119
+Redlake,0,56671,,,MN,Beltrami County,America/Chicago,218,47.83,-95.08,US,2214
+Redwood Falls,0,56283,"Delhi, North Redwood",,MN,Redwood County,America/Chicago,507,44.54,-95.11,US,5710
+Remer,0,56672,Boy River,"Lima, Slater, Smoky Hollow, Thunder Lake",MN,Cass County,America/Chicago,218,47.05,-93.91,US,1532
+Renville,0,56284,,,MN,Renville County,America/Chicago,320,44.79,-95.21,US,1784
+Revere,0,56166,,,MN,Redwood County,America/Chicago,507,44.21,-95.36,US,0
+Rice,0,56367,,,MN,Benton County,America/Chicago,320,45.74,-94.22,US,5831
+Richmond,0,56368,,,MN,Stearns County,America/Chicago,320,45.45,-94.51,US,3685
+Richville,0,56576,,Basswood,MN,Otter Tail County,America/Chicago,218,46.5,-95.62,US,764
+Richwood,0,56577,,,MN,Becker County,America/Chicago,218,46.97,-95.82,US,0
+Rochert,0,56578,,,MN,Becker County,America/Chicago,218,46.86,-95.68,US,741
+Rochester,0,55901,,,MN,Olmsted County,America/Chicago,507,44.01,-92.47,US,43714
+Rochester,0,55902,,,MN,Olmsted County,America/Chicago,507,44.01,-92.47,US,19541
+Rochester,0,55903,,,MN,Olmsted County,America/Chicago,507,44.01,-92.47,US,1127
+Rochester,0,55904,,,MN,Olmsted County,America/Chicago,507,44.01,-92.47,US,20555
+Rochester,0,55905,,Mayo Clinic,MN,Olmsted County,America/Chicago,507,44.01,-92.47,US,0
+Rochester,0,55906,,,MN,Olmsted County,America/Chicago,507,44.01,-92.47,US,15543
+Rock Creek,0,55067,,Rush City,MN,Pine County,America/Chicago,320,45.75,-92.9,US,0
+Rockford,0,55373,,"Greenfield, Independence",MN,Hennepin County,America/Chicago,"763,612",45.08,-93.73,US,4831
+Rockford,0,55572,,Greenfield,MN,Wright County,America/Chicago,763,45,-93.66,US,0
+Rockford,0,55577,,,MN,Wright County,America/Chicago,763,45,-93.66,US,0
+Rockville,0,56369,,,MN,Stearns County,America/Chicago,320,45.47,-94.33,US,585
+Rogers,0,55374,Otsego,"Corcoran, Hassan",MN,Hennepin County,America/Chicago,"763,612,952",45.19,-93.55,US,11547
+Rollingstone,0,55969,,,MN,Winona County,America/Chicago,507,44.09,-91.81,US,968
+Roosevelt,0,56673,,"Arnesen, Laona",MN,Roseau County,America/Chicago,218,48.8,-95.1,US,597
+Roscoe,0,56371,,,MN,Stearns County,America/Chicago,320,45.43,-94.63,US,0
+Rose Creek,0,55970,,,MN,Mower County,America/Chicago,507,43.6,-92.82,US,839
+Roseau,0,56751,"Pencer, Ross",Pinecreek,MN,Roseau County,America/Chicago,218,48.84,-95.76,US,5002
+Rosemount,0.416666667,55068,,Lakeville,MN,Dakota County,America/Chicago,"651,612,952",44.74,-93.07,US,24049
+Rothsay,0,56579,,,MN,Wilkin County,America/Chicago,218,46.47,-96.28,US,1013
+Round Lake,0,56167,,,MN,Jackson County,America/Chicago,507,43.53,-95.46,US,600
+Royalton,0,56373,,,MN,Morrison County,America/Chicago,320,45.83,-94.28,US,2615
+Rush City,0,55069,,,MN,Chisago County,America/Chicago,320,45.68,-92.96,US,3881
+Rushford,0,55971,"Rushford Village, Rushford Vlg","Bratsberg, Hart, South Rushford",MN,Fillmore County,America/Chicago,507,43.81,-91.75,US,2598
+Rushmore,0,56168,,,MN,Nobles County,America/Chicago,507,43.62,-95.79,US,868
+Russell,0,56169,,,MN,Lyon County,America/Chicago,507,44.31,-95.94,US,611
+Ruthton,0,56170,Florence,,MN,Pipestone County,America/Chicago,507,44.17,-96.1,US,522
+Sabin,0,56580,Baker,,MN,Clay County,America/Chicago,218,46.78,-96.65,US,1017
+Sacred Heart,0,56285,,,MN,Renville County,America/Chicago,320,44.78,-95.35,US,1002
+Saginaw,0,55779,Culver,"Brevator, Grand Lake, Harnell Park, Industrial",MN,St Louis County,America/Chicago,218,46.85,-92.44,US,3187
+Saint Bonifacius,0,55375,"Crown College, Minnetrista, St Bonifacius",Bible College,MN,Hennepin County,America/Chicago,"952,612",44.9,-93.74,US,3264
+Saint Charles,0,55972,,"Saratoga, St Charles, Troy",MN,Winona County,America/Chicago,507,43.96,-92.06,US,4295
+Saint Clair,0,56080,,St Clair,MN,Blue Earth County,America/Chicago,507,44.08,-93.85,US,645
+Saint Cloud,0,56301,Saint Augusta,,MN,Stearns County,America/Chicago,320,45.55,-94.17,US,21226
+Saint Cloud,0,56302,,,MN,Stearns County,America/Chicago,"320,612",45.55,-94.17,US,849
+Saint Cloud,0,56303,Forada,Sartell,MN,Stearns County,America/Chicago,"320,612,651",45.55,-94.17,US,20644
+Saint Cloud,0,56304,,,MN,Sherburne County,America/Chicago,320,45.55,-94.17,US,10660
+Saint Cloud,0,56372,,Fingerhut Bus Reply,MN,Stearns County,America/Chicago,320,45.55,-94.17,US,0
+Saint Cloud,0,56393,,Fingerhut Sweepstakes,MN,Stearns County,America/Chicago,320,45.55,-94.17,US,0
+Saint Cloud,0,56395,,Fingerhut,MN,Stearns County,America/Chicago,320,45.55,-94.17,US,0
+Saint Cloud,0,56396,,Fingerhut,MN,Stearns County,America/Chicago,320,45.55,-94.17,US,0
+Saint Cloud,0,56397,,,MN,Stearns County,America/Chicago,320,45.55,-94.17,US,0
+Saint Cloud,0,56398,,,MN,Stearns County,America/Chicago,320,45.55,-94.17,US,0
+Saint Cloud,0,56399,Fdci,,MN,Stearns County,America/Chicago,320,45.55,-94.17,US,0
+Saint Francis,0,55070,,St Francis,MN,Anoka County,America/Chicago,"763,612",45.39,-93.38,US,6077
+Saint Hilaire,0,56754,,,MN,Pennington County,America/Chicago,218,48.01,-96.21,US,0
+Saint James,0,56081,,St James,MN,Watonwan County,America/Chicago,507,43.98,-94.62,US,5050
+Saint Joseph,0,56374,,St Joseph,MN,Stearns County,America/Chicago,"320,218",45.56,-94.31,US,6660
+Saint Martin,0,56376,,St Martin,MN,Stearns County,America/Chicago,320,45.5,-94.66,US,0
+Saint Michael,0,55376,,,MN,Wright County,America/Chicago,"763,612",45.21,-93.66,US,13761
+Saint Paul,0,55101,,,MN,Ramsey County,America/Chicago,"651,612,763",44.94,-93.1,US,4516
+Saint Paul,0,55102,,,MN,Ramsey County,America/Chicago,"612,651",44.94,-93.1,US,12963
+Saint Paul,0,55103,,,MN,Ramsey County,America/Chicago,"612,651",44.94,-93.1,US,8535
+Saint Paul,0,55104,,,MN,Ramsey County,America/Chicago,"612,651,952",44.94,-93.1,US,30008
+Saint Paul,0,55105,,,MN,Ramsey County,America/Chicago,"612,651",44.94,-93.1,US,21132
+Saint Paul,0,55106,,Maplewood,MN,Ramsey County,America/Chicago,"651,612",44.94,-93.1,US,36448
+Saint Paul,0,55107,"W Saint Paul, West Saint Paul","W St Paul, West St Paul",MN,Ramsey County,America/Chicago,"763,651,612",44.94,-93.1,US,10102
+Saint Paul,0,55108,"Falcon Heights, Falcon Hgts, Lauderdale",,MN,Ramsey County,America/Chicago,"651,612",44.94,-93.1,US,11086
+Saint Paul,0,55109,"Little Canada, Maplewood, N Saint Paul, North Saint Paul, North St Paul",Vadnais Heights,MN,Ramsey County,America/Chicago,"651,612",44.94,-93.1,US,26675
+Saint Paul,0,55110,"Dellwood, Vadnais Heights, Vadnais Hts, White Bear Lake, White Bear Lk, White Bear Township, White Bear Tp","Birchwood, Gem Lake, Grant, Grant Township, Lino Lakes",MN,Ramsey County,America/Chicago,"952,651,612",44.94,-93.1,US,34155
+Saint Paul,0,55111,Fort Snelling,Fort Snelling Military Resv,MN,Hennepin County,America/Chicago,"612,651",44.94,-93.1,US,0
+Saint Paul,0,55112,"Arden Hills, Mounds View, New Brighton","Moundsview, Roseville",MN,Ramsey County,America/Chicago,"612,651,763",44.94,-93.1,US,35657
+Saint Paul,0,55113,"Falcon Heights, Falcon Hgts, Lauderdale, Little Canada, Roseville",,MN,Ramsey County,America/Chicago,"651,612,763",44.94,-93.1,US,32692
+Saint Paul,0,55114,,,MN,Ramsey County,America/Chicago,"612,651",44.94,-93.1,US,1902
+Saint Paul,0,55115,"Mahtomedi, Pine Springs, White Bear Lake, White Bear Lk","Grant, Grant Township",MN,Washington County,America/Chicago,"952,651,763",44.94,-93.1,US,7825
+Saint Paul,0,55116,,,MN,Ramsey County,America/Chicago,"651,952,612",44.94,-93.1,US,19601
+Saint Paul,0,55117,"Little Canada, Maplewood",,MN,Ramsey County,America/Chicago,"651,612",44.94,-93.1,US,30600
+Saint Paul,0,55118,"Mendota Heights, Mendota Hts, Sunfish Lake, W Saint Paul, W St Paul, West Saint Paul, West St Paul",Lilydale,MN,Dakota County,America/Chicago,"952,651,612",44.94,-93.1,US,23819
+Saint Paul,0,55119,Maplewood,,MN,Ramsey County,America/Chicago,"651,952,612",44.94,-93.1,US,31051
+Saint Paul,0,55120,"Eagan, Mendota Heights, Mendota Hts",,MN,Dakota County,America/Chicago,"651,612,952",44.94,-93.1,US,4135
+Saint Paul,0,55121,Eagan,,MN,Dakota County,America/Chicago,"651,952,612",44.94,-93.1,US,7016
+Saint Paul,0,55122,Eagan,,MN,Dakota County,America/Chicago,"651,612,952",44.94,-93.1,US,27501
+Saint Paul,0,55123,Eagan,,MN,Dakota County,America/Chicago,"651,612,952",44.94,-93.1,US,23478
+Saint Paul,0,55124,Apple Valley,,MN,Dakota County,America/Chicago,"651,763,952,612",44.94,-93.1,US,44823
+Saint Paul,0,55125,Woodbury,,MN,Washington County,America/Chicago,"651,612,763",44.94,-93.1,US,38570
+Saint Paul,0,55126,"Arden Hills, No Oaks, Roseville, Shoreview",Lino Lakes,MN,Ramsey County,America/Chicago,"651,612,763",44.94,-93.1,US,23739
+Saint Paul,0,55127,"Little Canada, North Oaks, Vadnais Heights, Vadnais Hts, White Bear Lk",,MN,Ramsey County,America/Chicago,"651,612",44.94,-93.1,US,15796
+Saint Paul,0,55128,"Landfall Village, Landfall Vlg, Oakdale, Pine Springs",,MN,Washington County,America/Chicago,"651,612",44.94,-93.1,US,24584
+Saint Paul,0,55129,Woodbury,,MN,Washington County,America/Chicago,"651,612",44.94,-93.1,US,15319
+Saint Paul,0,55130,,,MN,Ramsey County,America/Chicago,651,44.97,-93.08,US,10092
+Saint Paul,0,55133,,Minn Mining Boxes,MN,Ramsey County,America/Chicago,651,44.94,-93.1,US,0
+Saint Paul,0,55144,Maplewood,3 M,MN,Ramsey County,America/Chicago,651,44.94,-93.1,US,719
+Saint Paul,0,55145,,State Tax Dept,MN,Ramsey County,America/Chicago,651,44.94,-93.1,US,0
+Saint Paul,0,55146,,State Tax Dept,MN,Ramsey County,America/Chicago,651,44.94,-93.1,US,0
+Saint Paul,0,55155,,State Offices,MN,Ramsey County,America/Chicago,651,44.94,-93.1,US,0
+Saint Paul,0,55161,,State Farm Ins,MN,Ramsey County,America/Chicago,651,45.01,-93.15,US,0
+Saint Paul,0,55164,,,MN,Ramsey County,America/Chicago,651,44.94,-93.1,US,0
+Saint Paul,0,55165,,,MN,Ramsey County,America/Chicago,651,44.94,-93.1,US,0
+Saint Paul,0,55166,,,MN,Ramsey County,America/Chicago,651,44.94,-93.1,US,0
+Saint Paul,0,55168,,V A,MN,Ramsey County,America/Chicago,651,44.94,-93.1,US,0
+Saint Paul,0,55169,,Usps Fac Area Office,MN,Ramsey County,America/Chicago,651,44.94,-93.09,US,0
+Saint Paul,0,55170,,"First Bank St Paul, Us Bank, Us Bank Visa",MN,Ramsey County,America/Chicago,651,44.94,-93.1,US,0
+Saint Paul,0,55171,,Us Bank Visa,MN,Ramsey County,America/Chicago,651,44.94,-93.1,US,0
+Saint Paul,0,55172,,Bar Code,MN,Ramsey County,America/Chicago,651,44.94,-93.1,US,0
+Saint Paul,0,55175,,,MN,Ramsey County,America/Chicago,651,44.94,-93.1,US,0
+Saint Paul,0,55177,,Spotts Inc,MN,Ramsey County,America/Chicago,651,45.01,-93.15,US,0
+Saint Paul,0,55187,,Target Direct,MN,Ramsey County,America/Chicago,651,44.94,-92.91,US,0
+Saint Paul,0,55188,,Target Direct,MN,Ramsey County,America/Chicago,651,44.94,-93.1,US,0
+Saint Paul,0,55191,,New Brighton Boxes,MN,Ramsey County,America/Chicago,651,45.07,-93.19,US,0
+Saint Paul Park,0,55071,St Paul Park,Grey Cloud Island,MN,Washington County,America/Chicago,"651,952",44.83,-92.99,US,4596
+Saint Peter,0,56082,,St Peter,MN,Nicollet County,America/Chicago,"507,651",44.32,-93.96,US,9388
+Saint Stephen,0,56375,,St Stephen,MN,Stearns County,America/Chicago,320,45.7,-94.27,US,716
+Saint Vincent,0,56755,,Hallock,MN,Kittson County,America/Chicago,218,48.97,-97.22,US,0
+Salol,0,56756,,,MN,Roseau County,America/Chicago,218,48.86,-95.57,US,663
+Sanborn,0,56083,,,MN,Redwood County,America/Chicago,507,44.21,-95.12,US,816
+Sandstone,0,55072,Markville,"Danforth, Dell Grove, Groningen",MN,Pine County,America/Chicago,320,46.12,-92.86,US,2569
+Santiago,0,55377,,,MN,Sherburne County,America/Chicago,763,45.45,-93.83,US,0
+Sargeant,0,55973,,,MN,Mower County,America/Chicago,507,43.8,-92.8,US,0
+Sartell,0,56377,,,MN,Stearns County,America/Chicago,320,45.62,-94.2,US,14443
+Sauk Centre,0,56378,,"West Union, Westport",MN,Stearns County,America/Chicago,320,45.73,-94.95,US,6587
+Sauk Rapids,0,56379,,,MN,Benton County,America/Chicago,320,45.59,-94.16,US,13530
+Savage,0.472222222,55378,,,MN,Scott County,America/Chicago,"952,612,651",44.75,-93.35,US,22994
+Sawyer,0,55780,,,MN,Carlton County,America/Chicago,218,46.67,-92.63,US,0
+Scandia,0,55073,,"Copas, New Scandia, Otisville",MN,Washington County,America/Chicago,651,45.27,-92.82,US,2930
+Schroeder,0,55613,,,MN,Cook County,America/Chicago,218,47.69,-90.96,US,0
+Seaforth,0,56287,,Vesta,MN,Redwood County,America/Chicago,507,44.47,-95.32,US,0
+Searles,0,56084,,,MN,Brown County,America/Chicago,507,44.25,-94.46,US,0
+Sebeka,0,56477,,,MN,Wadena County,America/Chicago,218,46.62,-95.08,US,2045
+Shafer,0,55074,,Franconia,MN,Chisago County,America/Chicago,651,45.38,-92.74,US,1792
+Shakopee,0.402777778,55379,Prior Lake,,MN,Scott County,America/Chicago,"952,612",44.77,-93.47,US,33688
+Shelly,0,56581,,,MN,Norman County,America/Chicago,218,47.45,-96.82,US,0
+Sherburn,0,56171,,,MN,Martin County,America/Chicago,507,43.65,-94.72,US,1528
+Shevlin,0,56676,Pinewood,"Alida, Bear Creek, Moose Creek",MN,Clearwater County,America/Chicago,218,47.53,-95.25,US,1366
+Side Lake,0,55781,,,MN,St Louis County,America/Chicago,218,47.66,-93.01,US,634
+Silver Bay,0,55614,Little Marais,,MN,Lake County,America/Chicago,218,47.29,-91.27,US,2081
+Silver Creek,0,55380,Maple Lake,Silver Lake,MN,Wright County,America/Chicago,,45.32,-93.95,US,0
+Silver Lake,0,55381,,,MN,McLeod County,America/Chicago,320,44.9,-94.19,US,1774
+Slayton,0,56172,,,MN,Murray County,America/Chicago,507,43.99,-95.75,US,2697
+Sleepy Eye,0,56085,"Cobden, Evan",,MN,Brown County,America/Chicago,507,44.29,-94.72,US,4879
+Solway,0,56678,Becida,Lammers,MN,Beltrami County,America/Chicago,218,47.52,-95.12,US,1010
+Soudan,0,55782,,,MN,St Louis County,America/Chicago,218,47.81,-92.23,US,0
+South Haven,0,55382,Saint Augusta,,MN,Wright County,America/Chicago,320,45.29,-94.21,US,3166
+South International Falls,0,56679,S Intl Falls,S Int Falls,MN,Koochiching County,America/Chicago,218,48.53,-93.29,US,0
+South Saint Paul,0,55075,South St Paul,"S Saint Paul, So Saint Paul",MN,Dakota County,America/Chicago,"651,612",44.88,-93.04,US,16581
+Spicer,0,56288,,,MN,Kandiyohi County,America/Chicago,320,45.23,-94.93,US,4226
+Spring Grove,0,55974,,,MN,Houston County,America/Chicago,"507,563",43.56,-91.63,US,1777
+Spring Lake,0,56680,,"Oslund, Sand Lake",MN,Itasca County,America/Chicago,218,47.64,-93.86,US,0
+Spring Park,0.486111111,55384,,,MN,Hennepin County,America/Chicago,952,44.93,-93.63,US,1265
+Spring Valley,0,55975,,Cherry Grove,MN,Fillmore County,America/Chicago,507,43.68,-92.38,US,3746
+Springfield,0,56087,,,MN,Brown County,America/Chicago,507,44.23,-94.97,US,2758
+Squaw Lake,0,56681,,Good Hope,MN,Itasca County,America/Chicago,218,47.62,-94.14,US,0
+Stacy,0,55078,,,MN,Chisago County,America/Chicago,651,45.39,-92.98,US,0
+Stacy,0,55079,,"Lent, Martin Lake",MN,Anoka County,America/Chicago,"651,612,763",45.39,-92.98,US,7283
+Stanchfield,0,55080,,Stanford,MN,Isanti County,America/Chicago,"320,612,763",45.66,-93.26,US,2313
+Staples,0,56479,,"Moran, Poplar",MN,Wadena County,America/Chicago,218,46.36,-94.8,US,4060
+Starbuck,0,56381,,,MN,Pope County,America/Chicago,320,45.61,-95.53,US,2111
+Steen,0,56173,,,MN,Rock County,America/Chicago,507,43.51,-96.26,US,0
+Stephen,0,56757,,,MN,Marshall County,America/Chicago,218,48.45,-96.87,US,816
+Stewart,0,55385,,,MN,McLeod County,America/Chicago,320,44.72,-94.48,US,1210
+Stewartville,0,55976,,"High Forest, Pleasant Grove",MN,Olmsted County,America/Chicago,507,43.85,-92.48,US,6530
+Stillwater,0.402777778,55082,"Oak Park Heights, Oak Park Hgts, Oak Park Hts, W Lakeland, West Lakeland",Grant Township,MN,Washington County,America/Chicago,"952,651,612",45.05,-92.82,US,30430
+Stillwater,0.402777778,55083,,,MN,Washington County,America/Chicago,651,45.05,-92.82,US,0
+Stockton,0,55988,,Winona,MN,Winona County,America/Chicago,507,44.02,-91.77,US,0
+Storden,0,56174,,,MN,Cottonwood County,America/Chicago,507,44.03,-95.31,US,0
+Strandquist,0,56758,,Florian,MN,Marshall County,America/Chicago,218,48.49,-96.44,US,0
+Strathcona,0,56759,,,MN,Roseau County,America/Chicago,218,48.55,-96.16,US,0
+Sturgeon Lake,0,55783,,,MN,Pine County,America/Chicago,218,46.38,-92.82,US,1883
+Sunburg,0,56289,,,MN,Kandiyohi County,America/Chicago,320,45.34,-95.23,US,603
+Swan River,0,55784,,,MN,Itasca County,America/Chicago,218,47.08,-93.19,US,0
+Swanville,0,56382,,,MN,Morrison County,America/Chicago,320,45.91,-94.63,US,1249
+Swatara,0,55785,,"Macville, Shovel Lake",MN,Aitkin County,America/Chicago,218,46.89,-93.67,US,0
+Swift,0,56682,Roosevelt,,MN,Roseau County,America/Chicago,218,48.85,-95.22,US,0
+Taconite,0,55786,,"Arcturus, Holman, Lawrence, Savannah",MN,Itasca County,America/Chicago,218,47.32,-93.36,US,0
+Talmoon,0,56637,,,MN,Itasca County,America/Chicago,218,47.6,-93.77,US,0
+Tamarack,0,55787,,"Balsam, Clark, Haugen",MN,Aitkin County,America/Chicago,218,46.65,-93.11,US,0
+Taopi,0,55977,,,MN,Mower County,America/Chicago,507,43.55,-92.64,US,0
+Taunton,0,56291,,,MN,Lyon County,America/Chicago,507,44.59,-96.06,US,0
+Taylors Falls,0,55084,,Palmdale,MN,Chisago County,America/Chicago,651,45.41,-92.66,US,1470
+Tenstrike,0,56683,,,MN,Beltrami County,America/Chicago,218,47.66,-94.68,US,566
+Thief River Falls,0,56701,Thief Rvr Fls,"Rosewood, Tr Falls",MN,Pennington County,America/Chicago,218,48.11,-96.17,US,10548
+Tintah,0,56583,Tenney,"Campbell, Charlesville",MN,Traverse County,America/Chicago,218,46.01,-96.32,US,0
+Tofte,0,55615,,,MN,Cook County,America/Chicago,218,47.55,-90.88,US,0
+Tower,0,55790,,"Breitung, Kugler",MN,St Louis County,America/Chicago,218,47.81,-92.29,US,1649
+Tracy,0,56175,Amiret,,MN,Lyon County,America/Chicago,507,44.23,-95.61,US,2593
+Trail,0,56684,,,MN,Polk County,America/Chicago,218,47.78,-95.69,US,0
+Trimont,0,56176,,,MN,Martin County,America/Chicago,507,43.76,-94.71,US,1006
+Trosky,0,56177,,,MN,Pipestone County,America/Chicago,507,43.88,-96.25,US,0
+Truman,0,56088,,,MN,Martin County,America/Chicago,507,43.82,-94.43,US,1744
+Twig,0,55791,,,MN,St Louis County,America/Chicago,218,46.89,-92.36,US,0
+Twin Lakes,0,56089,,,MN,Freeborn County,America/Chicago,507,43.56,-93.42,US,0
+Twin Valley,0,56584,,"Faith, Fossum, Syre",MN,Norman County,America/Chicago,218,47.25,-96.25,US,1134
+Two Harbors,0,55616,,,MN,Lake County,America/Chicago,218,47.03,-91.67,US,5913
+Tyler,0,56178,,,MN,Lincoln County,America/Chicago,507,44.27,-96.13,US,1502
+Ulen,0,56585,,,MN,Clay County,America/Chicago,218,47.07,-96.25,US,849
+Underwood,0,56586,,Maine,MN,Otter Tail County,America/Chicago,218,46.28,-95.87,US,1644
+Upsala,0,56384,,,MN,Morrison County,America/Chicago,320,45.8,-94.56,US,0
+Utica,0,55979,,Fremont,MN,Winona County,America/Chicago,507,43.97,-91.95,US,786
+Vergas,0,56587,,,MN,Otter Tail County,America/Chicago,218,46.65,-95.8,US,1322
+Vermillion,0,55085,,,MN,Dakota County,America/Chicago,651,44.67,-92.96,US,0
+Verndale,0,56481,,"Oylen, Thomastown, Wing River",MN,Wadena County,America/Chicago,218,46.39,-95.01,US,1674
+Vernon Center,0,56090,,,MN,Blue Earth County,America/Chicago,507,43.96,-94.16,US,557
+Vesta,0,56292,,,MN,Redwood County,America/Chicago,507,44.5,-95.41,US,572
+Victoria,0,55386,,,MN,Carver County,America/Chicago,"952,612",44.86,-93.65,US,5345
+Viking,0,56760,,,MN,Marshall County,America/Chicago,218,48.21,-96.4,US,0
+Villard,0,56385,Westport,,MN,Pope County,America/Chicago,320,45.71,-95.26,US,820
+Vining,0,56588,,,MN,Otter Tail County,America/Chicago,218,46.26,-95.53,US,471
+Virginia,0,55777,,,MN,St. Louis County,America/Chicago,218,47.51,-92.5,US,0
+Virginia,0,55792,,Mountain Iron,MN,St Louis County,America/Chicago,218,47.51,-92.5,US,7808
+Wabasha,0,55981,,Dumfries,MN,Wabasha County,America/Chicago,"651,507",44.37,-92.04,US,3469
+Wabasso,0,56293,,,MN,Redwood County,America/Chicago,507,44.4,-95.25,US,1080
+Waconia,0,55387,,Minnetrista,MN,Carver County,America/Chicago,"952,612,218",44.84,-93.79,US,10340
+Wadena,0,56482,,,MN,Wadena County,America/Chicago,218,46.43,-95.13,US,5246
+Wahkon,0,56386,,,MN,Mille Lacs County,America/Chicago,320,46.11,-93.52,US,533
+Waite Park,0,56387,,Saint Cloud,MN,Stearns County,America/Chicago,320,45.55,-94.22,US,5111
+Waite Park,0,56388,,Saint Cloud,MN,Stearns County,America/Chicago,320,45.56,-94.22,US,0
+Waldorf,0,56091,,,MN,Waseca County,America/Chicago,507,43.93,-93.69,US,0
+Walker,0,56484,Whipholt,"Leech Lake, Onigum, Shingobee, Turtle Lake",MN,Cass County,America/Chicago,218,47.08,-94.57,US,3282
+Walnut Grove,0,56180,,,MN,Redwood County,America/Chicago,507,44.22,-95.46,US,1093
+Waltham,0,55982,,,MN,Mower County,America/Chicago,507,43.82,-92.87,US,0
+Wanamingo,0,55983,,,MN,Goodhue County,America/Chicago,507,44.3,-92.79,US,1256
+Wanda,0,56294,,,MN,Redwood County,America/Chicago,507,44.31,-95.21,US,0
+Wannaska,0,56761,,Skime,MN,Roseau County,America/Chicago,218,48.65,-95.73,US,0
+Warba,0,55793,,,MN,Itasca County,America/Chicago,218,47.13,-93.27,US,476
+Warren,0,56762,"Angus, Radium",,MN,Marshall County,America/Chicago,218,48.19,-96.76,US,2182
+Warroad,0,56763,,Swift,MN,Roseau County,America/Chicago,218,48.9,-95.32,US,4566
+Warsaw,0,55087,,,MN,Rice County,America/Chicago,507,44.23,-93.34,US,0
+Waseca,0,56093,"Meriden, Otisco",,MN,Waseca County,America/Chicago,507,44.08,-93.5,US,10276
+Waskish,0,56685,,,MN,Beltrami County,America/Chicago,218,48.16,-94.51,US,0
+Watertown,0,55388,Minnetrista,,MN,Carver County,America/Chicago,952,44.96,-93.84,US,4556
+Waterville,0,56096,,,MN,Le Sueur County,America/Chicago,507,44.22,-93.57,US,2614
+Watkins,0,55389,,,MN,Meeker County,America/Chicago,320,45.31,-94.4,US,2199
+Watson,0,56295,,,MN,Chippewa County,America/Chicago,320,45.01,-95.79,US,0
+Waubun,0,56589,,,MN,Mahnomen County,America/Chicago,218,47.18,-95.93,US,1423
+Waverly,0,55390,,,MN,Wright County,America/Chicago,"763,612,320",45.06,-93.96,US,2133
+Wayzata,0.611111111,55391,,"Deephaven, Orono, Woodland",MN,Hennepin County,America/Chicago,"763,952,612",44.97,-93.51,US,13306
+Webster,0,55088,,,MN,Rice County,America/Chicago,"952,612,507",44.5,-93.34,US,1582
+Welch,0,55089,,"Etter, Vasa",MN,Goodhue County,America/Chicago,651,44.59,-92.71,US,1631
+Welcome,0,56181,,,MN,Martin County,America/Chicago,507,43.66,-94.61,US,1015
+Wells,0,56097,Walters,,MN,Faribault County,America/Chicago,507,43.74,-93.72,US,3220
+Wendell,0,56590,,,MN,Grant County,America/Chicago,"218,320",46.03,-96.1,US,0
+West Concord,0,55985,,"Berne, Concord",MN,Dodge County,America/Chicago,507,44.15,-92.89,US,1618
+West Union,0,56389,Sauk Centre,,MN,Todd County,America/Chicago,,45.8,-95.08,US,0
+Westbrook,0,56183,,,MN,Cottonwood County,America/Chicago,507,44.04,-95.43,US,1093
+Wheaton,0,56296,,,MN,Traverse County,America/Chicago,"320,218",45.8,-96.49,US,1763
+White Earth,0,56591,,,MN,Becker County,America/Chicago,218,47.09,-95.85,US,0
+Willernie,0.402777778,55090,,,MN,Washington County,America/Chicago,651,45.05,-92.95,US,454
+Williams,0,56686,,"Birch Beach, Long Point, Lude",MN,Lake of the Woods County,America/Chicago,218,48.76,-94.95,US,812
+Willmar,0,56201,,,MN,Kandiyohi County,America/Chicago,"320,952,651",45.12,-95.04,US,18474
+Willow River,0,55795,Rutledge,Norman,MN,Pine County,America/Chicago,218,46.32,-92.83,US,1113
+Wilmont,0,56185,,,MN,Nobles County,America/Chicago,507,43.76,-95.82,US,511
+Wilton,0,56687,,Eckles,MN,Beltrami County,America/Chicago,218,47.5,-94.99,US,0
+Windom,0,56101,Wilder,Delft,MN,Cottonwood County,America/Chicago,507,43.86,-95.11,US,4947
+Winger,0,56592,,,MN,Polk County,America/Chicago,218,47.53,-95.98,US,0
+Winnebago,0,56098,,,MN,Faribault County,America/Chicago,507,43.76,-94.16,US,1824
+Winona,0,55987,Goodview,"Lamoille, Pickwick, Wilson, Wiscoy, Witoka",MN,Winona County,America/Chicago,507,44.04,-91.65,US,24430
+Winsted,0,55395,,,MN,McLeod County,America/Chicago,"320,952",44.96,-94.04,US,2521
+Winthrop,0,55396,,,MN,Sibley County,America/Chicago,507,44.54,-94.36,US,1889
+Winton,0,55796,,Fall Lake,MN,St Louis County,America/Chicago,218,47.92,-91.8,US,0
+Wirt,0,56688,,,MN,Itasca County,America/Chicago,218,47.73,-93.96,US,0
+Wolf Lake,0,56593,,,MN,Becker County,America/Chicago,218,46.8,-95.35,US,0
+Wolverton,0,56594,,,MN,Wilkin County,America/Chicago,218,46.56,-96.73,US,0
+Wood Lake,0,56297,,,MN,Yellow Medicine County,America/Chicago,507,44.65,-95.53,US,787
+Woodstock,0,56186,,,MN,Pipestone County,America/Chicago,507,44.01,-96.09,US,0
+Worthington,0,56187,,,MN,Nobles County,America/Chicago,507,43.62,-95.59,US,10806
+Wrenshall,0,55797,,"Holyoke, Nickerson",MN,Carlton County,America/Chicago,218,46.61,-92.38,US,1280
+Wright,0,55798,,,MN,Carlton County,America/Chicago,218,46.67,-93,US,492
+Wykoff,0,55990,,Fillmore,MN,Fillmore County,America/Chicago,507,43.7,-92.26,US,796
+Wyoming,0,55092,East Bethel,Columbus,MN,Anoka County,America/Chicago,"651,763",45.33,-92.99,US,9399
+Young America,0,55394,,Norwood Young America,MN,Carver County,America/Chicago,952,44.78,-93.91,US,0
+Young America,0,55397,"Norwood Young America, Nya",,MN,Carver County,America/Chicago,952,44.78,-93.91,US,2352
+Young America,0,55399,,Norwood Young America,MN,Carver County,America/Chicago,952,44.78,-93.91,US,0
+Young America,0,55550,,Norwood Young America,MN,Carver County,America/Chicago,952,44.78,-93.91,US,0
+Young America,0,55551,,Norwood Young America,MN,Carver County,America/Chicago,952,44.78,-93.91,US,0
+Young America,0,55552,,Norwood Young America,MN,Carver County,America/Chicago,952,44.78,-93.91,US,0
+Young America,0,55553,,Norwood Young America,MN,Carver County,America/Chicago,952,44.78,-93.91,US,0
+Young America,0,55555,,Norwood Young America,MN,Carver County,America/Chicago,952,44.78,-93.91,US,0
+Young America,0,55556,,Norwood Young America,MN,Carver County,America/Chicago,952,44.78,-93.91,US,0
+Young America,0,55557,,Norwood Young America,MN,Carver County,America/Chicago,952,44.78,-93.91,US,0
+Young America,0,55558,,"Norwood Young America, Young America Corp",MN,Carver County,America/Chicago,952,44.78,-93.91,US,0
+Young America,0,55559,,Norwood Young America,MN,Carver County,America/Chicago,952,44.78,-93.91,US,0
+Young America,0,55560,,Norwood Young America,MN,Carver County,America/Chicago,952,44.78,-93.91,US,0
+Young America,0,55562,,Norwood Young America,MN,Carver County,America/Chicago,952,44.78,-93.91,US,0
+Young America,0,55564,,Norwood Young America,MN,Carver County,America/Chicago,952,44.78,-93.91,US,0
+Young America,0,55566,,Norwood Young America,MN,Carver County,America/Chicago,952,44.78,-93.91,US,0
+Young America,0,55567,,Norwood Young America,MN,Carver County,America/Chicago,952,44.78,-93.91,US,0
+Young America,0,55568,,Norwood Young America,MN,Carver County,America/Chicago,952,44.78,-93.91,US,0
+Young America,0,55573,,Norwood Young America,MN,Carver County,America/Chicago,952,44.78,-93.91,US,0
+Young America,0,55594,,Norwood Young America,MN,Carver County,America/Chicago,952,44.78,-93.91,US,0
+Zimmerman,0,55398,,,MN,Sherburne County,America/Chicago,"763,612",45.44,-93.59,US,12919
+Zumbro Falls,0,55991,Hammond,,MN,Wabasha County,America/Chicago,507,44.28,-92.42,US,1241
+Zumbrota,0,55992,,,MN,Goodhue County,America/Chicago,"507,651",44.29,-92.67,US,4154
