@@ -1,33 +1,33 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="945" measuredH="615" mockupW="880" mockupH="573">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1057" measuredH="615" mockupW="992" mockupH="573">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="65" y="42" w="757" h="573" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <text>A%20Web%20Page%0Ahttp%3A//</text>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="501" y="150" w="-1" h="-1" measuredW="81" measuredH="24" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::ComboBox" x="507" y="150" w="204" h="-1" measuredW="81" measuredH="24" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <text>zip%20code</text>
       </controlProperties>
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::Map" x="104" y="144" w="382" h="403" measuredW="252" measuredH="222" zOrder="2" locked="false" isInGroup="-1"/>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="507" y="456" w="-1" h="-1" measuredW="54" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="516" y="456" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>76%20%25</text>
+        <text>77%20%25</text>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="609" y="152" w="93" h="-1" measuredW="55" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="709" y="152" w="93" h="-1" measuredW="55" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <text>ZIP%20code</text>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::ComboBox" x="504" y="196" w="-1" h="-1" measuredW="78" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::ComboBox" x="507" y="196" w="207" h="-1" measuredW="210" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>address</text>
+        <text>818%20West%2046th%20St%2C%20Minneapolis</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="626" y="199" w="58" h="-1" measuredW="49" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="726" y="198" w="58" h="-1" measuredW="49" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <text>Address</text>
@@ -38,14 +38,32 @@
         <text>Accessibility%20Score</text>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::CallOut" x="311" y="225" w="-1" h="-1" measuredW="33" measuredH="39" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::CallOut" x="361" y="220" w="-1" h="-1" measuredW="33" measuredH="39" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <text>1</text>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::StickyNote" x="726" y="387" w="219" h="165" measuredW="109" measuredH="123" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::StickyNote" x="838" y="375" w="219" h="165" measuredW="109" measuredH="123" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%20%0Acombined%20accessibility%20scores%0A%20%0A%20%20%20%20w%3A%20walkability%20score%0A%20%20%20%20t%3A%20transit%20score%0A%20%20%20%20m%3A%20MetroTransit%20access%20score%0A%20%0Aa%20%3D%201/3%20w%20+%201/3%20t%20+%201/3%20*%20m</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::FieldSet" x="507" y="244" w="219" h="170" measuredW="200" measuredH="170" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Summary</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::TextArea" x="516" y="263" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Very%20Walkable%21%0A%20%0AGood%20Transit%3A%0A13%20nearby%20routes%3A%2013%20bus%2C%200%20rail%2C%200%20other%0A%20%0ABest%20Metro%20Mobility%20access%3A%0A24%20hours</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::HSlider" x="516" y="529" w="45" h="-1" measuredW="33" measuredH="11" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::HSlider" x="576" y="529" w="46" h="-1" measuredW="33" measuredH="11" zOrder="13" locked="false" isInGroup="-1"/>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::HSlider" x="631" y="529" w="46" h="-1" measuredW="33" measuredH="11" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::LinkBar" x="517" y="501" w="-1" h="-1" measuredW="198" measuredH="19" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Walkin%2C%20Transit%2C%20Metro%20Mobility</text>
       </controlProperties>
     </control>
   </controls>
