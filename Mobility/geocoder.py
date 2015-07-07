@@ -16,10 +16,10 @@ def geo_converter(place):
 
 if __name__ == '__main__':
     #place = '55123'
-    #place = '610 Opperman Drive, Eagan, MN'
+    place = 'Beijing China'
     #place = 'North St. Paul'
     #place = 'Eagan, MN'
     lat, lon = geo_converter(place)
-    #print(lat)
-    #print(lon)
+    print(lat)
+    print(lon)
     #print(city)
