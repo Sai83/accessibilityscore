@@ -1,5 +1,8 @@
-import urllib2
-import urllib
+try:
+    import urllib.request as urllib2
+except ImportError:
+    import urllib2
+
 try:
     import simplejson as json
 except ImportError:
@@ -29,18 +32,21 @@ class WalkScore:
         self.format = format
 
     def makeRequest(self, address, lat = '', long = ''):
-        url = '%s=%s&%s&lat=%s&lon=%s&wsapikey=%s' % (self.apiUrl, self.format, urllib.urlencode({'address': address}), lat, long, self.apiKey)
+        url = '%s=%s&%s&lat=%s&lon=%s&wsapikey=%s' % (self.apiUrl, self.format, address, lat, long, self.apiKey)
+        print(url)
         request = urllib2.Request(url)
+##        print(request)
         opener = urllib2.build_opener(DefaultErrorHandler())
-        first = opener.open(request)
-
-        first_datastream = first.read()
-
-        # Append caching headers
-        request.add_header('If-None-Match', first.headers.get('ETag'))
-        request.add_header('If-Modified-Since', first.headers.get('Date'))
+##        first = opener.open(request)
+##
+##        first_datastream = first.read()
+##
+##        # Append caching headers
+##        request.add_header('If-None-Match', first.headers.get('ETag'))
+##        request.add_header('If-Modified-Since', first.headers.get('Date'))
 
         response = opener.open(request)
+        print(response)
 
         # some error handling
         responseStatusCode = response.getcode()
