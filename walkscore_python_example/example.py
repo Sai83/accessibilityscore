@@ -1,3 +1,4 @@
+#!/usr/local/bin/python
 from walkscore.api import WalkScore, TransitScore
 import json
 def main():
