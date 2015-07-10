@@ -16,7 +16,7 @@ def geo_converter(place):
 
 if __name__ == '__main__':
     #place = '55123'
-    place = 'Beijing China'
+    place = '12721 Greenwood Dr, Burnsville, MN'
     #place = 'North St. Paul'
     #place = 'Eagan, MN'
     lat, lon = geo_converter(place)

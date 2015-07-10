@@ -1243,11 +1243,7 @@ Elderly
 3.6
 out of 5
 92
-out of 100
-Property Name		
-Eligibility	
-Value Rating			
-HUD Inspection Score		
+out of 100	
 Prairie Villa I Apartments
 455 Second St Se
 Blooming Prairie, Minnesota
