@@ -1,0 +1,131 @@
+city	name	overall_rating	patient_rating	precentage_of_10
+Rochester	Mayo Clinic Hospital Rochester	100	5.0	0.87
+Minneapolis	Abbott Northwestern Hospital	93	4.0	0.77
+Minneapolis	University Of Minnesota Medical Center, Fairview	93	3.0	0.6900000000000001
+Coon Rapids	Mercy Hospital	91	3.0	0.74
+Saint Paul	United Hospital	90	3.0	0.7000000000000001
+Saint Cloud	St Cloud Hospital	90	4.0	0.76
+Maplewood	Healtheast St John's Hospital	90	3.0	0.67
+Maple Grove	Maple Grove Hospital	90	5.0	0.8300000000000001
+Edina	Fairview Southdale Hospital	90	4.0	0.71
+Robbinsdale	North Memorial Medical Center	90	3.0	0.6900000000000001
+Fridley	Unity Hospital	90	3.0	0.66
+Saint Paul	St Joseph's Hospital	90	3.0	0.7000000000000001
+Saint Paul	Regions Hospital	89	3.0	0.72
+Minneapolis	Hennepin County Medical Center	89	2.0	0.63
+Woodbury	Healtheast Woodwinds Hospital	89	5.0	0.86
+Minneapolis	Children's Hospitals & Clinics Of Mn	89		
+Mankato	Mayo Clinic Health System - Mankato	88	2.0	0.63
+Waconia	Ridgeview Medical Center	88	5.0	0.8
+Princeton	Fairview Northland Regional Hospital	88	5.0	0.79
+Burnsville	Fairview Ridges Hospital	87	3.0	0.73
+Brainerd	Essentia Health St Joseph's Medical Center	87	4.0	0.75
+Red Wing	Mayo Clinic Health System In Red Wing	87	4.0	0.77
+Saint Louis Park	Park Nicollet Methodist Hospital	86	3.0	0.72
+Cambridge	Cambridge Medical Center	85	4.0	0.74
+Rochester	Mayo Clinic Methodist Hospital	85		0.86
+Winona	Winona Health Services	84	2.0	0.65
+Owatonna	Owatonna Hospital	83	4.0	0.74
+Fergus Falls	Lake Region Healthcare Corporation	83	4.0	0.74
+Fairmont	Mayo Clinic Health System - Fairmont	83	3.0	0.67
+Shakopee	St Francis Regional Medical Center	78	4.0	0.77
+Stillwater	Lakeview Memorial Hospital	76	5.0	0.8300000000000001
+Hastings	Regina Hospital	76	4.0	0.75
+Duluth	Essentia Health St Mary's Medical Center	76	3.0	0.6900000000000001
+Duluth	St Lukes Hospital	76	4.0	0.75
+Albert Lea	Mayo Clinic Health System - Albert Lea	76	3.0	0.67
+Buffalo	Buffalo Hospital	76	4.0	0.76
+Faribault	District One Hospital	75	4.0	0.75
+Hutchinson	Hutchinson Health	75	4.0	0.75
+Hibbing	University Medical Center-Mesabi/ Mesaba Clinics	72	3.0	0.6900000000000001
+Wyoming	Fairview Lakes Medical Center	71	3.0	0.6900000000000001
+Willmar	Rice Memorial Hospital	70	3.0	0.67
+Detroit Lakes	Essentia Health St Marys	70	4.0	0.75
+Virginia	Essentia Health Virginia	70	2.0	0.61
+Northfield	Northfield Hospital	67	5.0	0.79
+Duluth	Essentia Health Duluth	67	3.0	0.67
+Alexandria	Douglas County Hospital	67	3.0	0.72
+Rochester	Olmsted Medical Center	64	4.0	0.77
+Bemidji	Sanford Bemidji Medical Center	64	2.0	0.61
+Grand Rapids	Grand Itasca Clinic And Hospital	63	4.0	0.72
+Worthington	Sanford Worthington Medical Center	62	3.0	0.64
+New Ulm	New Ulm Medical Center	57	4.0	0.76
+Morris	Stevens Community Medical Center	55	4.0	0.74
+New Prague	Mayo Clinic Health System - New Prague	55	4.0	0.74
+Monticello	Centracare Health - Monticello	54	3.0	0.67
+Sleepy Eye	Sleepy Eye Municipal Hospital	54	5.0	0.84
+Litchfield	Meeker Memorial Hospital	54	5.0	0.78
+Springfield	Mayo Clinic Health System - Springfield	54		0.76
+Mora	Firstlight Health System	53	3.0	0.68
+Granite Falls	Municipal Hospital And Granite Manor	53	5.0	0.76
+Wadena	Tri County Hospital	53	3.0	0.71
+Glencoe	Glencoe Regional Health Services	53	3.0	0.7000000000000001
+Crosby	Cuyuna Regional Medical Center	53	5.0	0.81
+Fosston	Essentia Health Fosston	53		0.73
+Aitkin	Riverwood Healthcare Center	53	5.0	0.8200000000000001
+Little Falls	St Gabriels Hospital	53	4.0	0.74
+Pipestone	Pipestone County Medical Center	53		0.74
+Onamia	Mille Lacs Health System	53	3.0	0.71
+Blue Earth	United Hospital District	53	4.0	0.7000000000000001
+Thief River Falls	Sanford Medical Center Thief River Falls	53	2.0	0.61
+International Falls	Rainy Lake Medical Center	52		0.44
+Moose Lake	Mercy Hospital	52	3.0	0.72
+Glenwood	Glacial Ridge Hospital	52	5.0	0.8300000000000001
+Redwood Falls	Redwood Area Hospital	52	5.0	0.79
+Park Rapids	St Josephs Area Health Services	52	5.0	0.81
+Perham	Perham Health	52	4.0	0.77
+Crookston	Riverview Hospital	52	3.0	0.71
+Breckenridge	St Francis Medical Center	51	4.0	0.75
+Baudette	Lakewood Health Center	51		0.76
+Waseca	Mayo Clinic Health System - Waseca	51		0.56
+Olivia	Renville County Hospital And Clinics	51		0.71
+Luverne	Sanford Luverne Medical Center	51	5.0	0.84
+Cloquet	Community Memorial Hospital	51	4.0	0.79
+Marshall	Avera Marshall Regional Medical Center	51	3.0	0.66
+Windom	Windom Area Hospital	51		0.78
+Slayton	Murray County Memorial Hospital	49		0.78
+Canby	Sanford Canby Medical Center	49		0.74
+Madison	Madison Hospital	49	4.0	0.73
+Tracy	Sanford Tracy	49		0.76
+Melrose	Centracare Health System - Melrose Hospital	49	5.0	0.8
+Paynesville	Centra Care Health Paynesville	49	4.0	0.72
+Bagley	Sanford Bagley Medical Center	49		
+Sauk Centre	Centracare Health System - Sauk Centre	49		0.6900000000000001
+Cook	Cook Hospital	49		
+Dawson	Johnson Memorial Hospital	49		0.8300000000000001
+Wabasha	St Elizabeth Medical Center	49	5.0	0.8
+Madelia	Madelia Community Hospital	49		
+Ortonville	Ortonville Area Health Services	49	5.0	0.81
+Hallock	Kittson Memorial Hospital	49		
+Arlington	Ridgeview Sibley Medical Center	49		
+Montevideo	Chippewa County Hospital	49	4.0	0.75
+Cannon Falls	Mayo Clinic Health System - Cannon Falls	49		0.65
+Elbow Lake	Prairie Ridge Hospital And Health Services	49		
+Albany	Albany Area Hospital	49		0.8200000000000001
+Staples	Lakewood Health System	49	5.0	0.85
+Deer River	Deer River Healthcare Center	48		
+Jackson	Sanford Jackson Medical Center	48		0.5700000000000001
+Roseau	Lifecare Medical Center	48	3.0	0.74
+Hendricks	Hendricks Community Hospital	48		
+Benson	Swift County Benson Hospital	48		0.72
+Two Harbors	Lake View Memorial Hospital	48		
+St Peter	River's Edge Hospital & Clinic	48		0.75
+Lake City	Mayo Clinic Health System - Lake City	48		0.78
+Ely	Ely Bloomenson Community Hospital	47		
+Wheaton	Sanford Medical Center Wheaton	43		0.78
+Minneapolis	Phillips Eye Institute	43		0.84
+Ada	Essentia Health Ada	43		
+Redlake	Red Lake Hospital	43		0.71
+Grand Marais	Cook County Northshore Hospital	43		
+Mahnomen	Mahnomen Health Center	43		
+Warren	North Valley Health Center	43		
+Westbrook	Sanford Westbrook Medical Center	43		0.65
+Aurora	Essentia Health Northern Pines Medical Center	43		
+Appleton	Appleton Municipal Hospital	43		0.77
+Tyler	Tyler Healthcare Center	43		0.67
+Sandstone	Essentia Health Sandstone	43		0.65
+Bigfork	Bigfork Valley Hospital	43	5.0	0.88
+Graceville	Essentia Health Holy Trinity Hospital	43		
+Long Prairie	Centracare Health System - Long Prairie	43	3.0	0.74
+St James	Mayo Clinic Health System - St James	43		0.78
+Le Sueur	Minnesota Valley Health Center Inc	43		
