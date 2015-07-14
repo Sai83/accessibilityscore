@@ -28,7 +28,7 @@ def parse_raw_score(raw_file, refine_file):
                 hos_score['city'] = city
             elif '%' in line:
                 perc_10 = int(line[:-1]) * 0.01
-                hos_score['precentage_of_10'] = perc_10
+                hos_score['percentage_of_10'] = perc_10
             elif line.isdigit():  #
                 number = int(line)
                 if number > 10:

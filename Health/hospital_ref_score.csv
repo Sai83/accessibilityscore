@@ -1,8 +1,8 @@
-city	name	overall_rating	patient_rating	precentage_of_10
+city	name	overall_rating	patient_rating	percentage_of_10
 Rochester	Mayo Clinic Hospital Rochester	100	5.0	0.87
 Minneapolis	Abbott Northwestern Hospital	93	4.0	0.77
 Minneapolis	University Of Minnesota Medical Center, Fairview	93	3.0	0.6900000000000001
-Coon Rapids	Mercy Hospital	91	3.0	0.74
+Coon Rapids	Mercy Hospital - Coon Rapids	91	3.0	0.74
 Saint Paul	United Hospital	90	3.0	0.7000000000000001
 Saint Cloud	St Cloud Hospital	90	4.0	0.76
 Maplewood	Healtheast St John's Hospital	90	3.0	0.67
@@ -69,7 +69,7 @@ Onamia	Mille Lacs Health System	53	3.0	0.71
 Blue Earth	United Hospital District	53	4.0	0.7000000000000001
 Thief River Falls	Sanford Medical Center Thief River Falls	53	2.0	0.61
 International Falls	Rainy Lake Medical Center	52		0.44
-Moose Lake	Mercy Hospital	52	3.0	0.72
+Moose Lake	Mercy Hospital - Moose Lake	52	3.0	0.72
 Glenwood	Glacial Ridge Hospital	52	5.0	0.8300000000000001
 Redwood Falls	Redwood Area Hospital	52	5.0	0.79
 Park Rapids	St Josephs Area Health Services	52	5.0	0.81

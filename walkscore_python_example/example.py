@@ -12,11 +12,13 @@ def main():
     print ("walk score:", ws)
 
 
-##    transitscore = TransitScore(apiKey)
-##    city='Seattle'
-##    state='WA'
-##    ts = transitscore.makeRequest(city, state, lat, long)
-##    print ("transit score:", ts)
+    transitscore = TransitScore(apiKey)
+    city='Eagan'
+    state='MN'
+    lat = 44.818173
+    long = -93.1659179
+    ts = transitscore.makeRequest(city, state, lat, long)
+    print ("transit score:", ts)
 ##   
     #with open('output.json', 'w') as outfile:
 	#    json.dump(ws, outfile)
