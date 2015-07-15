@@ -2,12 +2,14 @@
 parse house raw score
 """
 import pandas as pd
+import math
 house_raw_score_file = 's8house_raw_score.txt'
 house_refiend_score_file = 's8house_ref_score.csv'
+house_interp_score_file = 's8house_interp_score.csv'
 
 types = {"Low Income", "Elderly", "Disabled", "Rural"}
 
-def parse_raw_score(raw_file, refine_file):
+def parse_raw_score(raw_file, refine_file, interplate=False):
     """Parse the raw house score file"""
     house_info_list = []
     with open(raw_file, 'rU') as infile:
@@ -45,10 +47,26 @@ def parse_raw_score(raw_file, refine_file):
             
     house_info_list.append(house_info) # record the last 
     house_info_list = pd.DataFrame(house_info_list)
-    print(house_info_list)
+    if interplate:
+        
+##        score_nan_index = {}
+##        rating_nan_index = {}
+##        for index, row in house_info_list.iterrows():
+##            hud_score = row['hud_score']
+##            rating = row['value_rating']
+##            city = row['city']
+##            #print (rating)
+##            if math.isnan(hud_score):
+##                score_nan_index[index] = 
+##            #if not isinstance(rating, float):
+##            #    print(index)
+    #print(house_info_list)
+    house_info_list['hud_score'] = house_info_list['hud_score'].map(lambda x:'%.0f' % x)
     house_info_list.to_csv(refine_file, sep='\t', header=True, index=False)
 
-parse_raw_score(house_raw_score_file, house_refiend_score_file)
+#def interplate_score(house_refiend_score_file, )
+
+parse_raw_score(house_raw_score_file, house_refiend_score_file, interplate=True)
             
             
             
