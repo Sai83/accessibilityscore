@@ -44,11 +44,24 @@ def parse_raw_score(raw_file, refine_file, interplate=False):
                     house_info_list.append(house_info)
                     #exit(1)
                 house_info = {'elderly':False, 'disabled':False, 'name':line}
+                if line == 'Prairie View Heights':
+                    house_info['hud_score'] = 84
+                elif line == 'Riverview Apartments Senior Housing':
+                    house_info['hud_score'] = 85
+                elif line == 'The Meadows Of Oxboro':
+                    house_info['hud_score'] = 80
+                elif line == 'Mercy Manor II':
+                    house_info['hud_score'] = 92
+                    house_info['value_rating'] = 4.6
+                elif line == 'Kingsley Commons':
+                    house_info['hud_score'] = 92
+                elif line == 'Burke Apartments':
+                    house_info['hud_score'] = 96
+                elif line == 'Carty Heights':
+                    house_info['hud_score'] = 69
             
     house_info_list.append(house_info) # record the last 
     house_info_list = pd.DataFrame(house_info_list)
-    if interplate:
-        
 ##        score_nan_index = {}
 ##        rating_nan_index = {}
 ##        for index, row in house_info_list.iterrows():
@@ -61,8 +74,42 @@ def parse_raw_score(raw_file, refine_file, interplate=False):
 ##            #if not isinstance(rating, float):
 ##            #    print(index)
     #print(house_info_list)
+    #house_info_list['hud_score'] = house_info_list['hud_score'].map(lambda x:'%.0f' % x)
+    if interplate:
+        city_group = house_info_list.groupby('city')
+        
+        city_mean = city_group.mean()
+        #print(city_mean)
+
+        hud_group = house_info_list.groupby('hud_score')
+        hud_mean = hud_group.mean()
+        #print(hud_mean)
+
+        for index, row in house_info_list.iterrows():
+            hud_score = row['hud_score']
+            rating = row['value_rating']
+            city = row['city']
+            if math.isnan(hud_score):
+                hud_score = int(city_mean.ix[city, 'hud_score'])
+                house_info_list.ix[index, 'hud_score'] = hud_score
+                row['hud_score'] = hud_score
+            if math.isnan(rating):
+                rating = hud_mean.ix[hud_score, 'value_rating']
+                if math.isnan(rating):
+                    house_info_list.ix[index, 'value_rating'] = 3.5
+                else:
+                    house_info_list.ix[index, 'value_rating'] = rating
+        #print(hud_mean)
+
+        
+##        for city, group in city_group:
+##            print(city)
+##            print(group)
+##            exit(1)
+
     house_info_list['hud_score'] = house_info_list['hud_score'].map(lambda x:'%.0f' % x)
-    house_info_list.to_csv(refine_file, sep='\t', header=True, index=False)
+    #print(house_info_list)
+    house_info_list.to_csv(refine_file, sep='\t', header=True, index=False, float_format='%.1f')
 
 #def interplate_score(house_refiend_score_file, )
 
