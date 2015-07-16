@@ -19,7 +19,8 @@ if __name__ == '__main__':
     #place = '12721 Greenwood Dr, Burnsville, MN'
     #place = 'North St. Paul'
     #place = 'Eagan, MN'
-    place = '20720 Holt Ave, Lakeville, MN'
+    #place = '1845 STINSON BLVD, MINNEAPOLIS, MN, 55418'
+    place = '01 West Center Street, Rochester, MN'
     lat, lon = geo_converter(place)
     print(lat)
     print(lon)
