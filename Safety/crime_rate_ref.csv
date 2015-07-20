@@ -22,16 +22,16 @@ Blackduck	65	Beltrami	4654	795	80.9
 Benton County Total	46	Benton	3818	30252	84.4
 Benton Co. Sheriff	32	Benton	2639	17244	89.4
 Sauk Rapids	55	Benton	5381	13008	77.9
-Big Stone County Total	61	Big	2368	5151	90.5
-Big Stone Co. Sheriff	62	Big	3006	3293	87.8
-Ortonville	57	Big	1238	1858	95.2
-Blue Earth County Total	54	Blue	8791	65658	63.6
-Blue Earth Co. Sheriff	76	Blue	6533	17343	73.1
-Mankato	49	Blue	10877	40360	54.9
-Mapleton	75	Blue	3454	1766	86.0
-Eagle Lake	41	Blue	2099	2573	91.6
-Lake Crystal	45	Blue	3598	2557	85.3
-Madison Lake	60	Blue	3966	1059	83.8
+Big Stone County Total	61	Big Stone	2368	5151	90.5
+Big Stone Co. Sheriff	62	Big Stone	3006	3293	87.8
+Ortonville	57	Big Stone	1238	1858	95.2
+Blue Earth County Total	54	Blue Earth	8791	65658	63.6
+Blue Earth Co. Sheriff	76	Blue Earth	6533	17343	73.1
+Mankato	49	Blue Earth	10877	40360	54.9
+Mapleton	75	Blue Earth	3454	1766	86.0
+Eagle Lake	41	Blue Earth	2099	2573	91.6
+Lake Crystal	45	Blue Earth	3598	2557	85.3
+Madison Lake	60	Blue Earth	3966	1059	83.8
 Brown County Total	66	Brown	3927	25364	84.0
 Brown Co. Sheriff	41	Brown	1049	6576	96.0
 New Ulm	67	Brown	6735	13185	72.2
@@ -63,11 +63,11 @@ Cottonwood County Total	68	Cottonwood	5384	11608	77.9
 Cottonwood Co. Sheriff	57	Cottonwood	3280	4939	86.7
 Mountain Lake	56	Cottonwood	1976	2075	92.1
 Windom	74	Cottonwood	9186	4594	62.0
-Crow Wing County Total	51	Crow	6810	63182	71.9
-Crow Wing Co. Sheriff	48	Crow	2144	39601	91.4
-Brainerd	44	Crow	18180	13493	24.4
-Crosby	64	Crow	9540	2369	60.5
-Baxter	70	Crow	10040	7719	58.4
+Crow Wing County Total	51	Crow Wing	6810	63182	71.9
+Crow Wing Co. Sheriff	48	Crow Wing	2144	39601	91.4
+Brainerd	44	Crow Wing	18180	13493	24.4
+Crosby	64	Crow Wing	9540	2369	60.5
+Baxter	70	Crow Wing	10040	7719	58.4
 Dakota County Total	53	Dakota	4898	407257	79.9
 Dakota Co. Sheriff	53	Dakota	3873	19983	84.2
 Burnsville	31	Dakota	5718	61371	76.5
@@ -78,7 +78,7 @@ Rosemount	47	Dakota	3530	22579	85.6
 South St Paul	99	Dakota	6576	20484	72.9
 West St Paul	47	Dakota	10394	19761	56.9
 Eagan	49	Dakota	4234	65052	82.7
-Inver Grove Hgts	99	Dakota	4980	34294	79.6
+Inver Grove Heights	99	Dakota	4980	34294	79.6
 Apple Valley	51	Dakota	5428	50262	77.7
 Lakeville	46	Dakota	3305	57758	86.6
 Dodge County Total	82	Dodge	7675	20326	68.3
@@ -159,21 +159,21 @@ Kandiyohi Co. Sheriff	56	Kandiyohi	3231	22871	86.9
 Willmar	59	Kandiyohi	7171	19691	70.4
 Kittson County Total	25	Kittson	3005	4493	87.8
 Kittson Co. Sheriff	25	Kittson	3823	3531	84.4
-KoochichingCounty  Total	22	KoochichingCounty	7550	13219	68.8
-Koochiching Co. Sheriff	22	KoochichingCounty	5492	6883	77.4
-International Falls	22	KoochichingCounty	9785	6336	59.5
-Lac Qui Parle County Total	33	Lac	1600	8623	93.7
-Lac Qui Parle Co. Sheriff	24	Lac	1750	5601	93.1
-Dawson Boyd	55	Lac	2676	1495	89.2
+Koochiching County Total	22	Koochiching	7550	13219	68.8
+Koochiching Co. Sheriff	22	Koochiching	5492	6883	77.4
+International Falls	22	Koochiching	9785	6336	59.5
+Lac Qui Parle County Total	33	Lac Qui Parle	1600	8623	93.7
+Lac Qui Parle Co. Sheriff	24	Lac Qui Parle	1750	5601	93.1
+Dawson Boyd	55	Lac Qui Parle	2676	1495	89.2
 Lake County Total	45	Lake	2464	10837	90.1
 Lake Co. Sheriff	39	Lake	1642	5300	93.5
 Silver Bay	32	Lake	1505	1861	94.1
 Two Harbors	50	Lake	4135	3676	83.1
-Lake of the Woods County Total	84	Lake	2244	3966	91.0
-Le Sueur County Total	62	Le	2228	24734	91.1
-Le Sueur Co. Sheriff	69	Le	933	17787	96.5
-Le Sueur PD	69	Le	6317	4021	74.0
-Montgomery	38	Le	4477	2926	81.7
+Lake of the Woods County Total	84	Lake of the Woods	2244	3966	91.0
+Le Sueur County Total	62	Le Sueur	2228	24734	91.1
+Le Sueur Co. Sheriff	69	Le Sueur	933	17787	96.5
+Le Sueur PD	69	Le Sueur	6317	4021	74.0
+Montgomery	38	Le Sueur	4477	2926	81.7
 Lincoln County Total	34	Lincoln	2476	5816	90.0
 Lyon County Total	64	Lyon	4936	25525	79.8
 Lyon Co. Sheriff	59	Lyon	2096	10020	91.6
@@ -194,10 +194,10 @@ Fairmont	53	Martin	11337	10400	53.0
 Meeker County Total	46	Meeker	4116	23058	83.2
 Meeker Co. Sheriff	46	Meeker	3572	16405	85.5
 Litchfield	48	Meeker	5456	6653	77.6
-Mille Lacs County Total	80	Mille	14363	25761	40.3
-Mille Lacs Co. Sheriff	84	Mille	17782	18226	26.0
-Milaca	66	Mille	6003	2882	75.3
-Princeton	43	Mille	6147	4653	74.7
+Mille Lacs County Total	80	Mille Lacs	14363	25761	40.3
+Mille Lacs Co. Sheriff	84	Mille Lacs	17782	18226	26.0
+Milaca	66	Mille Lacs	6003	2882	75.3
+Princeton	43	Mille Lacs	6147	4653	74.7
 Morrison County Total	65	Morrison	3685	33109	85.0
 Morrison Co. Sheriff	56	Morrison	2749	24843	88.9
 Little Falls	76	Morrison	6496	8266	73.2
@@ -250,36 +250,36 @@ Little Canada	31	Ramsey	6189	10083	74.5
 Shoreview	28	Ramsey	2608	25810	89.5
 Vadnais Heights	37	Ramsey	4887	12911	80.0
 North Oaks	27	Ramsey	1541	4608	94.0
-Red Lake County Total	62	Red	3436	4104	86.0
+Red Lake County Total	62	Red Lake	3436	4104	86.0
 Redwood County Total	65	Redwood	4659	15841	80.9
 Redwood Co. Sheriff	62	Redwood	2358	10689	90.5
 Redwood Falls	67	Redwood	9433	5152	60.9
 Renville County Total	64	Renville	4412	15321	81.9
 Renville Co. Sheriff	63	Renville	3216	12903	86.9
 Olivia	67	Renville	10794	2418	55.3
-RiceCounty Total	44	RiceCounty	4207	66458	82.8
-Rice Co. Sheriff	46	RiceCounty	2266	22378	90.9
-Faribault PD	43	RiceCounty	6652	23405	72.6
-Northfield	46	RiceCounty	3541	20675	85.6
+Rice County Total	44	Rice	4207	66458	82.8
+Rice Co. Sheriff	46	Rice	2266	22378	90.9
+Faribault PD	43	Rice	6652	23405	72.6
+Northfield	46	Rice	3541	20675	85.6
 Rock County Total	77	Rock	4953	9549	79.7
 Roseau County Total	25	Roseau	5105	15496	79.0
 Roseau Co. Sheriff	21	Roseau	4099	11125	83.3
 Roseau PD	25	Roseau	6339	2603	73.9
 Warroad	34	Roseau	9615	1768	60.2
-St Louis County Total	45	St	8152	201036	66.3
-St Louis Co. Sheriff	35	St	3886	59264	84.1
-Babbitt	45	St	5044	1467	79.3
-Chisholm	38	St	2440	5042	90.2
-Duluth	44	St	10900	86211	54.8
-Ely	41	St	5915	3432	75.7
-Eveleth	52	St	11298	3691	53.1
-Gilbert	37	St	12486	1794	48.2
-Hibbing	61	St	6338	16267	73.9
-Hoyt Lakes	50	St	200	2002	99.6
-Proctor	28	St	8058	3053	66.7
-Virginia	59	St	16788	8625	30.2
-Floodwood	39	St	17424	528	27.5
-Hermantown	39	St	5942	9660	75.5
+St Louis County Total	45	St Louis	8152	201036	66.3
+St Louis Co. Sheriff	35	St Louis	3886	59264	84.1
+Babbitt	45	St Louis	5044	1467	79.3
+Chisholm	38	St Louis	2440	5042	90.2
+Duluth	44	St Louis	10900	86211	54.8
+Ely	41	St Louis	5915	3432	75.7
+Eveleth	52	St Louis	11298	3691	53.1
+Gilbert	37	St Louis	12486	1794	48.2
+Hibbing	61	St Louis	6338	16267	73.9
+Hoyt Lakes	50	St Louis	200	2002	99.6
+Proctor	28	St Louis	8058	3053	66.7
+Virginia	59	St Louis	16788	8625	30.2
+Floodwood	39	St Louis	17424	528	27.5
+Hermantown	39	St Louis	5942	9660	75.5
 Scott County Total	52	Scott	5012	140232	79.4
 Scott Co. Sheriff	46	Scott	1467	28417	94.3
 Belle Plaine	69	Scott	4892	6848	79.9
@@ -360,8 +360,8 @@ Goodview	75	Winona	5280	3996	78.3
 Wright County Total	54	Wright	3721	128444	84.8
 Wright Co. Sheriff	56	Wright	3483	109325	85.8
 Buffalo	44	Wright	6151	15802	74.7
-Yellow Medicine County Total	45	Yellow	3551	10926	85.5
-Yellow Medicine Co. Sheriff	54	Yellow	2998	6137	87.9
-Canby	20	Yellow	3123	1729	87.3
-Granite Falls	46	Yellow	5197	2790	78.7
-Echo	0	Yellow	1859	269	92.6
+Yellow Medicine County Total	45	Yellow Medicine	3551	10926	85.5
+Yellow Medicine Co. Sheriff	54	Yellow Medicine	2998	6137	87.9
+Canby	20	Yellow Medicine	3123	1729	87.3
+Granite Falls	46	Yellow Medicine	5197	2790	78.7
+Echo	0	Yellow Medicine	1859	269	92.6

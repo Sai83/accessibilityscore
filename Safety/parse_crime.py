@@ -12,13 +12,15 @@ county = ''
 crime_info = []
 for index, row in crime.iterrows():
     agency = row["Agency"].rstrip('*')
+    if agency == 'Inver Grove Hgts':
+        agency = "Inver Grove Heights"
     pop = int(row["Population"].replace(',', ''))
     c1 = int(row["Part 1 Crime Rate"].replace(',', ''))
     c2 = int(row["Part 2 Crime Rate"].replace(',', ''))
     cr = int(row["Combined Crime Rate"].replace(',', ''))
     clear = row["Percent Cleared"]
     if 'County' in agency:
-        county = agency.split()[0]
+        county = agency.replace('County Total', '').strip()
 
     cur_county = county
     if cr == 0:  # data missing
