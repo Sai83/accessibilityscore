@@ -9,8 +9,8 @@ ctu_ref_file = "CTU_ref.csv"
 ctu = pd.read_csv(ctu_raw_file)
 #print(ctu)
 
-ctu['FEATURE_NAME'] = ctu['FEATURE_NAME'].apply(lambda x:x.split('of ')[-1])
-ctu['COUNTY_NAME'] = ctu['COUNTY_NAME'].apply(lambda x:x.split(' ')[0])
+ctu['FEATURE_NAME'] = ctu['FEATURE_NAME'].apply(lambda x:x.split('of ')[-1].strip())
+ctu['COUNTY_NAME'] = ctu['COUNTY_NAME'].apply(lambda x:x.replace('County', '').strip())
 
 
 print(ctu)

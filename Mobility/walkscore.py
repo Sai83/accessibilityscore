@@ -53,9 +53,9 @@ class WalkScore:
 if __name__ == "__main__":
     apiKey='ffd1c56f9abcf84872116b4cc2dfcf31'
     walkscore = WalkScore(apiKey)
-    address='Eagan, MN'
-    lat = 44.8479039
-    long= -93.0428119
+    address=''
+    lat = 45.3214035
+    long= -93.1682641
     ws = walkscore.get_score(address, lat, long)
     print(ws)
 
