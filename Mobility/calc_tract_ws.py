@@ -7,12 +7,12 @@ import time
 import pandas as pd
 
 census_dat = "../Geolocation/mn_tracts.csv"
-census_walk_score = 'tracts_walk_score.csv'
+census_walk_score = 'tracts_walk_score2.csv'
 apiKey='ffd1c56f9abcf84872116b4cc2dfcf31'
 walkscore = WalkScore(apiKey)
 
 census = pd.read_csv(census_dat)
-start_index = 0
+start_index = 700
 #print(census)
 
 census_walk = []
@@ -38,7 +38,7 @@ for index, row in census.iterrows():
     try:
         info['county'] = g.county.replace('County', '').strip()
     except:
-        print ("no county found")
+        print (id, "no county found")
         info['county'] = ''
     try:
         info['zipcode'] = g.postal
@@ -66,7 +66,7 @@ for index, row in census.iterrows():
         print(index+1,'needs to wait for a minute')
         time.sleep(60)
 
-    if index+1 == 700:  # every time only parse 700 records
+    if index+1 == 1000:  # every time only parse 700 records
         break
 
     
