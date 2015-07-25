@@ -1,0 +1,1339 @@
+geoid	street	city	county	zipcode	walkscore
+27001770100	Co Hwy 10	McGregor	Aitkin	55760	0
+27001770200	Unnamed Road	Palisade	Aitkin	56469	0
+27001770300	Unnamed Road	Aitkin	Aitkin	56431	0
+27001770400	330th St	McGregor	Aitkin	55760	0
+27001790501	Aitkin County Forest Rd 28-1	McGrath	Aitkin	56350	0
+27001790502	250th Ln	Aitkin	Aitkin	56431	0
+27003050107	Ambassador Blvd NW	St Francis	Anoka	55070	1
+27003050108	239th Ave NW	St Francis	Anoka	55070	0
+27003050109	S Waconia Cir NE	Bethel	Anoka	55005	0
+27003050110	Taylor St NE	East Bethel	Anoka	55011	0
+27003050111	Vickers St NE	Wyoming	Anoka	55092	0
+27003050114	Rum River Blvd	Oak Grove	Anoka	55303	4
+27003050115	205th Ave NW	Oak Grove	Anoka	55011	1
+27003050116	205th Ave NW	Elk River	Anoka	55330	0
+27003050208	Jay St NW	Andover	Anoka	55304	34
+27003050210	Camp 3 Rd NE	Circle Pines	Anoka	55014	0
+27003050215	Hwy 65 NE	Andover	Anoka	55304	10
+27003050216	Shenandoah St NE	Ham Lake	Anoka	55304	0
+27003050217	Hanson Blvd NW	Andover	Anoka	55304	3
+27003050218	Jivaro St NW	Andover	Anoka	55304	0
+27003050219	152nd Ln NW	Andover	Anoka	55304	0
+27003050220	Andover Blvd NW	Andover	Anoka	55304	0
+27003050221	Prairie Rd NW	Andover	Anoka	55304	0
+27003050222	140th Ln NW	Andover	Anoka	55304	1
+27003050223	162nd Ln NW	Ramsey	Anoka	55303	0
+27003050224	Zeolite St NW	Ramsey	Anoka	55303	0
+27003050225	Fluorine St NW	Ramsey	Anoka	55303	2
+27003050226	Yakima St NW	Ramsey	Anoka	55303	3
+27003050227	144th Ave NW	Ramsey	Anoka	55303	6
+27003050228	149th Ave NW	Ramsey	Anoka	55303	2
+27003050229	Teckla Ct	Lino Lakes	Anoka	55014	10
+27003050230	County Hwy 21	Lino Lakes	Anoka	55038	7
+27003050232	Main St	Hugo	Anoka	55038	25
+27003050233	Evergreen Trail	Circle Pines	Anoka	55014	11
+27003050234	Vickers St NE	Ham Lake	Anoka	55304	0
+27003050235	Hemlock Ln	Ham Lake	Anoka	55304	11
+27003050236	Joyer Ln	Hugo	Anoka	55038	8
+27003050237	E St	Lino Lakes	Anoka	55014	2
+27003050401	Kennedy St	Anoka	Anoka	55303	5
+27003050402	Fairoak Ct	Anoka	Anoka	55303	31
+27003050501	Madison St	Anoka	Anoka	55303	69
+27003050504	Jefferson St	Anoka	Anoka	55303	28
+27003050505	Carl Ave	Anoka	Anoka	55303	39
+27003050602	115th Ave NW	Coon Rapids	Anoka	55433	10
+27003050605	Dahlia St	Coon Rapids	Anoka	55433	33
+27003050606	97th Ave NW	Coon Rapids	Anoka	55433	5
+27003050607	S Heights Dr NW	Coon Rapids	Anoka	55433	31
+27003050608	Robinson Dr NW	Coon Rapids	Anoka	55433	6
+27003050609	Riverdale Blvd	Coon Rapids	Anoka	55448	47
+27003050610	Pheasant Ridge Loop	Coon Rapids	Anoka	55433	14
+27003050702	Kumquat St NW	Coon Rapids	Anoka	55448	47
+27003050704	Woody Ln NW	Coon Rapids	Anoka	55448	15
+27003050706	101st Ave NW	Minneapolis	Anoka	55448	38
+27003050707	127th Ln NW	Coon Rapids	Anoka	55448	4
+27003050709	E River Rd NW	Coon Rapids	Anoka	55433	11
+27003050710	Foley Blvd NW	Coon Rapids	Anoka	55433	22
+27003050711	Main St NW	Coon Rapids	Anoka	55448	3
+27003050712	121st Ln NW	Coon Rapids	Anoka	55448	20
+27003050805	Pierce Pl NE	Blaine	Anoka	55434	27
+27003050806	Oak Ridge Trail NE	Blaine	Anoka	55434	17
+27003050807	Able St NE	Blaine	Anoka	55434	27
+27003050808	Terrace Rd NE	Blaine	Anoka	55434	45
+27003050809	103rd Ave NE	Minneapolis	Anoka	55434	9
+27003050810	Jackson St NE	Blaine	Anoka	55434	19
+27003050811	89th Ave NE	Blaine	Anoka	55434	45
+27003050813		Blaine	Anoka	55449	1
+27003050816	Ball Rd NE	Circle Pines	Anoka	55014	12
+27003050818	Flanders St NE	Blaine	Anoka	55449	0
+27003050819	Rodeo Ct NE	Minneapolis	Anoka	55449	0
+27003050820	Isanti St NE	Minneapolis	Anoka	55449	14
+27003050821	Isanti Ct NE	Blaine	Anoka	55449	14
+27003050901	Syndicate Ave	Circle Pines	Anoka	55014	44
+27003050902	Keith Rd	Circle Pines	Anoka	55014	36
+27003051001	Central Ave NE	Spring Lake Park	Anoka	55432	27
+27003051002	Ballantyne Ln	Minneapolis	Anoka	55432	43
+27003051101	E River Rd	Fridley	Anoka	55432	32
+27003051102	71st Ave NE	Fridley	Anoka	55432	15
+27003051103	County Hwy 35	Fridley	Anoka	55432	21
+27003051201	County Hwy 1	Fridley	Anoka	55432	24
+27003051202	59th Ave NE	Fridley	Anoka	55432	21
+27003051203	Matterhorn Dr NE	Fridley	Anoka	55432	23
+27003051206	Main St NE	Fridley	Anoka	55421	12
+27003051302	49th Ave NE	Columbia Heights	Anoka	55421	50
+27003051304	5th St NE	Minneapolis	Anoka	55421	27
+27003051305	Monroe St NE	Minneapolis	Anoka	55421	66
+27003051400	5th St NE	Minneapolis	Anoka	55421	48
+27003051501	41st Ave NE	Columbia Heights	Anoka	55421	75
+27003051502	41st Ave NE	Minneapolis	Anoka	55421	33
+27003051600	Rhine St	Stacy	Anoka	55079	0
+27005450100	Co Hwy 47	Detroit Lakes	Becker	56501	0
+27005450200	180 St	Frazee	Becker	56544	0
+27005450300	324 Ave	Detroit Lakes	Becker	56501	0
+27005450400	Cozy Cove Rd	Detroit Lakes	Becker	56501	0
+27005450500	Andrews Ave	Detroit Lakes	Becker	56501	15
+27005450600	Shorewood Dr	Detroit Lakes	Becker	56501	2
+27005450700	Johnson Lake Ln	Detroit Lakes	Becker	56501	0
+27005450800	Audubon Lake Rd	Audubon	Becker	56511	3
+27005450900	240th St	Lake Park	Becker	56554	0
+27005940000	Rat Lake Trail	Ogema	Becker	56569	0
+27007450100	Firefly Ln NW	Bemidji	Beltrami	56601	0
+27007450200	Lonnie Ct NE	Bemidji	Beltrami	56601	0
+27007450300	Forest Ranch Rd NE	Bemidji	Beltrami	56601	0
+27007450400	Big Silver Dr NE	Puposky	Beltrami	56667	0
+27007450500	Fourtown Rd NW	Grygla	Beltrami	56727	0
+27007450600	Indian Trail	Bemidji	Beltrami	56601	42
+27007450701	Canoe Ln NE	Bemidji	Beltrami	56601	0
+27007450702	12 St NW	Bemidji	Beltrami	56601	2
+27007940001	Resv Hwy 27	Grygla	Beltrami	56727	0
+27007940002	Forest Rte 3448 1a	Cass Lake	Beltrami	56633	0
+27009020100	MN-23 Trunk	Oak Park	Benton	56357	0
+27009020202	55th Ave NE	Foley	Benton	56329	0
+27009020203	25th Ave NW	Rice	Benton	56367	0
+27009020205	Ilex Pl NW	Rice	Benton	56367	0
+27009020206	S R Township 3	Sauk Rapids	Benton	56379	0
+27009020300	75th Ave NE	Sauk Rapids	Benton	56379	0
+27009021101	13th St N	Sauk Rapids	Benton	56379	8
+27009021102	4th St S	Sauk Rapids	Benton	56379	13
+27009021200	2nd St SE	St Cloud	Benton	56304	1
+27011950100	660th Ave	Ortonville	Big Stone	56278	3
+27011950200	280th St	Graceville	Big Stone	56240	0
+27011950300	US-12	Ortonville	Big Stone	56278	13
+27013170100	612th Ln	Eagle Lake	Blue Earth	56024	0
+27013170200	Power Dr	Mankato	Blue Earth	56001	3
+27013170300	Lind St	Mankato	Blue Earth	56001	11
+27013170400	Madison Ave	Mankato	Blue Earth	56001	60
+27013170500	Thomas Park Ct	Mankato	Blue Earth	56001	21
+27013170600	E Washington St	Mankato	Blue Earth	56001	64
+27013170700	S Front St	Mankato	Blue Earth	56001	81
+27013170800	Red Jacket Trail	Mankato	Blue Earth	56001	1
+27013170900	County Rd 109	Lake Crystal	Blue Earth	56055	0
+27013171000	County Rd 9	Lake Crystal	Blue Earth	56055	0
+27013171101	Val Imm Dr	Mankato	Blue Earth	56001	34
+27013171202	E Shakespeare Ave	Mankato	Blue Earth	56001	10
+27013171300	586th Ave	Mankato	Blue Earth	56001	0
+27013171400	County Rd 21	Mapleton	Blue Earth	56065	0
+27013171500	136th Ln	Vernon Center	Blue Earth	56090	0
+27013171600	Mayan Way	Mankato	Blue Earth	56001	9
+27015960101	N Valley St	New Ulm	Brown	56073	53
+27015960102	US-14	New Ulm	Nicollet	56073	0
+27015960200	Co Hwy 26	New Ulm	Brown	56073	11
+27015960300	N Jefferson St	New Ulm	Brown	56073	48
+27015960400	Unnamed Road	Sleepy Eye	Brown	56085	0
+27015960500	Burnside St SE	Sleepy Eye	Brown	56085	16
+27015960600	Co Rd 3	Springfield	Brown	56087	0
+27015960700	150th St	Hanska	Brown	56041	0
+27017070100	Co Rd 118	Cloquet	Carlton	55720	4
+27017070200	I-35	Cloquet	Carlton	55720	1
+27017070300	Juntunen Rd	Esko	Carlton	55733	6
+27017070400	Soo Line Trail - Southern Route	Wrenshall	Carlton	55797	0
+27017070500	Township Rd 44	Barnum	Carlton	55707	0
+27017070600	MN-73	Cromwell	Carlton	55726	0
+27017940000	Township Rd 328	Cloquet	Carlton	55720	0
+27019090100	Swede Lake Rd	Watertown	Carver	55388	0
+27019090200	County Rd 30	New Germany	Carver	55367	0
+27019090301	Quaas Ave	Waconia	Carver	55387	1
+27019090302	102nd St	Cologne	Carver	55322	0
+27019090401	Scandia Rd	Waconia	Carver	55387	0
+27019090402	Park Dr	Victoria	Carver	55386	1
+27019090501	Unnamed Road	Excelsior	Carver	55331	3
+27019090502	Highover Ct S	Chanhassen	Carver	55317	1
+27019090503	Wood Duck Ln	Excelsior	Carver	55331	6
+27019090601	Santa Fe Cir	Chanhassen	Carver	55317	50
+27019090602	Oxbow Bend	Chanhassen	Carver	55317	2
+27019090701	Audubon Rd	Chanhassen	Carver	55317	3
+27019090702	Creekwood Dr	Chaska	Carver	55318	0
+27019090800	Bavaria Rd	Chaska	Carver	55318	0
+27019090900	Oriole Ln	Chaska	Carver	55318	6
+27019091000	Holasek Path	Chaska	Carver	55318	0
+27019091100	Inwood Rd	Cologne	Carver	55322	0
+27019091201	Emma St	NYA	Carver	55368	0
+27019091202	County Rd 152	Cologne	Carver	55322	0
+27021940001	Onigum Marina Dr NW	Walker	Cass	56484	0
+27021940002	Forest Rte 3762	Cass Lake	Cass	56633	0
+27021960100	Spurge Ln NE	Remer	Cass	56672	0
+27021960200	24th Ave NE	Longville	Cass	56655	0
+27021960301	Interlachen Dr NW	Hackensack	Cass	56452	0
+27021960302	N Long Lake Dr NW	Backus	Cass	56435	0
+27021960600	Poppy Ln NW	Backus	Cass	56435	0
+27021960700	56th Ave SW	Pine River	Cass	56474	0
+27021960801	Mary Fawcett Memorial Dr	East Gull Lake	Cass	56401	0
+27021960802	100th St SW	Pillager	Cass	56473	0
+27023950300	10th Ave SE	Maynard	Chippewa	56260	0
+27023950400	Co Rd 2	Clara City	Chippewa	56222	0
+27023950500	20th Ave NW	Montevideo	Chippewa	56265	0
+27023950600	Budd St	Montevideo	Chippewa	56265	8
+27025110100	Deerwood Trail	Harris	Chisago	55032	0
+27025110200	Government Rd	Harris	Chisago	55032	0
+27025110301	Hemingway Ave	North Branch	Chisago	55056	1
+27025110302	Hemingway Ave	North Branch	Chisago	55056	0
+27025110401	Grand Ave N	Wyoming	Chisago	55092	1
+27025110402	Lent Trail	Stacy	Chisago	55079	1
+27025110501	314th St	Lindstrom	Chisago	55045	3
+27025110502	Lakeside Dr	Lindstrom	Chisago	55045	0
+27025110600	Lake Blvd	Center City	Chisago	55012	0
+27025110700	St Croix Trail	Taylors Falls	Chisago	55084	0
+27027020100	2nd Ave N	Moorhead	Clay	56560	39
+27027020202	9th St N	Moorhead	Clay	56560	37
+27027020300	3rd Ave S	Moorhead	Clay	56560	80
+27027020400	10th Ave S	Moorhead	Clay	56560	36
+27027020500	Rivershore Dr	Moorhead	Clay	56560	34
+27027020600	20th St S	Moorhead	Clay	56560	11
+27027030102	3rd Ave NE	Dilworth	Clay	56529	12
+27027030103	33rd Ave S	Moorhead	Clay	56560	7
+27027030104	70th St S	Sabin	Clay	56580	0
+27027030106	40th Ave N	Moorhead	Clay	56560	0
+27027030107	140th Ave N	Felton	Clay	56536	0
+27027030201	100th Ave N	Hawley	Clay	56549	0
+27027030202	11th St NE	Barnesville	Clay	56514	0
+27029000100	161st Ave	Bagley	Clearwater	56621	0
+27029000200	T-164	Bagley	Clearwater	56621	0
+27029000300	179th Ave	Gonvick	Clearwater	56644	0
+27031480100	Forest Rte 323	Grand Marais	Cook	55604	0
+27031480200	CL Ramstad Trail	Grand Marais	Cook	55604	0
+27031990000			Cook		0
+27033270100	550th Ave	Mountain Lake	Cottonwood	56159	0
+27033270200	400th Ave	Lamberton	Cottonwood	56152	0
+27033270300	400th Ave	Windom	Cottonwood	56101	0
+27033270400	410th St	Bingham Lake	Cottonwood	56118	2
+27035950100	Libby Rd	Emily	Crow Wing	56447	0
+27035950204	Co Rd 3	Crosslake	Crow Wing	56442	0
+27035950400	Oriole Cir	Pequot Lakes	Crow Wing	56472	7
+27035950501	Camp Lincoln Rd	Nisswa	Crow Wing	56468	0
+27035950502	Riley Rd	Merrifield	Crow Wing	56465	1
+27035950700	MN-6	Crosby	Crow Wing	56441	0
+27035950800	Co Rd 102	Brainerd	Crow Wing	56401	0
+27035950900	Gouldgray Rd N	Brainerd	Crow Wing	56401	0
+27035951000	Q St NE	Brainerd	Crow Wing	56401	2
+27035951100	Wright St	Brainerd	Crow Wing	56401	8
+27035951200	Beaver Dam Rd	Brainerd	Crow Wing	56401	0
+27035951301	Clearwater Rd N	Baxter	Crow Wing	56425	0
+27035951302	Highland Scenic Rd	Baxter	Crow Wing	56425	0
+27035951400	Sleepy Hollow Rd	Fort Ripley	Crow Wing	56449	0
+27035951600	Co Rd 8	Brainerd	Crow Wing	56401	0
+27035951700	N Shore Pine Rd	Pine River	Crow Wing	56474	0
+27037060101	MacArthur Ave	St Paul	Dakota	55118	60
+27037060102	Charlton St	St Paul	Dakota	55118	34
+27037060103	Smith Ave S	West St Paul	Dakota	55118	15
+27037060104	Wentworth Ave W	St Paul	Dakota	55118	33
+27037060105	Thompson Ave E	St Paul	Dakota	55118	37
+27037060201	21st Ave N	South St Paul	Dakota	55075	6
+27037060202	Summit Ave	South St Paul	Dakota	55075	14
+27037060301	MN-156	South St Paul	Dakota	55075	38
+27037060302	18th Ave S	South St Paul	Dakota	55075	47
+27037060401	5th Ave S	South St Paul	Dakota	55075	31
+27037060402	Richmond St E	South St Paul	Dakota	55075	9
+27037060502	Coryell Ct	Inver Grove Heights	Dakota	55076	15
+27037060503	74th St E	Inver Grove Heights	Dakota	55076	2
+27037060505	S Robert Trail	Inver Grove Heights	Dakota	55077	0
+27037060506	Blaine Ave E	Inver Grove Heights	Dakota	55076	6
+27037060507	78th St E	Inver Grove Heights	Dakota	55076	18
+27037060508	Rich Valley Blvd	Inver Grove Heights	Dakota	55077	0
+27037060509	River Heights Way	Inver Grove Heights	Dakota	55076	0
+27037060603	3rd Ave	Mendota Heights	Dakota	55118	3
+27037060604	Twin Cir Dr	Mendota Heights	Dakota	55118	4
+27037060605	Lake Augusta Dr	Mendota Heights	Dakota	55120	4
+27037060606	Nashua Ln	Mendota Heights	Dakota	55120	16
+27037060709	Washburn Dr	Burnsville	Dakota	55337	13
+27037060710	Oliver Ave	Burnsville	Dakota	55337	17
+27037060711	Elizabeth Ln	Burnsville	Dakota	55337	19
+27037060713	Arden Cir	Burnsville	Dakota	55337	17
+27037060714	Dalridge Cir	Burnsville	Dakota	55337	10
+27037060716	Blackhawk Cove	Eagan	Dakota	55122	1
+27037060717	Lone Oak Rd	Eagan	Dakota	55121	23
+27037060721	Garnet Point	Eagan	Dakota	55122	25
+27037060725	MN-13	Eagan	Dakota	55121	1
+27037060726	Egan Ave	Eagan	Dakota	55121	20
+27037060727	Widgeon Way	Eagan	Dakota	55123	18
+27037060728	Linden Ln	Eagan	Dakota	55123	3
+27037060729	Windcrest Ave	Eagan	Dakota	55123	4
+27037060730	Trotters Ct	Eagan	Dakota	55123	5
+27037060731	Lebanon Hills Regional Trail	Eagan	Dakota	55123	3
+27037060732	Atlantic Hill Dr	Eagan	Dakota	55123	2
+27037060733	N Mallard Trail	Eagan	Dakota	55122	20
+27037060734	Tampere Cir	Eagan	Dakota	55122	1
+27037060735	Timber Wolf Trail S	Eagan	Dakota	55122	30
+27037060737	Eagle Ridge Dr	Burnsville	Dakota	55337	27
+27037060738	16th Ave	Burnsville	Dakota	55337	5
+27037060739	Woods Trail S	Burnsville	Dakota	55306	4
+27037060741	Park Ave	Burnsville	Dakota	55337	59
+27037060742	Crystal Dr W	Burnsville	Dakota	55306	6
+27037060743	Slater Rd	Eagan	Dakota	55122	9
+27037060744	Nicols Point	Eagan	Dakota	55122	40
+27037060745	Burnhaven Dr	Burnsville	Dakota	55306	47
+27037060746	Rivage Ln	Burnsville	Dakota	55306	16
+27037060747	MN-13	Burnsville	Dakota	55337	41
+27037060748	E Black Dog Rd	Burnsville	Dakota	55337	4
+27037060749	Merlot Curve	Eagan	Dakota	55122	26
+27037060750	Mica Trail	Eagan	Dakota	55122	24
+27037060805	George Ct	Apple Valley	Dakota	55124	14
+27037060806	133rd St Ct	Apple Valley	Dakota	55124	1
+27037060811	Hemlock Ct S	Apple Valley	Dakota	55124	15
+27037060812	Whitney Dr	Apple Valley	Dakota	55124	21
+27037060813	Klamath Trail	Lakeville	Dakota	55044	9
+27037060814	Jalisco Terrace W	Lakeville	Dakota	55044	7
+27037060815	Jamaica Path	Lakeville	Dakota	55044	11
+27037060816	Huntington Path	Lakeville	Dakota	55044	1
+27037060817	Fieldcrest Ave	Farmington	Dakota	55024	4
+27037060818	Franconia Ct	Lakeville	Dakota	55044	7
+27037060819	169th St W	Lakeville	Dakota	55044	3
+27037060820	Jersey Ave	Lakeville	Dakota	55044	0
+27037060821	202nd St W	Lakeville	Dakota	55044	10
+27037060822	Northern Trail	Apple Valley	Dakota	55124	19
+27037060823	Felton Ct	Apple Valley	Dakota	55124	9
+27037060824	Gauntlet Ct	Apple Valley	Dakota	55124	24
+27037060825	133rd St Ct	Apple Valley	Dakota	55124	3
+27037060826	Echo Way	Apple Valley	Dakota	55124	12
+27037060828	Garnet Way	Apple Valley	Dakota	55124	56
+27037060829	157th St W	Apple Valley	Dakota	55124	7
+27037060902	Flagstaff Ave	Farmington	Dakota	55024	0
+27037060904	Chippendale Ave W	Farmington	Dakota	55024	0
+27037060905	220th St W	Farmington	Dakota	55024	0
+27037060906	188th St W	Farmington	Dakota	55024	2
+27037060907	Dulaney Dr	Farmington	Dakota	55024	1
+27037061001	Emery Ave	Hastings	Dakota	55033	0
+27037061003	Rich Valley Blvd	Rosemount	Dakota	55068	0
+27037061004	Evermoor Pkwy	Rosemount	Dakota	55068	4
+27037061005	Cobalt Ln	Rosemount	Dakota	55068	31
+27037061007	Columbia Ct	Rosemount	Dakota	55068	34
+27037061008	S Robert Trail	Rosemount	Dakota	55068	51
+27037061009	Autumn Ct	Rosemount	Dakota	55068	5
+27037061102	Jackson Dr	Hastings	Dakota	55033	12
+27037061105	15th St W	Hastings	Dakota	55033	36
+27037061106	14th St W	Hastings	Dakota	55033	56
+27037061107	Kendel Ave	Hastings	Dakota	55033	0
+27037061108	Neill Path	Hastings	Dakota	55033	2
+27037061401	Nicolai Ave	Hastings	Dakota	55033	0
+27037061402	260th St E	Cannon Falls	Dakota	55009	0
+27037061501	Essex Ave	Farmington	Dakota	55024	0
+27037061502	Eveleth Ave	Northfield	Dakota	55057	0
+27039950100	570th St	West Concord	Dodge	55985	0
+27039950200	3rd Ave SW	Dodge Center	Dodge	55927	30
+27039950300	120th Ave	Claremont	Dodge	55924	1
+27039950400	County Rd 4	Hayfield	Dodge	55940	0
+27039950500	3rd Ave	Kasson	Dodge	55944	5
+27041450100	Unnamed Road	Parkers Prairie	Douglas	56361	0
+27041450200	Tower Hill Rd SW	Brandon	Douglas	56315	0
+27041450500	Unnamed Road	Carlos	Douglas	56319	0
+27041450600	Knut St	Alexandria	Douglas	56308	6
+27041450701	Dakota St	Alexandria	Douglas	56308	15
+27041450702	Anderson Way	Alexandria	Douglas	56308	8
+27041450800	Co Rd 110 SE	Alexandria	Douglas	56308	0
+27041450900	Hummingbird Way SW	Alexandria	Douglas	56308	0
+27041451000	Oakridge Rd NW	Alexandria	Douglas	56308	0
+27043460100	County Rd 21	Wells	Faribault	56097	0
+27043460200	210th St	Winnebago	Faribault	56098	0
+27043460300	County Rd 9	Blue Earth	Faribault	56013	0
+27043460400	N Rice St	Blue Earth	Faribault	56013	46
+27043460500	80th St	Bricelyn	Faribault	56014	0
+27043460600	160th St	Wells	Faribault	56097	0
+27045960100	Co Rd 105	Lanesboro	Fillmore	55949	0
+27045960200	Morgan Road	Wykoff	Fillmore	55990	0
+27045960300	US-63	Spring Valley	Fillmore	55975	4
+27045960400	Co Hwy 17	Preston	Fillmore	55965	0
+27045960500	120th St	Harmony	Fillmore	55939	0
+27045960600	411th Ave	Lanesboro	Fillmore	55949	0
+27047180100	275th St	Hollandale	Freeborn	56045	0
+27047180200	County Rd 95	Hartland	Freeborn	56042	0
+27047180300	County Rd 15	Alden	Freeborn	56009	0
+27047180400	Ridge Rd	Albert Lea	Freeborn	56007	1
+27047180500	Pilot St	Albert Lea	Freeborn	56007	21
+27047180600	SE Marshall St	Albert Lea	Freeborn	56007	14
+27047180700	T30A	Glenville	Freeborn	56036	0
+27047180800	MN-13	Albert Lea	Freeborn	56007	52
+27047180900	Lincoln Ave	Albert Lea	Freeborn	56007	24
+27047181000	County Hwy 13	Glenville	Freeborn	56036	0
+27049080101	Neal St	Red Wing	Goodhue	55066	0
+27049080102	Gernentz Ln	Red Wing	Goodhue	55066	9
+27049080200	Mt Carmel Rd	Welch	Goodhue	55089	0
+27049080300	County 5 Blvd	Red Wing	Goodhue	55066	0
+27049080400	325th St	Red Wing	Goodhue	55066	0
+27049080500	Eldorado Ct	Cannon Falls	Goodhue	55009	0
+27049080600	Water St E	Cannon Falls	Goodhue	55009	15
+27049080700	MN-60	Wanamingo	Goodhue	55983	0
+27049080800	170th Ave	Pine Island	Goodhue	55963	0
+27049080900	435th St Way	Zumbrota	Goodhue	55992	0
+27051070100	Co Rd 49	Elbow Lake	Grant	56531	0
+27051070200	T-55	Elbow Lake	Grant	56531	0
+27053000101	Penn Ave N	Minneapolis	Hennepin	55430	28
+27053000102	Camden Ave N	Minneapolis	Hennepin	55430	42
+27053000300	N Thomas Ave	Minneapolis	Hennepin	55412	28
+27053000601	St Anthony Pkwy	Minneapolis	Hennepin	55418	31
+27053000603	NE Arthur St	Minneapolis	Hennepin	55418	21
+27053001100	NE 27th Ave	Minneapolis	Hennepin	55418	72
+27053001700	2nd St NE	Minneapolis	Hennepin	55418	64
+27053002200	N 23rd Ave	Minneapolis	Hennepin	55411	70
+27053002400	NE 15th Ave	Minneapolis	Hennepin	55413	72
+27053002700	N Thomas Ave	Minneapolis	Hennepin	55411	37
+27053003200	Upton Ave N	Minneapolis	Hennepin	55411	42
+27053003300	Logan Ave N	Minneapolis	Hennepin	55411	54
+27053003800	SE 9th Ave	Minneapolis	Hennepin	55414	73
+27053005901	10th Ave S	Minneapolis	Hennepin	55404	82
+27053005902	E Franklin Ave	Minneapolis	Hennepin	55404	87
+27053006800	Pleasant Ave	Minneapolis	Hennepin	55404	88
+27053007700	Lyndale Ave S	Minneapolis	Hennepin	55408	93
+27053007801	Stevens Ave	Minneapolis	Hennepin	55408	86
+27053008100	Dupont Ave S	Minneapolis	Hennepin	55408	90
+27053008200	Pleasant Ave	Minneapolis	Hennepin	55408	84
+27053008300	2nd Ave S	Minneapolis	Hennepin	55408	75
+27053008400	Oakland Ave	Minneapolis	Hennepin	55407	76
+27053008500	15th Ave S	Minneapolis	Hennepin	55407	71
+27053009500	E 38th St	Minneapolis	Hennepin	55407	69
+27053009600	11th Ave S	Minneapolis	Hennepin	55407	58
+27053010600	Thomas Ave S	Minneapolis	Hennepin	55410	63
+27053010700	Dupont Ave S	Minneapolis	Hennepin	55419	65
+27053011000	14th Ave S	Minneapolis	Hennepin	55407	57
+27053011703	15th Ave S	Minneapolis	Hennepin	55417	58
+27053011704	14th Ave S	Minneapolis	Hennepin	55417	28
+27053011800	Woodlawn Blvd	Minneapolis	Hennepin	55417	39
+27053011998	E 52nd St	Minneapolis	Hennepin	55417	57
+27053012001	Newton Ave S	Minneapolis	Hennepin	55419	49
+27053012003	E 59th St	Minneapolis	Hennepin	55419	50
+27053012101	S 28th Ave	Minneapolis	Hennepin	55417	30
+27053012102	Crosstown Service Rd	Minneapolis	Hennepin	55417	31
+27053020101	County Rd 136	St Anthony	Hennepin	55418	29
+27053020102	Anthony Ln S	St Anthony	Hennepin	55418	41
+27053020200	Shingle Creek Pkwy	Minneapolis	Hennepin	55430	36
+27053020301	Urban Ave N	Minneapolis	Hennepin	55429	32
+27053020302	Perry Ave N	Minneapolis	Hennepin	55429	34
+27053020303	Kathrene Dr	Minneapolis	Hennepin	55429	29
+27053020304	Nash Rd	Minneapolis	Hennepin	55429	53
+27053020400	54th Ave N	Minneapolis	Hennepin	55429	29
+27053020500	Girard Ave N	Minneapolis	Hennepin	55430	24
+27053020600	Dupont Ave N	Minneapolis	Hennepin	55430	17
+27053020700	Crystal Airport Rd	Minneapolis	Hennepin	55429	4
+27053020801	58th Ave N	Crystal	Hennepin	55428	65
+27053020804	52nd Ave N	Minneapolis	Hennepin	55428	54
+27053020902	Edgewood Ave N	Minneapolis	Hennepin	55427	48
+27053020903	Douglas Dr N	Minneapolis	Hennepin	55422	48
+27053021001	Hampshire Ave N	Minneapolis	Hennepin	55427	29
+27053021002	Douglas Dr N	Minneapolis	Hennepin	55422	38
+27053021100	Unity Ave N	Minneapolis	Hennepin	55422	52
+27053021200	Shoreline Dr	Minneapolis	Hennepin	55422	50
+27053021300	Noble Ave N	Minneapolis	Hennepin	55422	72
+27053021400	Lowry Ave N	Minneapolis	Hennepin	55422	36
+27053021501	Boone Ave N	Minneapolis	Hennepin	55428	32
+27053021502	Yukon Ave N	Minneapolis	Hennepin	55428	48
+27053021503	47th Ave N	New Hope	Hennepin	55428	14
+27053021504	Xylon Ave N	Minneapolis	Hennepin	55427	37
+27053021505	Ensign Ave N	Minneapolis	Hennepin	55427	34
+27053021601	Plymouth Ave N	Minneapolis	Hennepin	55427	10
+27053021602	Winsdale St N	Minneapolis	Hennepin	55427	27
+27053021700	Legend Ln	Minneapolis	Hennepin	55422	15
+27053021800	Meadow Ln N	Golden Valley	Hennepin	55422	10
+27053021900	Nevada Ave S	Minneapolis	Hennepin	55426	25
+27053022000	Gamble Dr	Minneapolis	Hennepin	55416	58
+27053022101	W 18th St	Minneapolis	Hennepin	55426	48
+27053022102	Pennsylvania Ave S	St Louis Park	Hennepin	55426	21
+27053022200	Westmoreland Ln	Minneapolis	Hennepin	55426	10
+27053022301	Decatur Ln	St Louis Park	Hennepin	55426	22
+27053022302	Xylon Ave S	Minneapolis	Hennepin	55426	46
+27053022400	Jersey Ave S	Minneapolis	Hennepin	55426	45
+27053022700	Xenwood Ave S	Minneapolis	Hennepin	55416	50
+27053022801	Monterey Ave	Minneapolis	Hennepin	55416	25
+27053022802	Natchez Ave S	St Louis Park	Hennepin	55416	67
+27053022901	W 36th 1/2 St	Minneapolis	Hennepin	55416	80
+27053022902	Salem Ave S	Minneapolis	Hennepin	55416	48
+27053023000	Excelsior Blvd	Minneapolis	Hennepin	55426	17
+27053023100	Grimes Ave S	Minneapolis	Hennepin	55416	63
+27053023200	Wilshire Walk	Hopkins	Hennepin	55305	9
+27053023300	13th Ave N	Hopkins	Hennepin	55343	84
+27053023400	8th Ave S	Hopkins	Hennepin	55343	41
+27053023501	Bywood W	Minneapolis	Hennepin	55436	2
+27053023502	Parkwood Rd	Minneapolis	Hennepin	55436	3
+27053023600	W 50th St	Edina	Hennepin	55424	59
+27053023700	Benton Ave	Minneapolis	Hennepin	55436	25
+27053023801	Wooddale Ave	Minneapolis	Hennepin	55424	40
+27053023802	Beard Ave S	Edina	Hennepin	55410	23
+27053023901	Hillside Ln	Edina	Hennepin	55439	38
+27053023902	Moccasin Valley Rd	Minneapolis	Hennepin	55439	5
+27053023903	Lewis Ridge Pkwy	Edina	Hennepin	55439	35
+27053024003	Sedum Ln	Edina	Hennepin	55435	23
+27053024004	Coventry Pl	Minneapolis	Hennepin	55435	68
+27053024005	W 66th St	Edina	Hennepin	55435	86
+27053024006	W 66th St	Edina	Hennepin	55435	17
+27053024100	Oliver Ave S	Minneapolis	Hennepin	55423	72
+27053024200	Oliver Ave S	Minneapolis	Hennepin	55423	54
+27053024300	Queen Ave S	Minneapolis	Hennepin	55423	36
+27053024400	Grand Ave S	Minneapolis	Hennepin	55423	75
+27053024500	Garfield Ave S	Minneapolis	Hennepin	55423	43
+27053024600	Garfield Ave S	Minneapolis	Hennepin	55423	55
+27053024700	Oakland Ave S	Minneapolis	Hennepin	55423	53
+27053024801	E 72nd St	Richfield	Hennepin	55423	48
+27053024802	E 76th St	Richfield	Hennepin	55423	62
+27053024901	E 64th St	Richfield	Hennepin	55423	61
+27053024902	Bloomington Ave S	Richfield	Hennepin	55423	50
+27053024903	16th Ave S	Minneapolis	Hennepin	55423	25
+27053025100	Long Meadow Cir	Bloomington	Hennepin	55425	20
+27053025201	13th Ave S	Bloomington	Hennepin	55425	27
+27053025205	11th Ave S	Minneapolis	Hennepin	55420	31
+27053025301	E 100th St	Bloomington	Hennepin	55425	8
+27053025302	Blaisdell Ave S	Bloomington	Hennepin	55420	48
+27053025401	Stevens Ave	Bloomington	Hennepin	55420	44
+27053025403	E 94th 1/2 St	Minneapolis	Hennepin	55420	38
+27053025601	W 87th St	Minneapolis	Hennepin	55431	37
+27053025603	Thomas Ave S	Minneapolis	Hennepin	55431	21
+27053025605	Palmer Ave S	Minneapolis	Hennepin	55437	28
+27053025701	W 96th St	Minneapolis	Hennepin	55437	34
+27053025702	Washburn Ave S	Minneapolis	Hennepin	55431	11
+27053025801	W 106th St	Bloomington	Hennepin	55431	17
+27053025802	W 107th St	Minneapolis	Hennepin	55431	13
+27053025803	W Old Shakopee Rd	Minneapolis	Hennepin	55437	47
+27053025805	Overlook Dr	Bloomington	Hennepin	55431	4
+27053025903	Yosemite Cir	Minneapolis	Hennepin	55437	24
+27053025905	W 85th St	Minneapolis	Hennepin	55438	3
+27053025906	Oregon Ave S	Minneapolis	Hennepin	55438	1
+27053025907	Auto Club Cir	Minneapolis	Hennepin	55438	12
+27053026005	Raven Ct	Eden Prairie	Hennepin	55346	8
+27053026006	Howard Ln	Eden Prairie	Hennepin	55346	3
+27053026007	Crowne Oak Rd	Eden Prairie	Hennepin	55344	11
+27053026013	Rustic Hills Dr	Eden Prairie	Hennepin	55346	0
+27053026014	Lorence Way	Eden Prairie	Hennepin	55346	22
+27053026015	Mason Pointe	Eden Prairie	Hennepin	55347	1
+27053026016	Bennett Pl	Eden Prairie	Hennepin	55347	1
+27053026018	Flying Cloud Dr	Eden Prairie	Hennepin	55347	2
+27053026019	Columbine Rd	Eden Prairie	Hennepin	55344	36
+27053026020	Hyland Terrace	Eden Prairie	Hennepin	55344	14
+27053026021	Linwood Ct	Eden Prairie	Hennepin	55347	4
+27053026022	Shetland Rd	Eden Prairie	Hennepin	55347	1
+27053026101	Shady Oak Rd	Hopkins	Hennepin	55305	14
+27053026103	Dominick Way	Hopkins	Hennepin	55343	17
+27053026104	Bren Rd W	Hopkins	Hennepin	55343	48
+27053026201	County Rd 101	Minnetonka	Hennepin	55345	31
+27053026202	Williston Rd	Minnetonka	Hennepin	55345	14
+27053026205	Forest Rd	Minnetonka	Hennepin	55345	5
+27053026206	Woodhill Cir	Minnetonka	Hennepin	55345	19
+27053026207	County Rd 101	Minnetonka	Hennepin	55345	13
+27053026208	Cherry Hill Rd	Minnetonka	Hennepin	55345	28
+27053026301	Linner Ridge	Wayzata	Hennepin	55391	10
+27053026302	Elmwood Pl	Minnetonka	Hennepin	55345	26
+27053026402	Marcy Ln	Minnetonka	Hennepin	55305	22
+27053026403	City View Dr	Hopkins	Hennepin	55305	22
+27053026404	Crescent Ridge Rd	Hopkins	Hennepin	55305	3
+27053026505	30th Ave N	Minneapolis	Hennepin	55441	22
+27053026507	Sunset Trail	Minneapolis	Hennepin	55441	13
+27053026508	54th Ave N	Minneapolis	Hennepin	55442	0
+27053026509	46th Ave N	Minneapolis	Hennepin	55442	15
+27053026510	Saratoga Ln N	Plymouth	Hennepin	55442	7
+27053026511	Saratoga Ln N	Plymouth	Hennepin	55441	30
+27053026512	29th Ave N	Minneapolis	Hennepin	55441	14
+27053026514	Fernbrook Ln N	Plymouth	Hennepin	55447	33
+27053026605	Urbandale Ln N	Plymouth	Hennepin	55446	3
+27053026606	20th Ave N	Minneapolis	Hennepin	55447	8
+27053026609	Niagara Ln N	Plymouth	Hennepin	55447	8
+27053026610	17th Ave N	Minneapolis	Hennepin	55447	39
+27053026611	Zanzibar Ln N	Plymouth	Hennepin	55447	8
+27053026612	51st Ave N	Plymouth	Hennepin	55446	3
+27053026613	Jewel Ln N	Plymouth	Hennepin	55446	14
+27053026702	1st 1/2 St NE	Osseo	Hennepin	55369	68
+27053026706	106th Pl N	Maple Grove	Hennepin	55369	1
+27053026707	James Deane Pkwy	Maple Grove	Hennepin	55369	0
+27053026708	96th Ave N	Maple Grove	Hennepin	55369	26
+27053026710	Goldenrod Ln N	Maple Grove	Hennepin	55369	11
+27053026711	Yucca Ln N	Maple Grove	Hennepin	55311	12
+27053026712	69th Ave N	Maple Grove	Hennepin	55369	14
+27053026713	Trenton Ln N	Maple Grove	Hennepin	55369	4
+27053026714	Jewel Ln N	Osseo	Hennepin	55311	28
+27053026715	70th Ave N	Maple Grove	Hennepin	55311	7
+27053026716	Medicine Lake Regional Trail	Maple Grove	Hennepin	55311	1
+27053026807	Northland Cir N	Minneapolis	Hennepin	55428	19
+27053026809	Douglas Dr N	Brooklyn Park	Hennepin	55429	23
+27053026810	Brookdale Ct	Brooklyn Park	Hennepin	55443	39
+27053026811	77th Ave N	Minneapolis	Hennepin	55443	12
+27053026812	Winnetka Ave N	Minneapolis	Hennepin	55445	0
+27053026814	Yellowstone Trail	Minneapolis	Hennepin	55444	13
+27053026815	79th Ave N	Minneapolis	Hennepin	55444	8
+27053026816	84th Ave N	Brooklyn Park	Hennepin	55445	15
+27053026818	Hartkopf Ln	Brooklyn Park	Hennepin	55428	26
+27053026819	County Rd 14	Brooklyn Park	Hennepin	55429	40
+27053026820	Honeysuckle Ave N	Minneapolis	Hennepin	55443	13
+27053026822	Telford Crossing	Minneapolis	Hennepin	55443	20
+27053026823	89th Crescent N	Minneapolis	Hennepin	55443	12
+27053026903	Parkview Ln N	Champlin	Hennepin	55316	2
+27053026906	Jersey Ave N	Champlin	Hennepin	55316	14
+27053026907	Hackberry Ln	Champlin	Hennepin	55316	1
+27053026908	Quebec Ave N	Champlin	Hennepin	55316	18
+27053026909	Territorial Rd	Rogers	Hennepin	55374	0
+27053026910	Fernbrook Ln N	Dayton	Hennepin	55327	0
+27053027001	Kurt St	Loretto	Hennepin	55357	1
+27053027002	U S Hwy	Independence	Hennepin	55359	0
+27053027101	Willow Dr	Medina	Hennepin	55340	0
+27053027102	Co Rd	Corcoran	Hennepin	55340	0
+27053027201	Deer Run Trail	Long Lake	Hennepin	55356	1
+27053027202	Orchard Ln	Long Lake	Hennepin	55356	30
+27053027203	Huntington Point Rd W	Wayzata	Hennepin	55391	0
+27053027300	Indian Mound St E	Wayzata	Hennepin	55391	56
+27053027400	Northome Rd	Wayzata	Hennepin	55391	18
+27053027501	Covington St	Excelsior	Hennepin	55331	9
+27053027503	Edgewood Rd	Excelsior	Hennepin	55331	1
+27053027504	Hillendale Rd	Excelsior	Hennepin	55331	18
+27053027601	Baywood Shores Dr	Mound	Hennepin	55364	25
+27053027602	Tuxedo Blvd	Mound	Hennepin	55364	9
+27053027700	Deer Creek Rd	Maple Plain	Hennepin	55359	4
+27053100200	N 44th Ave	Minneapolis	Hennepin	55412	50
+27053100400	Fremont Ave N	Minneapolis	Hennepin	55412	61
+27053100500	NE Columbia Ave	Minneapolis	Hennepin	55418	24
+27053100700	N 35th Ave	Minneapolis	Hennepin	55412	50
+27053100800	N 35th Ave	Minneapolis	Hennepin	55412	59
+27053100900	Lyndale Ave N	Minneapolis	Hennepin	55412	52
+27053101200	County Rd 153	Minneapolis	Hennepin	55418	62
+27053101300	Sheridan Ave N	Minneapolis	Hennepin	55411	65
+27053101600	N 3rd St	Minneapolis	Hennepin	55411	56
+27053101800	24th Ave NE	Minneapolis	Hennepin	55418	71
+27053101900	22nd Ave NE	Minneapolis	Hennepin	55418	80
+27053102000	Upton Ave N	Minneapolis	Hennepin	55411	50
+27053102100	N 22nd Ave	Minneapolis	Hennepin	55411	67
+27053102300	W Broadway Ave	Minneapolis	Hennepin	55411	63
+27053102500	NE 15th Ave	Minneapolis	Hennepin	55413	68
+27053102600	Stinson Blvd	Minneapolis	Hennepin	55413	56
+27053102800	N 16th Ave	Minneapolis	Hennepin	55411	59
+27053102900	Dupont Ave N	Minneapolis	Hennepin	55411	73
+27053103000	Marshall St NE	Minneapolis	Hennepin	55413	72
+27053103100	Monroe St NE	Minneapolis	Hennepin	55413	70
+27053103400	Van White Memorial Blvd	Minneapolis	Hennepin	55411	68
+27053103600	2nd St NE	Minneapolis	Hennepin	55413	88
+27053103700	4th Ave SE	Minneapolis	Hennepin	55414	89
+27053103900	6th St SE	Minneapolis	Hennepin	55414	89
+27053104000	E Hennepin Ave	Minneapolis	Hennepin	55413	68
+27053104100	N 3rd Ave	Minneapolis	Hennepin	55405	68
+27053104400	Nicollet Mall	Minneapolis	Hennepin	55403	98
+27053104800	S 5th St	Minneapolis	Hennepin	55454	81
+27053104900	SE Harvard St	Minneapolis	Hennepin	55414	74
+27053105100	Upton Ave S	Minneapolis	Hennepin	55405	49
+27053105201	Loring Greenway	Minneapolis	Hennepin	55403	88
+27053105204	1st Ave S	Minneapolis	Hennepin	55403	91
+27053105400	8th Ave SE	Minneapolis	Hennepin	55414	83
+27053105500	Groveland Terrace	Minneapolis	Hennepin	55403	44
+27053105600	Clifton Ave	Minneapolis	Hennepin	55403	73
+27053105700	2nd Ave S	Minneapolis	Hennepin	55403	90
+27053106000	E Franklin Ave	Minneapolis	Hennepin	55404	85
+27053106200	Milwaukee Ave	Minneapolis	Hennepin	55404	86
+27053106400	Minneapolis Ave	Minneapolis	Hennepin	55406	73
+27053106500	Kenilworth Trail	Minneapolis	Hennepin	55405	41
+27053106600	W 26th St	Minneapolis	Hennepin	55405	87
+27053106700	Colfax Ave S	Minneapolis	Hennepin	55405	93
+27053106900	E 24th St	Minneapolis	Hennepin	55404	89
+27053107000	Pleasant Ave	Minneapolis	Hennepin	55408	86
+27053107400	30th Ave S	Minneapolis	Hennepin	55406	80
+27053107500	29th Ave S	Minneapolis	Hennepin	55406	76
+27053107600	44th Ave S	Minneapolis	Hennepin	55406	64
+27053108000	Humboldt Ave S	Minneapolis	Hennepin	55408	84
+27053108600	Longfellow Ave	Minneapolis	Hennepin	55407	74
+27053108700	24th Ave S	Minneapolis	Hennepin	55406	65
+27053108800	30th Ave S	Minneapolis	Hennepin	55406	78
+27053108900	36th Ave S	Minneapolis	Hennepin	55406	63
+27053109000	45th Ave S	Minneapolis	Hennepin	55406	54
+27053109100	Calhoun Pkwy W	Minneapolis	Hennepin	55408	22
+27053109200	Colfax Ave S	Minneapolis	Hennepin	55408	78
+27053109300	W 36th St	Minneapolis	Hennepin	55408	80
+27053109400	E 36th St	Minneapolis	Hennepin	55408	77
+27053109700	18th Ave S	Minneapolis	Hennepin	55407	65
+27053109800	Beard Ave S	Minneapolis	Hennepin	55410	69
+27053109900	Hennepin Ave	Minneapolis	Hennepin	55408	27
+27053110000	E 40th St	Minneapolis	Hennepin	55409	65
+27053110100	18th Ave S	Minneapolis	Hennepin	55407	68
+27053110200	26th Ave S	Minneapolis	Hennepin	55406	71
+27053110400	37th Ave S	Minneapolis	Hennepin	55406	70
+27053110500	46th Ave S	Minneapolis	Hennepin	55406	41
+27053110800	W 45th St	Minneapolis	Hennepin	55419	75
+27053110900	E 45th St	Minneapolis	Hennepin	55419	48
+27053111100	43rd Ave NE	Minneapolis	Hennepin	55407	16
+27053111200	Beard Ave S	Minneapolis	Hennepin	55410	87
+27053111300	W 53rd St	Minneapolis	Hennepin	55410	56
+27053111400	W Minnehaha Pkwy	Minneapolis	Hennepin	55419	68
+27053111500	W Minnehaha Pkwy	Minneapolis	Hennepin	55419	59
+27053111600	Luverne Ave	Minneapolis	Hennepin	55419	43
+27053122500	Walker St	St Louis Park	Hennepin	55426	35
+27053122600	Georgia Ave S	Minneapolis	Hennepin	55426	46
+27053125500	Bryant Ave S	Minneapolis	Hennepin	55420	53
+27053125600	Malcolm Ave SE	Minneapolis	Hennepin	55414	69
+27053125700	N 29th Ave	Minneapolis	Hennepin	55411	60
+27053125800	12th Ave S	Minneapolis	Hennepin	55407	84
+27053125900	Cedar Ave	Minneapolis	Hennepin	55407	76
+27053126000	E 27th St	Minneapolis	Hennepin	55407	83
+27053126100	3rd Ave S	Minneapolis	Hennepin	55415	89
+27053126200	N 5th St	Minneapolis	Hennepin	55401	79
+27053980000	34th Ave S	Minneapolis	Hennepin	55450	21
+27055020100	Twilite St	La Crescent	Houston	55947	0
+27055020200	Union Ridge Dr	Hokah	Houston	55941	0
+27055020300	Johnston Rd	Houston	Houston	55943	0
+27055020500	S Sunnyside Dr	Caledonia	Houston	55921	29
+27055020900	Simmental Rd	Caledonia	Houston	55921	0
+27057070100	County 118	Laporte	Hubbard	56461	0
+27057070200	Jasmine Dr	Park Rapids	Hubbard	56470	0
+27057070300	Spur II Forest Rd	Laporte	Hubbard	56461	0
+27057070400	Fauna Dr	Nevis	Hubbard	56467	0
+27057070500	Co Rd 14	Menahga	Hubbard	56464	0
+27057070600	5th St W	Park Rapids	Hubbard	56470	70
+27057070700	State Trail	Nevis	Hubbard	56467	0
+27059130100	381st Ave NW	Dalbo	Isanti	55017	2
+27059130200	Midway St NE	Stanchfield	Isanti	55080	0
+27059130301	21st Ave SW	Cambridge	Isanti	55008	8
+27059130302	MN-65	Cambridge	Isanti	55008	2
+27059130400	285th Ave NE	North Branch	Isanti	55056	9
+27059130501	280th Ln NW	Isanti	Isanti	55040	0
+27059130502	E Dual Blvd NE	Isanti	Isanti	55040	37
+27059130600	Nacre St NW	Zimmerman	Isanti	55398	0
+27061480100	Co Hwy 14	Wirt	Itasca	56688	0
+27061480300	W Amen Lake Rd	Deer River	Itasca	56636	0
+27061480400	Bass Lake Park Rd	Cook	Itasca	55723	0
+27061480500	Co Rd 54	Nashwauk	Itasca	55769	0
+27061480600	Feeley 6	Warba	Itasca	55793	0
+27061480700	Unnamed Road	Grand Rapids	Itasca	55744	0
+27061480801	Bears Way	Grand Rapids	Itasca	55744	0
+27061480802	SE 5th Ave	Grand Rapids	Itasca	55744	21
+27061480900	Mesabi Trail	Grand Rapids	Itasca	55744	0
+27061481000	Mesabi Trail	Pengilly	Itasca	55775	0
+27061940000	Forest Rd 2382	Squaw Lake	Itasca	56681	0
+27063480100	530th Ave	Jackson	Jackson	56143	0
+27063480200	840th St	Okabena	Jackson	56161	0
+27063480300	Co Hwy 68	Lakefield	Jackson	56150	3
+27063480400	6th St	Jackson	Jackson	56143	50
+27065480100	Nightengale St	Mora	Kanabec	55051	0
+27065480200	County Rd 6	Ogilvie	Kanabec	56358	0
+27065480300	Sunset Ln	Mora	Kanabec	55051	10
+27065480400	150th Ave	Mora	Kanabec	55051	0
+27067770900	5th St SW	Willmar	Kandiyohi	56201	58
+27067780100	180th Ave NE	New London	Kandiyohi	56273	0
+27067780200	193rd Ave NW	Pennock	Kandiyohi	56279	0
+27067780300	164th Ave NE	New London	Kandiyohi	56273	3
+27067780400	45th Ave NE	Kandiyohi	Kandiyohi	56251	1
+27067780500	Co Hwy 24	Willmar	Kandiyohi	56201	0
+27067780600	19th Ave NW	Pennock	Kandiyohi	56279	0
+27067780700	MN-40	Willmar	Kandiyohi	56201	1
+27067780800	MN-23 BUS	Willmar	Kandiyohi	56201	76
+27067781000	Olena Ave SE	Willmar	Kandiyohi	56201	14
+27067781100	134th Ave SE	Lake Lillian	Kandiyohi	56253	0
+27067781200	150th Ave SW	Raymond	Kandiyohi	56282	0
+27069090100	Unnamed Road	Lake Bronson	Kittson	56734	0
+27069090200	Unnamed Road	Hallock	Kittson	56728	0
+27071790100	2nd Ave E	International Falls	Koochiching	56649	18
+27071790200	Co Rd 2 N	International Falls	Koochiching	56649	1
+27071790300	Old Galvin Ln	Littlefork	Koochiching	56653	0
+27071790500	County Rd 30	Margie	Koochiching	56658	0
+27073180100	261st Ave	Madison	Lac Qui Parle	56256	0
+27073180200	Unnamed Road	Madison	Lac Qui Parle	56256	3
+27073180300	351st Ave	Dawson	Lac Qui Parle	56232	0
+27075370100	Mitawan Lk Rd	Isabella	Lake	55607	0
+27075370300	Superior Hiking Trail	Silver Bay	Lake	55614	0
+27075370400	5th St	Two Harbors	Lake	55616	26
+27075990100	MN-61	Two Harbors	Lake	55616	0
+27077460300	Unnamed Road	Baudette	Lake of the Woods	56623	2
+27077460400	County Rd 58	Williams	Lake of the Woods	56686	0
+27079950100	Township Rd 27	Le Center	Le Sueur	56057	0
+27079950200	Coventry Rd	Le Sueur	Le Sueur	56058	0
+27079950300	T-87	Montgomery	Le Sueur	56069	0
+27079950400	Tetonka Lake Ln	Waterville	Le Sueur	56096	0
+27079950500	231st Ln	Le Center	Le Sueur	56057	1
+27079950600	Township Rd 111	St Peter	Le Sueur	56082	0
+27081201001	US-75	Ivanhoe	Lincoln	56142	0
+27081201002	W Oakwood Dr	Lake Benton	Lincoln	56149	9
+27083360100	Co Rd 24	Minneota	Lyon	56264	0
+27083360200	230th Ave	Marshall	Lyon	56258	0
+27083360300	E College Dr	Marshall	Lyon	56258	2
+27083360400	Susan Dr	Marshall	Lyon	56258	12
+27083360500	Co Rd 33	Marshall	Lyon	56258	1
+27083360600	230th Ave	Balaton	Lyon	56115	0
+27083360700	Otis Ct	Tracy	Lyon	56175	10
+27085950100	Flower Rd	Silver Lake	McLeod	55381	0
+27085950200	Unnamed Road	Hutchinson	McLeod	55350	0
+27085950300	Adams St	Hutchinson	McLeod	55350	0
+27085950400	MN-7	Hutchinson	McLeod	55350	29
+27085950500	US-212	Brownton	McLeod	55312	0
+27085950600	130th St	Glencoe	McLeod	55336	0
+27085950700	Newton Ave N	Glencoe	McLeod	55336	40
+27087940100	T56	Mahnomen	Mahnomen	56557	0
+27087940300	MN-200	Mahnomen	Mahnomen	56557	0
+27089080100	Refuge Rd	Middle River	Marshall	56737	0
+27089080200	180th Ave NW	Newfolden	Marshall	56738	0
+27089080300	Unnamed Road	Stephen	Marshall	56757	0
+27089080400	US-75	Warren	Marshall	56762	0
+27091790100	150th Ave	Truman	Martin	56088	0
+27091790200	Co Hwy 33	Fairmont	Martin	56031	0
+27091790300	150th Ave	Fairmont	Martin	56031	0
+27091790400	50th St	Ceylon	Martin	56121	0
+27091790500	Summit Dr	Fairmont	Martin	56031	0
+27091790600	E 10th St	Fairmont	Martin	56031	13
+27093560100	273rd St	Dassel	Meeker	55325	0
+27093560200	County Rd 11	Darwin	Meeker	55324	0
+27093560300	Precision Dr	Litchfield	Meeker	55355	41
+27093560400	US-12	Litchfield	Meeker	55355	13
+27093560500	250th St	Litchfield	Meeker	55355	0
+27093560600	Unnamed Road	Grove City	Meeker	56243	0
+27095170400	80th Ave	Milaca	Mille Lacs	56353	0
+27095170500	140th Ave	Milaca	Mille Lacs	56353	0
+27095170600	115th Ave	Princeton	Mille Lacs	55371	0
+27095170700	82nd Ave	Princeton	Mille Lacs	55371	5
+27095970100	MN-47	Isle	Mille Lacs	56342	0
+27095970200	County Rd 26	Onamia	Mille Lacs	56359	2
+27095970300	Game Refuge Rd	Onamia	Mille Lacs	56359	0
+27097780100	Island View Dr	Cushing	Morrison	56443	0
+27097780200	E Minnesota Ave	Randall	Morrison	56475	4
+27097780300	Co Hwy 43	Little Falls	Morrison	56345	0
+27097780400	340th Ave	Hillman	Morrison	56338	0
+27097780500	Unnamed Road	Pierz	Morrison	56364	0
+27097780600	Colleen's Way	Little Falls	Morrison	56345	26
+27097780700	Crystal Ln	Little Falls	Morrison	56345	20
+27097780800	Co Hwy 225	Bowlus	Morrison	56314	0
+27099000100	21st Ave NW	Austin	Mower	55912	2
+27099000200	18th St NW	Austin	Mower	55912	30
+27099000300	8th Ave NW	Austin	Mower	55912	51
+27099000410	7th Ave SE	Austin	Mower	55912	34
+27099000600	4th Ave SE	Austin	Mower	55912	22
+27099000800	9th Ave SW	Austin	Mower	55912	44
+27099000900	County Hwy 21	Austin	Mower	55912	0
+27099001000	MN-56	Austin	Mower	55912	0
+27099001200	600th Ave	Brownsdale	Mower	55918	0
+27099001300	650 Ave	Adams	Mower	55909	0
+27099001400	2nd Ave NE	Grand Meadow	Mower	55936	40
+27101900100	Co Hwy 48	Slayton	Murray	56172	1
+27101900200	Co Hwy 4	Slayton	Murray	56172	3
+27101900300	240th Ave	Avoca	Murray	56114	0
+27103480100	Fort Rd	New Ulm	Nicollet	56073	0
+27103480200	Old Fort Rd	St Peter	Nicollet	56082	2
+27103480300	Upper Johnson Cir	St Peter	Nicollet	56082	21
+27103480400	MN-333	St Peter	Nicollet	56082	3
+27103480501	Lookout Dr	North Mankato	Nicollet	56003	25
+27103480502	Township Rd 122	North Mankato	Nicollet	56003	11
+27103480600	Harrison Ave	North Mankato	Nicollet	56003	37
+27105105100	Paul Ave	Worthington	Nobles	56187	0
+27105105200	190th St	Adrian	Nobles	56110	0
+27105105300	Co Rd 6	Rushmore	Nobles	56168	0
+27105105400		Worthington	Nobles	56187	0
+27105105500	270th St	Worthington	Nobles	56187	0
+27105105600	Hillcrest Ave	Worthington	Nobles	56187	7
+27107960100	210th Ave	Gary	Norman	56545	0
+27107960200	County Rd 19	Halstad	Norman	56548	0
+27107960300	County Rd 177	Ada	Norman	56510	0
+27109000100	S Broadway	Rochester	Olmsted	55904	95
+27109000200	Graham Ct SE	Rochester	Olmsted	55904	30
+27109000300	5th Ave SE	Rochester	Olmsted	55904	68
+27109000400	8th St SW	Rochester	Olmsted	55902	51
+27109000500	11th Ave NW	Rochester	Olmsted	55901	84
+27109000600	14th St NW	Rochester	Olmsted	55901	60
+27109000901	20th St SE	Rochester	Olmsted	55904	1
+27109000902	Peterson Ln SE	Rochester	Olmsted	55904	0
+27109000903	Highland Ridge Ln SE	Rochester	Olmsted	55904	11
+27109001000	19th St SE	Rochester	Olmsted	55904	22
+27109001100	20th St SW	Rochester	Olmsted	55902	23
+27109001201	Fox Valley Pl	Rochester	Olmsted	55902	15
+27109001202	Wicklow Ln SW	Rochester	Olmsted	55902	1
+27109001203	Meadow Crossing Rd SW	Rochester	Olmsted	55902	1
+27109001301	Lakeridge Pl NW	Rochester	Olmsted	55901	16
+27109001302	Manor Brook Dr NW	Rochester	Olmsted	55901	1
+27109001401	25th St NW	Rochester	Olmsted	55901	17
+27109001402	Lehman Ln NW	Rochester	Olmsted	55901	8
+27109001501	31st St NW	Rochester	Olmsted	55901	31
+27109001502	12th Ave NW	Rochester	Olmsted	55901	27
+27109001503	Zumbro Dr NW	Rochester	Olmsted	55901	21
+27109001601	5th Ave NE	Rochester	Olmsted	55906	23
+27109001602	Rocky Creek Dr NE	Rochester	Olmsted	55906	14
+27109001603	Hadley Valley Rd NE	Rochester	Olmsted	55906	0
+27109001701	21 1/2 Ave NW	Rochester	Olmsted	55901	37
+27109001702	Essex Pkwy NW	Rochester	Olmsted	55901	19
+27109001703	Chippewa Dr NW	Rochester	Olmsted	55901	0
+27109001800	3rd Ave NW	Byron	Olmsted	55920	16
+27109001900	90th St NW	Oronoco	Olmsted	55960	0
+27109002000	140th Ave SE	Dover	Olmsted	55929	0
+27109002100	2nd St SW	Stewartville	Olmsted	55976	36
+27109002200	65th St SW	Rochester	Olmsted	55902	0
+27109002300	Silver Creek Rd NE	Rochester	Olmsted	55906	0
+27111960102	Co Hwy 146	Perham	Otter Tail	56573	0
+27111960103	245th Ave	Pelican Rapids	Otter Tail	56572	0
+27111960300	Co Hwy 113	Pelican Rapids	Otter Tail	56572	0
+27111960400	Paul M Osborn Rd	Dent	Otter Tail	56528	0
+27111960500	Minnesota St	New York Mills	Otter Tail	56567	0
+27111960600	Co Hwy 14	New York Mills	Otter Tail	56567	0
+27111960700	Co Hwy 67	Dent	Otter Tail	56528	0
+27111960800	Co Hwy 27	Fergus Falls	Otter Tail	56537	0
+27111960900	College Way	Fergus Falls	Otter Tail	56537	24
+27111961000	US-59	Fergus Falls	Otter Tail	56537	2
+27111961100	Minnehuta Dr	Fergus Falls	Otter Tail	56537	0
+27111961200	250th St	Underwood	Otter Tail	56586	0
+27111961300	530th Ave	Henning	Otter Tail	56551	0
+27111961400	Co Hwy 55	Ottertail	Otter Tail	56571	0
+27111961500	535th Ave	Parkers Prairie	Otter Tail	56361	0
+27111961600	160th St	Battle Lake	Otter Tail	56515	0
+27111961700	170th St	Fergus Falls	Otter Tail	56537	0
+27113090100	Co Rd 91	Goodridge	Pennington	56725	0
+27113090200	142nd Ave NE	Thief River Falls	Pennington	56701	1
+27113090300	Co Rd 70	Thief River Falls	Pennington	56701	0
+27113090400	Brooks Ave	Thief River Falls	Pennington	56701	4
+27113090500	Shawn St	Thief River Falls	Pennington	56701	7
+27115950100	Co Rd 154	Bruno	Pine	55712	0
+27115950200	Horton Dr	Willow River	Pine	55795	0
+27115950300	Low Landing Rd	Askov	Pine	55704	0
+27115950400	Chalet Valley Ln	Hinckley	Pine	55037	0
+27115950500	T-119	Hinckley	Pine	55037	0
+27115950600	Parkview Dr	Pine City	Pine	55063	0
+27115950700	16th Ave NE	Pine City	Pine	55063	1
+27115950800	Mystic Dove Dr	Grasston	Pine	55030	3
+27117460100	County Rd 81	Pipestone	Pipestone	56164	0
+27117460200	10th Ave SE	Pipestone	Pipestone	56164	39
+27117460300	5th St SW	Pipestone	Pipestone	56164	30
+27117460400	61st St	Pipestone	Pipestone	56164	0
+27117460500	61st St	Edgerton	Pipestone	56128	0
+27119020100	MN-220	East Grand Forks	Polk	56721	24
+27119020200	US-2 Business	East Grand Forks	Polk	56721	4
+27119020300	14th Ave SE	East Grand Forks	Polk	56721	0
+27119020400	Co Hwy 21	Euclid	Polk	56722	0
+27119020500	Unnamed Road	Crookston	Polk	56716	0
+27119020600	Radisson Rd	Crookston	Polk	56716	51
+27119020700	Fairfax Ave	Crookston	Polk	56716	7
+27119020800	Unnamed Road	Fertile	Polk	56540	0
+27119020900	Co Hwy 34	Erskine	Polk	56535	0
+27119021000	Unnamed Road	Fosston	Polk	56542	0
+27121970100	Township Rd T-270	Glenwood	Pope	56334	0
+27121970200	Co Rd 83	Lowry	Pope	56349	0
+27121970300	Co Hwy 14	Starbuck	Pope	56381	0
+27121970400	Minneswaka House Rd	Long Beach	Pope	56334	7
+27123030100	Carter Ave	St Paul	Ramsey	55108	76
+27123030201	Albert St N	St Paul	Ramsey	55108	47
+27123030202	Como Ave	St Paul	Ramsey	55108	33
+27123030300	Avon St N	St Paul	Ramsey	55117	21
+27123030400	Western Ave N	St Paul	Ramsey	55117	34
+27123030500	Trout Brook Cir	St Paul	Ramsey	55117	29
+27123030601	Arlington Ave E	St Paul	Ramsey	55130	36
+27123030602	Phalen Dr	St Paul	Ramsey	55106	9
+27123030702	Arlington Ave E	St Paul	Ramsey	55119	25
+27123030703	Hoyt Ave E	St Paul	Ramsey	55106	50
+27123030704	Hazelwood St	St Paul	Ramsey	55106	57
+27123030800	Western Ave N	St Paul	Ramsey	55117	55
+27123030900	Desoto St	St Paul	Ramsey	55130	61
+27123031000	Greenbrier St	St Paul	Ramsey	55106	81
+27123031100	Maryland Ave E	St Paul	Ramsey	55106	71
+27123031200	N Barrett St	St Paul	Ramsey	55103	42
+27123031300	Topping St	St Paul	Ramsey	55117	57
+27123031400	Jackson St	St Paul	Ramsey	55117	52
+27123031500	Edgerton St	St Paul	Ramsey	55130	76
+27123031600	Case Ave E	St Paul	Ramsey	55106	57
+27123031701	Ross Ave	St Paul	Ramsey	55106	52
+27123031702	Case Ave E	St Paul	Ramsey	55106	36
+27123031801	Sims Ave E	St Paul	Ramsey	55106	44
+27123031802	Case Ave E	St Paul	Ramsey	55119	24
+27123031900	Vandalia St	St Paul	Ramsey	55114	39
+27123032000	W Minnehaha Ave	St Paul	Ramsey	55104	75
+27123032100	Snelling Ave N	St Paul	Ramsey	55104	85
+27123032200	Van Buren Ave	St Paul	Ramsey	55104	77
+27123032300	N Griggs St	St Paul	Ramsey	55104	56
+27123032400	W Minnehaha Ave	St Paul	Ramsey	55104	58
+27123032500	N Victoria St	St Paul	Ramsey	55104	72
+27123032600	N Mackubin St	St Paul	Ramsey	55103	69
+27123032700	Elfelt St	St Paul	Ramsey	55103	80
+27123033000	Lafayette Rd	St Paul	Ramsey	55130	65
+27123033100	Greenbrier St	St Paul	Ramsey	55106	74
+27123033200	Wabash Ave	St Paul	Ramsey	55114	52
+27123033300	N Moore St	St Paul	Ramsey	55104	59
+27123033400	Concordia Ave	St Paul	Ramsey	55104	81
+27123033500	W Central Ave	St Paul	Ramsey	55104	74
+27123033600	W Central Ave	St Paul	Ramsey	55103	80
+27123033700	N Marion St	St Paul	Ramsey	55103	78
+27123033800	Marshall Ave	St Paul	Ramsey	55104	63
+27123033900	Marshall Ave	St Paul	Ramsey	55104	77
+27123034000	Marshall Ave	St Paul	Ramsey	55102	81
+27123034201	Minnesota St	St Paul	Ramsey	55101	94
+27123034202	E 9th St	St Paul	Ramsey	55101	95
+27123034400	Mounds Blvd	St Paul	Ramsey	55106	27
+27123034500	Euclid St	St Paul	Ramsey	55106	55
+27123034601	Hudson Rd	St Paul	Ramsey	55106	58
+27123034602	3rd St E	St Paul	Ramsey	55106	32
+27123034701	White Bear Ave	St Paul	Ramsey	55106	51
+27123034702	3rd St E	St Paul	Ramsey	55119	42
+27123034900	County Hwy 46	St Paul	Ramsey	55105	70
+27123035000	Ashland Ave	St Paul	Ramsey	55104	74
+27123035100	S Wheeler St	St Paul	Ramsey	55105	81
+27123035200	Pascal St S	St Paul	Ramsey	55105	78
+27123035300	S Griggs St	St Paul	Ramsey	55105	76
+27123035500	Mackubin St	St Paul	Ramsey	55102	78
+27123035700	Fairmount Ave	St Paul	Ramsey	55105	76
+27123035800	Summit Ave	St Paul	Ramsey	55102	73
+27123035900	Grand Ave	St Paul	Ramsey	55102	75
+27123036000	Randolph Ave	St Paul	Ramsey	55102	10
+27123036100	Bayfield St	St Paul	Ramsey	55107	3
+27123036300	Randolph Ave	St Paul	Ramsey	55105	46
+27123036400	S Davern St	St Paul	Ramsey	55105	61
+27123036500	Randolph Ave	St Paul	Ramsey	55105	77
+27123036600	Griggs St S	St Paul	Ramsey	55116	56
+27123036700	7th St W	St Paul	Ramsey	55102	56
+27123036800	W James Ave	St Paul	Ramsey	55102	74
+27123036900	7th St W	St Paul	Ramsey	55102	68
+27123037000	Chippewa Ave	St Paul	Ramsey	55107	17
+27123037100	Isabel St W	St Paul	Ramsey	55107	46
+27123037200	Sidney St E	St Paul	Ramsey	55107	51
+27123037402	Battle Creek Pl	St Paul	Ramsey	55119	39
+27123037403	Totem Rd	St Paul	Ramsey	55119	9
+27123037500	Montreal Ave	St Paul	Ramsey	55116	34
+27123037601	Mississippi River Blvd S	St Paul	Ramsey	55116	36
+27123037602	Crosby Farm Trail	St Paul	Ramsey	55116	13
+27123040100	Birch Rd	White Bear Lake	Ramsey	55110	8
+27123040200	Park Ave S	White Bear Lake	Ramsey	55110	11
+27123040301	Gardenette Dr N	White Bear Lake	Ramsey	55110	18
+27123040302	Randy Ave	White Bear Lake	Ramsey	55110	20
+27123040401	Van Dyke St	White Bear Lake	Ramsey	55110	32
+27123040402	Buckbee Rd	White Bear Lake	Ramsey	55110	11
+27123040502	Division Ave	White Bear Lake	Ramsey	55110	29
+27123040503	Preserve Pl	White Bear Lake	Ramsey	55110	2
+27123040504	Birch Lake Blvd N	St Paul	Ramsey	55110	18
+27123040601	Island Rd	North Oaks	Ramsey	55127	0
+27123040603	Springhill Rd	Vadnais Heights	Ramsey	55127	1
+27123040604	Searle Ct	Vadnais Heights	Ramsey	55127	15
+27123040703	Reiland Ln	Shoreview	Ramsey	55126	0
+27123040704	Cardigan Rd	Shoreview	Ramsey	55126	9
+27123040705	Lois Dr	Shoreview	Ramsey	55126	3
+27123040706	Sherwood Rd	Shoreview	Ramsey	55126	5
+27123040707	E Lake Beach Ct	St Paul	Ramsey	55126	8
+27123040801	Federal Rd	Arden Hills	Ramsey	55126	0
+27123040802	Disc Golf Hole 2	Arden Hills	Ramsey	55112	11
+27123040803	Lake Johanna Blvd	Arden Hills	Ramsey	55112	10
+27123040901	Sherwood Rd	Mounds View	Ramsey	55112	12
+27123040902	County Rd H2	Mounds View	Ramsey	55112	50
+27123041001	Sherwood Rd	Mounds View	Ramsey	55112	19
+27123041002	Longview Dr	Mounds View	Ramsey	55112	13
+27123041103	Silver Ln NE	Minneapolis	Ramsey	55421	52
+27123041104	17th St NW	New Brighton	Ramsey	55112	32
+27123041105	14th Ave NW	New Brighton	Ramsey	55112	11
+27123041106	Silver Lake Rd NW	St Paul	Ramsey	55112	31
+27123041107	Piper Dr	New Brighton	Ramsey	55112	22
+27123041200	5th St NW	St Paul	Ramsey	55112	44
+27123041301	Cleveland Ave N	Roseville	Ramsey	55113	20
+27123041302	Centre Pointe Dr	St Paul	Ramsey	55113	26
+27123041400	Sheldon St	Roseville	Ramsey	55113	51
+27123041500	Iona Ln	Roseville	Ramsey	55113	7
+27123041601	Virginia Ave	Roseville	Ramsey	55113	25
+27123041602	Giesmann St	Roseville	Ramsey	55113	19
+27123041700	Shryer Ave W	Roseville	Ramsey	55113	33
+27123041800	Shryer Ave W	Roseville	Ramsey	55113	61
+27123041900	Fry St	Falcon Heights	Ramsey	55113	29
+27123042001	Tatum St	Falcon Heights	Ramsey	55108	42
+27123042002	Eustis St	Lauderdale	Ramsey	55113	25
+27123042101	Jackson St	Little Canada	Ramsey	55117	29
+27123042102	Keller Pkwy	Little Canada	Ramsey	55117	4
+27123042201	N Beaumont St	St Paul	Ramsey	55117	27
+27123042202	Payne Ave	St Paul	Ramsey	55117	7
+27123042301	US-61	Maplewood	Ramsey	55109	14
+27123042302	Gateway State Trail	Maplewood	Ramsey	55109	4
+27123042401	Beam Ave	Maplewood	Ramsey	55109	51
+27123042402	Southwind Ln	St Paul	Ramsey	55109	21
+27123042501	Minnehaha Ave E	St Paul	Ramsey	55119	16
+27123042503	Southcrest Ave E	Maplewood	Ramsey	55119	1
+27123042504	Upper Afton Rd	Maplewood	Ramsey	55119	2
+27123042601	16th Ave E	North St Paul	Ramsey	55109	37
+27123042602	15th Ave E	North St Paul	Ramsey	55109	44
+27123042700	Eldridge Ave E	North St Paul	Ramsey	55109	46
+27123042800	Sherburne Ave	St Paul	Ramsey	55104	74
+27123042900	Portland Ave	St Paul	Ramsey	55104	83
+27123043000	Mississippi River Blvd S	St Paul	Ramsey	55105	30
+27123980000	Red Rock Rd	St Paul	Ramsey	55119	4
+27125010100	Co Hwy 21	Brooks	Red Lake	56715	0
+27125010200	Co Hwy 4	Red Lake Falls	Red Lake	56750	0
+27127750100	MN-68	Morgan	Redwood	56266	0
+27127750200	Unnamed Road	Redwood Falls	Redwood	56283	0
+27127750300	Laser Ave	Redwood Falls	Redwood	56283	0
+27127750400	Impala Ave	Wabasso	Redwood	56293	0
+27127750500	230th St	Lucan	Redwood	56255	0
+27127750600	130th St	Lamberton	Redwood	56152	0
+27129790100	840th Ave	Buffalo Lake	Renville	55314	0
+27129790200	400th St	Bird Island	Renville	55310	0
+27129790300	200th St	Renville	Renville	56284	0
+27129790400	Co Rd 72	Redwood Falls	Renville	56283	0
+27129790500	Co Hwy 13	Olivia	Renville	56277	0
+27129790600	Co Rd 2	Fairfax	Renville	55332	0
+27131070100	Glencoe Ave	Webster	Rice	55088	0
+27131070200	Bachrach Ave	Dundas	Rice	55019	0
+27131070300	240th St W	Morristown	Rice	55052	0
+27131070400	Eaton Ave	Faribault	Rice	55021	0
+27131070501	Evans Dr	Northfield	Rice	55057	31
+27131070503	Jefferson Pkwy	Northfield	Rice	55057	4
+27131070504	Grant Dr	Northfield	Rice	55057	12
+27131070601	Greenvale Ave W	Northfield	Rice	55057	28
+27131070602	Dundas Blvd	Northfield	Rice	55057	0
+27131070700	Maple Ln	Faribault	Rice	55021	2
+27131070800	City of Faribault Trail	Faribault	Rice	55021	9
+27131070901	Bethel Ct	Faribault	Rice	55021	22
+27131070902	2nd St SW	Faribault	Rice	55021	26
+27133570100	Co Hwy 11	Luverne	Rock	56156	0
+27133570200	Co Hwy 5	Luverne	Rock	56156	9
+27133570300	US-75	Luverne	Rock	56156	0
+27135970100	Co Rd 13	Salol	Roseau	56756	0
+27135970200	230th Ave	Badger	Roseau	56714	0
+27135970300	4th St NE	Roseau	Roseau	56751	37
+27135970400	Unnamed Road	Warroad	Roseau	56763	0
+27135970500	Co Rd 25	Greenbush	Roseau	56726	0
+27137000100	Frederick St	Duluth	St Louis	55803	0
+27137000200	Montauk Ln	Duluth	St Louis	55804	0
+27137000300	W Arrowhead Rd	Duluth	St Louis	55811	3
+27137000400	Norton Rd	Duluth	St Louis	55803	0
+27137000500	Woodland Ave	Duluth	St Louis	55803	11
+27137000600	Gladstone St	Duluth	St Louis	55804	44
+27137000700	Greysolon Rd	Duluth	St Louis	55804	9
+27137000900	N 9th Ave E	Duluth	St Louis	55805	16
+27137001000	Woodland Ave	Duluth	St Louis	55812	49
+27137001100	Water St	Duluth	St Louis	55812	27
+27137001200	N 9th Ave E	Duluth	St Louis	55805	62
+27137001300	N 13th Ave E	Duluth	St Louis	55805	56
+27137001400	The Lakewalk	Duluth	St Louis	55812	25
+27137001600	E 5th St	Duluth	St Louis	55805	69
+27137001700	I-35	Duluth	St Louis	55802	74
+27137001800	W Skyline Pkwy	Duluth	St Louis	55806	32
+27137001900	Harbor Dr	Duluth	St Louis	55802	50
+27137002000	N 13th Ave W	Duluth	St Louis	55806	22
+27137002200	Minnesota Ave	Duluth	St Louis	55802	0
+27137002300	Robert Ct	Duluth	St Louis	55811	10
+27137002400	N 22nd Ave W	Duluth	St Louis	55806	20
+27137002600	Batavia St	Duluth	St Louis	55806	8
+27137002900	Pecan Ln	Duluth	St Louis	55810	3
+27137003000	Olney St	Duluth	St Louis	55807	8
+27137003300	S 69th Ave W	Duluth	St Louis	55807	20
+27137003400	Western Waterfront Trail	Duluth	St Louis	55807	13
+27137003600	Bardon Peak Blvd	Duluth	St Louis	55808	0
+27137003700	92nd Ave W	Duluth	St Louis	55808	17
+27137003800	County Hwy 3	Duluth	St Louis	55808	1
+27137010100	2nd St	Proctor	St Louis	55810	36
+27137010200	Maple Hill Rd	Duluth	St Louis	55810	0
+27137010300	Maple Grove Rd	Hermantown	St Louis	55811	0
+27137010400	W Beyer Rd	Duluth	St Louis	55803	0
+27137010500	Paul Rd	Duluth	St Louis	55804	0
+27137010600	Timberlake Trail	Duluth	St Louis	55803	0
+27137011100	Township Rd 5623	Saginaw	St Louis	55779	0
+27137011200	Hwy 8		St Louis		0
+27137011300	W Toivola Rd	Meadowlands	St Louis	55765	0
+27137011400	Unnamed Road	Makinen	St Louis	55763	0
+27137012100	5th Ave W	Hibbing	St Louis	55746	6
+27137012200	E 3rd St	Hibbing	St Louis	55746	0
+27137012300	E 21st St	Hibbing	St Louis	55746	58
+27137012400	E 25th St	Hibbing	St Louis	55746	9
+27137012500	2nd Ave W	Hibbing	St Louis	55746	34
+27137012600	1st St SW	Chisholm	St Louis	55719	64
+27137012700	Co Hwy 25	Kinney	St Louis	55758	0
+27137012800	Slate St	Mountain Iron	St Louis	55768	4
+27137013000	N 11th Ave	Virginia	St Louis	55792	19
+27137013100	6th St S	Virginia	St Louis	55792	71
+27137013200	Chestnut St E	Virginia	St Louis	55792	3
+27137013300	Shackleton Ct	Eveleth	St Louis	55734	1
+27137013400	Peary Rd	Eveleth	St Louis	55734	0
+27137013500	Old Mine Rd	Gilbert	St Louis	55741	1
+27137013600	Balsam Ln	Gilbert	St Louis	55741	0
+27137013800	W 4th Ave N	Aurora	St Louis	55705	31
+27137013900	Unnamed Road	Embarrass	St Louis	55732	0
+27137014000	Unnamed Road	Hoyt Lakes	St Louis	55750	0
+27137014100	Unnamed Road	Babbitt	St Louis	55706	0
+27137015100	Forest Rte 274	Angora	St Louis	55703	0
+27137015200	Forest Rte 259		St Louis		0
+27137015300	Miners Dr E	Ely	St Louis	55731	47
+27137015400	Maple Grove Rd	Duluth	St Louis	55811	0
+27137015500	Unnamed Road	Orr	St Louis	55771	0
+27137015600	US-53	Duluth	St Louis	55802	13
+27137015700	Ordean Ct	Duluth	St Louis	55812	51
+27137015800	Grassy Point Trail	Duluth	St Louis	55807	1
+27137990100	County Hwy 61	Duluth	St Louis	55804	0
+27139080100	MN-13	Savage	Scott	55378	42
+27139080201	Rhode Island Ave S	Savage	Scott	55378	17
+27139080202	W 136th St	Savage	Scott	55378	13
+27139080203	Princeton Cir	Savage	Scott	55378	2
+27139080204	154th St	Savage	Scott	55378	0
+27139080205	Hillside Trail	Savage	Scott	55378	4
+27139080301	Broadband Blvd	Shakopee	Scott	55379	7
+27139080302	Wood Duck Trail	Shakopee	Scott	55379	0
+27139080400	5th Ave E	Shakopee	Scott	55379	59
+27139080500	4th Ave W	Shakopee	Scott	55379	20
+27139080600	Vierling Dr W	Shakopee	Scott	55379	14
+27139080700	Old Brick Yard Rd	Shakopee	Scott	55379	4
+27139080800	Country Trail W	Jordan	Scott	55352	0
+27139080903	Howard Lake Rd	Prior Lake	Scott	55379	2
+27139080904	Woodview Ct SE	Prior Lake	Scott	55372	37
+27139080905	Meadow Lawn Trail NE	Prior Lake	Scott	55372	0
+27139080906	Fish Point Rd	Prior Lake	Scott	55372	10
+27139081000	203rd St E	Prior Lake	Scott	55372	0
+27139081100	Britney Ln	Elko New Market	Scott	55020	0
+27139081200	Indian Ave	New Prague	Scott	56071	0
+27139081300	Laredo Ave	Belle Plaine	Scott	56011	1
+27141030101	US-169	Zimmerman	Sherburne	55398	0
+27141030102	300th Ave	Princeton	Sherburne	55371	0
+27141030200	Co Hwy 5	Becker	Sherburne	55308	0
+27141030300	Co Hwy 20	St Cloud	Sherburne	56304	0
+27141030402	193rd Ave	Big Lake	Sherburne	55309	0
+27141030403	181st St	Big Lake	Sherburne	55309	0
+27141030404	107th St	Becker	Sherburne	55308	0
+27141030502	Tyler St NW	Elk River	Sherburne	55330	1
+27141030503	Meadowvale Rd NW	Elk River	Sherburne	55330	3
+27141030504	207th Ave NW	Elk River	Sherburne	55330	0
+27141031500	32nd St SE	St Cloud	Sherburne	56304	0
+27143170198	MN-5	Green Isle	Sibley	55338	0
+27143170200	262nd St	Gibbon	Sibley	55335	0
+27143170300	Co Hwy 67	Gaylord	Sibley	55334	3
+27143170400	Co Rd 62	Henderson	Sibley	56044	0
+27145000301	13th Ave S	St Cloud	Stearns	56301	47
+27145000302	Aldon Dr	St Cloud	Stearns	56301	19
+27145000401	30th St S	St Cloud	Stearns	56301	0
+27145000402	Yuma Trail	St Cloud	Stearns	56301	16
+27145000500	Co Rd 137	Waite Park	Stearns	56387	2
+27145000601	27th Ave N	St Cloud	Stearns	56303	77
+27145000602	Cooper Ave N	St Cloud	Stearns	56303	50
+27145000701	37th Ave N	St Cloud	Stearns	56303	37
+27145000801	10th Ave N	St Cloud	Stearns	56303	48
+27145000901	W Whitney Park	St Cloud	Stearns	56303	19
+27145001001	Pleasant Ln	St Cloud	Stearns	56303	15
+27145010101	17th St N	Sartell	Stearns	56377	0
+27145010102	4th Ave	Sartell	Stearns	56377	8
+27145010200	95th Ave	St Joseph	Stearns	56374	0
+27145010401	Angelfish Ave	Avon	Stearns	56310	0
+27145010402	Co Hwy 41	Albany	Stearns	56307	18
+27145010403	Co Rd 10	Albany	Stearns	56307	0
+27145010500	MN-237		Stearns		0
+27145010600	423rd St	Melrose	Stearns	56352	0
+27145010900	US-71	Belgrade	Stearns	56312	0
+27145011000	Apple Tree Ln	Paynesville	Stearns	56362	0
+27145011100	Unnamed Road	Richmond	Stearns	56368	0
+27145011200	MN-15	Kimball	Stearns	55353	0
+27145011301	295th St	St Joseph	Stearns	56374	0
+27145011302	1st St N	Cold Spring	Stearns	56320	54
+27145011304	Dairy Hill Rd	St Cloud	Stearns	56301	0
+27145011400	Fable Rd	St Augusta	Stearns	56301	0
+27145011500	Co Rd 188	Sauk Centre	Stearns	56378	0
+27145011600	4th Ave S	St Cloud	Stearns	56301	70
+27147960100	NE 54th Ave	Owatonna	Steele	55060	0
+27147960200	County Hwy 19	Owatonna	Steele	55060	0
+27147960300	County Hwy 34	Owatonna	Steele	55060	25
+27147960400	Park Dr	Owatonna	Steele	55060	29
+27147960500	SW 68th St	Owatonna	Steele	55060	0
+27147960600	16th St SW	Owatonna	Steele	55060	29
+27147960700	14th St SE	Owatonna	Steele	55060	11
+27147960800	SE 138th St	Blooming Prairie	Steele	55917	0
+27149480100	Co Hwy 9	Morris	Stevens	56267	0
+27149480200	Co Hwy 5	Morris	Stevens	56267	0
+27149480300	County Rd 8	Hancock	Stevens	56244	0
+27151960100	30th St SE	Murdock	Swift	56271	0
+27151960200	15th St S	Benson	Swift	56215	58
+27151960300	45th Ave SW	Benson	Swift	56215	3
+27151960400	190th Ave SW	Appleton	Swift	56208	0
+27153790100	Co Rd 21	Staples	Todd	56479	2
+27153790200	163rd Ave	Bertha	Todd	56437	0
+27153790300	165th Ave	Clarissa	Todd	56440	0
+27153790400	May Fly Rd	Browerville	Todd	56438	0
+27153790500	210th St	Burtrum	Todd	56318	0
+27153790600	Hope Ln	Long Prairie	Todd	56347	8
+27153790700	163rd Ave	Osakis	Todd	56360	1
+27153790800	281st Ave	Grey Eagle	Todd	56336	0
+27155460100	Township Rd 94	Wheaton	Traverse	56296	0
+27155460200	Co Rd 63	Dumont	Traverse	56236	0
+27157490100	Coffee Mill Dr	Wabasha	Wabasha	55981	0
+27157490200	MN-42	Kellogg	Wabasha	55945	0
+27157490300	US-61	Lake City	Wabasha	55041	0
+27157490400	640th St	Zumbro Falls	Wabasha	55991	0
+27157490500	County Rd 11	Millville	Wabasha	55957	0
+27157490600	1st Ave NW	Plainview	Wabasha	55964	56
+27159480100	350th St	Menahga	Wadena	56464	0
+27159480200	205th Ave	Verndale	Wadena	56481	0
+27159480300	Co Rd 104	Wadena	Wadena	56482	0
+27161790100	63rd St	Janesville	Waseca	56048	0
+27161790200	County Rd 64	New Richland	Waseca	56072	0
+27161790300	100th St	Waseca	Waseca	56093	0
+27161790400	17th Ave NE	Waseca	Waseca	56093	27
+27161790500	County Rd 4	Waseca	Waseca	56093	42
+27163070103	County Hwy 2	Forest Lake	Washington	55025	24
+27163070104	Bay Dr SE	Forest Lake	Washington	55025	13
+27163070105	Imperial Ave N	Forest Lake	Washington	55025	0
+27163070106	Granada Ave N	Forest Lake	Washington	55025	0
+27163070203	Harrow Ave N	Hugo	Washington	55038	0
+27163070204	132nd St N	St Paul	Washington	55110	0
+27163070205	Newberry Ave N	Scandia	Washington	55073	0
+27163070206	N Ostlund Trl	Stillwater	Washington	55082	0
+27163070301	Apple Orchard Rd	Dellwood	Washington	55110	0
+27163070303	Wedgewood Dr	St Paul	Washington	55115	11
+27163070304	Hickory St	St Paul	Washington	55115	34
+27163070403	Jeffrey Ave N	Stillwater	Washington	55082	3
+27163070404	Stillwater Twp Trail	Stillwater	Washington	55082	0
+27163070405	51ST St N	Lake Elmo	Washington	55042	0
+27163070406	Lake Elmo Ave N	Lake Elmo	Washington	55042	4
+27163070501	Newberry Ct N	Stillwater	Washington	55082	1
+27163070502	2nd St N	Stillwater	Washington	55082	34
+27163070601	Marine Cir	Stillwater	Washington	55082	6
+27163070602	5th St S	Stillwater	Washington	55082	53
+27163070701	Hillside Ct N	Stillwater	Washington	55082	0
+27163070703	58th St N	Stillwater	Washington	55082	30
+27163070704	Minnesota St S	Bayport	Washington	55003	24
+27163070801	Pickett Ave N	Bayport	Washington	55003	7
+27163070802	Perimeter Rd	Oak Park Heights	Washington	55082	2
+27163070906	38th St Ct N	Oakdale	Washington	55128	10
+27163070907	45th St N	Oakdale	Washington	55128	7
+27163070909	21st St N	St Paul	Washington	55128	2
+27163070910	Hale Ave N	Oakdale	Washington	55128	36
+27163070911	Granite Ave N	Oakdale	Washington	55128	2
+27163070912	13th St Cir	St Paul	Washington	55128	15
+27163071001	Weir Dr	St Paul	Washington	55125	14
+27163071003	High St	Newport	Washington	55055	30
+27163071006	Woodduck Dr	Woodbury	Washington	55125	41
+27163071010	Spring Hill Dr	Woodbury	Washington	55125	32
+27163071011	Schooner Way	Woodbury	Washington	55125	11
+27163071012	Chamberlain Rd	Woodbury	Washington	55125	1
+27163071013	Courtly Rd	Woodbury	Washington	55125	11
+27163071014	Sunbury Dr	Woodbury	Washington	55125	10
+27163071015	Leyland Trail	Woodbury	Washington	55125	20
+27163071016	Springwood Alcove	Woodbury	Washington	55125	5
+27163071017	Ashley Ln	Woodbury	Washington	55129	2
+27163071018	Dorchester Dr	Woodbury	Washington	55129	0
+27163071101	7th St S	Lakeland	Washington	55043	30
+27163071102	Odell Ave S	Hastings	Washington	55033	2
+27163071206	Pine Crest Trail S	Cottage Grove	Washington	55016	5
+27163071207	80th St S	Cottage Grove	Washington	55016	0
+27163071208	85th St S	Cottage Grove	Washington	55016	20
+27163071209	90th St S	Cottage Grove	Washington	55016	12
+27163071300	3rd St	St Paul Park	Washington	55071	23
+27163071400	Ideal Ave S	Cottage Grove	Washington	55016	3
+27165950100	T77	St James	Watonwan	56081	0
+27165950200	Swanson St N	St James	Watonwan	56081	41
+27165950300	Co Hwy 27	St James	Watonwan	56081	0
+27167950100	Co Rd 18	Rothsay	Wilkin	56579	0
+27167950200	Minnesota Ave	Breckenridge	Wilkin	56520	32
+27169670100	Maus Dr	Rollingstone	Winona	55969	0
+27169670200	Bartlet Lake Rd	Winona	Winona	55987	1
+27169670300	Ridgewood Dr	Winona	Winona	55987	0
+27169670400	Riverview Dr	Winona	Winona	55987	3
+27169670500	W 5th St	Winona	Winona	55987	78
+27169670600	Garvin Heights Rd	Winona	Winona	55987	0
+27169670700	Frontenac Dr	Winona	Winona	55987	19
+27169670800	Ph Township 13	Dakota	Winona	55925	0
+27169670900	Enterprise Valley Dr	Lewiston	Winona	55952	0
+27169671000	Co Rd 117	St Charles	Winona	55972	0
+27171100100	83rd St NE	Otsego	Wright	55330	0
+27171100202	MN-25	Monticello	Wright	55362	0
+27171100203	Co Rd 39 NE	Monticello	Wright	55362	0
+27171100204	Oak Ridge Cir	Monticello	Wright	55362	4
+27171100300	Endicott Dr NW	Clearwater	Wright	55320	0
+27171100400	MN-24	Annandale	Wright	55302	0
+27171100500	45th St NW	Annandale	Wright	55302	0
+27171100701	Montrose Blvd	Buffalo	Wright	55313	8
+27171100702	Roberts Rd	Buffalo	Wright	55313	0
+27171100703	40th St NW	Buffalo	Wright	55313	0
+27171100801	35th St NE	St Michael	Wright	55376	0
+27171100802	44th Cir NE	St Michael	Wright	55376	4
+27171100900	Eckert Ave SE	Buffalo	Wright	55313	0
+27171101000	Calder Ave SE	Delano	Wright	55328	0
+27171101100	Dempsey Ave SW	Waverly	Wright	55390	0
+27171101200	Co Rd 6 SW	Howard Lake	Wright	55349	15
+27171101300	60th St SW	Cokato	Wright	55321	8
+27173970100	Co Rd B4	Granite Falls	Yellow Medicine	56241	0
+27173970200	MN-68	Canby	Yellow Medicine	56220	0
+27173970300	Co Hwy 3	Clarkfield	Yellow Medicine	56223	1
+27173970400	Co Rd A6	Wood Lake	Yellow Medicine	56297	0
