@@ -7,12 +7,12 @@ import time
 import pandas as pd
 
 census_dat = "../Geolocation/mn_tracts.csv"
-census_walk_score = 'tracts_walk_score2.csv'
+census_walk_score = 'tracts_walk_score4.csv'
 apiKey='ffd1c56f9abcf84872116b4cc2dfcf31'
 walkscore = WalkScore(apiKey)
 
 census = pd.read_csv(census_dat)
-start_index = 700
+start_index = 1320
 #print(census)
 
 census_walk = []
@@ -64,10 +64,10 @@ for index, row in census.iterrows():
 
     if not ((index+1) % 20):
         print(index+1,'needs to wait for a minute')
-        time.sleep(60)
+        time.sleep(150)
 
-    if index+1 == 1000:  # every time only parse 700 records
-        break
+    #if index+1 == 1000:  # every time only parse 700 records
+    #    break
 
     
 
