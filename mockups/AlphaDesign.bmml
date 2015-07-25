@@ -66,5 +66,10 @@
         <text>Walkin%2C%20Transit%2C%20Metro%20Mobility</text>
       </controlProperties>
     </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Image" x="89" y="129" w="397" h="433" measuredW="990" measuredH="674" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/zFvhapCqwL_wEoZCVR4nNa7awwVIc2c3bZzPp2ssquM.png</src>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
