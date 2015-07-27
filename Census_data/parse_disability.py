@@ -30,13 +30,16 @@ def calc_community_score(level='county'):
         json = ast.literal_eval(content)
         #print(len(json))
         place_data = []
+        pop_data = []
         for data in json:
             if level == 'county':
                 county= data["name"].split(',')[0].replace('County', '').strip()
                 id = data['county']
+                county = county.replace('St.', 'St')
             elif level == 'city':
                 id = data["place"]
-                city= data["name"].split(',')[0].replace('city', '').replace('CDP', '').strip()
+                city= data["name"].split(',')[0].replace('city', '').strip()
+                city = city.replace('St.', 'St')
             elif level == 'tract':
                 id = data['state']+data['county']+data['tract']
                 county = data['name'].split(',')[1].replace('County', '').strip()
@@ -49,10 +52,14 @@ def calc_community_score(level='county'):
                 ratio = sum(dis_stas)/total
                 if level == 'county':
                     place_data.append({'id': id, 'county': county, 'disability_percentage': ratio})
+                    pop_data.append({'id': id, 'county': county, 'population': total})
                 elif level == 'city':
                     place_data.append({'id': id, 'city': city, 'disability_percentage': ratio})
+                    pop_data.append({'id': id, 'city': city, 'population': total})
                 elif level == 'tract':
                     place_data.append({'tract': id, 'county': county, 'disability_percentage': ratio})
+                    pop_data.append({'tract': id, 'county': county, 'population': total})
+
 
     place_data = pd.DataFrame(place_data)
     min_v = place_data['disability_percentage'].min()
@@ -64,6 +71,12 @@ def calc_community_score(level='county'):
     place_data['disability_percentage'] = place_data['disability_percentage'].map(lambda x:'%.3f' % x)
 
     place_data.to_csv(save_file, sep='\t', float_format='%.0f', index=False)
+
+    pop_file = level+'_pop.csv'
+    pop_data = pd.DataFrame(pop_data)
+    pop_data.to_csv(pop_file, sep='\t', float_format='%.0f', index=False)
+    
+    
 
 calc_community_score('county')
 calc_community_score('city')

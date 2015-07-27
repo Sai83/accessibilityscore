@@ -67,7 +67,7 @@ Renville	0.125	129	50
 Rice	0.086	131	18
 Rock	0.107	133	35
 Roseau	0.113	135	40
-St. Louis	0.135	137	58
+St Louis	0.135	137	58
 Scott	0.065	139	0
 Sherburne	0.084	141	16
 Sibley	0.116	143	42

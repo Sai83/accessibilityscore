@@ -1,0 +1,905 @@
+city	id	population
+Ada	00172	1607
+Adams	00190	653
+Adrian	00262	1240
+Afton	00316	2884
+Aitkin	00460	2284
+Akeley	00496	368
+Albany	00622	2453
+Alberta	00676	109
+Albert Lea	00694	17642
+Albertville	00730	7100
+Alden	00838	735
+Aldrich	00892	57
+Alexandria	00928	11034
+Alpha	01162	265
+Altura	01234	495
+Alvarado	01252	368
+Amboy	01324	534
+Andover	01486	30972
+Angle Inlet CDP	01558	39
+Annandale	01684	3183
+Anoka	01720	16557
+Appleton	01864	1388
+Apple Valley	01900	49435
+Arco	01972	71
+Arden Hills	02026	9508
+Argyle	02134	539
+Arlington	02152	2232
+Arnold CDP	02260	2971
+Ashby	02422	450
+Askov	02548	383
+Atwater	02692	1002
+Audubon	02728	607
+Aurora	02872	1568
+Austin	02908	24454
+Avoca	03052	128
+Avon	03070	1388
+Babbitt	03106	1417
+Backus	03124	347
+Badger	03160	507
+Bagley	03196	1291
+Baker CDP	03214	64
+Balaton	03250	551
+Ball Club CDP	03376	371
+Barnesville	03574	2508
+Barnum	03628	636
+Barrett	03682	258
+Barry	03718	17
+Battle Lake	03970	909
+Baudette	04024	1038
+Baxter	04042	7590
+Bayport	04114	2957
+Beardsley	04204	191
+Beaulieu CDP	04348	79
+Beaver Bay	04456	110
+Beaver Creek	04492	295
+Becker	04618	4539
+Bejou	04672	95
+Belgrade	04762	754
+Bellechester	04798	212
+Belle Plaine	04834	6552
+Bellingham	04960	199
+Beltrami	05014	102
+Belview	05050	384
+Bemidji	05068	13770
+Bena	05104	131
+Benson	05212	3111
+Bertha	05482	491
+Bethel	05554	456
+Bigelow	05644	278
+Big Falls	05680	183
+Bigfork	05698	333
+Big Lake CDP	05744	297
+Big Lake	05752	10148
+Bingham Lake	05896	170
+Birchwood Village	06058	783
+Bird Island	06076	944
+Biscay	06112	101
+Biwabik	06148	1062
+Blackduck	06256	734
+Blaine	06382	58256
+Blomkest	06490	105
+Blooming Prairie	06580	1848
+Bloomington	06616	83894
+Blue Earth	06688	3119
+Bluffton	06778	223
+Bock	06814	79
+Borup	07030	128
+Bovey	07048	769
+Bowlus	07066	375
+Boyd	07138	145
+Boy River	07174	34
+Braham	07282	1742
+Brainerd	07300	13170
+Brandon	07336	451
+Breckenridge	07462	3251
+Breezy Point	07516	2141
+Brewster	07660	507
+Bricelyn	07678	367
+Brooklyn Center	07948	30230
+Brooklyn Park	07966	76716
+Brook Park	07984	169
+Brooks	08038	104
+Brookston	08056	99
+Brooten	08092	605
+Browerville	08110	681
+Brownsdale	08164	746
+Browns Valley	08200	595
+Brownsville	08218	496
+Brownton	08254	773
+Bruno	08290	84
+Buckman	08416	227
+Buffalo	08452	15320
+Buffalo Lake	08488	801
+Buhl	08524	1008
+Burnsville	08794	60593
+Burtrum	08902	131
+Butterfield	08992	594
+Byron	09154	4957
+Caledonia	09226	2748
+Callaway	09280	242
+Calumet	09316	365
+Cambridge	09370	7833
+Campbell	09496	213
+Canby	09604	1757
+Cannon Falls	09730	3990
+Canton	09802	286
+Carlos	09964	542
+Carlton	10018	713
+Carver	10144	3890
+Cass Lake	10252	740
+Cedar Mills	10468	50
+Center City	10576	620
+Centerville	10648	3810
+Ceylon	10792	322
+Champlin	10846	23355
+Chandler	10900	207
+Chanhassen	10918	23552
+Chaska	10972	23873
+Chatfield	11008	2783
+Chickamaw Beach	11296	104
+Chisago City	11350	4837
+Chisholm	11386	4900
+Chokio	11440	398
+Circle Pines	11494	4929
+Clara City	11548	1261
+Claremont	11566	509
+Clarissa	11602	693
+Clarkfield	11656	732
+Clarks Grove	11674	576
+Clearbrook	11746	511
+Clear Lake	11764	524
+Clearwater	11800	1686
+Clements	11836	191
+Cleveland	11872	614
+Climax	11962	236
+Clinton	11980	366
+Clitherall	12088	39
+Clontarf	12124	140
+Cloquet	12160	11975
+Coates	12376	108
+Cobden	12394	30
+Cohasset	12412	2714
+Cokato	12430	2651
+Cold Spring	12484	3931
+Coleraine	12502	1720
+Cologne	12664	1606
+Columbia Heights	12700	19463
+Columbus	12718	3939
+Comfrey	12772	422
+Comstock	12862	164
+Conger	12952	185
+Cook	13006	646
+Coon Rapids	13114	61523
+Corcoran	13168	5448
+Correll	13384	48
+Cosmos	13420	514
+Cottage Grove	13456	34870
+Cottonwood	13564	1015
+Courtland	13582	656
+Cromwell	13780	168
+Crookston	13870	7630
+Crosby	13924	2209
+Crosslake	13978	2115
+Crystal	14158	22238
+Currie	14320	202
+Cuyuna	14428	261
+Cyrus	14446	378
+Dakota	14518	330
+Dalton	14626	307
+Danube	14716	552
+Danvers	14734	105
+Darfur	14770	119
+Darwin	14842	428
+Dassel	14878	1482
+Dawson	14968	1506
+Dayton	15022	4766
+Deephaven	15148	3670
+Deer Creek	15184	268
+Deer River	15310	1008
+Deerwood	15346	410
+De Graff	15418	112
+Delano	15454	5472
+Delavan	15472	188
+Delhi	15544	79
+Dellwood	15616	1180
+Denham	15670	39
+Dennison	15706	141
+Dent	15724	159
+Detroit Lakes	15832	8445
+Dexter	15886	329
+Dilworth	15976	4047
+Dodge Center	15994	2616
+Donaldson	16030	37
+Donnelly	16084	238
+Doran	16156	32
+Dover	16264	804
+Dovray	16300	59
+Duluth	17000	84558
+Dumont	17090	73
+Dundas	17126	1518
+Dundee	17144	93
+Dunnell	17180	168
+Eagan	17288	64576
+Eagle Bend	17342	471
+Eagle Lake	17378	2466
+East Bethel	17486	11608
+East Grand Forks	17612	8512
+East Gull Lake	17630	1067
+Easton	17738	194
+Ebro CDP	17882	94
+Echo	17900	374
+Eden Prairie	18116	61385
+Eden Valley	18134	867
+Edgerton	18152	1236
+Edina	18188	48347
+Effie	18260	158
+Eitzen	18368	256
+Elba	18386	156
+Elbow Lake CDP	18440	107
+Elbow Lake	18458	1285
+Elgin	18530	1280
+Elizabeth	18566	182
+Elko New Market	18662	4260
+Elk River	18674	22699
+Elkton	18728	154
+Ellendale	18746	669
+Ellsworth	18836	435
+Elmdale	18872	81
+Elmore	18998	591
+Elrosa	19088	149
+Ely	19142	3422
+Elysian	19160	541
+Emily	19286	860
+Emmons	19340	388
+Erhard	19556	116
+Erskine	19700	506
+Esko CDP	19718	1916
+Evan	19880	35
+Evansville	19898	566
+Eveleth	19934	3590
+Excelsior	20078	2166
+Eyota	20114	2175
+Fairfax	20222	956
+Fairhaven CDP	20276	367
+Fairmont	20330	10393
+Falcon Heights	20420	5406
+Faribault	20546	20721
+Farmington	20618	21363
+Farwell	20690	74
+Federal Dam	20798	108
+Felton	20834	139
+Fergus Falls	20906	12753
+Fertile	20978	860
+Fifty Lakes	21032	397
+Finland CDP	21104	189
+Finlayson	21122	236
+Fisher	21158	368
+Fish Lake CDP	21190	34
+Flensburg	21266	188
+Floodwood	21338	560
+Florence	21410	22
+Foley	21536	2469
+Forada	21608	174
+Forest Lake	21770	18540
+Foreston	21824	555
+Fort Ripley	21932	110
+Fosston	21986	1640
+Fountain	22094	389
+Foxhome	22202	137
+Franklin	22364	592
+Frazee	22472	1186
+Freeborn	22526	302
+Freeport	22652	580
+Fridley	22814	27384
+Frontenac CDP	22904	247
+Frost	22940	233
+Fulda	22958	1325
+Garden City CDP	23084	345
+Garfield	23120	236
+Garrison	23192	167
+Garvin	23228	145
+Gary	23246	203
+Gaylord	23300	2166
+Gem Lake	23318	365
+Geneva	23354	506
+Genola	23444	74
+Georgetown	23498	177
+Ghent	23660	316
+Gibbon	23678	752
+Gilbert	23714	1831
+Gilman	23804	225
+Glencoe	23948	5480
+Glenville	24056	657
+Glenwood	24074	2426
+Glyndon	24182	1576
+Golden Valley	24308	20203
+Gonvick	24344	212
+Goodhue	24398	1145
+Goodridge	24470	130
+Good Thunder	24506	572
+Goodview	24524	4002
+Graceville	24758	468
+Granada	24884	296
+Grand Marais	24992	1056
+Grand Meadow	25010	1056
+Grand Rapids	25118	10480
+Granite Falls	25280	2689
+Grant	25334	4112
+Grasston	25424	185
+Greenbush	25604	719
+Greenfield	25622	2803
+Green Isle	25658	480
+Greenwald	25874	206
+Greenwood	25918	741
+Grey Eagle	26000	454
+Grove City	26126	616
+Grygla	26216	206
+Gully	26270	77
+Hackensack	26378	388
+Hadley	26450	44
+Hallock	26576	855
+Halma	26612	70
+Halstad	26630	576
+Hamburg	26666	542
+Ham Lake	26738	15428
+Hammond	26828	120
+Hampton	26864	743
+Hancock	26936	809
+Hanley Falls	26972	287
+Hanover	26990	2666
+Hanska	27008	389
+Harding	27098	148
+Hardwick	27116	141
+Harmony	27188	1012
+Harris	27278	1043
+Hartland	27404	284
+Hastings	27530	21685
+Hatfield	27566	36
+Hawley	27746	2058
+Hayfield	27872	1201
+Hayward	27944	204
+Hazel Run	28016	24
+Hector	28124	1098
+Heidelberg	28214	103
+Henderson	28394	828
+Hendricks	28430	599
+Hendrum	28484	242
+Henning	28520	738
+Henriette	28574	53
+Herman	28646	414
+Hermantown	28682	8754
+Heron Lake	28700	626
+Hewitt	28754	263
+Hibbing	28790	16120
+Hill City	29096	518
+Hillman	29150	39
+Hills	29204	651
+Hilltop	29258	741
+Hinckley	29294	1753
+Hitterdal	29402	207
+Hoffman	29474	696
+Hokah	29510	519
+Holdingford	29582	665
+Holland	29618	197
+Hollandale	29636	254
+Holloway	29672	116
+Holt	29870	99
+Homer CDP	30014	87
+Hopkins	30140	17545
+Houston	30230	997
+Howard Lake	30284	1884
+Hoyt Lakes	30302	2068
+Hugo	30392	13537
+Humboldt	30446	25
+Hutchinson	30644	13889
+Ihlen	30806	41
+Independence	30842	3557
+Inger CDP	30950	246
+International Falls	31040	6291
+Inver Grove Heights	31076	33850
+Iona	31094	146
+Iron Junction	31238	79
+Ironton	31274	645
+Isanti	31328	5304
+Isle	31472	708
+Ivanhoe	31526	464
+Jackson	31562	3178
+Janesville	31706	2294
+Jasper	31760	564
+Jeffers	31796	403
+Jenkins	31832	378
+Johnson	32012	6
+Jordan	32174	5657
+Kandiyohi	32372	574
+Karlstad	32444	700
+Kasota	32462	751
+Kasson	32498	5898
+Keewatin	32570	1195
+Kelliher	32606	275
+Kellogg	32642	375
+Kennedy	32732	200
+Kenneth	32750	79
+Kensington	32768	349
+Kent	32786	85
+Kenyon	32840	1862
+Kerkhoven	32876	799
+Kerrick	32912	58
+Kettle River	32966	160
+Kiester	33056	541
+Kilkenny	33110	351
+Kimball	33164	796
+Kinbrae	33236	5
+Kingston	33344	112
+Kinney	33416	150
+La Crescent	33866	4826
+Lafayette	33920	555
+Lake Benton	34100	716
+Lake Bronson	34136	223
+Lake City	34172	4995
+Lake Crystal	34190	2540
+Lake Elmo	34244	8062
+Lakefield	34316	1567
+Lake George CDP	34370	219
+Lake Henry	34478	69
+Lakeland	34622	1818
+Lakeland Shores	34658	274
+Lake Lillian	34676	239
+Lake Park	34784	786
+Lake St Croix Beach	34865	1032
+Lake Shore	34928	1245
+Lakeville	35180	56713
+Lake Wilson	35198	247
+Lamberton	35288	944
+Lancaster	35378	373
+Landfall	35414	864
+Lanesboro	35450	777
+Lansing CDP	35558	147
+Laporte	35612	223
+La Prairie	35648	790
+La Salle	35702	71
+Lastrup	35720	120
+Lauderdale	35738	2316
+Le Center	36134	2267
+Lengby	36404	94
+Leonard	36494	29
+Leonidas	36530	68
+Leota CDP	36548	134
+Le Roy	36620	898
+Lester Prairie	36728	1690
+Le Sueur	36746	3960
+Lewiston	36800	1544
+Lewisville	36818	229
+Lexington	36836	2060
+Lilydale	37016	685
+Lindstrom	37304	4412
+Lino Lakes	37322	19012
+Lismore	37412	264
+Litchfield	37448	6533
+Little Canada	37502	9896
+Little Falls	37556	8109
+Littlefork	37592	623
+Little Rock CDP	37656	1362
+Long Beach	37970	374
+Long Lake	38006	1983
+Long Prairie	38060	3310
+Longville	38114	101
+Lonsdale	38150	3695
+Loretto	38222	651
+Louisburg	38258	28
+Lowry	38366	251
+Lucan	38420	163
+Lutsen CDP	38546	402
+Luverne	38564	4534
+Lyle	38654	468
+Lynd	38708	446
+Mabel	38888	728
+McGrath	38996	77
+McGregor	39014	501
+McIntosh	39050	409
+McKinley	39140	74
+Madelia	39230	2283
+Madison	39266	1479
+Madison Lake	39320	1104
+Magnolia	39338	245
+Mahnomen	39392	1368
+Mahnomen CDP	39394	348
+Mahtomedi	39428	7780
+Mahtowa CDP	39446	388
+Manchester	39716	40
+Manhattan Beach	39806	45
+Mankato	39878	39478
+Mantorville	39986	1176
+Maple Grove	40166	63060
+Maple Lake	40220	2127
+Maple Plain	40256	1698
+Mapleton	40310	1796
+Mapleview	40346	176
+Maplewood	40382	37934
+Marble	40418	640
+Marietta	40526	220
+Marine on St Croix	40562	678
+Marshall	40688	13443
+Martin Lake CDP	40814	836
+Mayer	41138	1628
+Maynard	41210	387
+Mazeppa	41282	749
+Meadowlands	41372	88
+Medford	41426	1392
+Medicine Lake	41462	435
+Medina	41480	4982
+Meire Grove	41534	157
+Melrose	41570	3519
+Menahga	41660	1261
+Mendota	41678	202
+Mendota Heights	41696	11123
+Mentor	41714	160
+Merrifield CDP	41804	84
+Middle River	41912	356
+Midway CDP	42010	22
+Miesville	42092	158
+Milaca	42110	2743
+Milan	42146	422
+Millerville	42254	177
+Millville	42290	154
+Milroy	42362	196
+Miltona	42398	310
+Minneapolis	43000	384446
+Minneiska	43036	100
+Minneota	43126	1302
+Minnesota City	43144	176
+Minnesota Lake	43198	631
+Minnetonka	43252	50128
+Minnetonka Beach	43270	613
+Minnetrista	43306	6523
+Mizpah	43540	81
+Montevideo	43720	5186
+Montgomery	43738	2964
+Monticello	43774	12708
+Montrose	43810	2904
+Moorhead	43864	38026
+Moose Lake	43954	2249
+Mora	44044	3442
+Morgan	44116	940
+Morris	44242	5215
+Morristown	44296	881
+Morton	44368	354
+Motley	44422	568
+Mound	44476	9159
+Mounds View	44530	12285
+Mountain Iron	44548	2872
+Mountain Lake	44566	2219
+Murdock	44818	309
+Myrtle	44890	62
+Nashua	44944	82
+Nashwauk	44980	932
+Nassau	45016	63
+Naytahwaush CDP	45052	479
+Nelson	45106	181
+Nerstrand	45196	244
+Nett Lake CDP	45268	307
+Nevis	45340	481
+New Auburn	45376	545
+New Brighton	45430	21425
+Newfolden	45520	419
+New Germany	45556	399
+New Hope	45628	19824
+New London	45682	1378
+New Munich	45772	326
+Newport	45790	3440
+New Prague	45808	7281
+New Richland	45862	977
+New Trier	46024	152
+New Ulm	46042	13269
+New York Mills	46060	1473
+Nicollet	46150	1134
+Nielsville	46258	149
+Nimrod	46294	90
+Nisswa	46348	2273
+Norcross	46492	45
+North Branch	46798	10026
+Northfield	46924	20024
+North Mankato	47068	13387
+North Oaks	47104	4512
+Northome	47122	190
+Northrop	47212	296
+North St Paul	47221	11582
+Norwood Young America	47520	3582
+Nowthen	47536	4412
+Oakdale	47680	27511
+Oak Grove	47690	8063
+Oak Park Heights	47914	3811
+Oakport CDP	47923	1214
+Odessa	48058	122
+Odin	48094	111
+Ogema	48130	142
+Ogilvie	48166	432
+Okabena	48184	169
+Oklee	48202	350
+Olivia	48256	2173
+Onamia	48310	822
+Ormsby	48562	143
+Orono	48580	7586
+Oronoco	48598	1264
+Orr	48634	292
+Ortonville	48706	1931
+Osage CDP	48760	248
+Osakis	48796	1659
+Oslo	48976	252
+Osseo	49012	2412
+Ostrander	49030	268
+Otsego	49138	13849
+Ottertail	49210	539
+Owatonna	49300	25222
+Palisade	49498	172
+Parkers Prairie	49732	1011
+Park Rapids	49768	3737
+Paynesville	49966	2375
+Pease	50056	177
+Pelican Rapids	50164	2510
+Pemberton	50200	335
+Pennock	50344	631
+Pequot Lakes	50416	2283
+Perham	50470	2920
+Perley	50506	113
+Peterson	50596	200
+Pierz	50776	1233
+Pillager	50902	442
+Pine Bend CDP	51028	5
+Pine City	51064	2916
+Pine Island	51136	3379
+Pine Point CDP	51234	264
+Pine River	51280	634
+Pine Springs	51316	406
+Pipestone	51388	4109
+Plainview	51424	3237
+Plato	51460	318
+Plummer	51712	395
+Plymouth	51730	71196
+Ponemah CDP	51892	650
+Porter	52144	200
+Preston	52450	1173
+Princeton	52522	4552
+Prinsburg	52558	482
+Prior Lake	52594	23392
+Proctor	52630	2987
+Quamba	52756	118
+Racine	52882	483
+Ramsey	53026	23971
+Randall	53080	589
+Randolph	53098	420
+Ranier	53134	657
+Raymond	53296	748
+Redby CDP	53386	1214
+Red Lake CDP	53458	1290
+Red Lake Falls	53476	1330
+Red Wing	53620	16016
+Redwood Falls	53656	5068
+Regal	53710	49
+Remer	53782	402
+Renville	53890	1303
+Revere	53908	96
+Rice	53998	1337
+Rice Lake CDP	54056	272
+Richfield	54214	35483
+Richmond	54268	1518
+Richville	54340	97
+Riverland CDP	54596	189
+Riverton	54736	147
+Robbinsdale	54808	14007
+Rochester	54880	106322
+Rock Creek	54934	1631
+Rockford	55006	4161
+Rockville	55078	2504
+Rogers	55186	10858
+Rollingstone	55276	633
+Ronneby CDP	55366	28
+Roosevelt	55438	63
+Roscoe	55510	138
+Roseau	55546	2521
+Rose Creek	55600	443
+Rosemount	55726	22122
+Roseville	55852	33706
+Rothsay	56014	471
+Round Lake	56086	367
+Royalton	56176	1136
+Roy Lake CDP	56212	22
+Rush City	56266	2001
+Rushford	56284	1911
+Rushford Village	56302	979
+Rushmore	56338	266
+Russell	56428	370
+Ruthton	56482	252
+Rutledge	56518	297
+Sabin	56554	596
+Sacred Heart	56572	570
+St Anthony  (Hennepin and Ramsey Counties)	56680	8215
+St Anthony  (Stearns County)	56698	104
+St Augusta	56724	3372
+St Bonifacius	56770	2469
+St Charles	56788	3661
+St Clair	56824	771
+St Cloud	56896	64137
+St Francis	56950	7216
+St Hilaire	57022	248
+St James	57040	4514
+St Joseph	57130	6575
+St Leo	57202	143
+St Louis Park	57220	45354
+St Martin	57238	316
+St Marys Point	57292	417
+St Michael	57346	16543
+St Paul	58000	286473
+St Paul Park	58018	5296
+St Peter	58036	11095
+St Rosa	58072	46
+St Stephen	58090	797
+St Vincent	58144	58
+Sanborn	58306	343
+Sandstone	58396	1545
+Sargeant	58576	75
+Sartell	58612	15709
+Sauk Centre	58648	4259
+Sauk Rapids	58684	12758
+Savage	58738	27546
+Scandia	58900	3957
+Scanlon	58936	1123
+Seaforth	59098	91
+Searles CDP	59116	202
+Sebeka	59152	685
+Sedan	59188	73
+Shafer	59314	880
+Shakopee	59350	37260
+Shelly	59566	220
+Sherburn	59620	1109
+Shevlin	59782	165
+Shoreview	59998	25405
+Shorewood	60016	7397
+Silver Bay	60250	1855
+Silver Creek CDP	60322	212
+Silver Lake	60376	789
+Skyline	60754	273
+Slayton	60808	2078
+Sleepy Eye	60844	3458
+Sobieski	61006	201
+Solway	61114	113
+Soudan CDP	61204	432
+South End CDP	61308	72
+South Haven	61402	243
+South St Paul	61492	20297
+Spicer	61690	1248
+Springfield	61816	1891
+Spring Grove	61852	1195
+Spring Hill	61888	55
+Spring Lake Park	61996	6561
+Spring Park	62014	1689
+Spring Valley	62104	2636
+Squaw Lake	62284	121
+Stacy	62320	1563
+Stanchfield CDP	62356	131
+Staples	62446	2505
+Starbuck	62500	1151
+Steen	62662	219
+Stephen	62698	783
+Stewart	62788	533
+Stewartville	62806	5866
+Stillwater	62824	18006
+Stockton	62896	655
+Storden	63022	231
+Strandquist	63112	68
+Strathcona	63130	63
+Sturgeon Lake	63220	495
+Sunburg	63454	102
+Sunfish Lake	63544	491
+Swanville	63778	386
+Taconite	64048	354
+Tamarack	64156	74
+Taopi	64210	61
+Taunton	64264	147
+Taylors Falls	64318	996
+Tenstrike	64444	192
+The Lakes CDP	64543	641
+The Ranch CDP	64547	26
+Thief River Falls	64570	8443
+Thomson	64750	163
+Tintah	64948	64
+Tonka Bay	65164	1500
+Tower	65272	408
+Tracy	65308	2053
+Trail	65344	44
+Trimont	65470	653
+Trommald	65506	106
+Trosky	65542	110
+Truman	65668	1027
+Turtle River	65794	71
+Twin Lakes	65920	220
+Twin Lakes CDP	65927	200
+Twin Valley	65938	735
+Two Harbors	65956	3599
+Tyler	66046	1077
+Ulen	66136	466
+Underwood	66172	333
+Upsala	66334	511
+Urbank	66388	67
+Utica	66424	291
+Vadnais Heights	66460	12578
+Vergas	66766	307
+Vermillion	66802	478
+Verndale	66874	592
+Vernon Center	66910	328
+Vesta	66982	356
+Victoria	67036	7609
+Viking	67090	122
+Villard	67144	292
+Vineland CDP	67180	1060
+Vining	67216	36
+Virginia	67288	8450
+Wabasha	67378	2604
+Wabasso	67396	575
+Waconia	67432	10853
+Wadena	67504	3938
+Wahkon	67558	250
+Waite Park	67612	6648
+Waldorf	67756	161
+Walker	67792	773
+Walnut Grove	67846	937
+Walters	67900	107
+Waltham	67918	148
+Wanamingo	67972	999
+Wanda	68008	62
+Warba	68080	170
+Warren	68170	1540
+Warroad	68224	1842
+Warsaw CDP	68260	802
+Waseca	68296	9214
+Watertown	68548	4175
+Waterville	68584	1813
+Watkins	68620	868
+Watson	68656	240
+Waubun	68674	423
+Waverly	68764	1413
+Wayzata	68818	3814
+Welcome	69070	786
+Wells	69106	2367
+Wendell	69142	130
+Westbrook	69250	658
+West Concord	69304	763
+Westport	69628	58
+West Roy Lake CDP	69690	50
+West St Paul	69700	19411
+West Union	69736	120
+Whalan	69808	112
+Wheaton	69844	1479
+Whipholt CDP	69880	84
+White Bear Lake	69970	23820
+White Earth CDP	70006	537
+Wilder	70258	60
+Willernie	70366	687
+Williams	70402	200
+Willmar	70420	19072
+Willow River	70492	395
+Wilmont	70582	319
+Wilton	70708	187
+Windom	70798	4508
+Winger	70870	250
+Winnebago	70924	1348
+Winona	71032	27226
+Winsted	71086	2255
+Winthrop	71122	1396
+Winton	71140	169
+Wolf Lake	71338	57
+Wolverton	71392	80
+Woodbury	71428	63116
+Wood Lake	71446	409
+Woodland	71500	460
+Woodstock	71680	152
+Worthington	71734	12650
+Wrenshall	71788	527
+Wright	71824	109
+Wykoff	71950	434
+Wyoming	72022	7737
+Zemple	72184	76
+Zimmerman	72238	5217
+Zumbro Falls	72310	139
+Zumbrota	72328	3236
