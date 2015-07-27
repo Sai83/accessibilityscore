@@ -35,6 +35,8 @@ def parse_raw_score(raw_file, refine_file, interplate=False, parse_location=Fals
                     
             elif ', Minnesota' in line: # this is city name
                 city = line.split(',')[0]
+                if 'Saint' in city:
+                    city = city.replace('Saint', 'St')
                 house_info['city'] = city
                 if parse_location:
                     if quote == 20:
@@ -55,7 +57,7 @@ def parse_raw_score(raw_file, refine_file, interplate=False, parse_location=Fals
                     if not address:  # does not return anything
                         print (line)
                         exit(1)
-                    county = location.county.split()[0]
+                    county = location.county.replace('County', '').strip()
                     zipcode = address.split(',')[-2].split()[-1]
                     house_info['county'] = county
                     house_info['zipcode'] = zipcode

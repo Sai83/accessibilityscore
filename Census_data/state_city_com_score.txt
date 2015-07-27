@@ -1,0 +1,905 @@
+city	disability_percentage	id	score
+Ada	0.116	00172	19
+Adams	0.135	00190	22
+Adrian	0.098	00262	16
+Afton	0.092	00316	15
+Aitkin	0.157	00460	26
+Akeley	0.158	00496	26
+Albany	0.102	00622	17
+Alberta	0.165	00676	28
+Albert Lea	0.145	00694	24
+Albertville	0.045	00730	7
+Alden	0.125	00838	21
+Aldrich	0.140	00892	23
+Alexandria	0.138	00928	23
+Alpha	0.045	01162	8
+Altura	0.077	01234	13
+Alvarado	0.057	01252	10
+Amboy	0.140	01324	23
+Andover	0.071	01486	12
+Angle Inlet	0.000	01558	0
+Annandale	0.089	01684	15
+Anoka	0.166	01720	28
+Appleton	0.195	01864	33
+Apple Valley	0.071	01900	12
+Arco	0.127	01972	21
+Arden Hills	0.071	02026	12
+Argyle	0.180	02134	30
+Arlington	0.133	02152	22
+Arnold	0.072	02260	12
+Ashby	0.167	02422	28
+Askov	0.272	02548	45
+Atwater	0.130	02692	22
+Audubon	0.102	02728	17
+Aurora	0.141	02872	23
+Austin	0.135	02908	23
+Avoca	0.125	03052	21
+Avon	0.070	03070	12
+Babbitt	0.201	03106	34
+Backus	0.164	03124	27
+Badger	0.152	03160	25
+Bagley	0.287	03196	48
+Baker	0.078	03214	13
+Balaton	0.140	03250	23
+Ball Club	0.102	03376	17
+Barnesville	0.098	03574	16
+Barnum	0.118	03628	20
+Barrett	0.186	03682	31
+Barry	0.118	03718	20
+Battle Lake	0.226	03970	38
+Baudette	0.191	04024	32
+Baxter	0.084	04042	14
+Bayport	0.144	04114	24
+Beardsley	0.225	04204	38
+Beaulieu	0.494	04348	82
+Beaver Bay	0.236	04456	39
+Beaver Creek	0.078	04492	13
+Becker	0.056	04618	9
+Bejou	0.084	04672	14
+Belgrade	0.098	04762	16
+Bellechester	0.099	04798	17
+Belle Plaine	0.073	04834	12
+Bellingham	0.236	04960	39
+Beltrami	0.059	05014	10
+Belview	0.211	05050	35
+Bemidji	0.134	05068	22
+Bena	0.221	05104	37
+Benson	0.175	05212	29
+Bertha	0.204	05482	34
+Bethel	0.101	05554	17
+Bigelow	0.050	05644	8
+Big Falls	0.295	05680	49
+Bigfork	0.345	05698	58
+Big Lake	0.242	05744	40
+Big Lake	0.087	05752	15
+Bingham Lake	0.118	05896	20
+Birchwood Village	0.132	06058	22
+Bird Island	0.163	06076	27
+Biscay	0.149	06112	25
+Biwabik	0.207	06148	35
+Blackduck	0.184	06256	31
+Blaine	0.074	06382	12
+Blomkest	0.219	06490	37
+Blooming Prairie	0.108	06580	18
+Bloomington	0.117	06616	20
+Blue Earth	0.127	06688	21
+Bluffton	0.085	06778	14
+Bock	0.241	06814	40
+Borup	0.094	07030	16
+Bovey	0.248	07048	41
+Bowlus	0.107	07066	18
+Boyd	0.214	07138	36
+Boy River	0.206	07174	34
+Braham	0.152	07282	25
+Brainerd	0.204	07300	34
+Brandon	0.100	07336	17
+Breckenridge	0.151	07462	25
+Breezy Point	0.076	07516	13
+Brewster	0.103	07660	17
+Bricelyn	0.177	07678	30
+Brooklyn Center	0.124	07948	21
+Brooklyn Park	0.092	07966	15
+Brook Park	0.136	07984	23
+Brooks	0.221	08038	37
+Brookston	0.303	08056	51
+Brooten	0.179	08092	30
+Browerville	0.163	08110	27
+Brownsdale	0.142	08164	24
+Browns Valley	0.229	08200	38
+Brownsville	0.171	08218	29
+Brownton	0.120	08254	20
+Bruno	0.167	08290	28
+Buckman	0.110	08416	18
+Buffalo	0.110	08452	18
+Buffalo Lake	0.144	08488	24
+Buhl	0.174	08524	29
+Burnsville	0.088	08794	15
+Burtrum	0.099	08902	17
+Butterfield	0.135	08992	22
+Byron	0.055	09154	9
+Caledonia	0.172	09226	29
+Callaway	0.153	09280	25
+Calumet	0.233	09316	39
+Cambridge	0.146	09370	24
+Campbell	0.164	09496	27
+Canby	0.171	09604	29
+Cannon Falls	0.119	09730	20
+Canton	0.168	09802	28
+Carlos	0.142	09964	24
+Carlton	0.168	10018	28
+Carver	0.021	10144	3
+Cass Lake	0.192	10252	32
+Cedar Mills	0.120	10468	20
+Center City	0.129	10576	22
+Centerville	0.050	10648	8
+Ceylon	0.242	10792	40
+Champlin	0.064	10846	11
+Chandler	0.164	10900	27
+Chanhassen	0.043	10918	7
+Chaska	0.079	10972	13
+Chatfield	0.093	11008	16
+Chickamaw Beach	0.077	11296	13
+Chisago City	0.139	11350	23
+Chisholm	0.199	11386	33
+Chokio	0.166	11440	28
+Circle Pines	0.094	11494	16
+Clara City	0.149	11548	25
+Claremont	0.179	11566	30
+Clarissa	0.128	11602	21
+Clarkfield	0.175	11656	29
+Clarks Grove	0.128	11674	21
+Clearbrook	0.170	11746	28
+Clear Lake	0.046	11764	8
+Clearwater	0.087	11800	14
+Clements	0.126	11836	21
+Cleveland	0.083	11872	14
+Climax	0.178	11962	30
+Clinton	0.251	11980	42
+Clitherall	0.359	12088	60
+Clontarf	0.129	12124	21
+Cloquet	0.134	12160	22
+Coates	0.093	12376	15
+Cobden	0.267	12394	44
+Cohasset	0.120	12412	20
+Cokato	0.100	12430	17
+Cold Spring	0.127	12484	21
+Coleraine	0.137	12502	23
+Cologne	0.063	12664	10
+Columbia Heights	0.118	12700	20
+Columbus	0.075	12718	12
+Comfrey	0.145	12772	24
+Comstock	0.104	12862	17
+Conger	0.081	12952	14
+Cook	0.132	13006	22
+Coon Rapids	0.097	13114	16
+Corcoran	0.056	13168	9
+Correll	0.167	13384	28
+Cosmos	0.103	13420	17
+Cottage Grove	0.080	13456	13
+Cottonwood	0.137	13564	23
+Courtland	0.056	13582	9
+Cromwell	0.292	13780	49
+Crookston	0.155	13870	26
+Crosby	0.209	13924	35
+Crosslake	0.153	13978	26
+Crystal	0.126	14158	21
+Currie	0.213	14320	35
+Cuyuna	0.103	14428	17
+Cyrus	0.111	14446	19
+Dakota	0.079	14518	13
+Dalton	0.101	14626	17
+Danube	0.101	14716	17
+Danvers	0.333	14734	56
+Darfur	0.227	14770	38
+Darwin	0.121	14842	20
+Dassel	0.182	14878	30
+Dawson	0.141	14968	23
+Dayton	0.060	15022	10
+Deephaven	0.047	15148	8
+Deer Creek	0.276	15184	46
+Deer River	0.213	15310	36
+Deerwood	0.215	15346	36
+De Graff	0.179	15418	30
+Delano	0.065	15454	11
+Delavan	0.144	15472	24
+Delhi	0.342	15544	57
+Dellwood	0.039	15616	6
+Denham	0.128	15670	21
+Dennison	0.163	15706	27
+Dent	0.214	15724	36
+Detroit Lakes	0.138	15832	23
+Dexter	0.134	15886	22
+Dilworth	0.111	15976	18
+Dodge Center	0.068	15994	11
+Donaldson	0.000	16030	0
+Donnelly	0.097	16084	16
+Doran	0.188	16156	31
+Dover	0.040	16264	7
+Dovray	0.136	16300	23
+Duluth	0.124	17000	21
+Dumont	0.041	17090	7
+Dundas	0.043	17126	7
+Dundee	0.065	17144	11
+Dunnell	0.149	17180	25
+Eagan	0.070	17288	12
+Eagle Bend	0.174	17342	29
+Eagle Lake	0.060	17378	10
+East Bethel	0.095	17486	16
+East Grand Forks	0.111	17612	19
+East Gull Lake	0.081	17630	13
+Easton	0.119	17738	20
+Ebro	0.255	17882	43
+Echo	0.086	17900	14
+Eden Prairie	0.057	18116	10
+Eden Valley	0.174	18134	29
+Edgerton	0.119	18152	20
+Edina	0.088	18188	15
+Effie	0.082	18260	14
+Eitzen	0.117	18368	20
+Elba	0.205	18386	34
+Elbow Lake	0.215	18440	36
+Elbow Lake	0.105	18458	18
+Elgin	0.060	18530	10
+Elizabeth	0.093	18566	16
+Elko New Market	0.026	18662	4
+Elk River	0.089	18674	15
+Elkton	0.130	18728	22
+Ellendale	0.126	18746	21
+Ellsworth	0.131	18836	22
+Elmdale	0.136	18872	23
+Elmore	0.183	18998	30
+Elrosa	0.161	19088	27
+Ely	0.159	19142	27
+Elysian	0.109	19160	18
+Emily	0.148	19286	25
+Emmons	0.095	19340	16
+Erhard	0.190	19556	32
+Erskine	0.150	19700	25
+Esko	0.065	19718	11
+Evan	0.314	19880	52
+Evansville	0.186	19898	31
+Eveleth	0.139	19934	23
+Excelsior	0.122	20078	20
+Eyota	0.086	20114	14
+Fairfax	0.180	20222	30
+Fairhaven	0.074	20276	12
+Fairmont	0.160	20330	27
+Falcon Heights	0.057	20420	9
+Faribault	0.120	20546	20
+Farmington	0.055	20618	9
+Farwell	0.176	20690	29
+Federal Dam	0.213	20798	35
+Felton	0.086	20834	14
+Fergus Falls	0.166	20906	28
+Fertile	0.164	20978	27
+Fifty Lakes	0.199	21032	33
+Finland	0.116	21104	19
+Finlayson	0.169	21122	28
+Fisher	0.054	21158	9
+Fish Lake	0.088	21190	15
+Flensburg	0.144	21266	24
+Floodwood	0.195	21338	32
+Florence	0.091	21410	15
+Foley	0.102	21536	17
+Forada	0.121	21608	20
+Forest Lake	0.097	21770	16
+Foreston	0.092	21824	15
+Fort Ripley	0.018	21932	3
+Fosston	0.164	21986	27
+Fountain	0.100	22094	17
+Foxhome	0.044	22202	7
+Franklin	0.133	22364	22
+Frazee	0.157	22472	26
+Freeborn	0.116	22526	19
+Freeport	0.067	22652	11
+Fridley	0.102	22814	17
+Frontenac	0.053	22904	9
+Frost	0.155	22940	26
+Fulda	0.171	22958	29
+Garden City	0.052	23084	9
+Garfield	0.127	23120	21
+Garrison	0.222	23192	37
+Garvin	0.090	23228	15
+Gary	0.094	23246	16
+Gaylord	0.174	23300	29
+Gem Lake	0.049	23318	8
+Geneva	0.140	23354	23
+Genola	0.054	23444	9
+Georgetown	0.056	23498	9
+Ghent	0.082	23660	14
+Gibbon	0.142	23678	24
+Gilbert	0.139	23714	23
+Gilman	0.058	23804	10
+Glencoe	0.092	23948	15
+Glenville	0.059	24056	10
+Glenwood	0.153	24074	25
+Glyndon	0.084	24182	14
+Golden Valley	0.109	24308	18
+Gonvick	0.198	24344	33
+Goodhue	0.082	24398	14
+Goodridge	0.162	24470	27
+Good Thunder	0.175	24506	29
+Goodview	0.102	24524	17
+Graceville	0.165	24758	27
+Granada	0.108	24884	18
+Grand Marais	0.149	24992	25
+Grand Meadow	0.125	25010	21
+Grand Rapids	0.184	25118	31
+Granite Falls	0.181	25280	30
+Grant	0.098	25334	16
+Grasston	0.168	25424	28
+Greenbush	0.152	25604	25
+Greenfield	0.071	25622	12
+Green Isle	0.100	25658	17
+Greenwald	0.073	25874	12
+Greenwood	0.032	25918	5
+Grey Eagle	0.121	26000	20
+Grove City	0.091	26126	15
+Grygla	0.194	26216	32
+Gully	0.065	26270	11
+Hackensack	0.183	26378	30
+Hadley	0.091	26450	15
+Hallock	0.140	26576	23
+Halma	0.286	26612	48
+Halstad	0.151	26630	25
+Hamburg	0.077	26666	13
+Ham Lake	0.068	26738	11
+Hammond	0.167	26828	28
+Hampton	0.044	26864	7
+Hancock	0.111	26936	19
+Hanley Falls	0.077	26972	13
+Hanover	0.025	26990	4
+Hanska	0.126	27008	21
+Harding	0.284	27098	47
+Hardwick	0.142	27116	24
+Harmony	0.227	27188	38
+Harris	0.113	27278	19
+Hartland	0.092	27404	15
+Hastings	0.114	27530	19
+Hatfield	0.056	27566	9
+Hawley	0.082	27746	14
+Hayfield	0.078	27872	13
+Hayward	0.132	27944	22
+Hazel Run	0.125	28016	21
+Hector	0.157	28124	26
+Heidelberg	0.029	28214	5
+Henderson	0.164	28394	27
+Hendricks	0.187	28430	31
+Hendrum	0.132	28484	22
+Henning	0.252	28520	42
+Henriette	0.340	28574	57
+Herman	0.242	28646	40
+Hermantown	0.115	28682	19
+Heron Lake	0.141	28700	23
+Hewitt	0.247	28754	41
+Hibbing	0.191	28790	32
+Hill City	0.236	29096	39
+Hillman	0.026	29150	4
+Hills	0.121	29204	20
+Hilltop	0.178	29258	30
+Hinckley	0.170	29294	28
+Hitterdal	0.106	29402	18
+Hoffman	0.142	29474	24
+Hokah	0.077	29510	13
+Holdingford	0.105	29582	18
+Holland	0.162	29618	27
+Hollandale	0.161	29636	27
+Holloway	0.138	29672	23
+Holt	0.111	29870	19
+Homer	0.115	30014	19
+Hopkins	0.115	30140	19
+Houston	0.155	30230	26
+Howard Lake	0.097	30284	16
+Hoyt Lakes	0.172	30302	29
+Hugo	0.064	30392	11
+Humboldt	0.160	30446	27
+Hutchinson	0.113	30644	19
+Ihlen	0.512	30806	85
+Independence	0.046	30842	8
+Inger	0.146	30950	24
+International Falls	0.176	31040	29
+Inver Grove Heights	0.104	31076	17
+Iona	0.144	31094	24
+Iron Junction	0.367	31238	61
+Ironton	0.147	31274	25
+Isanti	0.094	31328	16
+Isle	0.215	31472	36
+Ivanhoe	0.140	31526	23
+Jackson	0.119	31562	20
+Janesville	0.088	31706	15
+Jasper	0.188	31760	31
+Jeffers	0.092	31796	15
+Jenkins	0.087	31832	15
+Johnson	0.000	32012	0
+Jordan	0.106	32174	18
+Kandiyohi	0.111	32372	19
+Karlstad	0.206	32444	34
+Kasota	0.124	32462	21
+Kasson	0.082	32498	14
+Keewatin	0.128	32570	21
+Kelliher	0.233	32606	39
+Kellogg	0.267	32642	44
+Kennedy	0.195	32732	32
+Kenneth	0.038	32750	6
+Kensington	0.086	32768	14
+Kent	0.176	32786	29
+Kenyon	0.114	32840	19
+Kerkhoven	0.111	32876	19
+Kerrick	0.224	32912	37
+Kettle River	0.125	32966	21
+Kiester	0.140	33056	23
+Kilkenny	0.071	33110	12
+Kimball	0.128	33164	21
+Kinbrae	0.000	33236	0
+Kingston	0.152	33344	25
+Kinney	0.313	33416	52
+La Crescent	0.070	33866	12
+Lafayette	0.117	33920	20
+Lake Benton	0.109	34100	18
+Lake Bronson	0.179	34136	30
+Lake City	0.113	34172	19
+Lake Crystal	0.121	34190	20
+Lake Elmo	0.058	34244	10
+Lakefield	0.110	34316	18
+Lake George	0.256	34370	43
+Lake Henry	0.217	34478	36
+Lakeland	0.065	34622	11
+Lakeland Shores	0.135	34658	23
+Lake Lillian	0.167	34676	28
+Lake Park	0.098	34784	16
+Lake St. Croix Beach	0.118	34865	20
+Lake Shore	0.139	34928	23
+Lakeville	0.064	35180	11
+Lake Wilson	0.130	35198	22
+Lamberton	0.127	35288	21
+Lancaster	0.134	35378	22
+Landfall	0.109	35414	18
+Lanesboro	0.138	35450	23
+Lansing	0.211	35558	35
+Laporte	0.130	35612	22
+La Prairie	0.105	35648	18
+La Salle	0.085	35702	14
+Lastrup	0.175	35720	29
+Lauderdale	0.065	35738	11
+Le Center	0.107	36134	18
+Lengby	0.287	36404	48
+Leonard	0.241	36494	40
+Leonidas	0.309	36530	51
+Leota	0.172	36548	29
+Le Roy	0.129	36620	22
+Lester Prairie	0.091	36728	15
+Le Sueur	0.113	36746	19
+Lewiston	0.114	36800	19
+Lewisville	0.214	36818	36
+Lexington	0.152	36836	25
+Lilydale	0.169	37016	28
+Lindstrom	0.093	37304	16
+Lino Lakes	0.062	37322	10
+Lismore	0.114	37412	19
+Litchfield	0.133	37448	22
+Little Canada	0.142	37502	24
+Little Falls	0.193	37556	32
+Littlefork	0.276	37592	46
+Little Rock	0.215	37656	36
+Long Beach	0.131	37970	22
+Long Lake	0.109	38006	18
+Long Prairie	0.121	38060	20
+Longville	0.188	38114	31
+Lonsdale	0.061	38150	10
+Loretto	0.074	38222	12
+Louisburg	0.214	38258	36
+Lowry	0.084	38366	14
+Lucan	0.092	38420	15
+Lutsen	0.075	38546	12
+Luverne	0.130	38564	22
+Lyle	0.169	38654	28
+Lynd	0.090	38708	15
+Mabel	0.180	38888	30
+McGrath	0.286	38996	48
+McGregor	0.319	39014	53
+McIntosh	0.210	39050	35
+McKinley	0.189	39140	32
+Madelia	0.116	39230	19
+Madison	0.156	39266	26
+Madison Lake	0.064	39320	11
+Magnolia	0.086	39338	14
+Mahnomen	0.195	39392	33
+Mahnomen	0.072	39394	12
+Mahtomedi	0.097	39428	16
+Mahtowa	0.062	39446	10
+Manchester	0.450	39716	75
+Manhattan Beach	0.178	39806	30
+Mankato	0.095	39878	16
+Mantorville	0.099	39986	16
+Maple Grove	0.050	40166	8
+Maple Lake	0.099	40220	16
+Maple Plain	0.087	40256	14
+Mapleton	0.146	40310	24
+Mapleview	0.205	40346	34
+Maplewood	0.108	40382	18
+Marble	0.284	40418	47
+Marietta	0.400	40526	67
+Marine on St. Croix	0.099	40562	16
+Marshall	0.112	40688	19
+Martin Lake	0.103	40814	17
+Mayer	0.057	41138	9
+Maynard	0.121	41210	20
+Mazeppa	0.092	41282	15
+Meadowlands	0.205	41372	34
+Medford	0.077	41426	13
+Medicine Lake	0.044	41462	7
+Medina	0.040	41480	7
+Meire Grove	0.217	41534	36
+Melrose	0.092	41570	15
+Menahga	0.205	41660	34
+Mendota	0.099	41678	17
+Mendota Heights	0.086	41696	14
+Mentor	0.300	41714	50
+Merrifield	0.250	41804	42
+Middle River	0.101	41912	17
+Midway	0.136	42010	23
+Miesville	0.057	42092	9
+Milaca	0.175	42110	29
+Milan	0.209	42146	35
+Millerville	0.062	42254	10
+Millville	0.214	42290	36
+Milroy	0.189	42362	31
+Miltona	0.206	42398	34
+Minneapolis	0.101	43000	17
+Minneiska	0.130	43036	22
+Minneota	0.168	43126	28
+Minnesota City	0.097	43144	16
+Minnesota Lake	0.147	43198	25
+Minnetonka	0.088	43252	15
+Minnetonka Beach	0.036	43270	6
+Minnetrista	0.067	43306	11
+Mizpah	0.111	43540	19
+Montevideo	0.152	43720	25
+Montgomery	0.085	43738	14
+Monticello	0.086	43774	14
+Montrose	0.060	43810	10
+Moorhead	0.105	43864	17
+Moose Lake	0.251	43954	42
+Mora	0.183	44044	31
+Morgan	0.122	44116	20
+Morris	0.109	44242	18
+Morristown	0.129	44296	22
+Morton	0.059	44368	10
+Motley	0.155	44422	26
+Mound	0.100	44476	17
+Mounds View	0.096	44530	16
+Mountain Iron	0.087	44548	15
+Mountain Lake	0.164	44566	27
+Murdock	0.058	44818	10
+Myrtle	0.177	44890	30
+Nashua	0.085	44944	14
+Nashwauk	0.210	44980	35
+Nassau	0.159	45016	26
+Naytahwaush	0.077	45052	13
+Nelson	0.144	45106	24
+Nerstrand	0.057	45196	10
+Nett Lake	0.173	45268	29
+Nevis	0.110	45340	18
+New Auburn	0.178	45376	30
+New Brighton	0.098	45430	16
+Newfolden	0.105	45520	18
+New Germany	0.115	45556	19
+New Hope	0.133	45628	22
+New London	0.137	45682	23
+New Munich	0.080	45772	13
+Newport	0.090	45790	15
+New Prague	0.099	45808	17
+New Richland	0.138	45862	23
+New Trier	0.164	46024	27
+New Ulm	0.115	46042	19
+New York Mills	0.185	46060	31
+Nicollet	0.131	46150	22
+Nielsville	0.148	46258	25
+Nimrod	0.267	46294	44
+Nisswa	0.110	46348	18
+Norcross	0.200	46492	33
+North Branch	0.105	46798	18
+Northfield	0.065	46924	11
+North Mankato	0.097	47068	16
+North Oaks	0.129	47104	21
+Northome	0.205	47122	34
+Northrop	0.091	47212	15
+North St. Paul	0.114	47221	19
+Norwood Young America	0.104	47520	17
+Nowthen	0.080	47536	13
+Oakdale	0.084	47680	14
+Oak Grove	0.073	47690	12
+Oak Park Heights	0.167	47914	28
+Oakport	0.080	47923	13
+Odessa	0.164	48058	27
+Odin	0.099	48094	17
+Ogema	0.162	48130	27
+Ogilvie	0.188	48166	31
+Okabena	0.136	48184	23
+Oklee	0.231	48202	39
+Olivia	0.133	48256	22
+Onamia	0.223	48310	37
+Ormsby	0.119	48562	20
+Orono	0.062	48580	10
+Oronoco	0.066	48598	11
+Orr	0.089	48634	15
+Ortonville	0.170	48706	28
+Osage	0.129	48760	22
+Osakis	0.200	48796	33
+Oslo	0.123	48976	21
+Osseo	0.150	49012	25
+Ostrander	0.179	49030	30
+Otsego	0.056	49138	9
+Ottertail	0.109	49210	18
+Owatonna	0.101	49300	17
+Palisade	0.302	49498	50
+Parkers Prairie	0.158	49732	26
+Park Rapids	0.201	49768	34
+Paynesville	0.144	49966	24
+Pease	0.153	50056	25
+Pelican Rapids	0.146	50164	24
+Pemberton	0.087	50200	14
+Pennock	0.097	50344	16
+Pequot Lakes	0.154	50416	26
+Perham	0.165	50470	27
+Perley	0.115	50506	19
+Peterson	0.180	50596	30
+Pierz	0.202	50776	34
+Pillager	0.186	50902	31
+Pine Bend	0.600	51028	100
+Pine City	0.211	51064	35
+Pine Island	0.078	51136	13
+Pine Point	0.121	51234	20
+Pine River	0.241	51280	40
+Pine Springs	0.044	51316	7
+Pipestone	0.156	51388	26
+Plainview	0.078	51424	13
+Plato	0.126	51460	21
+Plummer	0.132	51712	22
+Plymouth	0.075	51730	13
+Ponemah	0.032	51892	5
+Porter	0.140	52144	23
+Preston	0.147	52450	25
+Princeton	0.197	52522	33
+Prinsburg	0.058	52558	10
+Prior Lake	0.066	52594	11
+Proctor	0.153	52630	25
+Quamba	0.144	52756	24
+Racine	0.093	52882	16
+Ramsey	0.081	53026	14
+Randall	0.136	53080	23
+Randolph	0.105	53098	17
+Ranier	0.149	53134	25
+Raymond	0.131	53296	22
+Redby	0.058	53386	10
+Red Lake	0.063	53458	10
+Red Lake Falls	0.144	53476	24
+Red Wing	0.121	53620	20
+Redwood Falls	0.153	53656	26
+Regal	0.265	53710	44
+Remer	0.219	53782	36
+Renville	0.170	53890	28
+Revere	0.250	53908	42
+Rice	0.081	53998	13
+Rice Lake	0.217	54056	36
+Richfield	0.106	54214	18
+Richmond	0.146	54268	24
+Richville	0.144	54340	24
+Riverland	0.032	54596	5
+Riverton	0.116	54736	19
+Robbinsdale	0.144	54808	24
+Rochester	0.086	54880	14
+Rock Creek	0.089	54934	15
+Rockford	0.066	55006	11
+Rockville	0.067	55078	11
+Rogers	0.060	55186	10
+Rollingstone	0.095	55276	16
+Ronneby	0.250	55366	42
+Roosevelt	0.206	55438	34
+Roscoe	0.116	55510	19
+Roseau	0.138	55546	23
+Rose Creek	0.135	55600	23
+Rosemount	0.067	55726	11
+Roseville	0.121	55852	20
+Rothsay	0.087	56014	15
+Round Lake	0.106	56086	18
+Royalton	0.087	56176	15
+Roy Lake	0.273	56212	45
+Rush City	0.128	56266	21
+Rushford	0.083	56284	14
+Rushford Village	0.104	56302	17
+Rushmore	0.158	56338	26
+Russell	0.127	56428	21
+Ruthton	0.147	56482	24
+Rutledge	0.162	56518	27
+Sabin	0.072	56554	12
+Sacred Heart	0.142	56572	24
+St. Anthony  (Hennepin and Ramsey Counties)	0.136	56680	23
+St. Anthony  (Stearns County)	0.029	56698	5
+St. Augusta	0.070	56724	12
+St. Bonifacius	0.093	56770	16
+St. Charles	0.075	56788	12
+St. Clair	0.039	56824	6
+St. Cloud	0.125	56896	21
+St. Francis	0.137	56950	23
+St. Hilaire	0.202	57022	34
+St. James	0.107	57040	18
+St. Joseph	0.053	57130	9
+St. Leo	0.140	57202	23
+St. Louis Park	0.088	57220	15
+St. Martin	0.076	57238	13
+St. Marys Point	0.060	57292	10
+St. Michael	0.047	57346	8
+St. Paul	0.114	58000	19
+St. Paul Park	0.055	58018	9
+St. Peter	0.095	58036	16
+St. Rosa	0.022	58072	4
+St. Stephen	0.080	58090	13
+St. Vincent	0.207	58144	34
+Sanborn	0.178	58306	30
+Sandstone	0.219	58396	37
+Sargeant	0.240	58576	40
+Sartell	0.099	58612	16
+Sauk Centre	0.177	58648	30
+Sauk Rapids	0.127	58684	21
+Savage	0.057	58738	10
+Scandia	0.078	58900	13
+Scanlon	0.153	58936	26
+Seaforth	0.066	59098	11
+Searles	0.064	59116	11
+Sebeka	0.147	59152	25
+Sedan	0.014	59188	2
+Shafer	0.085	59314	14
+Shakopee	0.066	59350	11
+Shelly	0.145	59566	24
+Sherburn	0.133	59620	22
+Shevlin	0.152	59782	25
+Shoreview	0.087	59998	14
+Shorewood	0.049	60016	8
+Silver Bay	0.157	60250	26
+Silver Creek	0.156	60322	26
+Silver Lake	0.127	60376	21
+Skyline	0.168	60754	28
+Slayton	0.189	60808	31
+Sleepy Eye	0.110	60844	18
+Sobieski	0.080	61006	13
+Solway	0.088	61114	15
+Soudan	0.160	61204	27
+South End	0.069	61308	12
+South Haven	0.107	61402	18
+South St. Paul	0.109	61492	18
+Spicer	0.151	61690	25
+Springfield	0.194	61816	32
+Spring Grove	0.191	61852	32
+Spring Hill	0.055	61888	9
+Spring Lake Park	0.121	61996	20
+Spring Park	0.150	62014	25
+Spring Valley	0.130	62104	22
+Squaw Lake	0.091	62284	15
+Stacy	0.132	62320	22
+Stanchfield	0.237	62356	39
+Staples	0.196	62446	33
+Starbuck	0.262	62500	44
+Steen	0.114	62662	19
+Stephen	0.161	62698	27
+Stewart	0.139	62788	23
+Stewartville	0.064	62806	11
+Stillwater	0.088	62824	15
+Stockton	0.122	62896	20
+Storden	0.173	63022	29
+Strandquist	0.103	63112	17
+Strathcona	0.000	63130	0
+Sturgeon Lake	0.145	63220	24
+Sunburg	0.157	63454	26
+Sunfish Lake	0.098	63544	16
+Swanville	0.114	63778	19
+Taconite	0.153	64048	25
+Tamarack	0.203	64156	34
+Taopi	0.180	64210	30
+Taunton	0.048	64264	8
+Taylors Falls	0.139	64318	23
+Tenstrike	0.109	64444	18
+The Lakes	0.089	64543	15
+The Ranch	0.500	64547	83
+Thief River Falls	0.128	64570	21
+Thomson	0.055	64750	9
+Tintah	0.047	64948	8
+Tonka Bay	0.048	65164	8
+Tower	0.213	65272	36
+Tracy	0.184	65308	31
+Trail	0.432	65344	72
+Trimont	0.185	65470	31
+Trommald	0.113	65506	19
+Trosky	0.200	65542	33
+Truman	0.127	65668	21
+Turtle River	0.099	65794	16
+Twin Lakes	0.073	65920	12
+Twin Lakes	0.080	65927	13
+Twin Valley	0.129	65938	22
+Two Harbors	0.148	65956	25
+Tyler	0.199	66046	33
+Ulen	0.161	66136	27
+Underwood	0.111	66172	19
+Upsala	0.157	66334	26
+Urbank	0.134	66388	22
+Utica	0.093	66424	15
+Vadnais Heights	0.083	66460	14
+Vergas	0.195	66766	33
+Vermillion	0.069	66802	12
+Verndale	0.279	66874	46
+Vernon Center	0.101	66910	17
+Vesta	0.104	66982	17
+Victoria	0.047	67036	8
+Viking	0.000	67090	0
+Villard	0.158	67144	26
+Vineland	0.116	67180	19
+Vining	0.083	67216	14
+Virginia	0.205	67288	34
+Wabasha	0.190	67378	32
+Wabasso	0.097	67396	16
+Waconia	0.078	67432	13
+Wadena	0.187	67504	31
+Wahkon	0.140	67558	23
+Waite Park	0.138	67612	23
+Waldorf	0.211	67756	35
+Walker	0.283	67792	47
+Walnut Grove	0.213	67846	36
+Walters	0.103	67900	17
+Waltham	0.068	67918	11
+Wanamingo	0.152	67972	25
+Wanda	0.081	68008	13
+Warba	0.171	68080	28
+Warren	0.149	68170	25
+Warroad	0.102	68224	17
+Warsaw	0.128	68260	21
+Waseca	0.115	68296	19
+Watertown	0.116	68548	19
+Waterville	0.154	68584	26
+Watkins	0.097	68620	16
+Watson	0.083	68656	14
+Waubun	0.118	68674	20
+Waverly	0.067	68764	11
+Wayzata	0.134	68818	22
+Welcome	0.117	69070	20
+Wells	0.132	69106	22
+Wendell	0.292	69142	49
+Westbrook	0.132	69250	22
+West Concord	0.135	69304	22
+Westport	0.190	69628	32
+West Roy Lake	0.140	69690	23
+West St. Paul	0.121	69700	20
+West Union	0.000	69736	0
+Whalan	0.062	69808	10
+Wheaton	0.151	69844	25
+Whipholt	0.214	69880	36
+White Bear Lake	0.097	69970	16
+White Earth	0.235	70006	39
+Wilder	0.100	70258	17
+Willernie	0.112	70366	19
+Williams	0.145	70402	24
+Willmar	0.140	70420	23
+Willow River	0.094	70492	16
+Wilmont	0.122	70582	20
+Wilton	0.096	70708	16
+Windom	0.155	70798	26
+Winger	0.088	70870	15
+Winnebago	0.164	70924	27
+Winona	0.105	71032	17
+Winsted	0.117	71086	20
+Winthrop	0.105	71122	17
+Winton	0.059	71140	10
+Wolf Lake	0.140	71338	23
+Wolverton	0.200	71392	33
+Woodbury	0.056	71428	9
+Wood Lake	0.127	71446	21
+Woodland	0.037	71500	6
+Woodstock	0.118	71680	20
+Worthington	0.117	71734	19
+Wrenshall	0.078	71788	13
+Wright	0.092	71824	15
+Wykoff	0.129	71950	22
+Wyoming	0.095	72022	16
+Zemple	0.132	72184	22
+Zimmerman	0.063	72238	11
+Zumbro Falls	0.086	72310	14
+Zumbrota	0.086	72328	14

@@ -1,0 +1,30 @@
+Subrequest query:
+
+Range: State, level: county	    level:state; sublevel:true; container:None
+Range: State, level: city       level:place; sublevel:true; container:state
+Range: State, level: tract		level:tract; sublevel:true; container:state
+
+Range: county, level: city      N/A
+Range: county, level: tract		level:tract; sublevel:true; container:county
+
+Range: city, level: tract		level:tract; sublevel:true; container:city
+
+
+variables:
+total pop		B18101_001E
+
+Male < 5		B18101_004E
+Male 5 to 17	B18101_007E
+Male 18 to 34	B18101_010E
+Male 35 to 64	B18101_013E
+Male 65 to 74	B18101_016E
+Male > 75		B18101_019E
+
+Female < 5		B18101_023E
+Female 5 to 17	B18101_026E
+Female 18 to 34	B18101_029E
+Female 35 to 64	B18101_032E
+Female 65 to 74	B18101_035E
+Female > 75		B18101_038E
+
+

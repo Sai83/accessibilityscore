@@ -7,21 +7,21 @@ address	city	county	disabled	elderly	hud_score	lat	long	name	value_rating	zipcod
 1800 High Pointe Ln Nw	Rochester	Olmsted	False	True	99	44.082637	-92.48920690000001	High Pointe	4.0	55901
 121 Faust St	Pierz	Morrison	False	True	99	45.9779667	-94.1000703	Rose Court	4.0	56364
 114 2nd St Ne	Ulen	Clay	True	True	99	47.077829	-96.25619499999999	Agassiz Apartments	3.8	56585
-2626 Kenzie Ter	Saint Anthony	Hennepin	False	True	99	45.0150379	-93.2214025	Walker Methodist Kenzie (	3.8	55418
+2626 Kenzie Ter	St Anthony	Hennepin	False	True	99	45.0150379	-93.2214025	Walker Methodist Kenzie (	3.8	55418
 1600 Eastwood Road Se	Rochester	Olmsted	True	False	99	44.0069541	-92.43976870000002	Bostrom Terrace	3.8	55904
 255 Mill Street	Excelsior	Hennepin	False	True	99	44.9015105	-93.5614987	South Shore Park	3.7	55331
-1455 Almond Ave	Saint Paul	Ramsey	False	True	99	44.979646	-93.16131800000001	Lyngblomsten Apartments	3.7	55108
+1455 Almond Ave	St Paul	Ramsey	False	True	99	44.979646	-93.16131800000001	Lyngblomsten Apartments	3.7	55108
 21001 John Milless Dr	Rogers	Hennepin	False	True	99	45.1892434	-93.5479776	Pleasant Place Apartments	3.7	55374
 608 Washington Ave So	Albert Lea	Freeborn	False	True	99	43.6449804	-93.3703158	Albert Lea Senior Housing	3.7	56007
 5010 Summit Ave	Edina	Hennepin	False	True	99	44.9124021	-93.3553	Woodhaven	3.6	55436
 1211 4th Ave N	Sauk Rapids	Benton	False	True	99	45.6047878	-94.17542519999999	Good Shepherd Homes	3.6	56379
 2001 S Ninth St	Minneapolis	Hennepin	False	True	99	44.963775	-93.24361499999999	Kosciolek House	3.5	55404
 410 4th Ave S	Long Prairie	Todd	False	True	99	45.9693639	-94.8587823	Prairie View 400	3.5	56347
-643 Dayton Ave	Saint Paul	Ramsey	False	True	99	44.9477199	-93.127183	Ramsey Commons	3.5	55104
+643 Dayton Ave	St Paul	Ramsey	False	True	99	44.9477199	-93.127183	Ramsey Commons	3.5	55104
 10000 Newton Ave S	Bloomington	Hennepin	False	True	99	44.8230204	-93.3070599	Newton Manor	3.5	55431
 215 Linden Ave W	Winsted	McLeod	False	True	99	44.971367	-94.0480765	Linden Wood Apartments	2.0	55395
 2011 Nobles Street	Worthington	Nobles	False	True	99	43.6163087	-95.5787436	Asi Worthington	2.0	56187
-2713 W Superior St	Duluth	St	False	True	99	46.760742	-92.13299599999999	Northfield Apartments	2.0	55806
+2713 W Superior St	Duluth	St Louis	False	True	99	46.760742	-92.13299599999999	Northfield Apartments	2.0	55806
 16700 Main St	Eden Prairie	Hennepin	False	True	99	44.8634589	-93.49009269999999	Edendale Residence Inc	2.0	55346
 500 49th Ave N	Minneapolis	Hennepin	False	True	99	45.0441687	-93.28630620000001	Accessible Space	3.4	55430
 1199 Bahls Dr	Hastings	Dakota	False	True	99	44.7366847	-92.8738537	Oak Ridge Manor	3.4	55033
@@ -30,56 +30,56 @@ address	city	county	disabled	elderly	hud_score	lat	long	name	value_rating	zipcod
 41 Eighth Avenue N	Hopkins	Hennepin	True	False	98	44.925895	-93.409639	Fraser Hopkins Court	4.4	55343
 405 E Main St	Lewiston	Winona	True	False	98	43.9840218	-91.8633524	Hco Investments Inc	4.0	55952
 169 Hambroer St	Eden Valley	Meeker	True	True	98	45.32381789999999	-94.5509889	Edenbrook Apartments	4.0	55329
-6717 Old Sawmill Rd	Harris	Chisago	True	True	98	45.58929699999999	-92.972961	Pinewood Apartments	3.9	55032
+6717 Old Sawmill Rd	Harris	Chisago	True	True	98	45.58929699999999	-92.972961	Pinewood Apartments - Harris	3.9	55032
 303 Cedar St N	Grey Eagle	Todd	True	True	98	45.8266433	-94.74954129999999	Grey Eagle Housing Assoc	3.8	56336
-1560 Bellows St	West Saint Paul	Dakota	False	True	98	44.8992712	-93.09158049999999	Mount Carmel Manor Housing Corp	3.7	55118
+1560 Bellows St	West St Paul	Dakota	False	True	98	44.8992712	-93.09158049999999	Mount Carmel Manor Housing Corp	3.7	55118
 1421 Tenth Ave	Newport	Washington	False	True	98	44.869386	-92.99703219999999	Red Rock Manor	3.7	55055
 8151 45th Ave N	New Hope	Hennepin	False	True	98	45.035926	-93.383512	Winnetka West	3.6	55428
 20 Grand Ave N	Kensington	Douglas	True	True	98	45.7802646	-95.6934027	Runestone Apartments	3.6	56343
 396 Cedar St E	Motley	Morrison	True	True	98	46.3330891	-94.6409525	Sunny Pines Apartments	2.0	56466
 150 Pleasant Hill Dr	Winona	Winona	False	True	98	44.046365	-91.702978	Winona Arms	2.0	55987
-619 Lafayette Rd N	Saint Paul	Ramsey	False	True	98	44.9599959	-93.08272400000001	Nhhi-St Paul Barrier Free Hsg	3.7	55130
+619 Lafayette Rd N	St Paul	Ramsey	False	True	98	44.9599959	-93.08272400000001	Nhhi-St Paul Barrier Free Hsg	3.7	55130
 6200 Fifth St Ne	Fridley	Anoka	False	True	97	45.08109899999999	-93.26136699999999	Norwood Square	5.0	55432
 1221 22nd St S	Sartell	Stearns	False	True	97	45.5907411	-94.2261771	Sartell Senior Housing Inc	4.4	56377
 601 Oak Street	Breckenridge	Wilkin	False	True	97	46.2740316	-96.5941302	Appletree Court	4.3	56520
 1409 Becker Ave Se	Willmar	Kandiyohi	True	False	97	45.12145	-95.0254028	Becker Apartments	4.0	56201
 219 Se Elm St	Renville	Renville	False	True	97	44.7850287	-95.2148859	East Ridge Court	3.9	56284
 1333 S Seventh St	Moorhead	Clay	False	True	97	46.8603558	-96.7700131	Eventide Living Center A Mn N-P Cp	3.7	56560
-516 Humboldt Ave	Saint Paul	Ramsey	False	True	97	44.930373	-93.081954	Wilder 202 Apartments	3.5	55107
+516 Humboldt Ave	St Paul	Ramsey	False	True	97	44.930373	-93.081954	Wilder 202 Apartments	3.5	55107
 206 Lawler Ave N	Hinckley	Pine	False	True	97	46.0167359	-92.9409488	Mighty Fortress Manor	2.0	55037
 20720 Holt Ave	Lakeville	Dakota	False	True	97	44.6493145	-93.2411237	Fairfield Terrace	2.0	55044
 201 E Seventh St	Red Wing	Goodhue	False	True	97	44.564326	-92.52466899999999	Cooperidge	3.6	55066
 1370 Curve Crest Blvd W	Stillwater	Washington	True	False	96	45.04153059999999	-92.8259049	Hillcrest Apartments	5.0	55082
 2025 18 1/2 Ave Nw	Rochester	Olmsted	True	False	96	44.04529	-92.491097	Northgate Community Housing	5.0	55901
 12721 Greenwood Dr	Burnsville	Dakota	True	False	96	44.77109060000001	-93.3033406	Leah'S Apartments	4.7	55337
-500 Dale St N	Saint Paul	Ramsey	True	False	96	44.9561716	-93.12591239999999	King'S Crossing	4.3	55103
+500 Dale St N	St Paul	Ramsey	True	False	96	44.9561716	-93.12591239999999	King'S Crossing	4.3	55103
 659 Osborne Rd Ne	Spring Lake Park	Anoka	False	True	96	45.108989	-93.255256	Osborne Apartments Inc	3.7	55432
 101 First St Sw	Dodge Center	Dodge	True	True	96	44.026952	-92.85677799999999	Center View Apartments	3.6	55927
 1320 Black Oak Ave	Montevideo	Chippewa	True	True	96	44.9488968	-95.71025949999999	Burnsdale 1	3.5	56265
-621 S Second St	Mankato	Blue	False	True	96	44.1618684	-94.0061704	The Durham Apartments	2.0	56001
+621 S Second St	Mankato	Blue Earth	False	True	96	44.1618684	-94.0061704	The Durham Apartments	2.0	56001
 150 Se Fifth Ave	Spring Grove	Houston	False	True	96	43.55961500000001	-91.6292242	Handicapped Hsg Of Spring Grove	2.0	55974
 300 Se 8th Ave	Little Falls	Morrison	False	True	96	45.9663564	-94.3600477	Alverna Apartments	2.0	56345
 325 1st Ave Sw	Rochester	Olmsted	False	True	96	44.01949459999999	-92.4649481	Newbridge Apartments	2.0	55902
 10619 Beard Ave S	Bloomington	Hennepin	False	True	96	44.81095699999999	-93.32372099999999	Penelope 35-2 Apartments	3.4	55431
-1975 15th Ave Se	Saint Cloud	Sherburne	False	True	95	45.5412513	-94.13214029999999	Benet Place South	5.0	56304
+1975 15th Ave Se	St Cloud	Sherburne	False	True	95	45.5412513	-94.13214029999999	Benet Place South	5.0	56304
 609 E Hickory Ave	Olivia	Renville	True	False	95	44.7834588	-94.986513	Hickory Haven Inc	5.0	56277
 2880 Market Place Drive	Little Canada	Ramsey	False	True	95	45.027885	-93.10165599999999	Garden Terrace Commons	5.0	55117
 712 E Cottonwood St	Springfield	Brown	False	True	95	44.23537839999999	-94.96571949999999	Cottonwood Ridge Apartments	4.5	56087
 917 20th Ave Se	Willmar	Kandiyohi	True	False	95	45.102211	-95.0320541	West Central Mental Health Hng Inc	4.2	56201
-4062 Haines Rd	Duluth	St	True	False	95	46.8046648	-92.1747223	Pine Grove Apartments/	3.9	55811
+4062 Haines Rd	Duluth	St Louis	True	False	95	46.8046648	-92.1747223	Pine Grove Apartments/	3.9	55811
 2050 Haughton Ave	North Mankato	Nicollet	False	True	95	44.1896827	-94.03367089999999	Livinglinks	3.9	56003
 407 N Oak St	Chaska	Carver	False	True	95	44.7878795	-93.59830529999999	Chaska Manor Inc	3.8	55318
 805 Wildwood Rd	Mahtomedi	Washington	False	True	95	45.050862	-92.981307	East Shore Place	3.7	55115
 303 Jewett St	Marshall	Lyon	True	False	95	44.447724	-95.76386699999999	River Winds	3.6	56258
 2030 Lydia Ave E	Maplewood	Ramsey	False	True	95	45.030823	-93.014652	Concordia Arms	3.6	55109
-3220 8th Ave E	Hibbing	St	False	True	95	47.41265600000001	-92.93061999999999	Lee Center	2.0	55746
+3220 8th Ave E	Hibbing	St Louis	False	True	95	47.41265600000001	-92.93061999999999	Lee Center	2.0	55746
 2559 Moundsview Dr	Moundsview	Ramsey	False	True	95	45.1041642	-93.20954499999999	Wildwood Manor	2.0	55112
 11333 Fairfield Rd W	Minnetonka	Hennepin	False	True	94	44.9755148	-93.43807029999999	Boulevard Gardens	4.7	55305
 220 13th St N	Sauk Rapids	Benton	False	True	94	45.604809	-94.179244	Shepherd Oak West	4.4	56379
 503 S Parkway Ave	Lanesboro	Fillmore	True	True	94	43.7164005	-91.9769834	Sylvan Manor	4.1	55949
 401 Oak Street	Ellsworth	Nobles	True	True	94	43.51727	-96.01545399999999	Oakwood Apartments --	3.6	56129
 2874 Market Place Rd	Little Canada	Ramsey	False	True	94	45.02691009999999	-93.0877196	Garden Terrace Apartments	3.6	MN
-710 E 31st St	Hibbing	St	False	True	94	47.4140913	-92.9336043	Winston Court/	2.0	55746
+710 E 31st St	Hibbing	St Louis	False	True	94	47.4140913	-92.9336043	Winston Court/	2.0	55746
 317 Second Ave Sw	Browns Valley	Traverse	False	True	94	45.5933018	-96.8326062	Valley Vista Apartments	2.0	56219
 901 Cannon Valley Dr	Northfield	Rice	False	True	94	44.4690744	-93.175867	Northfield Manor	2.0	55057
 6345 Pleasant Ave	Richfield	Hennepin	False	True	94	44.887249	-93.28277899999999	Robert Will Community Housing	2.0	55423
@@ -87,7 +87,7 @@ address	city	county	disabled	elderly	hud_score	lat	long	name	value_rating	zipcod
 1314 8th Street North	New Ulm	Brown	False	True	94	44.316299	-94.478825	Oak View Apartments	3.0	56073
 1701 8th St Nw	Austin	Mower	True	False	94	43.6814592	-92.98483069999999	Prairie Sky	3.0	55912
 701 West 5th St	Grand Marais	Cook	False	True	94	47.7556715	-90.34209109999999	Sawtooth Ridges	3.0	55604
-350 Evans Ave	Elk River	Sherburne	False	True	93	45.3048429	-93.55929280000001	Guardian Angels Homes Inc	3.8	55330
+350 Evans Ave	Elk River	Sherburne	False	True	93	45.3048374	-93.5593287	Guardian Angels Homes Inc	3.8	55330
 1002 Pearl St	Marshall	Lyon	True	True	93	44.4338399	-95.803663	West Mar Apartments	3.5	56258
 920 Summit Ave	Detroit Lakes	Becker	False	True	93	46.816525	-95.850192	Lakes Homes & Prog Develp Inc	2.0	56501
 1213 6th Ave	Worthington	Nobles	False	True	93	43.623477	-95.5967562	Windsor Apartments	2.0	56187
@@ -96,7 +96,7 @@ address	city	county	disabled	elderly	hud_score	lat	long	name	value_rating	zipcod
 334 Golf View Dr	Albany	Stearns	False	True	92	45.6260329	-94.561527	Mercy Manor	4.6	56307
 9450 Garfield Ave S	Bloomington	Hennepin	True	False	92	44.831786	-93.28761899999999	Garfield Commons	4.3	55420
 349 Coleman Ave E	Eden Valley	Stearns	True	True	92	45.3281233	-94.5454919	Hillside Apartments	3.7	55329
-500 8th Ave	Ironton	Crow	True	True	92	46.4747419	-93.9832232	Ironton Terrace Apartments	3.7	56455
+500 8th Ave	Ironton	Crow Wing	True	True	92	46.4747419	-93.9832232	Ironton Terrace Apartments	3.7	56455
 2461 Commerce Blvd	Mound	Hennepin	False	True	92	44.9339267	-93.66867739999999	Westonka Estates	3.7	55364
 308 N 2nd St	La Crescent	Houston	False	True	92	43.8312451	-91.3043419	Crestview Apartments	3.6	55947
 455 Second St Se	Blooming Prairie	Steele	True	True	92	43.8643394	-93.04952569999999	Prairie Villa I Apartments	3.5	55917
@@ -107,10 +107,10 @@ address	city	county	disabled	elderly	hud_score	lat	long	name	value_rating	zipcod
 55005530 42nd Avenue North	Robbinsdale	Hennepin	False	True	91	45.0313752	-93.33049489999999	Robbins Way Senior Housing	4.6	55422
 403 W Main	Brownsdale	Mower	True	True	91	43.7408054	-92.872959	Mower Co Hra	3.7	55918
 380 Beltrami Ln Sw	Kelliher	Beltrami	True	True	91	47.9399834	-94.4534769	Kelliher Apartments A Partnership	3.5	56650
-210 Bush Street	Lakefield	Jackson	True	True	91	43.6772035	-95.1701763	Pinewood Apartments	3.5	56150
+210 Bush Street	Lakefield	Jackson	True	True	91	43.6772035	-95.1701763	Pinewood Apartments - Lakefield	3.5	56150
 7650 Golden Valley Rd	Golden Valley	Hennepin	False	True	91	44.9876201	-93.3771996	Calvary Center Apartments	3.5	55427
 8650 Aldrich Ave S	Bloomington	Hennepin	False	True	91	44.846162	-93.29024400000002	Henry Courts I & II	3.5	55420
-415 8th Ave Sw	Perham	Otter	False	True	91	46.595975	-95.5840644	St James Manor	2.0	56573
+415 8th Ave Sw	Perham	Otter Tail	False	True	91	46.595975	-95.5840644	St James Manor	2.0	56573
 310 13th St N	Sauk Rapids	Benton	False	True	90	45.604681	-94.17794599999999	Shepherd Oak Apartments	3.9	56379
 3317 Douglas Dr	Crystal	Hennepin	True	False	90	45.0169629	-93.360422	Four Seasons	3.8	55422
 11740 Xeon Blvd Nw	Coon Rapids	Anoka	False	True	90	45.183926	-93.30418499999999	Grasslands Housing Inc	3.8	55448
@@ -124,14 +124,14 @@ address	city	county	disabled	elderly	hud_score	lat	long	name	value_rating	zipcod
 200 Florence Ave	Fulda	Murray	True	True	89	43.8707235	-95.6088828	Centennial Apartments--	3.6	56131
 1906 S Ferry St	Anoka	Anoka	False	True	89	45.1982464	-93.39261499999999	Walker Methodist River	3.5	55303
 3101 Nw 111th Ave	Coon Rapids	Anoka	False	True	89	45.172776	-93.345691	Oxbowl Bend	3.5	55433
-305 North Ave E	Deer Creek	Otter	True	True	89	46.3919924	-95.3185563	Deer Creek Manor II	3.3	56527
+305 North Ave E	Deer Creek	Otter Tail	True	True	89	46.3919924	-95.3185563	Deer Creek Manor II	3.3	56527
 500 N State St	New Ulm	Brown	False	True	89	44.31714100000001	-94.466337	St Michael'S Apartments	2.0	56073
-1022 Junction Ave	Duluth	St	False	True	89	46.8155657	-92.0900513	Superior View Apartments	2.0	55812
+1022 Junction Ave	Duluth	St Louis	False	True	89	46.8155657	-92.0900513	Superior View Apartments	2.0	55812
 206 Pleasant Ave Sw	Twin Valley	Norman	True	True	89	47.25936069999999	-96.2609524	Johnson Brothers Apartments	3.0	56584
-1420 Minnesota Blvd	Saint Cloud	Sherburne	False	True	88	45.5426767	-94.13213859999999	Benet Place	4.6	56304
+1420 Minnesota Blvd	St Cloud	Sherburne	False	True	88	45.5426767	-94.13213859999999	Benet Place	4.6	56304
 410 Minnesota Ave	Lancaster	Kittson	True	True	88	48.8558927	-96.8055602	Lancaster Homes II	4.1	56735
 300 Highland Ct	Tyler	Lincoln	True	True	88	44.27169480000001	-96.12616560000001	Morning Sun Apartments	3.9	56178
-105 Edgewood St	New York Mills	Otter	False	True	88	46.5135464	-95.3764775	Heritage Manor --	3.8	56567
+105 Edgewood St	New York Mills	Otter Tail	False	True	88	46.5135464	-95.3764775	Heritage Manor --	3.8	56567
 501 First St Se	Faribault	Rice	False	True	88	44.289235	-93.26007399999999	St Lucas Riverside Apartments Inc	3.6	55021
 100 Gretchen Ln	Crookston	Polk	False	True	88	47.7841886	-96.5879171	Northwestern Apartments	2.0	56716
 2138 9th Ave Nw	East Grand Forks	Polk	False	True	88	47.9474794	-97.0319818	Rem North Star Inc	2.0	56721
@@ -140,7 +140,7 @@ address	city	county	disabled	elderly	hud_score	lat	long	name	value_rating	zipcod
 1050 Thorndale Ave	New Brighton	Ramsey	True	False	87	45.0657272	-93.2158931	Thorndale Plaza	4.2	55112
 7108 W Broadway	Brooklyn Park	Hennepin	True	False	87	45.08434	-93.374757	Evergreen Apartments	4.2	55428
 323 1st Street Ne	Menagha	Wadena	True	True	87	46.75664080000001	-95.0936181	Pine Villa Apartments	3.9	56464
-1500 Magnolia Ave E	Saint Paul	Ramsey	False	True	87	44.973451	-93.03759099999999	Elders Lodge	3.6	55106
+1500 Magnolia Ave E	St Paul	Ramsey	False	True	87	44.973451	-93.03759099999999	Elders Lodge	3.6	55106
 131 Church St S	Watkins	Meeker	False	True	87	45.3141307	-94.4055587	Watkins Area Homes II	3.5	55389
 330 Ne 1st Street	Plainview	Wabasha	True	True	87	44.168532	-92.164516	Norplain Apartments	3.4	55964
 2670 County Rd I	Mounds View	Ramsey	True	False	86	45.1072664	-93.21384479999999	Mounds View Supportive Housing Inc	3.9	55112
@@ -148,44 +148,44 @@ address	city	county	disabled	elderly	hud_score	lat	long	name	value_rating	zipcod
 5100 W 98th St	Bloomington	Hennepin	False	True	86	44.8256264	-93.3458344	Ridgeview Terr	3.5	55437
 146 Main St	Rollingstone	Winona	True	True	86	44.0971422	-91.8138113	Norstone Apartments	3.3	55969
 905 Forest Ave	Northfield	Rice	False	True	85	44.456147	-93.17439800000001	Park Ridge Apartments	4.0	55057
-3384 Library Ln	Saint Louis Park	Hennepin	True	False	85	44.940311	-93.36393799999999	Kelly Apartments	3.9	55426
-600 S 5th St	Le Sueur	Le	False	True	85	44.4549764	-93.91404709999999	Sunrise Plaza	2.0	56058
+3384 Library Ln	St Louis Park	Hennepin	True	False	85	44.940311	-93.36393799999999	Kelly Apartments	3.9	55426
+600 S 5th St	Le Sueur	Le Sueur	False	True	85	44.4549764	-93.91404709999999	Sunrise Plaza	2.0	56058
 315 N Paul Ave	Cologne	Carver	True	True	84	44.7717469	-93.78162449999999	Lakeside Villa Apartments	3.8	55322
 211 Greenvale Avenue	Northfield	Rice	False	True	84	44.463261	-93.16291799999999	Wellstone Commons	3.8	55057
-3600 Phillips Pky	Saint Louis Park	Hennepin	False	True	84	44.939102	-93.39429899999999	Menorah West Apartments	3.4	55426
+3600 Phillips Pky	St Louis Park	Hennepin	False	True	84	44.939102	-93.39429899999999	Menorah West Apartments	3.4	55426
 612 Fourth Ave	Round Lake	Nobles	True	True	84	43.53881	-95.4654294	Halter Manor 1	3.2	56167
 658 Sw Twelfth St	Forest Lake	Washington	True	True	84	45.2724959	-92.99948599999999	West View Apartments	3.5	55025
 1830 High Point Lane Nw	Rochester	Monroe	False	True	84	43.18494219999999	-77.5503914	High Pointe II Apartments	3.5	14609
 1381 Knollwood Dr	Worthington	Nobles	False	True	83	43.6046592	-95.6237505	Ridgewood	3.9	56187
-1830 University Avenue West	Saint Paul	Ramsey	False	True	83	44.9558589	-93.177645	Seabury	3.5	55104
+1830 University Avenue West	St Paul	Ramsey	False	True	83	44.9558589	-93.177645	Seabury	3.5	55104
 107 Highland Ave W	Walker	Cass	True	True	83	47.09848299999999	-94.5760729	Highland Apartments --	3.3	56484
 539 N Broadway	Rochester	Olmsted	False	True	83	44.029136	-92.46345099999999	Oakridge Apartments	3.3	55906
-915 First Ave	Madison	Lac	False	True	83	45.0179117	-96.1859953	Hilltop Residence Inc	2.0	56256
+915 First Ave	Madison	Lac Qui Parle	False	True	83	45.0179117	-96.1859953	Hilltop Residence Inc	2.0	56256
 808 Third Ave Ne	Minneapolis	Hennepin	False	True	83	44.9938251	-93.2510069	Teamster Manor	2.0	55413
 13800 Community Dr	Burnsville	Dakota	False	True	82	44.75283779999999	-93.2727756	Ebenezer Ridge Point Apartments	4.0	55337
 20 W 92nd St	Bloomington	Hennepin	True	False	82	44.837331	-93.279291	Metro Apartments	3.9	55420
-4073 Tower St	Saint Bonifacius	Hennepin	True	True	82	44.9033739	-93.7492247	Wildwood Apartments	3.5	55375
+4073 Tower St	St Bonifacius	Hennepin	True	True	82	44.9033739	-93.7492247	Wildwood Apartments	3.5	55375
 611 West Main Street	Belle Plaine	Scott	False	True	81	44.6222409	-93.7769465	Boessling Lutheran Village Apartments	4.0	56011
-425 Selby Ave	Saint Paul	Ramsey	False	True	81	44.94681600000001	-93.11785599999999	SE Hall-Whitney Young Plaza	3.3	55102
-2700 Park Ave	Minneapolis	Hennepin	False	True	81	44.9537266	-93.26516420000002	Ebenezer Park Apartments	3.3	55407
-31215 N Heath St	Pequot Lakes	Crow	True	True	80	46.60592219999999	-94.3215804	Parkview I & II	3.6	56472
+425 Selby Ave	St Paul	Ramsey	False	True	81	44.94681600000001	-93.11785599999999	SE Hall-Whitney Young Plaza	3.3	55102
+2700 Park Ave	Minneapolis	Hennepin	False	True	81	44.953352	-93.265828	Ebenezer Park Apartments	3.3	55407
+31215 N Heath St	Pequot Lakes	Crow Wing	True	True	80	46.60592219999999	-94.3215804	Parkview I & II	3.6	56472
 20 North 9th Ave E	Melrose	Stearns	True	True	80	45.68032729999999	-94.8292898	Oak Ridge Manor -- Melrose	3.5	56352
 206 E Hayden Lake Rd	Champlin	Hennepin	False	True	80	45.180149	-93.39569	Hayden Lake Apartments	3.2	55316
 905 2nd Ave Nw	Plainview	Wabasha	False	True	80	44.166466	-92.17871	Plainview Seniors Housing	3.2	55964
 216 First St Se	Medford	Steele	True	True	79	44.1716852	-93.24574319999999	Medford Manor	3.4	55049
-4925 Minnetonka Blvd	Saint Louis Park	Hennepin	False	True	78	44.9475859	-93.3413884	Menorah Plaza	3.2	55416
+4925 Minnetonka Blvd	St Louis Park	Hennepin	False	True	78	44.9475859	-93.3413884	Menorah Plaza	3.2	55416
 105 4th St S	Raymond	Kandiyohi	True	True	78	45.0190437	-95.23281589999999	El Ca Ba Apartments	3.1	56282
 29545 East St	Chisago City	Chisago	True	True	77	45.376123	-92.886231	Heather Creek Apartments	3.6	55013
-214 Hoosac St W	Waterville	Le	True	True	77	44.2167082	-93.57103140000001	West Court Apartments	3.5	56096
+214 Hoosac St W	Waterville	Le Sueur	True	True	77	44.2167082	-93.57103140000001	West Court Apartments	3.5	56096
 207 Cedar St NE	Remer	Cass	True	True	77	47.058107	-93.913826	Northland Apartments	3.3	56672
-305 North Ave E	Deer Creek	Otter	True	True	77	46.3919924	-95.3185563	Deer Creek Manor I	3.3	56527
-212 State St	Buhl	St	True	True	76	47.4950831	-92.779516	State Street Apartments	3.5	55713
+305 North Ave E	Deer Creek	Otter Tail	True	True	77	46.3919924	-95.3185563	Deer Creek Manor I	3.3	56527
+212 State St	Buhl	St Louis	True	True	76	47.4950831	-92.779516	State Street Apartments	3.5	55713
 115 Second St Ne	Hayfield	Dodge	False	True	76	43.891906	-92.8457899	Hayfield Senior Housing	3.4	55940
 10325 Lyndale Ave S	Bloomington	Hennepin	False	True	76	44.8164395	-93.2879722	LW Fraser Indep Living Prj 2 - Lyndale Court	3.2	55420
 420 Bench St	Chatfield	Fillmore	False	True	76	43.8426543	-92.1890154	Lakewood Apartments	2.0	55923
 906 Ash St	Alexandria	Douglas	False	True	76	45.88240200000001	-95.3867219	Bethel Manor II	2.0	56308
 2847 19th Ave Nw	Rochester	Olmsted	True	False	75	44.053799	-92.4913569	Allendale House	5.0	55901
-4500 Cambridge St	Duluth	St	False	True	74	46.8262673	-92.0329696	Lakeland Shores Apartments	3.1	55804
+4500 Cambridge St	Duluth	St Louis	False	True	74	46.8262673	-92.0329696	Lakeland Shores Apartments	3.1	55804
 1406 Second Ave S	Buffalo	Wright	True	True	72	45.153806	-93.873987	Maple Dell Apartments	3.7	55313
 1675 44th Ave Ne	Columbia Heights	Anoka	False	True	71	45.048613	-93.23674199999999	Columbia Village	3.8	55421
 1109 9th Street Se	Willmar	Kandiyohi	False	True	71	45.1128024	-95.0324928	Centennial Square	3.5	56201
@@ -200,9 +200,9 @@ address	city	county	disabled	elderly	hud_score	lat	long	name	value_rating	zipcod
 9501 Garfield Avenue South	Bloomington	Hennepin	False	True	80	44.83079300000001	-93.2859919	The Meadows Of Oxboro	3.4	55420
 334 Golf View Drive	Albany	Stearns	False	True	92	45.6260329	-94.561527	Mercy Manor II	4.6	56307
 4550 Humboldt Avenue N	Minneapolis	Hennepin	True	False	92	45.03818099999999	-93.297923	Kingsley Commons	3.6	55412
-720 Maple Grove Rd	Duluth	St	True	False	96	46.80686799999999	-92.146433	Burke Apartments	3.4	55811
+720 Maple Grove Rd	Duluth	St Louis	True	False	96	46.80686799999999	-92.146433	Burke Apartments	3.4	55811
 8121 College Trl	Inver Grove Heights	Dakota	False	True	84	44.8259619	-93.055887	Prairie View Heights	3.5	55076
 21839 129th Avenue North	Rogers	Hennepin	True	False	99	45.188819	-93.556827	Meadow Trails Apartments	3.4	55374
-412 Dunlap St N	Saint Paul	Ramsey	False	True	69	44.953652	-93.148674	Carty Heights	3.5	55104
+412 Dunlap St N	St Paul	Ramsey	False	True	69	44.953652	-93.148674	Carty Heights	3.5	55104
 243 Sundance Road	Sartell	Stearns	True	False	97	45.6143648	-94.22417689999999	Sartell Supportive Housing Inc	3.6	56377
 100 East First Street	Chaska	Carver	False	True	95	44.7842066	-93.5994054	The Landings	3.9	55318

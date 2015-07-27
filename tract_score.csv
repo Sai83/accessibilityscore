@@ -1,0 +1,1339 @@
+tract,city,county,walk_score,metro_score,safety_score,com_score,hosp_score,house_score
+27001770100,McGregor,Aitkin,0,0,78,53,0,0
+27001770200,Palisade,Aitkin,0,0,78,44,0,0
+27001770300,Aitkin,Aitkin,0,0,78,35,53,0
+27001770400,McGregor,Aitkin,0,0,78,56,0,0
+27001790501,McGrath,Aitkin,0,0,78,51,0,0
+27001790502,Aitkin,Aitkin,0,0,78,32,0,0
+27003050107,St Francis,Anoka,1,0,67,46,0,0
+27003050108,St Francis,Anoka,0,0,67,22,0,0
+27003050109,Bethel,Anoka,0,0,85,26,0,0
+27003050110,East Bethel,Anoka,0,0,85,16,0,0
+27003050111,Wyoming,Anoka,0,0,86,18,0,0
+27003050114,Oak Grove,Anoka,4,0,85,12,0,0
+27003050115,Oak Grove,Anoka,1,0,85,17,0,0
+27003050116,Elk River,Anoka,0,0,73,17,0,0
+27003050208,Andover,Anoka,34,74,85,23,91,90
+27003050210,Circle Pines,Anoka,0,41,85,16,0,0
+27003050215,Andover,Anoka,10,74,85,12,0,90
+27003050216,Ham Lake,Anoka,0,0,85,9,0,0
+27003050217,Andover,Anoka,3,74,85,15,0,0
+27003050218,Andover,Anoka,0,74,85,15,0,0
+27003050219,Andover,Anoka,0,74,85,17,91,89
+27003050220,Andover,Anoka,0,74,85,15,91,90
+27003050221,Andover,Anoka,0,74,85,13,0,90
+27003050222,Andover,Anoka,1,74,85,11,91,90
+27003050223,Ramsey,Anoka,0,24,83,18,0,92
+27003050224,Ramsey,Anoka,0,24,83,21,0,92
+27003050225,Ramsey,Anoka,2,24,83,8,0,0
+27003050226,Ramsey,Anoka,3,24,83,17,91,89
+27003050227,Ramsey,Anoka,6,24,83,29,91,89
+27003050228,Ramsey,Anoka,2,24,83,19,0,89
+27003050229,Lino Lakes,Anoka,10,40,90,14,0,0
+27003050230,Lino Lakes,Anoka,7,40,90,6,0,0
+27003050232,Hugo,Anoka,25,0,85,10,0,0
+27003050233,Circle Pines,Anoka,11,41,85,8,0,0
+27003050234,Ham Lake,Anoka,0,0,85,20,0,0
+27003050235,Ham Lake,Anoka,11,0,85,21,0,0
+27003050236,Hugo,Anoka,8,0,85,12,0,0
+27003050237,Lino Lakes,Anoka,2,40,90,18,0,0
+27003050401,Anoka,Anoka,5,53,66,34,91,89
+27003050402,Anoka,Anoka,31,53,66,40,91,89
+27003050501,Anoka,Anoka,69,53,66,50,91,89
+27003050504,Anoka,Anoka,28,53,66,33,91,89
+27003050505,Anoka,Anoka,39,53,66,39,91,89
+27003050602,Coon Rapids,Anoka,10,38,74,30,91,90
+27003050605,Coon Rapids,Anoka,33,38,74,25,91,89
+27003050606,Coon Rapids,Anoka,5,38,74,40,90,90
+27003050607,Coon Rapids,Anoka,31,38,74,27,91,89
+27003050608,Coon Rapids,Anoka,6,38,74,20,91,90
+27003050609,Coon Rapids,Anoka,47,38,74,17,91,89
+27003050610,Coon Rapids,Anoka,14,38,74,14,91,89
+27003050702,Coon Rapids,Anoka,47,38,74,20,91,90
+27003050704,Coon Rapids,Anoka,15,38,74,24,91,90
+27003050706,Minneapolis,Anoka,38,100,71,19,90,90
+27003050707,Coon Rapids,Anoka,4,38,74,13,91,90
+27003050709,Coon Rapids,Anoka,11,38,74,23,90,96
+27003050710,Coon Rapids,Anoka,22,38,74,26,90,96
+27003050711,Coon Rapids,Anoka,3,38,74,13,91,90
+27003050712,Coon Rapids,Anoka,20,38,74,29,91,90
+27003050805,Blaine,Anoka,27,44,70,12,0,90
+27003050806,Blaine,Anoka,17,44,70,12,0,90
+27003050807,Blaine,Anoka,27,44,70,33,90,90
+27003050808,Blaine,Anoka,45,44,70,24,90,90
+27003050809,Minneapolis,Anoka,9,100,71,16,90,90
+27003050810,Blaine,Anoka,19,44,70,22,90,96
+27003050811,Blaine,Anoka,45,44,70,30,90,96
+27003050813,Blaine,Anoka,1,44,70,16,90,86
+27003050816,Circle Pines,Anoka,12,41,85,19,0,86
+27003050818,Blaine,Anoka,0,44,70,5,0,0
+27003050819,Minneapolis,Anoka,0,100,71,7,0,0
+27003050820,Minneapolis,Anoka,14,100,71,12,0,90
+27003050821,Blaine,Anoka,14,44,70,12,90,90
+27003050901,Circle Pines,Anoka,44,41,85,36,90,86
+27003050902,Circle Pines,Anoka,36,41,85,21,0,95
+27003051001,Spring Lake Park,Anoka,27,49,55,32,90,96
+27003051002,Minneapolis,Anoka,43,100,71,27,90,96
+27003051101,Fridley,Anoka,32,85,52,29,90,96
+27003051102,Fridley,Anoka,15,85,52,22,90,96
+27003051103,Fridley,Anoka,21,85,52,30,90,96
+27003051201,Fridley,Anoka,24,85,52,14,90,97
+27003051202,Fridley,Anoka,21,85,52,29,90,97
+27003051203,Fridley,Anoka,23,85,52,18,90,87
+27003051206,Fridley,Anoka,12,85,52,19,90,99
+27003051302,Columbia Heights,Anoka,50,92,73,25,90,71
+27003051304,Minneapolis,Anoka,27,100,71,25,90,71
+27003051305,Minneapolis,Anoka,66,100,71,41,90,71
+27003051400,Minneapolis,Anoka,48,100,71,18,90,71
+27003051501,Columbia Heights,Anoka,75,92,73,28,90,71
+27003051502,Minneapolis,Anoka,33,100,71,34,90,71
+27003051600,Stacy,Anoka,0,0,85,26,0,0
+27005450100,Detroit Lakes,Becker,0,0,66,21,0,0
+27005450200,Frazee,Becker,0,0,92,24,0,0
+27005450300,Detroit Lakes,Becker,0,0,66,26,0,0
+27005450400,Detroit Lakes,Becker,0,0,66,26,0,0
+27005450500,Detroit Lakes,Becker,15,0,66,29,70,93
+27005450600,Detroit Lakes,Becker,2,0,66,39,70,93
+27005450700,Detroit Lakes,Becker,0,0,66,22,0,0
+27005450800,Audubon,Becker,3,0,92,17,0,0
+27005450900,Lake Park,Becker,0,0,92,25,0,0
+27005940000,Ogema,Becker,0,0,92,38,0,0
+27007450100,Bemidji,Beltrami,0,0,0,24,64,0
+27007450200,Bemidji,Beltrami,0,0,0,20,64,0
+27007450300,Bemidji,Beltrami,0,0,0,26,0,0
+27007450400,Puposky,Beltrami,0,0,81,39,0,0
+27007450500,Grygla,Beltrami,0,0,81,39,0,0
+27007450600,Bemidji,Beltrami,42,0,0,28,64,92
+27007450701,Bemidji,Beltrami,0,0,0,19,64,92
+27007450702,Bemidji,Beltrami,2,0,0,37,64,92
+27007940001,Grygla,Beltrami,0,0,81,24,0,0
+27007940002,Cass Lake,Beltrami,0,0,81,24,0,0
+27009020100,Oak Park,Benton,0,0,89,24,0,0
+27009020202,Foley,Benton,0,0,89,21,0,0
+27009020203,Rice,Benton,0,0,89,18,0,0
+27009020205,Rice,Benton,0,0,89,24,0,0
+27009020206,Sauk Rapids,Benton,0,0,78,56,90,99
+27009020300,Sauk Rapids,Benton,0,0,78,18,0,0
+27009021101,Sauk Rapids,Benton,8,0,78,24,90,99
+27009021102,Sauk Rapids,Benton,13,0,78,43,90,99
+27009021200,St Cloud,Benton,1,0,63,37,90,88
+27011950100,Ortonville,Big Stone,3,0,95,38,0,0
+27011950200,Graceville,Big Stone,0,0,88,34,0,0
+27011950300,Ortonville,Big Stone,13,0,95,39,49,0
+27013170100,Eagle Lake,Blue Earth,0,0,92,14,0,0
+27013170200,Mankato,Blue Earth,3,0,55,20,88,96
+27013170300,Mankato,Blue Earth,11,0,55,34,88,96
+27013170400,Mankato,Blue Earth,60,0,55,33,88,96
+27013170500,Mankato,Blue Earth,21,0,55,23,88,96
+27013170600,Mankato,Blue Earth,64,0,55,24,88,96
+27013170700,Mankato,Blue Earth,81,0,55,29,88,96
+27013170800,Mankato,Blue Earth,1,0,55,23,88,96
+27013170900,Lake Crystal,Blue Earth,0,0,85,24,0,0
+27013171000,Lake Crystal,Blue Earth,0,0,85,25,0,0
+27013171101,Mankato,Blue Earth,34,0,55,3,88,96
+27013171202,Mankato,Blue Earth,10,0,55,25,88,96
+27013171300,Mankato,Blue Earth,0,0,55,14,0,0
+27013171400,Mapleton,Blue Earth,0,0,86,28,0,0
+27013171500,Vernon Center,Blue Earth,0,0,73,27,0,0
+27013171600,Mankato,Blue Earth,9,0,55,10,88,96
+27015960101,New Ulm,Brown,53,0,72,20,57,89
+27015960102,New Ulm,Nicollet,0,0,72,20,57,89
+27015960200,New Ulm,Brown,11,0,72,24,57,89
+27015960300,New Ulm,Brown,48,0,72,29,57,94
+27015960400,Sleepy Eye,Brown,0,0,96,26,54,0
+27015960500,Sleepy Eye,Brown,16,0,96,25,54,0
+27015960600,Springfield,Brown,0,0,100,34,54,95
+27015960700,Hanska,Brown,0,0,96,17,0,0
+27017070100,Cloquet,Carlton,4,0,59,38,51,0
+27017070200,Cloquet,Carlton,1,0,59,32,51,0
+27017070300,Esko,Carlton,6,0,83,20,51,0
+27017070400,Wrenshall,Carlton,0,0,83,22,0,0
+27017070500,Barnum,Carlton,0,0,83,36,0,0
+27017070600,Cromwell,Carlton,0,0,83,30,0,0
+27017940000,Cloquet,Carlton,0,0,59,27,0,0
+27019090100,Watertown,Carver,0,0,87,23,0,82
+27019090200,New Germany,Carver,0,0,87,15,0,0
+27019090301,Waconia,Carver,1,0,87,27,88,0
+27019090302,Cologne,Carver,0,0,87,4,88,84
+27019090401,Waconia,Carver,0,0,87,9,88,82
+27019090402,Victoria,Carver,1,0,87,8,0,92
+27019090501,Excelsior,Carver,3,41,87,4,0,99
+27019090502,Chanhassen,Carver,1,41,87,4,0,99
+27019090503,Excelsior,Carver,6,41,87,7,0,99
+27019090601,Chanhassen,Carver,50,41,87,15,0,99
+27019090602,Chanhassen,Carver,2,41,87,5,0,99
+27019090701,Chanhassen,Carver,3,41,87,10,0,99
+27019090702,Chaska,Carver,0,41,88,4,78,95
+27019090800,Chaska,Carver,0,41,88,16,0,95
+27019090900,Chaska,Carver,6,41,88,17,0,95
+27019091000,Chaska,Carver,0,41,88,18,0,95
+27019091100,Cologne,Carver,0,0,87,7,0,84
+27019091201,NYA,Carver,0,0,87,21,0,0
+27019091202,Cologne,Carver,0,0,87,13,0,84
+27021940001,Walker,Cass,0,0,43,48,0,83
+27021940002,Cass Lake,Cass,0,0,43,36,0,0
+27021960100,Remer,Cass,0,0,43,49,0,77
+27021960200,Longville,Cass,0,0,43,47,0,0
+27021960301,Hackensack,Cass,0,0,43,41,0,0
+27021960302,Backus,Cass,0,0,43,39,0,0
+27021960600,Backus,Cass,0,0,43,38,0,0
+27021960700,Pine River,Cass,0,0,43,31,0,0
+27021960801,East Gull Lake,Cass,0,0,43,18,0,0
+27021960802,Pillager,Cass,0,0,43,36,0,0
+27023950300,Maynard,Chippewa,0,0,96,34,0,0
+27023950400,Clara City,Chippewa,0,0,96,27,0,0
+27023950500,Montevideo,Chippewa,0,0,68,27,0,0
+27023950600,Montevideo,Chippewa,8,0,68,33,49,96
+27025110100,Harris,Chisago,0,0,90,21,0,98
+27025110200,Harris,Chisago,0,0,90,25,0,98
+27025110301,North Branch,Chisago,1,0,77,26,0,98
+27025110302,North Branch,Chisago,0,0,77,22,0,0
+27025110401,Wyoming,Chisago,1,0,86,21,71,90
+27025110402,Stacy,Chisago,1,0,90,24,0,0
+27025110501,Lindstrom,Chisago,3,0,90,24,0,77
+27025110502,Lindstrom,Chisago,0,0,90,31,0,90
+27025110600,Center City,Chisago,0,0,90,11,0,77
+27025110700,Taylors Falls,Chisago,0,0,90,25,0,0
+27027020100,Moorhead,Clay,39,0,70,22,0,97
+27027020202,Moorhead,Clay,37,0,70,43,0,97
+27027020300,Moorhead,Clay,80,0,70,26,0,97
+27027020400,Moorhead,Clay,36,0,70,14,0,97
+27027020500,Moorhead,Clay,34,0,70,23,0,97
+27027020600,Moorhead,Clay,11,0,70,27,0,97
+27027030102,Dilworth,Clay,12,0,59,26,0,97
+27027030103,Moorhead,Clay,7,0,70,24,0,97
+27027030104,Sabin,Clay,0,0,88,18,0,0
+27027030106,Moorhead,Clay,0,0,70,18,0,97
+27027030107,Felton,Clay,0,0,88,12,0,0
+27027030201,Hawley,Clay,0,0,88,19,0,0
+27027030202,Barnesville,Clay,0,0,88,19,0,0
+27029000100,Bagley,Clearwater,0,0,78,49,49,0
+27029000200,Bagley,Clearwater,0,0,78,43,0,0
+27029000300,Gonvick,Clearwater,0,0,78,31,0,0
+27031480100,Grand Marais,Cook,0,0,72,24,0,0
+27031480200,Grand Marais,Cook,0,0,72,24,0,0
+27031990000,Unknown,Cook,0,0,72,0,0,0
+27033270100,Mountain Lake,Cottonwood,0,0,92,31,0,0
+27033270200,Lamberton,Cottonwood,0,0,87,28,0,0
+27033270300,Windom,Cottonwood,0,0,62,30,0,0
+27033270400,Bingham Lake,Cottonwood,2,0,87,35,0,0
+27035950100,Emily,Crow Wing,0,0,91,38,0,0
+27035950204,Crosslake,Crow Wing,0,0,91,38,0,0
+27035950400,Pequot Lakes,Crow Wing,7,0,91,26,0,80
+27035950501,Nisswa,Crow Wing,0,0,91,22,0,0
+27035950502,Merrifield,Crow Wing,1,0,91,23,0,0
+27035950700,Crosby,Crow Wing,0,0,60,40,53,92
+27035950800,Brainerd,Crow Wing,0,0,24,33,0,0
+27035950900,Brainerd,Crow Wing,0,0,24,19,87,0
+27035951000,Brainerd,Crow Wing,2,0,24,41,87,0
+27035951100,Brainerd,Crow Wing,8,0,24,44,87,0
+27035951200,Brainerd,Crow Wing,0,0,24,51,87,0
+27035951301,Baxter,Crow Wing,0,0,58,17,87,0
+27035951302,Baxter,Crow Wing,0,0,58,41,87,0
+27035951400,Fort Ripley,Crow Wing,0,0,91,30,0,0
+27035951600,Brainerd,Crow Wing,0,0,24,36,0,0
+27035951700,Pine River,Crow Wing,0,0,91,33,0,0
+27037060101,St Paul,Dakota,60,100,79,21,90,97
+27037060102,St Paul,Dakota,34,100,79,35,90,97
+27037060103,West St Paul,Dakota,15,81,57,19,90,98
+27037060104,St Paul,Dakota,33,100,79,30,90,98
+27037060105,St Paul,Dakota,37,100,79,30,90,98
+27037060201,South St Paul,Dakota,6,79,73,16,90,98
+27037060202,South St Paul,Dakota,14,79,73,27,90,97
+27037060301,South St Paul,Dakota,38,79,73,30,89,98
+27037060302,South St Paul,Dakota,47,79,73,24,90,98
+27037060401,South St Paul,Dakota,31,79,73,25,89,98
+27037060402,South St Paul,Dakota,9,79,73,26,89,98
+27037060502,Inver Grove Heights,Dakota,15,18,80,32,0,98
+27037060503,Inver Grove Heights,Dakota,2,18,80,20,0,84
+27037060505,Inver Grove Heights,Dakota,0,18,80,25,0,84
+27037060506,Inver Grove Heights,Dakota,6,18,80,37,0,84
+27037060507,Inver Grove Heights,Dakota,18,18,80,24,0,84
+27037060508,Inver Grove Heights,Dakota,0,18,80,12,0,84
+27037060509,Inver Grove Heights,Dakota,0,18,80,13,0,84
+27037060603,Mendota Heights,Dakota,3,58,83,17,90,98
+27037060604,Mendota Heights,Dakota,4,58,83,25,90,90
+27037060605,Mendota Heights,Dakota,4,58,83,24,90,90
+27037060606,Mendota Heights,Dakota,16,58,83,17,90,90
+27037060709,Burnsville,Dakota,13,67,76,10,87,96
+27037060710,Burnsville,Dakota,17,67,76,20,87,96
+27037060711,Burnsville,Dakota,19,67,76,37,87,82
+27037060713,Burnsville,Dakota,17,67,76,11,87,82
+27037060714,Burnsville,Dakota,10,67,76,18,87,82
+27037060716,Eagan,Dakota,1,61,83,9,0,90
+27037060717,Eagan,Dakota,23,61,83,13,0,90
+27037060721,Eagan,Dakota,25,61,83,10,87,76
+27037060725,Eagan,Dakota,1,61,83,37,0,90
+27037060726,Eagan,Dakota,20,61,83,22,0,90
+27037060727,Eagan,Dakota,18,61,83,24,0,90
+27037060728,Eagan,Dakota,3,61,83,14,0,84
+27037060729,Eagan,Dakota,4,61,83,11,0,90
+27037060730,Eagan,Dakota,5,61,83,5,0,84
+27037060731,Eagan,Dakota,3,61,83,4,0,0
+27037060732,Eagan,Dakota,2,61,83,12,0,84
+27037060733,Eagan,Dakota,20,61,83,20,0,88
+27037060734,Eagan,Dakota,1,61,83,8,87,88
+27037060735,Eagan,Dakota,30,61,83,20,87,76
+27037060737,Burnsville,Dakota,27,67,76,29,87,82
+27037060738,Burnsville,Dakota,5,67,76,20,87,82
+27037060739,Burnsville,Dakota,4,67,76,11,87,98
+27037060741,Burnsville,Dakota,59,67,76,21,87,82
+27037060742,Burnsville,Dakota,6,67,76,10,87,82
+27037060743,Eagan,Dakota,9,61,83,17,87,76
+27037060744,Eagan,Dakota,40,61,83,12,87,82
+27037060745,Burnsville,Dakota,47,67,76,27,87,98
+27037060746,Burnsville,Dakota,16,67,76,22,87,98
+27037060747,Burnsville,Dakota,41,67,76,19,87,76
+27037060748,Burnsville,Dakota,4,67,76,17,87,76
+27037060749,Eagan,Dakota,26,61,83,9,0,82
+27037060750,Eagan,Dakota,24,61,83,28,0,82
+27037060805,Apple Valley,Dakota,14,47,78,19,87,88
+27037060806,Apple Valley,Dakota,1,47,78,10,87,88
+27037060811,Apple Valley,Dakota,15,47,78,21,87,88
+27037060812,Apple Valley,Dakota,21,47,78,16,87,88
+27037060813,Lakeville,Dakota,9,44,87,6,87,98
+27037060814,Lakeville,Dakota,7,44,87,14,87,88
+27037060815,Lakeville,Dakota,11,44,87,16,87,97
+27037060816,Lakeville,Dakota,1,44,87,8,87,88
+27037060817,Farmington,Dakota,4,0,90,13,87,88
+27037060818,Lakeville,Dakota,7,44,87,16,0,88
+27037060819,Lakeville,Dakota,3,44,87,16,87,88
+27037060820,Lakeville,Dakota,0,44,87,8,0,97
+27037060821,Lakeville,Dakota,10,44,87,21,0,97
+27037060822,Apple Valley,Dakota,19,47,78,9,87,88
+27037060823,Apple Valley,Dakota,9,47,78,10,87,88
+27037060824,Apple Valley,Dakota,24,47,78,19,87,88
+27037060825,Apple Valley,Dakota,3,47,78,8,87,88
+27037060826,Apple Valley,Dakota,12,47,78,25,0,88
+27037060828,Apple Valley,Dakota,56,47,78,16,87,88
+27037060829,Apple Valley,Dakota,7,47,78,5,87,88
+27037060902,Farmington,Dakota,0,0,90,11,0,97
+27037060904,Farmington,Dakota,0,0,90,25,0,0
+27037060905,Farmington,Dakota,0,0,90,10,0,0
+27037060906,Farmington,Dakota,2,0,90,13,0,97
+27037060907,Farmington,Dakota,1,0,90,7,0,97
+27037061001,Hastings,Dakota,0,0,75,16,0,0
+27037061003,Rosemount,Dakota,0,42,86,32,0,84
+27037061004,Rosemount,Dakota,4,42,86,13,0,88
+27037061005,Rosemount,Dakota,31,42,86,15,0,88
+27037061007,Rosemount,Dakota,34,42,86,13,0,88
+27037061008,Rosemount,Dakota,51,42,86,25,0,0
+27037061009,Rosemount,Dakota,5,42,86,6,0,0
+27037061102,Hastings,Dakota,12,0,75,31,76,99
+27037061105,Hastings,Dakota,36,0,75,25,76,99
+27037061106,Hastings,Dakota,56,0,75,25,76,99
+27037061107,Hastings,Dakota,0,0,75,31,76,99
+27037061108,Hastings,Dakota,2,0,75,18,76,99
+27037061401,Hastings,Dakota,0,0,75,16,0,0
+27037061402,Cannon Falls,Dakota,0,0,70,16,0,0
+27037061501,Farmington,Dakota,0,0,90,15,0,0
+27037061502,Northfield,Dakota,0,0,86,10,67,94
+27039950100,West Concord,Dodge,0,0,65,12,0,0
+27039950200,Dodge Center,Dodge,30,0,65,14,0,96
+27039950300,Claremont,Dodge,1,0,65,25,0,0
+27039950400,Hayfield,Dodge,0,0,65,14,0,76
+27039950500,Kasson,Dodge,5,0,77,19,0,0
+27041450100,Parkers Prairie,Douglas,0,0,90,26,0,0
+27041450200,Brandon,Douglas,0,0,90,28,0,0
+27041450500,Carlos,Douglas,0,0,90,23,0,0
+27041450600,Alexandria,Douglas,6,0,61,31,67,76
+27041450701,Alexandria,Douglas,15,0,61,41,67,10
+27041450702,Alexandria,Douglas,8,0,61,19,67,76
+27041450800,Alexandria,Douglas,0,0,61,30,0,0
+27041450900,Alexandria,Douglas,0,0,61,20,0,0
+27041451000,Alexandria,Douglas,0,0,61,17,0,0
+27043460100,Wells,Faribault,0,0,92,25,0,0
+27043460200,Winnebago,Faribault,0,0,81,33,0,0
+27043460300,Blue Earth,Faribault,0,0,80,27,53,0
+27043460400,Blue Earth,Faribault,46,0,80,29,53,0
+27043460500,Bricelyn,Faribault,0,0,86,26,0,0
+27043460600,Wells,Faribault,0,0,92,29,0,0
+27045960100,Lanesboro,Fillmore,0,0,96,19,0,0
+27045960200,Wykoff,Fillmore,0,0,96,20,0,0
+27045960300,Spring Valley,Fillmore,4,0,96,30,0,0
+27045960400,Preston,Fillmore,0,0,96,22,0,0
+27045960500,Harmony,Fillmore,0,0,96,34,0,0
+27045960600,Lanesboro,Fillmore,0,0,96,32,0,0
+27047180100,Hollandale,Freeborn,0,0,90,33,0,0
+27047180200,Hartland,Freeborn,0,0,90,26,0,0
+27047180300,Alden,Freeborn,0,0,90,26,0,0
+27047180400,Albert Lea,Freeborn,1,0,74,24,76,93
+27047180500,Albert Lea,Freeborn,21,0,74,33,76,93
+27047180600,Albert Lea,Freeborn,14,0,74,36,76,93
+27047180700,Glenville,Freeborn,0,0,90,28,0,0
+27047180800,Albert Lea,Freeborn,52,0,74,30,76,99
+27047180900,Albert Lea,Freeborn,24,0,74,40,76,99
+27047181000,Glenville,Freeborn,0,0,90,23,0,0
+27049080101,Red Wing,Goodhue,0,0,57,30,87,97
+27049080102,Red Wing,Goodhue,9,0,57,23,87,97
+27049080200,Welch,Goodhue,0,0,89,28,87,0
+27049080300,Red Wing,Goodhue,0,0,57,16,0,0
+27049080400,Red Wing,Goodhue,0,0,57,18,0,0
+27049080500,Cannon Falls,Goodhue,0,0,70,15,49,0
+27049080600,Cannon Falls,Goodhue,15,0,70,26,49,0
+27049080700,Wanamingo,Goodhue,0,0,89,25,0,0
+27049080800,Pine Island,Goodhue,0,0,89,19,0,0
+27049080900,Zumbrota,Goodhue,0,0,81,21,0,0
+27051070100,Elbow Lake,Grant,0,0,87,31,49,0
+27051070200,Elbow Lake,Grant,0,0,87,36,0,0
+27053000101,Minneapolis,Hennepin,28,100,71,26,90,90
+27053000102,Minneapolis,Hennepin,42,100,71,25,90,99
+27053000300,Minneapolis,Hennepin,28,100,71,24,90,90
+27053000601,Minneapolis,Hennepin,31,100,71,20,90,99
+27053000603,Minneapolis,Hennepin,21,100,71,10,89,99
+27053001100,Minneapolis,Hennepin,72,100,71,29,89,99
+27053001700,Minneapolis,Hennepin,64,100,71,17,89,83
+27053002200,Minneapolis,Hennepin,70,100,71,27,90,83
+27053002400,Minneapolis,Hennepin,72,100,71,16,89,83
+27053002700,Minneapolis,Hennepin,37,100,71,36,90,91
+27053003200,Minneapolis,Hennepin,42,100,71,32,90,78
+27053003300,Minneapolis,Hennepin,54,100,71,28,90,83
+27053003800,Minneapolis,Hennepin,73,100,71,13,93,83
+27053005901,Minneapolis,Hennepin,82,100,71,64,89,99
+27053005902,Minneapolis,Hennepin,87,100,71,36,43,81
+27053006800,Minneapolis,Hennepin,88,100,71,19,43,81
+27053007700,Minneapolis,Hennepin,93,100,71,15,93,81
+27053007801,Minneapolis,Hennepin,86,100,71,22,93,81
+27053008100,Minneapolis,Hennepin,90,100,71,17,93,81
+27053008200,Minneapolis,Hennepin,84,100,71,39,93,81
+27053008300,Minneapolis,Hennepin,75,100,71,19,93,81
+27053008400,Minneapolis,Hennepin,76,100,71,18,93,81
+27053008500,Minneapolis,Hennepin,71,100,71,17,93,90
+27053009500,Minneapolis,Hennepin,69,100,71,29,93,90
+27053009600,Minneapolis,Hennepin,58,100,71,27,93,90
+27053010600,Minneapolis,Hennepin,63,100,71,17,90,99
+27053010700,Minneapolis,Hennepin,65,100,71,2,93,94
+27053011000,Minneapolis,Hennepin,57,100,71,10,93,90
+27053011703,Minneapolis,Hennepin,58,100,71,7,93,94
+27053011704,Minneapolis,Hennepin,28,100,71,16,90,94
+27053011800,Minneapolis,Hennepin,39,100,71,17,93,85
+27053011998,Minneapolis,Hennepin,57,100,71,31,93,85
+27053012001,Minneapolis,Hennepin,49,100,71,11,90,94
+27053012003,Minneapolis,Hennepin,50,100,71,11,90,94
+27053012101,Minneapolis,Hennepin,30,100,71,15,93,85
+27053012102,Minneapolis,Hennepin,31,100,71,24,93,85
+27053020101,St Anthony,Hennepin,29,88,78,24,93,99
+27053020102,St Anthony,Hennepin,41,88,78,45,93,99
+27053020200,Minneapolis,Hennepin,36,100,71,32,90,97
+27053020301,Minneapolis,Hennepin,32,100,71,28,90,87
+27053020302,Minneapolis,Hennepin,34,100,71,24,90,87
+27053020303,Minneapolis,Hennepin,29,100,71,29,90,87
+27053020304,Minneapolis,Hennepin,53,100,71,12,90,90
+27053020400,Minneapolis,Hennepin,29,100,71,30,90,90
+27053020500,Minneapolis,Hennepin,24,100,71,28,90,99
+27053020600,Minneapolis,Hennepin,17,100,71,44,90,99
+27053020700,Minneapolis,Hennepin,4,100,71,23,90,87
+27053020801,Crystal,Hennepin,65,82,70,42,90,98
+27053020804,Minneapolis,Hennepin,54,100,71,37,90,98
+27053020902,Minneapolis,Hennepin,48,100,71,24,90,90
+27053020903,Minneapolis,Hennepin,48,100,71,29,90,98
+27053021001,Minneapolis,Hennepin,29,100,71,21,90,90
+27053021002,Minneapolis,Hennepin,38,100,71,41,90,90
+27053021100,Minneapolis,Hennepin,52,100,71,47,90,91
+27053021200,Minneapolis,Hennepin,50,100,71,19,90,91
+27053021300,Minneapolis,Hennepin,72,100,71,47,90,91
+27053021400,Minneapolis,Hennepin,36,100,71,26,90,91
+27053021501,Minneapolis,Hennepin,32,100,71,37,90,87
+27053021502,Minneapolis,Hennepin,48,100,71,45,90,98
+27053021503,New Hope,Hennepin,14,60,80,30,90,98
+27053021504,Minneapolis,Hennepin,37,100,71,24,90,98
+27053021505,Minneapolis,Hennepin,34,100,71,22,90,98
+27053021601,Minneapolis,Hennepin,10,100,71,18,90,91
+27053021602,Minneapolis,Hennepin,27,100,71,40,90,91
+27053021700,Minneapolis,Hennepin,15,100,71,14,90,90
+27053021800,Golden Valley,Hennepin,10,100,80,20,90,78
+27053021900,Minneapolis,Hennepin,25,100,71,26,86,91
+27053022000,Minneapolis,Hennepin,58,100,71,15,86,78
+27053022101,Minneapolis,Hennepin,48,100,71,15,86,78
+27053022102,St Louis Park,Hennepin,21,89,76,33,86,91
+27053022200,Minneapolis,Hennepin,10,100,71,13,86,84
+27053022301,St Louis Park,Hennepin,22,89,76,36,86,84
+27053022302,Minneapolis,Hennepin,46,100,71,35,86,84
+27053022400,Minneapolis,Hennepin,45,100,71,23,86,85
+27053022700,Minneapolis,Hennepin,50,100,71,16,86,78
+27053022801,Minneapolis,Hennepin,25,100,71,12,86,78
+27053022802,St Louis Park,Hennepin,67,89,76,20,86,78
+27053022901,Minneapolis,Hennepin,80,100,71,20,86,78
+27053022902,Minneapolis,Hennepin,48,100,71,13,86,99
+27053023000,Minneapolis,Hennepin,17,100,71,12,86,85
+27053023100,Minneapolis,Hennepin,63,100,71,6,86,99
+27053023200,Hopkins,Hennepin,9,92,73,22,86,84
+27053023300,Hopkins,Hennepin,84,92,73,26,86,98
+27053023400,Hopkins,Hennepin,41,92,73,29,86,98
+27053023501,Minneapolis,Hennepin,2,100,71,25,86,99
+27053023502,Minneapolis,Hennepin,3,100,71,11,86,99
+27053023600,Edina,Hennepin,59,79,87,11,86,99
+27053023700,Minneapolis,Hennepin,25,100,71,12,90,99
+27053023801,Minneapolis,Hennepin,40,100,71,8,90,99
+27053023802,Edina,Hennepin,23,79,87,10,90,99
+27053023901,Edina,Hennepin,38,79,87,18,90,99
+27053023902,Minneapolis,Hennepin,5,100,71,12,90,99
+27053023903,Edina,Hennepin,35,79,87,24,90,90
+27053024003,Edina,Hennepin,23,79,87,17,90,90
+27053024004,Minneapolis,Hennepin,68,100,71,68,90,90
+27053024005,Edina,Hennepin,86,79,87,38,90,90
+27053024006,Edina,Hennepin,17,79,87,20,90,90
+27053024100,Minneapolis,Hennepin,72,100,71,23,90,94
+27053024200,Minneapolis,Hennepin,54,100,71,9,90,90
+27053024300,Minneapolis,Hennepin,36,100,71,20,90,90
+27053024400,Minneapolis,Hennepin,75,100,71,43,90,94
+27053024500,Minneapolis,Hennepin,43,100,71,31,90,94
+27053024600,Minneapolis,Hennepin,55,100,71,31,90,91
+27053024700,Minneapolis,Hennepin,53,100,71,17,90,94
+27053024801,Richfield,Hennepin,48,100,76,24,90,94
+27053024802,Richfield,Hennepin,62,100,76,22,90,94
+27053024901,Richfield,Hennepin,61,100,76,16,90,94
+27053024902,Richfield,Hennepin,50,100,76,17,90,94
+27053024903,Minneapolis,Hennepin,25,100,71,24,90,94
+27053025100,Bloomington,Hennepin,20,100,63,14,0,82
+27053025201,Bloomington,Hennepin,27,100,63,39,90,82
+27053025205,Minneapolis,Hennepin,31,100,71,27,90,82
+27053025301,Bloomington,Hennepin,8,100,63,39,0,82
+27053025302,Bloomington,Hennepin,48,100,63,33,87,76
+27053025401,Bloomington,Hennepin,44,100,63,33,90,91
+27053025403,Minneapolis,Hennepin,38,100,71,27,90,82
+27053025601,Minneapolis,Hennepin,37,100,71,36,90,91
+27053025603,Minneapolis,Hennepin,21,100,71,26,90,91
+27053025605,Minneapolis,Hennepin,28,100,71,27,90,90
+27053025701,Minneapolis,Hennepin,34,100,71,21,90,86
+27053025702,Minneapolis,Hennepin,11,100,71,38,90,99
+27053025801,Bloomington,Hennepin,17,100,63,19,87,76
+27053025802,Minneapolis,Hennepin,13,100,71,16,87,96
+27053025803,Minneapolis,Hennepin,47,100,71,32,87,96
+27053025805,Bloomington,Hennepin,4,100,63,31,87,96
+27053025903,Minneapolis,Hennepin,24,100,71,18,90,86
+27053025905,Minneapolis,Hennepin,3,100,71,26,90,86
+27053025906,Minneapolis,Hennepin,1,100,71,19,90,86
+27053025907,Minneapolis,Hennepin,12,100,71,18,0,86
+27053026005,Eden Prairie,Hennepin,8,40,87,11,0,99
+27053026006,Eden Prairie,Hennepin,3,40,87,9,0,99
+27053026007,Eden Prairie,Hennepin,11,40,87,15,90,98
+27053026013,Eden Prairie,Hennepin,0,40,87,17,0,99
+27053026014,Eden Prairie,Hennepin,22,40,87,7,0,99
+27053026015,Eden Prairie,Hennepin,1,40,87,17,0,99
+27053026016,Eden Prairie,Hennepin,1,40,87,10,0,86
+27053026018,Eden Prairie,Hennepin,2,40,87,12,78,99
+27053026019,Eden Prairie,Hennepin,36,40,87,8,0,99
+27053026020,Eden Prairie,Hennepin,14,40,87,24,90,86
+27053026021,Eden Prairie,Hennepin,4,40,87,8,0,99
+27053026022,Eden Prairie,Hennepin,1,40,87,4,78,99
+27053026101,Hopkins,Hennepin,14,92,73,18,86,98
+27053026103,Hopkins,Hennepin,17,92,73,16,86,98
+27053026104,Hopkins,Hennepin,48,92,73,19,86,98
+27053026201,Minnetonka,Hennepin,31,88,84,20,0,99
+27053026202,Minnetonka,Hennepin,14,88,84,28,0,98
+27053026205,Minnetonka,Hennepin,5,88,84,13,0,99
+27053026206,Minnetonka,Hennepin,19,88,84,28,0,98
+27053026207,Minnetonka,Hennepin,13,88,84,21,0,99
+27053026208,Minnetonka,Hennepin,28,88,84,16,0,99
+27053026301,Wayzata,Hennepin,10,61,70,13,0,94
+27053026302,Minnetonka,Hennepin,26,88,84,10,0,94
+27053026402,Minnetonka,Hennepin,22,88,84,21,86,84
+27053026403,Hopkins,Hennepin,22,92,73,34,86,94
+27053026404,Hopkins,Hennepin,3,92,73,16,86,94
+27053026505,Minneapolis,Hennepin,22,100,71,15,0,94
+27053026507,Minneapolis,Hennepin,13,100,71,25,0,94
+27053026508,Minneapolis,Hennepin,0,100,71,17,0,98
+27053026509,Minneapolis,Hennepin,15,100,71,11,0,98
+27053026510,Plymouth,Hennepin,7,60,85,14,90,98
+27053026511,Plymouth,Hennepin,30,60,85,7,90,98
+27053026512,Minneapolis,Hennepin,14,100,71,24,90,98
+27053026514,Plymouth,Hennepin,33,60,85,22,0,94
+27053026605,Plymouth,Hennepin,3,60,85,19,0,94
+27053026606,Minneapolis,Hennepin,8,100,71,22,0,94
+27053026609,Plymouth,Hennepin,8,60,85,13,0,94
+27053026610,Minneapolis,Hennepin,39,100,71,19,0,94
+27053026611,Plymouth,Hennepin,8,60,85,24,0,94
+27053026612,Plymouth,Hennepin,3,60,85,4,0,98
+27053026613,Plymouth,Hennepin,14,60,85,12,0,0
+27053026702,Osseo,Hennepin,68,56,89,35,90,87
+27053026706,Maple Grove,Hennepin,1,44,82,15,91,80
+27053026707,Maple Grove,Hennepin,0,44,82,9,90,80
+27053026708,Maple Grove,Hennepin,26,44,82,11,90,0
+27053026710,Maple Grove,Hennepin,11,44,82,7,90,87
+27053026711,Maple Grove,Hennepin,12,44,82,6,90,87
+27053026712,Maple Grove,Hennepin,14,44,82,18,90,87
+27053026713,Maple Grove,Hennepin,4,44,82,16,90,87
+27053026714,Osseo,Hennepin,28,56,89,13,90,99
+27053026715,Maple Grove,Hennepin,7,44,82,5,90,0
+27053026716,Maple Grove,Hennepin,1,44,82,7,90,0
+27053026807,Minneapolis,Hennepin,19,100,71,37,0,87
+27053026809,Brooklyn Park,Hennepin,23,92,62,17,90,87
+27053026810,Brooklyn Park,Hennepin,39,92,62,30,90,87
+27053026811,Minneapolis,Hennepin,12,100,71,14,90,87
+27053026812,Minneapolis,Hennepin,0,100,71,19,91,89
+27053026814,Minneapolis,Hennepin,13,100,71,22,90,97
+27053026815,Minneapolis,Hennepin,8,100,71,20,90,97
+27053026816,Brooklyn Park,Hennepin,15,92,62,9,0,87
+27053026818,Brooklyn Park,Hennepin,26,92,62,36,0,87
+27053026819,Brooklyn Park,Hennepin,40,92,62,26,0,87
+27053026820,Minneapolis,Hennepin,13,100,71,13,91,89
+27053026822,Minneapolis,Hennepin,20,100,71,21,90,96
+27053026823,Minneapolis,Hennepin,12,100,71,10,90,87
+27053026903,Champlin,Hennepin,2,53,84,27,91,89
+27053026906,Champlin,Hennepin,14,53,84,14,91,89
+27053026907,Champlin,Hennepin,1,53,84,6,91,80
+27053026908,Champlin,Hennepin,18,53,84,9,91,80
+27053026909,Rogers,Hennepin,0,0,76,12,0,99
+27053026910,Dayton,Hennepin,0,1,85,12,90,99
+27053027001,Loretto,Hennepin,1,0,68,20,0,0
+27053027002,Independence,Hennepin,0,0,68,12,0,86
+27053027101,Medina,Hennepin,0,0,78,8,0,86
+27053027102,Corcoran,Hennepin,0,0,89,11,0,0
+27053027201,Long Lake,Hennepin,1,40,68,14,0,86
+27053027202,Long Lake,Hennepin,30,40,68,25,0,86
+27053027203,Wayzata,Hennepin,0,61,70,20,0,99
+27053027300,Wayzata,Hennepin,56,61,70,31,0,94
+27053027400,Wayzata,Hennepin,18,61,70,9,0,99
+27053027501,Excelsior,Hennepin,9,41,68,18,0,99
+27053027503,Excelsior,Hennepin,1,41,68,13,0,99
+27053027504,Excelsior,Hennepin,18,41,68,5,0,99
+27053027601,Mound,Hennepin,25,43,68,22,0,92
+27053027602,Mound,Hennepin,9,43,68,23,0,92
+27053027700,Maple Plain,Hennepin,4,0,68,16,0,92
+27053100200,Minneapolis,Hennepin,50,100,71,46,90,90
+27053100400,Minneapolis,Hennepin,61,100,71,32,90,92
+27053100500,Minneapolis,Hennepin,24,100,71,42,90,99
+27053100700,Minneapolis,Hennepin,50,100,71,19,90,91
+27053100800,Minneapolis,Hennepin,59,100,71,27,90,90
+27053100900,Minneapolis,Hennepin,52,100,71,35,90,92
+27053101200,Minneapolis,Hennepin,62,100,71,19,89,99
+27053101300,Minneapolis,Hennepin,65,100,71,42,90,91
+27053101600,Minneapolis,Hennepin,56,100,71,66,90,83
+27053101800,Minneapolis,Hennepin,71,100,71,24,89,83
+27053101900,Minneapolis,Hennepin,80,100,71,35,89,99
+27053102000,Minneapolis,Hennepin,50,100,71,29,90,91
+27053102100,Minneapolis,Hennepin,67,100,71,23,90,90
+27053102300,Minneapolis,Hennepin,63,100,71,60,89,83
+27053102500,Minneapolis,Hennepin,68,100,71,25,89,83
+27053102600,Minneapolis,Hennepin,56,100,71,17,93,99
+27053102800,Minneapolis,Hennepin,59,100,71,43,90,83
+27053102900,Minneapolis,Hennepin,73,100,71,51,90,83
+27053103000,Minneapolis,Hennepin,72,100,71,29,89,83
+27053103100,Minneapolis,Hennepin,70,100,71,33,89,83
+27053103400,Minneapolis,Hennepin,68,100,71,38,89,83
+27053103600,Minneapolis,Hennepin,88,100,71,13,89,83
+27053103700,Minneapolis,Hennepin,89,100,71,19,89,83
+27053103900,Minneapolis,Hennepin,89,100,71,4,93,83
+27053104000,Minneapolis,Hennepin,68,100,71,7,93,99
+27053104100,Minneapolis,Hennepin,68,100,71,40,89,81
+27053104400,Minneapolis,Hennepin,98,100,71,45,89,81
+27053104800,Minneapolis,Hennepin,81,100,71,27,93,99
+27053104900,Minneapolis,Hennepin,74,100,71,9,93,99
+27053105100,Minneapolis,Hennepin,49,100,71,16,89,78
+27053105201,Minneapolis,Hennepin,88,100,71,37,89,81
+27053105204,Minneapolis,Hennepin,91,100,71,57,89,81
+27053105400,Minneapolis,Hennepin,83,100,71,24,89,99
+27053105500,Minneapolis,Hennepin,44,100,71,16,43,81
+27053105600,Minneapolis,Hennepin,73,100,71,25,43,81
+27053105700,Minneapolis,Hennepin,90,100,71,46,43,81
+27053106000,Minneapolis,Hennepin,85,100,71,41,43,99
+27053106200,Minneapolis,Hennepin,86,100,71,31,93,99
+27053106400,Minneapolis,Hennepin,73,100,71,43,93,99
+27053106500,Minneapolis,Hennepin,41,100,71,7,43,78
+27053106600,Minneapolis,Hennepin,87,100,71,15,43,81
+27053106700,Minneapolis,Hennepin,93,100,71,11,43,81
+27053106900,Minneapolis,Hennepin,89,100,71,23,43,81
+27053107000,Minneapolis,Hennepin,86,100,71,12,43,81
+27053107400,Minneapolis,Hennepin,80,100,71,27,93,99
+27053107500,Minneapolis,Hennepin,76,100,71,15,93,99
+27053107600,Minneapolis,Hennepin,64,100,71,12,93,83
+27053108000,Minneapolis,Hennepin,84,100,71,14,93,81
+27053108600,Minneapolis,Hennepin,74,100,71,19,93,90
+27053108700,Minneapolis,Hennepin,65,100,71,27,93,90
+27053108800,Minneapolis,Hennepin,78,100,71,35,93,90
+27053108900,Minneapolis,Hennepin,63,100,71,27,93,90
+27053109000,Minneapolis,Hennepin,54,100,71,18,93,83
+27053109100,Minneapolis,Hennepin,22,100,71,17,86,78
+27053109200,Minneapolis,Hennepin,78,100,71,16,93,81
+27053109300,Minneapolis,Hennepin,80,100,71,18,93,81
+27053109400,Minneapolis,Hennepin,77,100,71,24,93,90
+27053109700,Minneapolis,Hennepin,65,100,71,19,93,90
+27053109800,Minneapolis,Hennepin,69,100,71,10,86,78
+27053109900,Minneapolis,Hennepin,27,100,71,22,93,81
+27053110000,Minneapolis,Hennepin,65,100,71,24,93,90
+27053110100,Minneapolis,Hennepin,68,100,71,13,93,90
+27053110200,Minneapolis,Hennepin,71,100,71,19,93,90
+27053110400,Minneapolis,Hennepin,70,100,71,26,93,85
+27053110500,Minneapolis,Hennepin,41,100,71,19,93,85
+27053110800,Minneapolis,Hennepin,75,100,71,23,93,90
+27053110900,Minneapolis,Hennepin,48,100,71,34,93,90
+27053111100,Minneapolis,Hennepin,16,100,71,24,93,90
+27053111200,Minneapolis,Hennepin,87,100,71,11,90,99
+27053111300,Minneapolis,Hennepin,56,100,71,15,90,94
+27053111400,Minneapolis,Hennepin,68,100,71,8,90,94
+27053111500,Minneapolis,Hennepin,59,100,71,9,90,94
+27053111600,Minneapolis,Hennepin,43,100,71,13,93,94
+27053122500,St Louis Park,Hennepin,35,89,76,23,86,85
+27053122600,Minneapolis,Hennepin,46,100,71,10,86,85
+27053125500,Minneapolis,Hennepin,53,100,71,31,90,91
+27053125600,Minneapolis,Hennepin,69,100,71,12,93,99
+27053125700,Minneapolis,Hennepin,60,100,71,26,90,90
+27053125800,Minneapolis,Hennepin,84,100,71,21,93,81
+27053125900,Minneapolis,Hennepin,76,100,71,17,89,90
+27053126000,Minneapolis,Hennepin,83,100,71,56,93,81
+27053126100,Minneapolis,Hennepin,89,100,71,16,89,83
+27053126200,Minneapolis,Hennepin,79,100,71,13,89,83
+27053980000,Minneapolis,Hennepin,21,100,71,39,0,85
+27055020100,La Crescent,Houston,0,0,68,15,0,92
+27055020200,Hokah,Houston,0,0,69,22,0,0
+27055020300,Houston,Houston,0,0,77,25,0,100
+27055020500,Caledonia,Houston,29,0,62,39,0,0
+27055020900,Caledonia,Houston,0,0,62,31,0,0
+27057070100,Laporte,Hubbard,0,0,73,20,0,0
+27057070200,Park Rapids,Hubbard,0,0,27,34,0,0
+27057070300,Laporte,Hubbard,0,0,73,30,0,0
+27057070400,Nevis,Hubbard,0,0,73,32,0,0
+27057070500,Menahga,Hubbard,0,0,73,30,0,0
+27057070600,Park Rapids,Hubbard,70,0,27,50,52,0
+27057070700,Nevis,Hubbard,0,0,73,31,0,0
+27059130100,Dalbo,Isanti,2,0,87,22,0,0
+27059130200,Stanchfield,Isanti,0,0,87,29,0,0
+27059130301,Cambridge,Isanti,8,0,55,27,85,0
+27059130302,Cambridge,Isanti,2,0,55,44,85,0
+27059130400,North Branch,Isanti,9,0,77,26,0,0
+27059130501,Isanti,Isanti,0,0,84,23,0,0
+27059130502,Isanti,Isanti,37,0,84,18,85,0
+27059130600,Zimmerman,Isanti,0,0,87,32,0,0
+27061480100,Wirt,Itasca,0,0,79,42,0,0
+27061480300,Deer River,Itasca,0,0,79,35,0,0
+27061480400,Cook,Itasca,0,0,79,36,0,0
+27061480500,Nashwauk,Itasca,0,0,79,35,0,0
+27061480600,Warba,Itasca,0,0,79,39,0,0
+27061480700,Grand Rapids,Itasca,0,0,40,24,0,0
+27061480801,Grand Rapids,Itasca,0,0,40,32,63,0
+27061480802,Grand Rapids,Itasca,21,0,40,49,63,0
+27061480900,Grand Rapids,Itasca,0,0,40,33,63,0
+27061481000,Pengilly,Itasca,0,0,79,42,0,0
+27061940000,Squaw Lake,Itasca,0,0,79,29,0,0
+27063480100,Jackson,Jackson,0,0,89,19,0,0
+27063480200,Okabena,Jackson,0,0,89,27,0,0
+27063480300,Lakefield,Jackson,3,0,90,22,0,0
+27063480400,Jackson,Jackson,50,0,89,27,48,0
+27065480100,Mora,Kanabec,0,0,79,29,0,0
+27065480200,Ogilvie,Kanabec,0,0,79,35,0,0
+27065480300,Mora,Kanabec,10,0,79,39,53,0
+27065480400,Mora,Kanabec,0,0,79,27,0,0
+27067770900,Willmar,Kandiyohi,58,0,70,29,70,71
+27067780100,New London,Kandiyohi,0,0,87,29,0,0
+27067780200,Pennock,Kandiyohi,0,0,87,20,0,0
+27067780300,New London,Kandiyohi,3,0,87,23,0,0
+27067780400,Kandiyohi,Kandiyohi,1,0,87,24,0,0
+27067780500,Willmar,Kandiyohi,0,0,70,32,70,97
+27067780600,Pennock,Kandiyohi,0,0,87,17,70,0
+27067780700,Willmar,Kandiyohi,1,0,70,32,70,71
+27067780800,Willmar,Kandiyohi,76,0,70,30,70,71
+27067781000,Willmar,Kandiyohi,14,0,70,38,70,71
+27067781100,Lake Lillian,Kandiyohi,0,0,87,23,0,0
+27067781200,Raymond,Kandiyohi,0,0,87,22,0,0
+27069090100,Lake Bronson,Kittson,0,0,84,43,0,0
+27069090200,Hallock,Kittson,0,0,84,31,49,0
+27071790100,International Falls,Koochiching,18,0,59,43,52,0
+27071790200,International Falls,Koochiching,1,0,59,43,52,0
+27071790300,Littlefork,Koochiching,0,0,77,34,0,0
+27071790500,Margie,Koochiching,0,0,77,39,0,0
+27073180100,Madison,Lac Qui Parle,0,0,93,32,0,0
+27073180200,Madison,Lac Qui Parle,3,0,93,39,0,0
+27073180300,Dawson,Lac Qui Parle,0,0,93,29,0,0
+27075370100,Isabella,Lake,0,0,94,27,0,0
+27075370300,Silver Bay,Lake,0,0,94,38,0,0
+27075370400,Two Harbors,Lake,26,0,83,34,48,0
+27075990100,Two Harbors,Lake,0,0,83,0,0,0
+27077460300,Baudette,Lake of the Woods,2,0,91,47,0,0
+27077460400,Williams,Lake of the Woods,0,0,91,33,0,0
+27079950100,Le Center,Le Sueur,0,0,96,16,0,0
+27079950200,Le Sueur,Le Sueur,0,0,74,26,43,85
+27079950300,Montgomery,Le Sueur,0,0,82,21,0,0
+27079950400,Waterville,Le Sueur,0,0,96,30,0,77
+27079950500,Le Center,Le Sueur,1,0,96,20,0,0
+27079950600,St Peter,Le Sueur,0,0,81,19,48,0
+27081201001,Ivanhoe,Lincoln,0,0,90,28,0,0
+27081201002,Lake Benton,Lincoln,9,0,90,35,0,0
+27083360100,Minneota,Lyon,0,0,92,27,0,0
+27083360200,Marshall,Lyon,0,0,69,15,51,93
+27083360300,Marshall,Lyon,2,0,69,22,51,93
+27083360400,Marshall,Lyon,12,0,69,32,51,95
+27083360500,Marshall,Lyon,1,0,69,22,51,95
+27083360600,Balaton,Lyon,0,0,92,21,0,0
+27083360700,Tracy,Lyon,10,0,94,45,49,0
+27085950100,Silver Lake,McLeod,0,0,79,24,0,0
+27085950200,Hutchinson,McLeod,0,0,78,21,0,0
+27085950300,Hutchinson,McLeod,0,0,78,32,75,0
+27085950400,Hutchinson,McLeod,29,0,78,23,75,0
+27085950500,Brownton,McLeod,0,0,94,27,0,0
+27085950600,Glencoe,McLeod,0,0,81,21,53,0
+27085950700,Glencoe,McLeod,40,0,81,21,53,0
+27087940100,Mahnomen,Mahnomen,0,0,41,34,43,0
+27087940300,Mahnomen,Mahnomen,0,0,41,30,0,0
+27089080100,Middle River,Marshall,0,0,69,30,0,0
+27089080200,Newfolden,Marshall,0,0,69,24,0,0
+27089080300,Stephen,Marshall,0,0,69,34,0,0
+27089080400,Warren,Marshall,0,0,69,27,43,0
+27091790100,Truman,Martin,0,0,95,31,0,0
+27091790200,Fairmont,Martin,0,0,53,22,0,0
+27091790300,Fairmont,Martin,0,0,53,26,0,0
+27091790400,Ceylon,Martin,0,0,95,26,0,0
+27091790500,Fairmont,Martin,0,0,53,42,83,0
+27091790600,Fairmont,Martin,13,0,53,31,83,0
+27093560100,Dassel,Meeker,0,0,85,25,0,0
+27093560200,Darwin,Meeker,0,0,85,20,54,0
+27093560300,Litchfield,Meeker,41,0,78,28,54,0
+27093560400,Litchfield,Meeker,13,0,78,32,54,0
+27093560500,Litchfield,Meeker,0,0,78,22,54,0
+27093560600,Grove City,Meeker,0,0,85,26,0,0
+27095170400,Milaca,Mille Lacs,0,0,75,19,0,0
+27095170500,Milaca,Mille Lacs,0,0,75,34,0,0
+27095170600,Princeton,Mille Lacs,0,0,75,29,88,0
+27095170700,Princeton,Mille Lacs,5,0,75,43,88,0
+27095970100,Isle,Mille Lacs,0,0,26,40,0,0
+27095970200,Onamia,Mille Lacs,2,0,26,39,0,0
+27095970300,Onamia,Mille Lacs,0,0,26,34,0,0
+27097780100,Cushing,Morrison,0,0,89,25,0,0
+27097780200,Randall,Morrison,4,0,89,27,0,100
+27097780300,Little Falls,Morrison,0,0,73,23,0,0
+27097780400,Hillman,Morrison,0,0,89,28,0,0
+27097780500,Pierz,Morrison,0,0,89,28,0,0
+27097780600,Little Falls,Morrison,26,0,73,45,53,96
+27097780700,Little Falls,Morrison,20,0,73,42,53,96
+27097780800,Bowlus,Morrison,0,0,89,21,0,0
+27099000100,Austin,Mower,2,0,59,30,0,94
+27099000200,Austin,Mower,30,0,59,33,0,94
+27099000300,Austin,Mower,51,0,59,21,0,94
+27099000410,Austin,Mower,34,0,59,51,0,94
+27099000600,Austin,Mower,22,0,59,29,0,94
+27099000800,Austin,Mower,44,0,59,24,0,94
+27099000900,Austin,Mower,0,0,59,29,0,94
+27099001000,Austin,Mower,0,0,59,28,0,0
+27099001200,Brownsdale,Mower,0,0,78,22,0,91
+27099001300,Adams,Mower,0,0,78,25,0,0
+27099001400,Grand Meadow,Mower,40,0,78,19,0,0
+27101900100,Slayton,Murray,1,0,73,23,0,0
+27101900200,Slayton,Murray,3,0,73,31,0,0
+27101900300,Avoca,Murray,0,0,90,37,0,0
+27103480100,New Ulm,Nicollet,0,0,72,18,57,89
+27103480200,St Peter,Nicollet,2,0,81,22,0,0
+27103480300,St Peter,Nicollet,21,0,81,21,48,0
+27103480400,St Peter,Nicollet,3,0,81,19,48,0
+27103480501,North Mankato,Nicollet,25,0,70,27,88,95
+27103480502,North Mankato,Nicollet,11,0,70,17,88,95
+27103480600,North Mankato,Nicollet,37,0,70,16,88,96
+27105105100,Worthington,Nobles,0,0,83,19,0,0
+27105105200,Adrian,Nobles,0,0,93,20,0,0
+27105105300,Rushmore,Nobles,0,0,93,26,0,0
+27105105400,Worthington,Nobles,0,0,83,30,62,93
+27105105500,Worthington,Nobles,0,0,83,24,62,99
+27105105600,Worthington,Nobles,7,0,83,25,62,83
+27107960100,Gary,Norman,0,0,91,23,0,89
+27107960200,Halstad,Norman,0,0,91,31,0,0
+27107960300,Ada,Norman,0,0,91,26,43,0
+27109000100,Rochester,Olmsted,95,0,78,100,85,96
+27109000200,Rochester,Olmsted,30,0,78,29,64,99
+27109000300,Rochester,Olmsted,68,0,78,19,85,96
+27109000400,Rochester,Olmsted,51,0,78,26,100,96
+27109000500,Rochester,Olmsted,84,0,78,23,100,83
+27109000600,Rochester,Olmsted,60,0,78,29,85,83
+27109000901,Rochester,Olmsted,1,0,78,16,64,99
+27109000902,Rochester,Olmsted,0,0,78,27,64,99
+27109000903,Rochester,Olmsted,11,0,78,21,64,99
+27109001000,Rochester,Olmsted,22,0,78,16,64,99
+27109001100,Rochester,Olmsted,23,0,78,22,100,96
+27109001201,Rochester,Olmsted,15,0,78,12,100,96
+27109001202,Rochester,Olmsted,1,0,78,10,100,99
+27109001203,Rochester,Olmsted,1,0,78,13,100,96
+27109001301,Rochester,Olmsted,16,0,78,20,100,96
+27109001302,Rochester,Olmsted,1,0,78,24,100,10
+27109001401,Rochester,Olmsted,17,0,78,18,100,75
+27109001402,Rochester,Olmsted,8,0,78,7,100,10
+27109001501,Rochester,Olmsted,31,0,78,12,100,75
+27109001502,Rochester,Olmsted,27,0,78,22,100,96
+27109001503,Rochester,Olmsted,21,0,78,16,85,75
+27109001601,Rochester,Olmsted,23,0,78,25,85,83
+27109001602,Rochester,Olmsted,14,0,78,13,64,83
+27109001603,Rochester,Olmsted,0,0,78,16,64,99
+27109001701,Rochester,Olmsted,37,0,78,22,100,99
+27109001702,Rochester,Olmsted,19,0,78,18,85,99
+27109001703,Rochester,Olmsted,0,0,78,17,85,99
+27109001800,Byron,Olmsted,16,0,90,11,0,0
+27109001900,Oronoco,Olmsted,0,0,90,14,0,99
+27109002000,Dover,Olmsted,0,0,90,16,0,0
+27109002100,Stewartville,Olmsted,36,0,90,13,0,0
+27109002200,Rochester,Olmsted,0,0,78,14,0,0
+27109002300,Rochester,Olmsted,0,0,78,12,64,99
+27111960102,Perham,Otter Tail,0,0,93,26,0,0
+27111960103,Pelican Rapids,Otter Tail,0,0,93,23,0,0
+27111960300,Pelican Rapids,Otter Tail,0,0,93,30,0,0
+27111960400,Dent,Otter Tail,0,0,93,36,0,0
+27111960500,New York Mills,Otter Tail,0,0,93,33,0,88
+27111960600,New York Mills,Otter Tail,0,0,93,31,0,88
+27111960700,Dent,Otter Tail,0,0,93,25,0,0
+27111960800,Fergus Falls,Otter Tail,0,0,44,20,0,0
+27111960900,Fergus Falls,Otter Tail,24,0,44,38,83,0
+27111961000,Fergus Falls,Otter Tail,2,0,44,39,83,0
+27111961100,Fergus Falls,Otter Tail,0,0,44,30,83,0
+27111961200,Underwood,Otter Tail,0,0,93,34,0,0
+27111961300,Henning,Otter Tail,0,0,93,36,0,89
+27111961400,Ottertail,Otter Tail,0,0,93,32,0,0
+27111961500,Parkers Prairie,Otter Tail,0,0,93,31,0,0
+27111961600,Battle Lake,Otter Tail,0,0,93,32,0,0
+27111961700,Fergus Falls,Otter Tail,0,0,44,22,83,0
+27113090100,Goodridge,Pennington,0,0,89,24,0,0
+27113090200,Thief River Falls,Pennington,1,0,65,30,53,0
+27113090300,Thief River Falls,Pennington,0,0,65,28,0,0
+27113090400,Thief River Falls,Pennington,4,0,65,29,53,0
+27113090500,Thief River Falls,Pennington,7,0,65,28,53,0
+27115950100,Bruno,Pine,0,0,64,35,0,0
+27115950200,Willow River,Pine,0,0,64,29,0,0
+27115950300,Askov,Pine,0,0,64,34,0,0
+27115950400,Hinckley,Pine,0,0,64,47,0,0
+27115950500,Hinckley,Pine,0,0,64,37,0,97
+27115950600,Pine City,Pine,0,0,64,28,0,0
+27115950700,Pine City,Pine,1,0,64,49,0,0
+27115950800,Grasston,Pine,3,0,64,31,0,0
+27117460100,Pipestone,Pipestone,0,0,87,23,0,0
+27117460200,Pipestone,Pipestone,39,0,87,41,53,0
+27117460300,Pipestone,Pipestone,30,0,87,32,53,0
+27117460400,Pipestone,Pipestone,0,0,87,27,53,0
+27117460500,Edgerton,Pipestone,0,0,87,23,0,0
+27119020100,East Grand Forks,Polk,24,0,53,22,0,88
+27119020200,East Grand Forks,Polk,4,0,53,53,0,88
+27119020300,East Grand Forks,Polk,0,0,53,20,0,88
+27119020400,Euclid,Polk,0,0,74,23,0,0
+27119020500,Crookston,Polk,0,0,80,22,0,0
+27119020600,Crookston,Polk,51,0,80,38,52,88
+27119020700,Crookston,Polk,7,0,80,31,52,88
+27119020800,Fertile,Polk,0,0,74,26,0,0
+27119020900,Erskine,Polk,0,0,74,29,0,0
+27119021000,Fosston,Polk,0,0,74,35,0,0
+27121970100,Glenwood,Pope,0,0,85,23,0,0
+27121970200,Lowry,Pope,0,0,90,41,0,0
+27121970300,Starbuck,Pope,0,0,90,21,0,0
+27121970400,Long Beach,Pope,7,0,90,32,52,0
+27123030100,St Paul,Ramsey,76,100,79,9,93,99
+27123030201,St Paul,Ramsey,47,100,79,14,90,99
+27123030202,St Paul,Ramsey,33,100,79,5,90,99
+27123030300,St Paul,Ramsey,21,100,79,16,89,99
+27123030400,St Paul,Ramsey,34,100,79,25,89,96
+27123030500,St Paul,Ramsey,29,100,79,33,89,98
+27123030601,St Paul,Ramsey,36,100,79,18,89,98
+27123030602,St Paul,Ramsey,9,100,79,25,89,87
+27123030702,St Paul,Ramsey,25,100,79,14,90,87
+27123030703,St Paul,Ramsey,50,100,79,30,90,87
+27123030704,St Paul,Ramsey,57,100,79,28,90,87
+27123030800,St Paul,Ramsey,55,100,79,25,89,96
+27123030900,St Paul,Ramsey,61,100,79,23,89,98
+27123031000,St Paul,Ramsey,81,100,79,23,89,98
+27123031100,St Paul,Ramsey,71,100,79,25,89,87
+27123031200,St Paul,Ramsey,42,100,79,25,89,96
+27123031300,St Paul,Ramsey,57,100,79,46,89,96
+27123031400,St Paul,Ramsey,52,100,79,35,89,98
+27123031500,St Paul,Ramsey,76,100,79,29,89,98
+27123031600,St Paul,Ramsey,57,100,79,34,89,87
+27123031701,St Paul,Ramsey,52,100,79,31,89,87
+27123031702,St Paul,Ramsey,36,100,79,28,89,87
+27123031801,St Paul,Ramsey,44,100,79,22,89,87
+27123031802,St Paul,Ramsey,24,100,79,24,89,87
+27123031900,St Paul,Ramsey,39,100,79,27,93,83
+27123032000,St Paul,Ramsey,75,100,79,20,93,83
+27123032100,St Paul,Ramsey,85,100,79,19,90,83
+27123032200,St Paul,Ramsey,77,100,79,35,90,69
+27123032300,St Paul,Ramsey,56,100,79,27,90,69
+27123032400,St Paul,Ramsey,58,100,79,34,90,96
+27123032500,St Paul,Ramsey,72,100,79,29,90,96
+27123032600,St Paul,Ramsey,69,100,79,32,89,96
+27123032700,St Paul,Ramsey,80,100,79,27,89,96
+27123033000,St Paul,Ramsey,65,100,79,62,89,98
+27123033100,St Paul,Ramsey,74,100,79,53,89,98
+27123033200,St Paul,Ramsey,52,100,79,31,93,83
+27123033300,St Paul,Ramsey,59,100,79,23,93,83
+27123033400,St Paul,Ramsey,81,100,79,36,90,69
+27123033500,St Paul,Ramsey,74,100,79,27,90,96
+27123033600,St Paul,Ramsey,80,100,79,38,90,96
+27123033700,St Paul,Ramsey,78,100,79,74,89,81
+27123033800,St Paul,Ramsey,63,100,79,36,90,69
+27123033900,St Paul,Ramsey,77,100,79,28,90,99
+27123034000,St Paul,Ramsey,81,100,79,37,90,81
+27123034201,St Paul,Ramsey,94,100,79,21,89,98
+27123034202,St Paul,Ramsey,95,100,79,57,89,98
+27123034400,St Paul,Ramsey,27,100,79,37,89,98
+27123034500,St Paul,Ramsey,55,100,79,27,89,98
+27123034601,St Paul,Ramsey,58,100,79,56,89,98
+27123034602,St Paul,Ramsey,32,100,79,17,89,87
+27123034701,St Paul,Ramsey,51,100,79,20,89,87
+27123034702,St Paul,Ramsey,42,100,79,32,89,87
+27123034900,St Paul,Ramsey,70,100,79,5,93,83
+27123035000,St Paul,Ramsey,74,100,79,9,90,83
+27123035100,St Paul,Ramsey,81,100,79,13,90,83
+27123035200,St Paul,Ramsey,78,100,79,15,90,69
+27123035300,St Paul,Ramsey,76,100,79,18,90,69
+27123035500,St Paul,Ramsey,78,100,79,31,90,81
+27123035700,St Paul,Ramsey,76,100,79,5,90,99
+27123035800,St Paul,Ramsey,73,100,79,20,90,81
+27123035900,St Paul,Ramsey,75,100,79,51,90,81
+27123036000,St Paul,Ramsey,10,100,79,29,90,81
+27123036100,St Paul,Ramsey,3,100,79,47,89,97
+27123036300,St Paul,Ramsey,46,100,79,10,90,85
+27123036400,St Paul,Ramsey,61,100,79,10,90,85
+27123036500,St Paul,Ramsey,77,100,79,22,90,69
+27123036600,St Paul,Ramsey,56,100,79,25,90,99
+27123036700,St Paul,Ramsey,56,100,79,34,90,99
+27123036800,St Paul,Ramsey,74,100,79,26,90,99
+27123036900,St Paul,Ramsey,68,100,79,55,90,81
+27123037000,St Paul,Ramsey,17,100,79,16,90,97
+27123037100,St Paul,Ramsey,46,100,79,27,90,97
+27123037200,St Paul,Ramsey,51,100,79,35,90,97
+27123037402,St Paul,Ramsey,39,100,79,28,89,87
+27123037403,St Paul,Ramsey,9,100,79,19,89,97
+27123037500,St Paul,Ramsey,34,100,79,12,90,85
+27123037601,St Paul,Ramsey,36,100,79,30,90,85
+27123037602,St Paul,Ramsey,13,100,79,28,90,90
+27123040100,White Bear Lake,Ramsey,8,74,64,13,0,95
+27123040200,White Bear Lake,Ramsey,11,74,64,32,90,95
+27123040301,White Bear Lake,Ramsey,18,74,64,14,90,95
+27123040302,White Bear Lake,Ramsey,20,74,64,18,90,95
+27123040401,White Bear Lake,Ramsey,32,74,64,20,90,95
+27123040402,White Bear Lake,Ramsey,11,74,64,18,90,95
+27123040502,White Bear Lake,Ramsey,29,74,64,37,90,95
+27123040503,White Bear Lake,Ramsey,2,74,64,24,90,95
+27123040504,St Paul,Ramsey,18,100,79,15,90,95
+27123040601,North Oaks,Ramsey,0,42,94,31,0,0
+27123040603,Vadnais Heights,Ramsey,1,46,80,19,90,94
+27123040604,Vadnais Heights,Ramsey,15,46,80,18,90,94
+27123040703,Shoreview,Ramsey,0,47,89,20,0,95
+27123040704,Shoreview,Ramsey,9,47,89,31,90,95
+27123040705,Shoreview,Ramsey,3,47,89,14,90,95
+27123040706,Shoreview,Ramsey,5,47,89,13,0,95
+27123040707,St Paul,Ramsey,8,100,79,14,0,95
+27123040801,Arden Hills,Ramsey,0,44,89,19,90,95
+27123040802,Arden Hills,Ramsey,11,44,89,0,0,87
+27123040803,Arden Hills,Ramsey,10,44,89,18,0,87
+27123040901,Mounds View,Ramsey,12,64,67,25,90,86
+27123040902,Mounds View,Ramsey,50,64,67,25,90,95
+27123041001,Mounds View,Ramsey,19,64,67,18,90,86
+27123041002,Mounds View,Ramsey,13,64,67,14,90,95
+27123041103,Minneapolis,Ramsey,52,100,71,29,90,71
+27123041104,New Brighton,Ramsey,32,88,80,27,90,87
+27123041105,New Brighton,Ramsey,11,88,80,24,90,87
+27123041106,St Paul,Ramsey,31,100,79,16,90,87
+27123041107,New Brighton,Ramsey,22,88,80,21,0,87
+27123041200,St Paul,Ramsey,44,100,79,21,90,87
+27123041301,Roseville,Ramsey,20,68,64,19,93,10
+27123041302,St Paul,Ramsey,26,100,79,28,0,99
+27123041400,Roseville,Ramsey,51,68,64,33,0,10
+27123041500,Roseville,Ramsey,7,68,64,26,90,95
+27123041601,Roseville,Ramsey,25,68,64,22,90,95
+27123041602,Roseville,Ramsey,19,68,64,35,89,95
+27123041700,Roseville,Ramsey,33,68,64,32,89,10
+27123041800,Roseville,Ramsey,61,68,64,27,89,10
+27123041900,Falcon Heights,Ramsey,29,85,84,14,93,10
+27123042001,Falcon Heights,Ramsey,42,85,84,7,93,10
+27123042002,Lauderdale,Ramsey,25,75,82,14,93,99
+27123042101,Little Canada,Ramsey,29,65,75,37,90,95
+27123042102,Little Canada,Ramsey,4,65,75,27,90,94
+27123042201,St Paul,Ramsey,27,100,79,28,89,94
+27123042202,St Paul,Ramsey,7,100,79,20,90,94
+27123042301,Maplewood,Ramsey,14,88,64,24,90,95
+27123042302,Maplewood,Ramsey,4,88,64,30,90,87
+27123042401,Maplewood,Ramsey,51,88,64,32,90,95
+27123042402,St Paul,Ramsey,21,100,79,29,90,87
+27123042501,St Paul,Ramsey,16,100,79,30,89,87
+27123042503,Maplewood,Ramsey,1,88,64,8,89,98
+27123042504,Maplewood,Ramsey,2,88,64,10,89,87
+27123042601,North St Paul,Ramsey,37,68,83,23,90,95
+27123042602,North St Paul,Ramsey,44,68,83,47,90,95
+27123042700,North St Paul,Ramsey,46,68,83,22,90,95
+27123042800,St Paul,Ramsey,74,100,79,47,89,98
+27123042900,St Paul,Ramsey,83,100,79,18,90,99
+27123043000,St Paul,Ramsey,30,100,79,16,93,83
+27123980000,St Paul,Ramsey,4,100,79,0,89,98
+27125010100,Brooks,Red Lake,0,0,86,33,0,0
+27125010200,Red Lake Falls,Red Lake,0,0,86,27,0,0
+27127750100,Morgan,Redwood,0,0,91,23,0,0
+27127750200,Redwood Falls,Redwood,0,0,61,38,52,0
+27127750300,Redwood Falls,Redwood,0,0,61,31,52,0
+27127750400,Wabasso,Redwood,0,0,91,28,0,0
+27127750500,Lucan,Redwood,0,0,91,32,0,0
+27127750600,Lamberton,Redwood,0,0,91,33,0,0
+27129790100,Buffalo Lake,Renville,0,0,87,28,0,0
+27129790200,Bird Island,Renville,0,0,87,27,0,98
+27129790300,Renville,Renville,0,0,87,24,0,97
+27129790400,Redwood Falls,Renville,0,0,61,28,0,0
+27129790500,Olivia,Renville,0,0,55,28,51,95
+27129790600,Fairfax,Renville,0,0,87,35,0,0
+27131070100,Webster,Rice,0,0,91,13,0,0
+27131070200,Dundas,Rice,0,0,91,13,0,0
+27131070300,Morristown,Rice,0,0,91,19,0,0
+27131070400,Faribault,Rice,0,0,73,15,75,88
+27131070501,Northfield,Rice,31,0,86,7,67,84
+27131070503,Northfield,Rice,4,0,86,11,67,85
+27131070504,Northfield,Rice,12,0,86,17,67,85
+27131070601,Northfield,Rice,28,0,86,23,67,84
+27131070602,Northfield,Rice,0,0,86,10,67,85
+27131070700,Faribault,Rice,2,0,73,20,75,88
+27131070800,Faribault,Rice,9,0,73,31,75,88
+27131070901,Faribault,Rice,22,0,73,30,75,88
+27131070902,Faribault,Rice,26,0,73,30,75,88
+27133570100,Luverne,Rock,0,0,80,18,51,0
+27133570200,Luverne,Rock,9,0,80,26,51,0
+27133570300,Luverne,Rock,0,0,80,25,0,0
+27135970100,Salol,Roseau,0,0,83,19,0,0
+27135970200,Badger,Roseau,0,0,83,24,0,0
+27135970300,Roseau,Roseau,37,0,74,30,48,0
+27135970400,Warroad,Roseau,0,0,60,27,0,0
+27135970500,Greenbush,Roseau,0,0,83,32,0,0
+27137000100,Duluth,St Louis,0,0,55,18,76,74
+27137000200,Duluth,St Louis,0,0,55,15,0,74
+27137000300,Duluth,St Louis,3,0,55,33,76,95
+27137000400,Duluth,St Louis,0,0,55,21,76,89
+27137000500,Duluth,St Louis,11,0,55,16,76,89
+27137000600,Duluth,St Louis,44,0,55,25,76,74
+27137000700,Duluth,St Louis,9,0,55,19,76,74
+27137000900,Duluth,St Louis,16,0,55,14,76,89
+27137001000,Duluth,St Louis,49,0,55,8,76,89
+27137001100,Duluth,St Louis,27,0,55,17,76,89
+27137001200,Duluth,St Louis,62,0,55,27,76,89
+27137001300,Duluth,St Louis,56,0,55,29,76,89
+27137001400,Duluth,St Louis,25,0,55,27,76,89
+27137001600,Duluth,St Louis,69,0,55,26,76,89
+27137001700,Duluth,St Louis,74,0,55,53,76,89
+27137001800,Duluth,St Louis,32,0,55,44,76,96
+27137001900,Duluth,St Louis,50,0,55,91,67,99
+27137002000,Duluth,St Louis,22,0,55,28,67,99
+27137002200,Duluth,St Louis,0,0,55,30,67,99
+27137002300,Duluth,St Louis,10,0,55,23,76,99
+27137002400,Duluth,St Louis,20,0,55,25,76,99
+27137002600,Duluth,St Louis,8,0,55,42,76,99
+27137002900,Duluth,St Louis,3,0,55,28,0,99
+27137003000,Duluth,St Louis,8,0,55,34,0,99
+27137003300,Duluth,St Louis,20,0,55,27,0,99
+27137003400,Duluth,St Louis,13,0,55,38,0,99
+27137003600,Duluth,St Louis,0,0,55,25,0,0
+27137003700,Duluth,St Louis,17,0,55,55,0,0
+27137003800,Duluth,St Louis,1,0,55,36,0,0
+27137010100,Proctor,St Louis,36,0,67,35,0,99
+27137010200,Duluth,St Louis,0,0,55,27,0,0
+27137010300,Hermantown,St Louis,0,0,76,27,0,95
+27137010400,Duluth,St Louis,0,0,55,18,0,0
+27137010500,Duluth,St Louis,0,0,55,17,0,0
+27137010600,Duluth,St Louis,0,0,55,20,0,0
+27137011100,Saginaw,St Louis,0,0,84,16,0,0
+27137011200,Unknown,St Louis,0,0,84,34,0,0
+27137011300,Meadowlands,St Louis,0,0,84,37,0,0
+27137011400,Makinen,St Louis,0,0,84,30,0,0
+27137012100,Hibbing,St Louis,6,0,74,35,72,95
+27137012200,Hibbing,St Louis,0,0,74,64,72,94
+27137012300,Hibbing,St Louis,58,0,74,33,72,94
+27137012400,Hibbing,St Louis,9,0,74,50,72,95
+27137012500,Hibbing,St Louis,34,0,74,54,72,94
+27137012600,Chisholm,St Louis,64,0,90,47,0,76
+27137012700,Kinney,St Louis,0,0,84,40,0,76
+27137012800,Mountain Iron,St Louis,4,0,84,21,70,0
+27137013000,Virginia,St Louis,19,0,30,53,70,0
+27137013100,Virginia,St Louis,71,0,30,43,70,0
+27137013200,Virginia,St Louis,3,0,30,51,70,0
+27137013300,Eveleth,St Louis,1,0,53,32,70,0
+27137013400,Eveleth,St Louis,0,0,53,29,0,0
+27137013500,Gilbert,St Louis,1,0,48,32,0,0
+27137013600,Gilbert,St Louis,0,0,48,44,0,0
+27137013800,Aurora,St Louis,31,0,84,33,43,0
+27137013900,Embarrass,St Louis,0,0,84,29,43,0
+27137014000,Hoyt Lakes,St Louis,0,0,100,40,0,0
+27137014100,Babbitt,St Louis,0,0,79,48,0,0
+27137015100,Angora,St Louis,0,0,84,33,0,0
+27137015200,Unknown,St Louis,0,0,84,25,0,0
+27137015300,Ely,St Louis,47,0,76,37,47,0
+27137015400,Duluth,St Louis,0,0,55,35,0,0
+27137015500,Orr,St Louis,0,0,84,36,0,0
+27137015600,Duluth,St Louis,13,0,55,46,67,99
+27137015700,Duluth,St Louis,51,0,55,12,76,89
+27137015800,Duluth,St Louis,1,0,55,45,0,99
+27137990100,Duluth,St Louis,0,0,55,0,0,0
+27139080100,Savage,Scott,42,47,72,39,87,96
+27139080201,Savage,Scott,17,47,72,12,0,96
+27139080202,Savage,Scott,13,47,72,9,0,96
+27139080203,Savage,Scott,2,47,72,10,87,96
+27139080204,Savage,Scott,0,47,72,2,0,98
+27139080205,Savage,Scott,4,47,72,11,87,98
+27139080301,Shakopee,Scott,7,40,78,10,78,0
+27139080302,Shakopee,Scott,0,40,78,7,78,0
+27139080400,Shakopee,Scott,59,40,78,25,78,95
+27139080500,Shakopee,Scott,20,40,78,44,78,95
+27139080600,Shakopee,Scott,14,40,78,22,78,95
+27139080700,Shakopee,Scott,4,40,78,11,78,95
+27139080800,Jordan,Scott,0,0,82,20,0,0
+27139080903,Prior Lake,Scott,2,40,75,14,78,0
+27139080904,Prior Lake,Scott,37,40,75,13,0,0
+27139080905,Prior Lake,Scott,0,40,75,11,78,0
+27139080906,Prior Lake,Scott,10,40,75,18,0,0
+27139081000,Prior Lake,Scott,0,40,75,10,0,0
+27139081100,Elko New Market,Scott,0,0,94,7,0,0
+27139081200,New Prague,Scott,0,0,75,22,55,0
+27139081300,Belle Plaine,Scott,1,0,80,16,0,81
+27141030101,Zimmerman,Sherburne,0,0,86,12,0,87
+27141030102,Princeton,Sherburne,0,0,75,20,88,0
+27141030200,Becker,Sherburne,0,0,83,14,0,0
+27141030300,St Cloud,Sherburne,0,0,63,17,0,0
+27141030402,Big Lake,Sherburne,0,0,83,25,54,0
+27141030403,Big Lake,Sherburne,0,0,83,17,0,0
+27141030404,Becker,Sherburne,0,0,83,12,0,0
+27141030502,Elk River,Sherburne,1,0,73,20,0,93
+27141030503,Elk River,Sherburne,3,0,73,21,0,93
+27141030504,Elk River,Sherburne,0,0,73,19,0,93
+27141031500,St Cloud,Sherburne,0,0,63,29,90,95
+27143170198,Green Isle,Sibley,0,0,99,24,49,0
+27143170200,Gibbon,Sibley,0,0,99,26,0,0
+27143170300,Gaylord,Sibley,3,0,99,34,0,0
+27143170400,Henderson,Sibley,0,0,99,23,0,0
+27145000301,St Cloud,Stearns,47,0,63,25,90,88
+27145000302,St Cloud,Stearns,19,0,63,17,90,95
+27145000401,St Cloud,Stearns,0,0,63,34,90,95
+27145000402,St Cloud,Stearns,16,0,63,12,90,95
+27145000500,Waite Park,Stearns,2,0,26,32,90,97
+27145000601,St Cloud,Stearns,77,0,63,24,90,88
+27145000602,St Cloud,Stearns,50,0,63,31,90,88
+27145000701,St Cloud,Stearns,37,0,63,25,90,97
+27145000801,St Cloud,Stearns,48,0,63,23,90,88
+27145000901,St Cloud,Stearns,19,0,63,36,90,94
+27145001001,St Cloud,Stearns,15,0,63,44,90,97
+27145010101,Sartell,Stearns,0,0,80,12,0,97
+27145010102,Sartell,Stearns,8,0,80,21,90,97
+27145010200,St Joseph,Stearns,0,0,95,20,0,0
+27145010401,Avon,Stearns,0,0,80,15,0,0
+27145010402,Albany,Stearns,18,0,84,19,49,92
+27145010403,Albany,Stearns,0,0,84,18,0,0
+27145010500,Unknown,Stearns,0,0,88,19,49,80
+27145010600,Melrose,Stearns,0,0,92,17,49,80
+27145010900,Belgrade,Stearns,0,0,88,23,0,0
+27145011000,Paynesville,Stearns,0,0,83,31,49,0
+27145011100,Richmond,Stearns,0,0,88,22,0,0
+27145011200,Kimball,Stearns,0,0,88,21,0,0
+27145011301,St Joseph,Stearns,0,0,95,14,0,97
+27145011302,Cold Spring,Stearns,54,0,88,22,0,90
+27145011304,St Cloud,Stearns,0,0,63,15,0,90
+27145011400,St Augusta,Stearns,0,0,88,17,0,0
+27145011500,Sauk Centre,Stearns,0,0,72,33,0,0
+27145011600,St Cloud,Stearns,70,0,63,27,90,88
+27147960100,Owatonna,Steele,0,0,75,17,0,0
+27147960200,Owatonna,Steele,0,0,75,23,83,100
+27147960300,Owatonna,Steele,25,0,75,18,83,100
+27147960400,Owatonna,Steele,29,0,75,19,83,100
+27147960500,Owatonna,Steele,0,0,75,16,0,0
+27147960600,Owatonna,Steele,29,0,75,38,83,100
+27147960700,Owatonna,Steele,11,0,75,22,83,100
+27147960800,Blooming Prairie,Steele,0,0,94,23,0,0
+27149480100,Morris,Stevens,0,0,72,27,0,0
+27149480200,Morris,Stevens,0,0,72,22,55,0
+27149480300,Hancock,Stevens,0,0,87,25,0,0
+27151960100,Murdock,Swift,0,0,85,21,0,0
+27151960200,Benson,Swift,58,0,92,40,48,0
+27151960300,Benson,Swift,3,0,92,31,48,0
+27151960400,Appleton,Swift,0,0,51,38,0,0
+27153790100,Staples,Todd,2,0,71,38,49,0
+27153790200,Bertha,Todd,0,0,78,35,0,0
+27153790300,Clarissa,Todd,0,0,78,27,0,0
+27153790400,Browerville,Todd,0,0,78,29,0,0
+27153790500,Burtrum,Todd,0,0,78,22,0,0
+27153790600,Long Prairie,Todd,8,0,68,27,43,99
+27153790700,Osakis,Todd,1,0,88,29,0,0
+27153790800,Grey Eagle,Todd,0,0,78,27,0,98
+27155460100,Wheaton,Traverse,0,0,70,34,0,0
+27155460200,Dumont,Traverse,0,0,80,38,0,0
+27157490100,Wabasha,Wabasha,0,0,78,42,49,0
+27157490200,Kellogg,Wabasha,0,0,92,29,0,0
+27157490300,Lake City,Wabasha,0,0,84,25,48,0
+27157490400,Zumbro Falls,Wabasha,0,0,92,23,0,0
+27157490500,Millville,Wabasha,0,0,92,19,0,0
+27157490600,Plainview,Wabasha,56,0,97,17,0,87
+27159480100,Menahga,Wadena,0,0,85,38,0,0
+27159480200,Verndale,Wadena,0,0,85,38,0,0
+27159480300,Wadena,Wadena,0,0,71,44,53,0
+27161790100,Janesville,Waseca,0,0,81,20,0,0
+27161790200,New Richland,Waseca,0,0,93,28,0,0
+27161790300,Waseca,Waseca,0,0,80,18,51,0
+27161790400,Waseca,Waseca,27,0,80,29,51,0
+27161790500,Waseca,Waseca,42,0,80,20,51,0
+27163070103,Forest Lake,Washington,24,0,64,37,71,84
+27163070104,Forest Lake,Washington,13,0,64,24,71,84
+27163070105,Forest Lake,Washington,0,0,64,21,71,84
+27163070106,Forest Lake,Washington,0,0,64,10,0,84
+27163070203,Hugo,Washington,0,0,79,12,0,0
+27163070204,St Paul,Washington,0,100,79,14,0,0
+27163070205,Scandia,Washington,0,0,79,17,0,0
+27163070206,Stillwater,Washington,0,40,76,18,0,0
+27163070301,Dellwood,Washington,0,39,79,12,0,95
+27163070303,St Paul,Washington,11,100,79,23,90,95
+27163070304,St Paul,Washington,34,100,79,26,90,95
+27163070403,Stillwater,Washington,3,40,76,22,0,95
+27163070404,Stillwater,Washington,0,40,76,10,76,96
+27163070405,Lake Elmo,Washington,0,40,79,10,76,95
+27163070406,Lake Elmo,Washington,4,40,79,14,0,0
+27163070501,Stillwater,Washington,1,40,76,12,76,96
+27163070502,Stillwater,Washington,34,40,76,27,76,96
+27163070601,Stillwater,Washington,6,40,76,18,76,96
+27163070602,Stillwater,Washington,53,40,76,25,76,96
+27163070701,Stillwater,Washington,0,40,76,19,76,96
+27163070703,Stillwater,Washington,30,40,76,32,76,96
+27163070704,Bayport,Washington,24,50,79,34,76,96
+27163070801,Bayport,Washington,7,50,79,0,76,96
+27163070802,Oak Park Heights,Washington,2,40,40,0,76,96
+27163070906,Oakdale,Washington,10,75,63,16,90,95
+27163070907,Oakdale,Washington,7,75,63,15,90,95
+27163070909,St Paul,Washington,2,100,79,15,89,87
+27163070910,Oakdale,Washington,36,75,63,21,89,87
+27163070911,Oakdale,Washington,2,75,63,20,89,87
+27163070912,St Paul,Washington,15,100,79,28,89,87
+27163071001,St Paul,Washington,14,100,79,12,89,87
+27163071003,Newport,Washington,30,40,59,20,89,98
+27163071006,Woodbury,Washington,41,46,81,23,89,0
+27163071010,Woodbury,Washington,32,46,81,11,89,0
+27163071011,Woodbury,Washington,11,46,81,11,89,0
+27163071012,Woodbury,Washington,1,46,81,25,89,98
+27163071013,Woodbury,Washington,11,46,81,23,89,98
+27163071014,Woodbury,Washington,10,46,81,8,89,98
+27163071015,Woodbury,Washington,20,46,81,9,89,98
+27163071016,Woodbury,Washington,5,46,81,7,89,98
+27163071017,Woodbury,Washington,2,46,81,9,89,0
+27163071018,Woodbury,Washington,0,46,81,3,89,98
+27163071101,Lakeland,Washington,30,0,79,19,0,0
+27163071102,Hastings,Washington,2,0,75,20,0,0
+27163071206,Cottage Grove,Washington,5,41,76,17,89,98
+27163071207,Cottage Grove,Washington,0,41,76,10,0,0
+27163071208,Cottage Grove,Washington,20,41,76,19,0,98
+27163071209,Cottage Grove,Washington,12,41,76,14,0,0
+27163071300,St Paul Park,Washington,23,47,57,11,0,98
+27163071400,Cottage Grove,Washington,3,41,76,27,0,0
+27165950100,St James,Watonwan,0,0,69,26,0,0
+27165950200,St James,Watonwan,41,0,69,24,43,0
+27165950300,St James,Watonwan,0,0,69,28,43,0
+27167950100,Rothsay,Wilkin,0,0,70,21,0,0
+27167950200,Breckenridge,Wilkin,32,0,57,35,51,97
+27169670100,Rollingstone,Winona,0,0,93,26,0,86
+27169670200,Winona,Winona,1,0,91,23,84,92
+27169670300,Winona,Winona,0,0,91,26,84,98
+27169670400,Winona,Winona,3,0,91,24,84,92
+27169670500,Winona,Winona,78,0,91,22,84,92
+27169670600,Winona,Winona,0,0,91,26,84,98
+27169670700,Winona,Winona,19,0,91,27,84,92
+27169670800,Dakota,Winona,0,0,93,17,0,0
+27169670900,Lewiston,Winona,0,0,93,23,0,98
+27169671000,St Charles,Winona,0,0,93,16,0,0
+27171100100,Otsego,Wright,0,0,86,12,0,92
+27171100202,Monticello,Wright,0,0,86,16,54,0
+27171100203,Monticello,Wright,0,0,86,16,54,0
+27171100204,Monticello,Wright,4,0,86,18,54,0
+27171100300,Clearwater,Wright,0,0,86,16,0,0
+27171100400,Annandale,Wright,0,0,86,21,0,0
+27171100500,Annandale,Wright,0,0,86,19,0,0
+27171100701,Buffalo,Wright,8,0,75,27,76,72
+27171100702,Buffalo,Wright,0,0,75,26,76,72
+27171100703,Buffalo,Wright,0,0,75,14,76,72
+27171100801,St Michael,Wright,0,0,86,7,0,0
+27171100802,St Michael,Wright,4,0,86,8,0,99
+27171100900,Buffalo,Wright,0,0,75,9,0,72
+27171101000,Delano,Wright,0,0,86,14,0,10
+27171101100,Waverly,Wright,0,0,86,14,0,0
+27171101200,Howard Lake,Wright,15,0,86,21,0,0
+27171101300,Cokato,Wright,8,0,86,17,0,0
+27173970100,Granite Falls,Yellow Medicine,0,0,79,34,0,0
+27173970200,Canby,Yellow Medicine,0,0,87,35,49,0
+27173970300,Clarkfield,Yellow Medicine,1,0,88,29,0,0
+27173970400,Wood Lake,Yellow Medicine,0,0,88,20,0,0

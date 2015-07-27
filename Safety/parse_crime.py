@@ -29,6 +29,10 @@ for index, row in crime.iterrows():
         crime_info.append({'city':agency, 'population':pop, 'crime_rate':cr,
                            'cleared':clear, 'county':county})
 
+crime_info.append({'city':'Otter Tail', 'population':57159, 'crime_rate':1728,
+                   'cleared':50, 'county':'Otter Tail'})
+crime_info.append({'city':'Sibley', 'population':15036, 'crime_rate':339,
+                   'cleared':50, 'county':'Sibley'})
 crime_info = pd.DataFrame(crime_info)
 #print(crime_info)
         
@@ -37,4 +41,5 @@ min_cr = crime_info['crime_rate'].min()
 max_cr = crime_info['crime_rate'].max()
 #print(min_cr, max_cr)
 crime_info['score'] = 100 - (crime_info['crime_rate']-min_cr)/(max_cr-min_cr)*100
-crime_info.to_csv(ref_file, sep='\t', index=False, float_format='%.1f')
+
+crime_info.to_csv(ref_file, sep='\t', index=False, float_format='%.0f')
