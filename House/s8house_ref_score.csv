@@ -1,4 +1,4 @@
-address	city	county	disabled	elderly	hud_score	lat	long	name	value_rating	zipcode
+address	city	county	disabled	elderly	hud_score	lat	lng	name	value_rating	zipcode
 219 Eagle Court	Randall	Morrison	False	True	100	46.0832275	-94.49043689999999	Eagle Court Apartments	3.9	56475
 200 South Erickson St	Houston	Houston	True	True	100	43.7621537	-91.56163130000002	Valley View Manor -- Houston Mn	3.8	55943
 105 Railroad Ave NE	Clearbrook	Clearwater	True	True	100	47.6954077	-95.42527059999999	Brookfield Apartments	3.6	56634

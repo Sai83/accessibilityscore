@@ -3,6 +3,8 @@ This module computes the percentage of disabled persons and score
 """
 import pandas as pd
 import ast
+import matplotlib.pyplot as plt
+import math
 
 county_file = 'state_county.txt'
 city_file = 'state_city.txt'
@@ -39,6 +41,8 @@ def calc_community_score(level='county'):
             elif level == 'city':
                 id = data["place"]
                 city= data["name"].split(',')[0].replace('city', '').strip()
+                #if 'CDP' in city:
+                #    continue
                 city = city.replace('St.', 'St')
             elif level == 'tract':
                 id = data['state']+data['county']+data['tract']
@@ -62,10 +66,31 @@ def calc_community_score(level='county'):
 
 
     place_data = pd.DataFrame(place_data)
+
+    # score transformation #
+    #mean = place_data['disability_percentage'].mean()
+    #std = place_data['disability_percentage'].std()
+##    place_data['disability_percentage'] = (place_data['disability_percentage']-mean)/std
+##
+    #print(mean)
+    #place_data.boxplot(column='disability_percentage')
+    #plt.show()
+    
     min_v = place_data['disability_percentage'].min()
-    max_v = place_data['disability_percentage'].max()
+    max_v = min(0.3, place_data['disability_percentage'].max()) # remove maximum outlier
+    #S = place_data['disability_percentage']
+    #outlier = S[S.apply(lambda x:math.fabs(x-S.mean())>5*S.std())]
+    #outlier = S
+    #print(outlier)
+    #max_v = 0.3
     place_data['score'] = (place_data['disability_percentage']-min_v)/(max_v-min_v)*100
-    print(place_data)
+    #place_data[place_data['score']>100]['score']=100
+    outlier_index = place_data[place_data['score']>100].index
+    place_data.ix[outlier_index, 'score'] = 100
+
+
+    #place_data['score'] = 100/(max_v-min_v)*(place_data['disability_percentage']-min_v)
+    #print(place_data)
 
     save_file = 'state_'+level + '_com_score.txt'
     place_data['disability_percentage'] = place_data['disability_percentage'].map(lambda x:'%.3f' % x)
@@ -75,6 +100,8 @@ def calc_community_score(level='county'):
     pop_file = level+'_pop.csv'
     pop_data = pd.DataFrame(pop_data)
     pop_data.to_csv(pop_file, sep='\t', float_format='%.0f', index=False)
+
+    
     
     
 

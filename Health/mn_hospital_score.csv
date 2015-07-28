@@ -1,4 +1,4 @@
-address	city	county	lat	long	name	overall_rating	patient_rating	percentage_of_10	type	zipcode
+address	city	county	lat	lng	name	overall_rating	patient_rating	percentage_of_10	type	zipcode
 1216 SECOND STREET SOUTHWEST	Rochester	OLMSTED	44.02161146900005	-92.48209027499996	Mayo Clinic Hospital Rochester	100	5	0.87	Acute Care Hospitals	55902
 800 EAST 28TH STREET	Minneapolis	HENNEPIN	44.95197890900005	-93.26249977299994	Abbott Northwestern Hospital	93	4	0.77	Acute Care Hospitals	55407
 2450 RIVERSIDE AVENUE	Minneapolis	HENNEPIN	44.9669985	-93.23702109999999	University Of Minnesota Medical Center, Fairview	93	3	0.69	Acute Care Hospitals	55454

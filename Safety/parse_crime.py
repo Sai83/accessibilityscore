@@ -37,9 +37,12 @@ crime_info = pd.DataFrame(crime_info)
 #print(crime_info)
         
 #cr_county = crime_info[crime_info['city'].apply(lambda x:'County' in x)]
+
+## score transformation ##
 min_cr = crime_info['crime_rate'].min()
 max_cr = crime_info['crime_rate'].max()
 #print(min_cr, max_cr)
-crime_info['score'] = 100 - (crime_info['crime_rate']-min_cr)/(max_cr-min_cr)*100
+#crime_info['score'] = 100 - (crime_info['crime_rate']-min_cr)/(max_cr-min_cr)*100
+crime_info['score'] = (max_cr-crime_info['crime_rate'])/(max_cr-min_cr)*100
 
 crime_info.to_csv(ref_file, sep='\t', index=False, float_format='%.0f')

@@ -7,7 +7,7 @@ import ast
 import math
 import numpy as np
 
-level = 'tract'
+#level = 'tract'
 #tract_file = 'Census_data/tract_pop.csv'
 #city_file = 'Census_data/city_pop.csv'
 #county_file = 'Census_data/county_pop.csv'
@@ -22,7 +22,14 @@ com_city_score_file = 'Census_data/state_city_com_score.txt'
 com_county_score_file = "Census_data/state_county_com_score.txt"
 safety_score_file = "Safety/crime_rate_ref.csv"
 
+# set up the default weights #
+weights = [0.2] * 4
+walk_w = 0.2 * 0.7
+metro_w = 0.2 * 0.3
+weights = [walk_w, metro_w] + weights
 
+
+#exit(1)
 
 def city_normalize(city):
     """Normalize city names"""
@@ -131,17 +138,20 @@ def calc_tract_score(tract_score_file):
         except KeyError:
             com_score = 0
 
-        
+        # compute the final accessbility score #
+        raw_scores = [walk_score, metro_score, safety_score, house_score, hosp_score, com_score]
+        accessbility_score = np.dot(raw_scores, weights)
         score_list.append({'tract':tract, 'city':city, 'county':county,
                            'walk_score':walk_score, 'metro_score':metro_score,
                            'safety_score':safety_score, 'house_score':house_score,
-                           'hosp_score':hosp_score, 'com_score':com_score})
+                           'hosp_score':hosp_score, 'com_score':com_score,
+                           'accessibility_score':accessbility_score})
 
         #print(score_list)
         #exit(1)
     score_list = pd.DataFrame(score_list)
-    score_list.to_csv(tract_score_file, index=False, columns=['tract','city','county',
-                       'walk_score', 'metro_score', 'safety_score', 'com_score', 'hosp_score', 'house_score'])
+    score_list.to_csv(tract_score_file, index=False, float_format='%.0f', columns=['tract','city','county',
+                       'walk_score', 'metro_score', 'safety_score', 'com_score', 'hosp_score', 'house_score', 'accessibility_score'])
 
 
 def calc_city_score(tract_score_file):
@@ -186,13 +196,14 @@ def calc_city_score(tract_score_file):
     hospgroup = hospscore.groupby('city')
 
     # read community score file #
-    comscore = pd.read_csv(com_city_score_file, sep='\t')
-    comscore.set_index('city', inplace=True)
+    #comscore = pd.read_csv(com_city_score_file, sep='\t')
+    #comscore.set_index('city', inplace=True)
     #print(comscore)
 
     
     # extract walkability score and combine all other scores#
     walkscore = pd.read_csv(walk_score_file, sep='\t')
+    walkscore.set_index('city', inplace=True)
     # find city-county approximate mapping #
     city_counties = {}
     for index, row in walkscore.iterrows():
@@ -281,7 +292,7 @@ def calc_city_score(tract_score_file):
         #exit(1)
     score_list = pd.DataFrame(score_list)
     score_list.to_csv(tract_score_file, index=False, float_format='%.0f', columns=['id', 'city', 'county',
-                       'walk_score', 'metro_score', 'safety_score', 'com_score', 'hosp_score', 'house_score'])
+                       'walk_score', 'metro_score', 'safety_score', 'com_score', 'hosp_score', 'house_score', 'accessbility_score'])
 
 def calc_county_score(tract_score_file):
     "calculate the accessibility score for each county"
@@ -399,7 +410,7 @@ def calc_county_score(tract_score_file):
     
 tract_score_file = 'final_scores/tract_score.csv'
 calc_tract_score(tract_score_file)
-city_score_file = 'final_scores/city_score.csv'
-calc_city_score(city_score_file)
-county_score_file = 'final_scores/county_score.csv'
-calc_county_score(county_score_file)
+##city_score_file = 'final_scores/city_score.csv'
+##calc_city_score(city_score_file)
+##county_score_file = 'final_scores/county_score.csv'
+##calc_county_score(county_score_file)

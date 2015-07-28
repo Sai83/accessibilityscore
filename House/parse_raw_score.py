@@ -62,7 +62,7 @@ def parse_raw_score(raw_file, refine_file, interplate=False, parse_location=Fals
                     house_info['county'] = county
                     house_info['zipcode'] = zipcode
                     house_info['lat'] = location.lat
-                    house_info['long'] = location.lng
+                    house_info['lng'] = location.lng
                     
             elif line.isdigit():  # hud score
                 house_info['hud_score'] = int(line)

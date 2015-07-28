@@ -13,7 +13,7 @@ with open(tract_raw_file, 'rU') as infile:
         content = line.rstrip().split('\t')
         if content[0] == 'MN':
             mn_info.append({'geoid': content[1],
-                           'lat': content[-2].strip(), 'long': content[-1].strip()})
+                           'lat': content[-2].strip(), 'lng': content[-1].strip()})
 
 
 mn_info = pd.DataFrame(mn_info)

@@ -20,13 +20,13 @@ def calc_tract_dist(tract_file, facility_file, dist_file):
     for index, row in tract.iterrows():
         id = row['geoid']
         lat = row['lat']
-        long = row['long']
+        long = row['lng']
         l1 = (lat, long)
         dist_list = []
         for i, r in facility.iterrows():
             name = r['name']
             lat_f = r['lat']
-            long_f = r['long']
+            long_f = r['lng']
             l2 = (lat_f, long_f)
             dist = geocoder.distance(l1, l2, units='miles')
             dist_list.append((dist, name))

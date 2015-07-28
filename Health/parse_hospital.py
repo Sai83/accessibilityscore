@@ -92,7 +92,7 @@ def combine_score_info(mn_hospital, hosp_refiend_score_file, combined_file, inte
                     long = ''
                 #print('no lat/long:', name)
             info['lat'] = lat
-            info['long'] = long
+            info['lng'] = long
             info['zipcode'] = hosp.ix[search_name, 'ZIP Code']
             info['type'] = hosp.ix[search_name, 'Hospital Type']
             info['overall_rating'] = row['overall_rating']
@@ -106,7 +106,7 @@ def combine_score_info(mn_hospital, hosp_refiend_score_file, combined_file, inte
             info['county'] = 'OLMSTED'
             info['address'] = '201 West Center Street'.upper()
             info['lat'] = 44.0234914
-            info['long'] = -92.465934
+            info['lng'] = -92.465934
             info['zipcode'] = 55902
             info['type'] = 'Acute Care Hospitals'
             info['overall_rating'] = row['overall_rating']
