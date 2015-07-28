@@ -1,0 +1,442 @@
+id,city,county,walk_score,metro_score,safety_score,com_score,hosp_score,house_score
+172,Ada,Norman,0,0,91,19,43,0
+190,Adams,Mower,0,0,78,22,0,0
+262,Adrian,Nobles,0,0,93,16,0,0
+460,Aitkin,Aitkin,0,0,78,26,53,0
+622,Albany,Stearns,18,0,84,17,49,92
+694,Albert Lea,Freeborn,22,0,74,24,76,96
+838,Alden,Freeborn,0,0,90,21,0,0
+928,Alexandria,Douglas,10,0,61,23,67,43
+1486,Andover,Anoka,12,74,85,12,0,0
+1486,Angora,St Louis,0,0,84,0,0,0
+1684,Annandale,Wright,0,0,86,15,0,0
+1720,Anoka,Anoka,34,53,66,28,0,89
+1900,Apple Valley,Dakota,16,47,78,12,0,88
+1864,Appleton,Swift,0,0,51,33,43,0
+2026,Arden Hills,Ramsey,10,44,89,12,0,0
+2548,Askov,Pine,0,0,64,45,0,0
+2728,Audubon,Becker,3,0,92,17,0,0
+2872,Aurora,St Louis,31,0,84,23,43,0
+2908,Austin,Mower,30,0,59,23,0,94
+3052,Avoca,Murray,0,0,90,21,0,0
+3070,Avon,Stearns,0,0,80,12,0,0
+3106,Babbitt,St Louis,0,0,79,34,0,0
+3124,Backus,Cass,0,0,43,27,0,0
+3160,Badger,Roseau,0,0,83,25,0,0
+3196,Bagley,Clearwater,0,0,78,48,49,0
+3250,Balaton,Lyon,0,0,92,23,0,0
+3574,Barnesville,Clay,0,0,88,16,0,0
+3628,Barnum,Carlton,0,0,83,20,0,0
+3970,Battle Lake,Otter Tail,0,0,93,38,0,0
+4024,Baudette,Lake of the Woods,2,0,91,32,51,0
+4042,Baxter,Crow Wing,0,0,58,14,0,0
+4114,Bayport,Washington,16,50,79,24,0,0
+4618,Becker,Sherburne,0,0,83,9,0,0
+4762,Belgrade,Stearns,0,0,88,16,0,0
+4834,Belle Plaine,Scott,1,0,80,12,0,81
+5068,Bemidji,Beltrami,22,0,0,22,64,92
+5212,Benson,Swift,30,0,92,29,48,0
+5482,Bertha,Todd,0,0,78,34,0,0
+5554,Bethel,Anoka,0,0,85,17,0,0
+5752,Big Lake,Sherburne,0,0,83,15,0,0
+5896,Bingham Lake,Cottonwood,2,0,87,20,0,0
+6076,Bird Island,Renville,0,0,87,27,0,98
+6382,Blaine,Anoka,24,44,70,12,0,0
+6580,Blooming Prairie,Steele,0,0,94,18,0,92
+6616,Bloomington,Hennepin,24,100,63,20,0,88
+6688,Blue Earth,Faribault,46,0,80,21,53,0
+7066,Bowlus,Morrison,0,0,89,18,0,0
+7300,Brainerd,Crow Wing,5,0,24,34,87,0
+7336,Brandon,Douglas,0,0,90,17,0,0
+7462,Breckenridge,Wilkin,32,0,57,25,51,97
+7678,Bricelyn,Faribault,0,0,86,30,0,0
+7966,Brooklyn Park,Hennepin,29,92,62,15,0,87
+8038,Brooks,Red Lake,0,0,86,37,0,0
+8110,Browerville,Todd,0,0,78,27,0,0
+8164,Brownsdale,Mower,0,0,78,24,0,91
+8254,Brownton,McLeod,0,0,94,20,0,0
+8290,Bruno,Pine,0,0,64,28,0,0
+8452,Buffalo,Wright,8,0,75,18,76,72
+8488,Buffalo Lake,Renville,0,0,87,24,0,0
+8794,Burnsville,Dakota,20,67,76,15,87,92
+8902,Burtrum,Todd,0,0,78,17,0,0
+9154,Byron,Olmsted,16,0,90,9,0,0
+9226,Caledonia,Houston,29,0,62,29,0,0
+9370,Cambridge,Isanti,5,0,55,24,85,0
+9604,Canby,Yellow Medicine,0,0,87,29,49,0
+9730,Cannon Falls,Goodhue,15,0,70,20,49,0
+9964,Carlos,Douglas,0,0,90,24,0,0
+10252,Cass Lake,Beltrami,0,0,81,32,0,0
+10576,Center City,Chisago,0,0,90,22,0,0
+10792,Ceylon,Martin,0,0,95,40,0,0
+10846,Champlin,Hennepin,9,53,84,11,0,80
+10918,Chanhassen,Carver,14,41,87,7,0,0
+10972,Chaska,Carver,6,41,88,13,0,95
+11386,Chisholm,St Louis,64,0,90,33,0,0
+11494,Circle Pines,Anoka,26,41,85,16,0,0
+11548,Clara City,Chippewa,0,0,96,25,0,0
+11566,Claremont,Dodge,1,0,65,30,0,0
+11602,Clarissa,Todd,0,0,78,21,0,0
+11656,Clarkfield,Yellow Medicine,1,0,88,29,0,0
+11800,Clearwater,Wright,0,0,86,14,0,0
+12160,Cloquet,Carlton,2,0,59,22,51,0
+12430,Cokato,Wright,8,0,86,17,0,0
+12484,Cold Spring,Stearns,54,0,88,21,0,90
+12664,Cologne,Carver,0,0,87,10,0,84
+12700,Columbia Heights,Anoka,62,92,73,20,0,71
+13006,Cook,Itasca,0,0,79,22,49,0
+13114,Coon Rapids,Anoka,19,38,74,16,91,90
+13168,Corcoran,Hennepin,0,0,89,9,0,0
+13456,Cottage Grove,Washington,10,41,76,13,0,0
+13780,Cromwell,Carlton,0,0,83,49,0,0
+13870,Crookston,Polk,29,0,80,26,52,88
+13924,Crosby,Crow Wing,0,0,60,35,53,0
+13978,Crosslake,Crow Wing,0,0,91,26,0,0
+14158,Crystal,Hennepin,65,82,70,21,0,90
+14158,Cushing,Morrison,0,0,89,0,0,0
+14518,Dakota,Winona,0,0,93,13,0,0
+14518,Dalbo,Isanti,2,0,87,0,0,0
+14842,Darwin,Meeker,0,0,85,20,0,0
+14878,Dassel,Meeker,0,0,85,30,0,0
+14968,Dawson,Lac Qui Parle,0,0,93,23,49,0
+15022,Dayton,Hennepin,0,1,85,10,0,0
+15310,Deer River,Itasca,0,0,79,36,48,0
+15454,Delano,Wright,0,0,86,11,0,10
+15616,Dellwood,Washington,0,39,79,6,0,0
+15724,Dent,Otter Tail,0,0,93,36,0,0
+15832,Detroit Lakes,Becker,8,0,66,23,70,93
+15976,Dilworth,Clay,12,0,59,18,0,0
+15994,Dodge Center,Dodge,30,0,65,11,0,96
+16264,Dover,Olmsted,0,0,90,7,0,0
+17000,Duluth,St Louis,26,0,55,21,73,91
+17090,Dumont,Traverse,0,0,80,7,0,0
+17126,Dundas,Rice,0,0,91,7,0,0
+17288,Eagan,Dakota,14,61,83,12,0,0
+17378,Eagle Lake,Blue Earth,0,0,92,10,0,0
+17486,East Bethel,Anoka,0,0,85,16,0,0
+17612,East Grand Forks,Polk,14,0,53,19,0,88
+17630,East Gull Lake,Cass,0,0,43,13,0,0
+18116,Eden Prairie,Hennepin,9,40,87,10,0,99
+18152,Edgerton,Pipestone,0,0,87,20,0,0
+18188,Edina,Hennepin,40,79,87,15,90,94
+18458,Elbow Lake,Grant,0,0,87,18,49,0
+18674,Elk River,Sherburne,2,0,73,15,0,92
+18662,Elko New Market,Scott,0,0,94,4,0,0
+19142,Ely,St Louis,47,0,76,27,47,0
+19142,Embarrass,St Louis,0,0,84,0,0,0
+19286,Emily,Crow Wing,0,0,91,25,0,0
+19700,Erskine,Polk,0,0,74,25,0,0
+19700,Esko,Carlton,6,0,83,0,0,0
+19700,Euclid,Polk,0,0,74,0,0,0
+19934,Eveleth,St Louis,1,0,53,23,0,0
+20078,Excelsior,Hennepin,7,41,68,20,0,99
+20222,Fairfax,Renville,0,0,87,30,0,0
+20330,Fairmont,Martin,13,0,53,27,83,0
+20420,Falcon Heights,Ramsey,36,85,84,9,0,10
+20546,Faribault,Rice,15,0,73,20,75,88
+20618,Farmington,Dakota,2,0,90,9,0,0
+20834,Felton,Clay,0,0,88,14,0,0
+20906,Fergus Falls,Otter Tail,13,0,44,28,83,0
+20978,Fertile,Polk,0,0,74,27,0,0
+21536,Foley,Benton,0,0,89,17,0,0
+21770,Forest Lake,Washington,18,0,64,16,0,84
+21932,Fort Ripley,Crow Wing,0,0,91,3,0,0
+21986,Fosston,Polk,0,0,74,27,53,0
+22472,Frazee,Becker,0,0,92,26,0,0
+22814,Fridley,Anoka,21,85,52,17,90,97
+23246,Gary,Norman,0,0,91,16,0,0
+23300,Gaylord,Sibley,3,0,99,29,0,0
+23678,Gibbon,Sibley,0,0,99,24,0,0
+23714,Gilbert,St Louis,1,0,48,23,0,0
+23948,Glencoe,McLeod,40,0,81,15,53,0
+24056,Glenville,Freeborn,0,0,90,10,0,0
+24074,Glenwood,Pope,0,0,85,25,52,0
+24308,Golden Valley,Hennepin,10,100,80,18,0,91
+24344,Gonvick,Clearwater,0,0,78,33,0,0
+24470,Goodridge,Pennington,0,0,89,27,0,0
+24758,Graceville,Big Stone,0,0,88,27,43,0
+24992,Grand Marais,Cook,0,0,72,25,43,94
+25010,Grand Meadow,Mower,40,0,78,21,0,0
+25118,Grand Rapids,Itasca,21,0,40,31,63,0
+25280,Granite Falls,Yellow Medicine,0,0,79,30,53,0
+25424,Grasston,Pine,3,0,64,28,0,0
+25658,Green Isle,Sibley,0,0,99,17,0,0
+25604,Greenbush,Roseau,0,0,83,25,0,0
+26000,Grey Eagle,Todd,0,0,78,20,0,98
+26126,Grove City,Meeker,0,0,85,15,0,0
+26216,Grygla,Beltrami,0,0,81,32,0,0
+26378,Hackensack,Cass,0,0,43,30,0,65
+26576,Hallock,Kittson,0,0,84,23,49,0
+26630,Halstad,Norman,0,0,91,25,0,0
+26738,Ham Lake,Anoka,11,0,85,11,0,0
+26936,Hancock,Stevens,0,0,87,19,0,0
+27008,Hanska,Brown,0,0,96,21,0,0
+27188,Harmony,Fillmore,0,0,96,38,0,0
+27278,Harris,Chisago,0,0,90,19,0,98
+27404,Hartland,Freeborn,0,0,90,15,0,0
+27530,Hastings,Dakota,22,0,75,19,76,99
+27746,Hawley,Clay,0,0,88,14,0,0
+27872,Hayfield,Dodge,0,0,65,13,0,76
+28394,Henderson,Sibley,0,0,99,27,0,0
+28520,Henning,Otter Tail,0,0,93,42,0,0
+28682,Hermantown,St Louis,0,0,76,19,0,0
+28790,Hibbing,St Louis,27,0,74,32,72,94
+29150,Hillman,Morrison,0,0,89,4,0,0
+29294,Hinckley,Pine,0,0,64,28,0,97
+29510,Hokah,Houston,0,0,69,13,0,0
+29636,Hollandale,Freeborn,0,0,90,27,0,0
+30140,Hopkins,Hennepin,30,92,73,19,0,98
+30230,Houston,Houston,0,0,77,26,0,100
+30284,Howard Lake,Wright,15,0,86,16,0,0
+30302,Hoyt Lakes,St Louis,0,0,100,29,0,0
+30392,Hugo,Anoka,16,0,85,11,0,0
+30644,Hutchinson,McLeod,29,0,78,19,75,0
+30842,Independence,Hennepin,0,0,68,8,0,0
+31040,International Falls,Koochiching,10,0,59,29,52,0
+31076,Inver Grove Heights,Dakota,10,18,80,17,0,84
+31076,Isabella,Lake,0,0,94,0,0,0
+31328,Isanti,Isanti,37,0,84,16,0,0
+31472,Isle,Mille Lacs,0,0,26,36,0,0
+31526,Ivanhoe,Lincoln,0,0,90,23,0,0
+31562,Jackson,Jackson,50,0,89,20,48,0
+31706,Janesville,Waseca,0,0,81,15,0,0
+32174,Jordan,Scott,0,0,82,18,0,0
+32372,Kandiyohi,Kandiyohi,1,0,87,19,0,0
+32498,Kasson,Dodge,5,0,77,14,0,0
+32642,Kellogg,Wabasha,0,0,92,44,0,0
+33164,Kimball,Stearns,0,0,88,21,0,0
+33416,Kinney,St Louis,0,0,84,52,0,0
+33866,La Crescent,Houston,0,0,68,12,0,92
+34100,Lake Benton,Lincoln,9,0,90,18,0,0
+34136,Lake Bronson,Kittson,0,0,84,30,0,0
+34172,Lake City,Wabasha,0,0,84,19,48,0
+34190,Lake Crystal,Blue Earth,0,0,85,20,0,0
+34244,Lake Elmo,Washington,4,40,79,10,0,0
+34676,Lake Lillian,Kandiyohi,0,0,87,28,0,0
+34784,Lake Park,Becker,0,0,92,16,0,0
+34316,Lakefield,Jackson,3,0,90,18,0,91
+34622,Lakeland,Washington,30,0,79,11,0,0
+35180,Lakeville,Dakota,7,44,87,11,0,97
+35288,Lamberton,Redwood,0,0,91,21,0,0
+35450,Lanesboro,Fillmore,0,0,96,23,0,94
+35612,Laporte,Hubbard,0,0,73,22,0,0
+35738,Lauderdale,Ramsey,25,75,82,11,0,0
+36134,Le Center,Le Sueur,1,0,96,18,0,0
+36746,Le Sueur,Le Sueur,0,0,74,19,43,85
+36800,Lewiston,Winona,0,0,93,19,0,98
+37304,Lindstrom,Chisago,3,0,90,16,0,0
+37322,Lino Lakes,Anoka,6,40,90,10,0,0
+37448,Litchfield,Meeker,27,0,78,22,54,0
+37502,Little Canada,Ramsey,16,65,75,24,0,94
+37556,Little Falls,Morrison,23,0,73,32,53,96
+37592,Littlefork,Koochiching,0,0,77,46,0,0
+37970,Long Beach,Pope,7,0,90,22,0,0
+38006,Long Lake,Hennepin,16,40,68,18,0,0
+38060,Long Prairie,Todd,8,0,68,20,43,99
+38114,Longville,Cass,0,0,43,31,0,0
+38222,Loretto,Hennepin,1,0,68,12,0,0
+38366,Lowry,Pope,0,0,90,14,0,0
+38420,Lucan,Redwood,0,0,91,15,0,0
+38564,Luverne,Rock,9,0,80,22,51,0
+39266,Madison,Lac Qui Parle,3,0,93,26,49,83
+39392,Mahnomen,Mahnomen,0,0,41,33,43,0
+39392,Makinen,St Louis,0,0,84,0,0,0
+39878,Mankato,Blue Earth,29,0,55,16,88,96
+40166,Maple Grove,Hennepin,10,44,82,8,90,0
+40256,Maple Plain,Hennepin,4,0,68,14,0,86
+40310,Mapleton,Blue Earth,0,0,86,24,0,0
+40382,Maplewood,Ramsey,14,88,64,18,90,95
+40382,Margie,Koochiching,0,0,77,0,0,0
+40688,Marshall,Lyon,5,0,69,19,51,94
+41210,Maynard,Chippewa,0,0,96,20,0,0
+38996,McGrath,Aitkin,0,0,78,48,0,0
+39014,McGregor,Aitkin,0,0,78,53,0,0
+41372,Meadowlands,St Louis,0,0,84,34,0,0
+41480,Medina,Hennepin,0,0,78,7,0,0
+41570,Melrose,Stearns,0,0,92,15,49,80
+41660,Menahga,Hubbard,0,0,73,34,0,0
+41696,Mendota Heights,Dakota,7,58,83,14,0,90
+41696,Merrifield,Crow Wing,1,0,91,0,0,0
+41912,Middle River,Marshall,0,0,69,17,0,0
+42110,Milaca,Mille Lacs,0,0,75,29,0,0
+42290,Millville,Wabasha,0,0,92,36,0,0
+43000,Minneapolis,Hennepin,51,100,71,17,81,91
+43126,Minneota,Lyon,0,0,92,28,0,0
+43252,Minnetonka,Hennepin,20,88,84,15,0,94
+43720,Montevideo,Chippewa,8,0,68,25,49,96
+43738,Montgomery,Le Sueur,0,0,82,14,0,0
+43774,Monticello,Wright,4,0,86,14,54,0
+43864,Moorhead,Clay,35,0,70,17,0,97
+44044,Mora,Kanabec,10,0,79,31,53,0
+44116,Morgan,Redwood,0,0,91,20,0,0
+44242,Morris,Stevens,0,0,72,18,55,0
+44296,Morristown,Rice,0,0,91,22,0,0
+44476,Mound,Hennepin,17,43,68,17,0,92
+44530,Mounds View,Ramsey,24,64,67,16,0,86
+44548,Mountain Iron,St Louis,4,0,84,15,0,0
+44566,Mountain Lake,Cottonwood,0,0,92,27,0,0
+44818,Murdock,Swift,0,0,85,10,0,0
+44818,NYA,Carver,0,0,87,0,0,0
+44980,Nashwauk,Itasca,0,0,79,35,0,0
+45340,Nevis,Hubbard,0,0,73,18,0,0
+45430,New Brighton,Ramsey,22,88,80,16,0,87
+45556,New Germany,Carver,0,0,87,19,0,0
+45628,New Hope,Hennepin,14,60,80,22,0,98
+45682,New London,Kandiyohi,3,0,87,23,0,0
+45808,New Prague,Scott,0,0,75,17,55,0
+45862,New Richland,Waseca,0,0,93,23,0,0
+46042,New Ulm,Brown,37,0,72,19,57,92
+46060,New York Mills,Otter Tail,0,0,93,31,0,88
+45520,Newfolden,Marshall,0,0,69,18,0,0
+45790,Newport,Washington,30,40,59,15,0,98
+46348,Nisswa,Crow Wing,0,0,91,18,0,0
+46798,North Branch,Chisago,5,0,77,18,0,0
+47068,North Mankato,Nicollet,24,0,70,16,0,95
+47104,North Oaks,Ramsey,0,42,94,21,0,0
+47221,North St Paul,Ramsey,42,68,83,19,0,0
+46924,Northfield,Rice,19,0,86,11,67,88
+47690,Oak Grove,Anoka,2,0,85,12,0,0
+47690,Oak Park,Benton,0,0,89,0,0,0
+47914,Oak Park Heights,Washington,2,40,40,28,0,0
+47680,Oakdale,Washington,14,75,63,14,0,0
+48130,Ogema,Becker,0,0,92,27,0,0
+48166,Ogilvie,Kanabec,0,0,79,31,0,0
+48184,Okabena,Jackson,0,0,89,23,0,0
+48256,Olivia,Renville,0,0,55,22,51,95
+48310,Onamia,Mille Lacs,2,0,26,37,53,0
+48598,Oronoco,Olmsted,0,0,90,11,0,0
+48634,Orr,St Louis,0,0,84,15,0,0
+48706,Ortonville,Big Stone,8,0,95,28,49,0
+48796,Osakis,Todd,1,0,88,33,0,0
+49012,Osseo,Hennepin,48,56,89,25,0,0
+49138,Otsego,Wright,0,0,86,9,0,0
+49210,Ottertail,Otter Tail,0,0,93,18,0,0
+49300,Owatonna,Steele,24,0,75,17,83,100
+49498,Palisade,Aitkin,0,0,78,50,0,0
+49768,Park Rapids,Hubbard,70,0,27,34,52,0
+49732,Parkers Prairie,Douglas,0,0,90,26,0,0
+49966,Paynesville,Stearns,0,0,83,24,49,0
+50164,Pelican Rapids,Otter Tail,0,0,93,24,0,0
+50164,Pengilly,Itasca,0,0,79,0,0,0
+50344,Pennock,Kandiyohi,0,0,87,16,0,0
+50416,Pequot Lakes,Crow Wing,7,0,91,26,0,80
+50470,Perham,Otter Tail,0,0,93,27,52,91
+50776,Pierz,Morrison,0,0,89,34,0,54
+50902,Pillager,Cass,0,0,43,31,0,0
+51064,Pine City,Pine,1,0,64,35,0,0
+51136,Pine Island,Goodhue,0,0,89,13,0,0
+51280,Pine River,Crow Wing,0,0,91,40,0,0
+51388,Pipestone,Pipestone,34,0,87,26,53,0
+51424,Plainview,Wabasha,56,0,97,13,0,84
+51730,Plymouth,Hennepin,13,60,85,13,0,0
+52450,Preston,Fillmore,0,0,96,25,0,0
+52522,Princeton,Mille Lacs,5,0,75,33,88,0
+52594,Prior Lake,Scott,16,40,75,11,0,0
+52630,Proctor,St Louis,36,0,67,25,0,0
+52630,Puposky,Beltrami,0,0,81,0,0,0
+53026,Ramsey,Anoka,3,24,83,14,0,0
+53080,Randall,Morrison,4,0,89,23,0,100
+53296,Raymond,Kandiyohi,0,0,87,22,0,78
+53476,Red Lake Falls,Red Lake,0,0,86,24,0,0
+53620,Red Wing,Goodhue,9,0,57,20,87,97
+53656,Redwood Falls,Redwood,0,0,61,26,52,0
+53782,Remer,Cass,0,0,43,36,0,77
+53890,Renville,Renville,0,0,87,28,0,97
+53998,Rice,Benton,0,0,89,13,0,0
+54214,Richfield,Hennepin,55,100,76,18,0,94
+54268,Richmond,Stearns,0,0,88,24,0,0
+54880,Rochester,Olmsted,28,0,78,14,83,80
+55186,Rogers,Hennepin,0,0,76,10,0,99
+55276,Rollingstone,Winona,0,0,93,16,0,86
+55546,Roseau,Roseau,37,0,74,23,48,0
+55726,Rosemount,Dakota,25,42,86,11,0,0
+55852,Roseville,Ramsey,31,68,64,20,0,0
+56014,Rothsay,Wilkin,0,0,70,15,0,0
+56338,Rushmore,Nobles,0,0,93,26,0,0
+56554,Sabin,Clay,0,0,88,12,0,0
+56554,Saginaw,St Louis,0,0,84,0,0,0
+56554,Salol,Roseau,0,0,83,0,0,0
+58612,Sartell,Stearns,8,0,80,16,0,97
+58648,Sauk Centre,Stearns,0,0,72,30,49,0
+58684,Sauk Rapids,Benton,10,0,78,21,0,94
+58738,Savage,Scott,16,47,72,10,0,0
+58900,Scandia,Washington,0,0,79,13,0,0
+59350,Shakopee,Scott,21,40,78,11,78,0
+59998,Shoreview,Ramsey,6,47,89,14,0,0
+60250,Silver Bay,Lake,0,0,94,26,0,0
+60376,Silver Lake,McLeod,0,0,79,21,0,0
+60808,Slayton,Murray,2,0,73,31,49,65
+60844,Sleepy Eye,Brown,16,0,96,18,54,0
+61492,South St Paul,Dakota,24,79,73,18,0,0
+61996,Spring Lake Park,Anoka,27,49,55,20,0,96
+62104,Spring Valley,Fillmore,4,0,96,22,0,0
+61816,Springfield,Brown,0,0,100,32,54,95
+62284,Squaw Lake,Itasca,0,0,79,15,0,0
+62284,St Anthony,Hennepin,35,88,78,0,0,99
+56724,St Augusta,Stearns,0,0,88,12,0,0
+56788,St Charles,Winona,0,0,93,12,0,0
+56896,St Cloud,Stearns,36,0,63,21,90,92
+56950,St Francis,Anoka,1,0,67,23,0,0
+57040,St James,Watonwan,41,0,69,18,43,0
+57130,St Joseph,Stearns,0,0,95,9,0,0
+57220,St Louis Park,Hennepin,36,89,76,15,86,82
+57346,St Michael,Wright,4,0,86,8,0,0
+58000,St Paul,Ramsey,50,100,79,19,90,90
+58018,St Paul Park,Washington,23,47,57,9,0,0
+58036,St Peter,Nicollet,9,0,81,16,48,0
+62320,Stacy,Chisago,1,0,90,22,0,0
+62320,Stanchfield,Isanti,0,0,87,0,0,0
+62446,Staples,Todd,2,0,71,33,49,0
+62500,Starbuck,Pope,0,0,90,44,0,0
+62698,Stephen,Marshall,0,0,69,27,0,0
+62806,Stewartville,Olmsted,36,0,90,11,0,0
+62824,Stillwater,Washington,21,40,76,15,76,96
+64318,Taylors Falls,Chisago,0,0,90,23,0,0
+64570,Thief River Falls,Pennington,4,0,65,21,53,0
+65308,Tracy,Lyon,10,0,94,31,49,0
+65668,Truman,Martin,0,0,95,21,0,0
+65956,Two Harbors,Lake,26,0,83,25,48,0
+66172,Underwood,Otter Tail,0,0,93,19,0,0
+66460,Vadnais Heights,Ramsey,8,46,80,14,0,0
+66874,Verndale,Wadena,0,0,85,46,0,0
+66910,Vernon Center,Blue Earth,0,0,73,17,0,0
+67036,Victoria,Carver,1,0,87,8,0,0
+67288,Virginia,St Louis,31,0,30,34,70,0
+67378,Wabasha,Wabasha,0,0,78,32,49,0
+67396,Wabasso,Redwood,0,0,91,16,0,0
+67432,Waconia,Carver,1,0,87,13,88,0
+67504,Wadena,Wadena,0,0,71,31,53,0
+67612,Waite Park,Stearns,2,0,26,23,0,0
+67792,Walker,Cass,0,0,43,47,0,83
+67972,Wanamingo,Goodhue,0,0,89,25,0,0
+68080,Warba,Itasca,0,0,79,28,0,0
+68170,Warren,Marshall,0,0,69,25,43,0
+68224,Warroad,Roseau,0,0,60,17,0,0
+68296,Waseca,Waseca,34,0,80,19,51,0
+68548,Watertown,Carver,0,0,87,19,0,0
+68584,Waterville,Le Sueur,0,0,96,26,0,77
+68764,Waverly,Wright,0,0,86,11,0,0
+68818,Wayzata,Hennepin,28,61,70,22,0,0
+68818,Webster,Rice,0,0,91,0,0,0
+68818,Welch,Goodhue,0,0,89,0,0,0
+69106,Wells,Faribault,0,0,92,22,0,0
+69304,West Concord,Dodge,0,0,65,22,0,0
+69700,West St Paul,Dakota,15,81,57,20,0,98
+69844,Wheaton,Traverse,0,0,70,25,43,0
+69970,White Bear Lake,Ramsey,16,74,64,16,0,0
+70402,Williams,Lake of the Woods,0,0,91,24,0,0
+70420,Willmar,Kandiyohi,37,0,70,23,70,88
+70492,Willow River,Pine,0,0,64,16,0,0
+70798,Windom,Cottonwood,0,0,62,26,51,0
+70924,Winnebago,Faribault,0,0,81,27,0,0
+71032,Winona,Winona,25,0,91,17,84,95
+71032,Wirt,Itasca,0,0,79,0,0,0
+71446,Wood Lake,Yellow Medicine,0,0,88,21,0,0
+71428,Woodbury,Washington,15,46,81,9,89,0
+71734,Worthington,Nobles,7,0,83,19,62,92
+71788,Wrenshall,Carlton,0,0,83,13,0,0
+71950,Wykoff,Fillmore,0,0,96,22,0,0
+72022,Wyoming,Chisago,1,0,86,16,71,0
+72238,Zimmerman,Sherburne,0,0,86,11,0,87
+72310,Zumbro Falls,Wabasha,0,0,92,14,0,0
+72328,Zumbrota,Goodhue,0,0,81,14,0,0
