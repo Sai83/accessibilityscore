@@ -90,6 +90,7 @@ def calc_community_score(level='county'):
         max_v = min(0.3, place_data['disability_percentage'].max()) # remove maximum outlier
     else:
         max_v = place_data['disability_percentage'].max()
+    print(min_v, max_v)
     #S = place_data['disability_percentage']
     #outlier = S[S.apply(lambda x:math.fabs(x-S.mean())>5*S.std())]
     #outlier = S
