@@ -1,4 +1,4 @@
-tract,city,county,walk_score,metro_score,safety_score,com_score,hosp_score,house_score,accessibility_score
+tract,city,county,walk_score,metro_score,safety_score,community_score,hospital_score,house_score,accessibility_score
 27001770100,McGregor,Aitkin,0,0,78,72,0,0,30
 27001770200,Palisade,Aitkin,0,0,78,61,0,0,28
 27001770300,Aitkin,Aitkin,0,0,78,47,53,0,36

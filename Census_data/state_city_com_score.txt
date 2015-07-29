@@ -17,7 +17,6 @@ Altura	0.077	01234	26
 Alvarado	0.057	01252	19
 Amboy	0.140	01324	47
 Andover	0.071	01486	24
-Angle Inlet CDP	0.000	01558	0
 Annandale	0.089	01684	30
 Anoka	0.166	01720	55
 Appleton	0.195	01864	65
@@ -26,7 +25,6 @@ Arco	0.127	01972	42
 Arden Hills	0.071	02026	24
 Argyle	0.180	02134	60
 Arlington	0.133	02152	44
-Arnold CDP	0.072	02260	24
 Ashby	0.167	02422	56
 Askov	0.272	02548	91
 Atwater	0.130	02692	43
@@ -39,9 +37,7 @@ Babbitt	0.201	03106	67
 Backus	0.164	03124	55
 Badger	0.152	03160	51
 Bagley	0.287	03196	96
-Baker CDP	0.078	03214	26
 Balaton	0.140	03250	47
-Ball Club CDP	0.102	03376	34
 Barnesville	0.098	03574	33
 Barnum	0.118	03628	39
 Barrett	0.186	03682	62
@@ -51,7 +47,6 @@ Baudette	0.191	04024	64
 Baxter	0.084	04042	28
 Bayport	0.144	04114	48
 Beardsley	0.225	04204	75
-Beaulieu CDP	0.494	04348	100
 Beaver Bay	0.236	04456	79
 Beaver Creek	0.078	04492	26
 Becker	0.056	04618	19
@@ -70,7 +65,6 @@ Bethel	0.101	05554	34
 Bigelow	0.050	05644	17
 Big Falls	0.295	05680	98
 Bigfork	0.345	05698	100
-Big Lake CDP	0.242	05744	81
 Big Lake	0.087	05752	29
 Bingham Lake	0.118	05896	39
 Birchwood Village	0.132	06058	44
@@ -228,7 +222,6 @@ East Bethel	0.095	17486	32
 East Grand Forks	0.111	17612	37
 East Gull Lake	0.081	17630	27
 Easton	0.119	17738	40
-Ebro CDP	0.255	17882	85
 Echo	0.086	17900	29
 Eden Prairie	0.057	18116	19
 Eden Valley	0.174	18134	58
@@ -237,7 +230,6 @@ Edina	0.088	18188	29
 Effie	0.082	18260	27
 Eitzen	0.117	18368	39
 Elba	0.205	18386	68
-Elbow Lake CDP	0.215	18440	72
 Elbow Lake	0.105	18458	35
 Elgin	0.060	18530	20
 Elizabeth	0.093	18566	31
@@ -255,14 +247,12 @@ Emily	0.148	19286	49
 Emmons	0.095	19340	32
 Erhard	0.190	19556	63
 Erskine	0.150	19700	50
-Esko CDP	0.065	19718	22
 Evan	0.314	19880	100
 Evansville	0.186	19898	62
 Eveleth	0.139	19934	46
 Excelsior	0.122	20078	41
 Eyota	0.086	20114	29
 Fairfax	0.180	20222	60
-Fairhaven CDP	0.074	20276	25
 Fairmont	0.160	20330	53
 Falcon Heights	0.057	20420	19
 Faribault	0.120	20546	40
@@ -273,10 +263,8 @@ Felton	0.086	20834	29
 Fergus Falls	0.166	20906	55
 Fertile	0.164	20978	55
 Fifty Lakes	0.199	21032	66
-Finland CDP	0.116	21104	39
 Finlayson	0.169	21122	56
 Fisher	0.054	21158	18
-Fish Lake CDP	0.088	21190	29
 Flensburg	0.144	21266	48
 Floodwood	0.195	21338	65
 Florence	0.091	21410	30
@@ -293,10 +281,8 @@ Frazee	0.157	22472	52
 Freeborn	0.116	22526	39
 Freeport	0.067	22652	22
 Fridley	0.102	22814	34
-Frontenac CDP	0.053	22904	18
 Frost	0.155	22940	52
 Fulda	0.171	22958	57
-Garden City CDP	0.052	23084	17
 Garfield	0.127	23120	42
 Garrison	0.222	23192	74
 Garvin	0.090	23228	30
@@ -386,7 +372,6 @@ Holland	0.162	29618	54
 Hollandale	0.161	29636	54
 Holloway	0.138	29672	46
 Holt	0.111	29870	37
-Homer CDP	0.115	30014	38
 Hopkins	0.115	30140	38
 Houston	0.155	30230	52
 Howard Lake	0.097	30284	32
@@ -396,7 +381,6 @@ Humboldt	0.160	30446	53
 Hutchinson	0.113	30644	38
 Ihlen	0.512	30806	100
 Independence	0.046	30842	15
-Inger CDP	0.146	30950	49
 International Falls	0.176	31040	59
 Inver Grove Heights	0.104	31076	35
 Iona	0.144	31094	48
@@ -441,7 +425,6 @@ Lake City	0.113	34172	38
 Lake Crystal	0.121	34190	40
 Lake Elmo	0.058	34244	19
 Lakefield	0.110	34316	37
-Lake George CDP	0.256	34370	85
 Lake Henry	0.217	34478	72
 Lakeland	0.065	34622	22
 Lakeland Shores	0.135	34658	45
@@ -455,7 +438,6 @@ Lamberton	0.127	35288	42
 Lancaster	0.134	35378	45
 Landfall	0.109	35414	36
 Lanesboro	0.138	35450	46
-Lansing CDP	0.211	35558	70
 Laporte	0.130	35612	43
 La Prairie	0.105	35648	35
 La Salle	0.085	35702	28
@@ -465,7 +447,6 @@ Le Center	0.107	36134	36
 Lengby	0.287	36404	96
 Leonard	0.241	36494	80
 Leonidas	0.309	36530	100
-Leota CDP	0.172	36548	57
 Le Roy	0.129	36620	43
 Lester Prairie	0.091	36728	30
 Le Sueur	0.113	36746	38
@@ -480,7 +461,6 @@ Litchfield	0.133	37448	44
 Little Canada	0.142	37502	47
 Little Falls	0.193	37556	64
 Littlefork	0.276	37592	92
-Little Rock CDP	0.215	37656	72
 Long Beach	0.131	37970	44
 Long Lake	0.109	38006	36
 Long Prairie	0.121	38060	40
@@ -490,7 +470,6 @@ Loretto	0.074	38222	25
 Louisburg	0.214	38258	71
 Lowry	0.084	38366	28
 Lucan	0.092	38420	31
-Lutsen CDP	0.075	38546	25
 Luverne	0.130	38564	43
 Lyle	0.169	38654	56
 Lynd	0.090	38708	30
@@ -504,9 +483,7 @@ Madison	0.156	39266	52
 Madison Lake	0.064	39320	21
 Magnolia	0.086	39338	29
 Mahnomen	0.195	39392	65
-Mahnomen CDP	0.072	39394	24
 Mahtomedi	0.097	39428	32
-Mahtowa CDP	0.062	39446	21
 Manchester	0.450	39716	100
 Manhattan Beach	0.178	39806	59
 Mankato	0.095	39878	32
@@ -521,7 +498,6 @@ Marble	0.284	40418	95
 Marietta	0.400	40526	100
 Marine on St Croix	0.099	40562	33
 Marshall	0.112	40688	37
-Martin Lake CDP	0.103	40814	34
 Mayer	0.057	41138	19
 Maynard	0.121	41210	40
 Mazeppa	0.092	41282	31
@@ -535,9 +511,7 @@ Menahga	0.205	41660	68
 Mendota	0.099	41678	33
 Mendota Heights	0.086	41696	29
 Mentor	0.300	41714	100
-Merrifield CDP	0.250	41804	83
 Middle River	0.101	41912	34
-Midway CDP	0.136	42010	45
 Miesville	0.057	42092	19
 Milaca	0.175	42110	58
 Milan	0.209	42146	70
@@ -575,10 +549,8 @@ Myrtle	0.177	44890	59
 Nashua	0.085	44944	28
 Nashwauk	0.210	44980	70
 Nassau	0.159	45016	53
-Naytahwaush CDP	0.077	45052	26
 Nelson	0.144	45106	48
 Nerstrand	0.057	45196	19
-Nett Lake CDP	0.173	45268	58
 Nevis	0.110	45340	37
 New Auburn	0.178	45376	59
 New Brighton	0.098	45430	33
@@ -610,7 +582,6 @@ Nowthen	0.080	47536	27
 Oakdale	0.084	47680	28
 Oak Grove	0.073	47690	24
 Oak Park Heights	0.167	47914	56
-Oakport CDP	0.080	47923	27
 Odessa	0.164	48058	55
 Odin	0.099	48094	33
 Ogema	0.162	48130	54
@@ -624,7 +595,6 @@ Orono	0.062	48580	21
 Oronoco	0.066	48598	22
 Orr	0.089	48634	30
 Ortonville	0.170	48706	57
-Osage CDP	0.129	48760	43
 Osakis	0.200	48796	67
 Oslo	0.123	48976	41
 Osseo	0.150	49012	50
@@ -646,10 +616,8 @@ Perley	0.115	50506	38
 Peterson	0.180	50596	60
 Pierz	0.202	50776	67
 Pillager	0.186	50902	62
-Pine Bend CDP	0.600	51028	100
 Pine City	0.211	51064	70
 Pine Island	0.078	51136	26
-Pine Point CDP	0.121	51234	40
 Pine River	0.241	51280	80
 Pine Springs	0.044	51316	15
 Pipestone	0.156	51388	52
@@ -657,7 +625,6 @@ Plainview	0.078	51424	26
 Plato	0.126	51460	42
 Plummer	0.132	51712	44
 Plymouth	0.075	51730	25
-Ponemah CDP	0.032	51892	11
 Porter	0.140	52144	47
 Preston	0.147	52450	49
 Princeton	0.197	52522	66
@@ -671,8 +638,6 @@ Randall	0.136	53080	45
 Randolph	0.105	53098	35
 Ranier	0.149	53134	50
 Raymond	0.131	53296	44
-Redby CDP	0.058	53386	19
-Red Lake CDP	0.063	53458	21
 Red Lake Falls	0.144	53476	48
 Red Wing	0.121	53620	40
 Redwood Falls	0.153	53656	51
@@ -681,11 +646,9 @@ Remer	0.219	53782	73
 Renville	0.170	53890	57
 Revere	0.250	53908	83
 Rice	0.081	53998	27
-Rice Lake CDP	0.217	54056	72
 Richfield	0.106	54214	35
 Richmond	0.146	54268	49
 Richville	0.144	54340	48
-Riverland CDP	0.032	54596	11
 Riverton	0.116	54736	39
 Robbinsdale	0.144	54808	48
 Rochester	0.086	54880	29
@@ -694,7 +657,6 @@ Rockford	0.066	55006	22
 Rockville	0.067	55078	22
 Rogers	0.060	55186	20
 Rollingstone	0.095	55276	32
-Ronneby CDP	0.250	55366	83
 Roosevelt	0.206	55438	69
 Roscoe	0.116	55510	39
 Roseau	0.138	55546	46
@@ -704,7 +666,6 @@ Roseville	0.121	55852	40
 Rothsay	0.087	56014	29
 Round Lake	0.106	56086	35
 Royalton	0.087	56176	29
-Roy Lake CDP	0.273	56212	91
 Rush City	0.128	56266	43
 Rushford	0.083	56284	28
 Rushford Village	0.104	56302	35
@@ -714,8 +675,7 @@ Ruthton	0.147	56482	49
 Rutledge	0.162	56518	54
 Sabin	0.072	56554	24
 Sacred Heart	0.142	56572	47
-St Anthony  (Hennepin and Ramsey Counties)	0.136	56680	45
-St Anthony  (Stearns County)	0.029	56698	10
+St Anthony	0.136	56680	45
 St Augusta	0.070	56724	23
 St Bonifacius	0.093	56770	31
 St Charles	0.075	56788	25
@@ -746,7 +706,6 @@ Savage	0.057	58738	19
 Scandia	0.078	58900	26
 Scanlon	0.153	58936	51
 Seaforth	0.066	59098	22
-Searles CDP	0.064	59116	21
 Sebeka	0.147	59152	49
 Sedan	0.014	59188	5
 Shafer	0.085	59314	28
@@ -757,15 +716,12 @@ Shevlin	0.152	59782	51
 Shoreview	0.087	59998	29
 Shorewood	0.049	60016	16
 Silver Bay	0.157	60250	52
-Silver Creek CDP	0.156	60322	52
 Silver Lake	0.127	60376	42
 Skyline	0.168	60754	56
 Slayton	0.189	60808	63
 Sleepy Eye	0.110	60844	37
 Sobieski	0.080	61006	27
 Solway	0.088	61114	29
-Soudan CDP	0.160	61204	53
-South End CDP	0.069	61308	23
 South Haven	0.107	61402	36
 South St Paul	0.109	61492	36
 Spicer	0.151	61690	50
@@ -777,7 +733,6 @@ Spring Park	0.150	62014	50
 Spring Valley	0.130	62104	43
 Squaw Lake	0.091	62284	30
 Stacy	0.132	62320	44
-Stanchfield CDP	0.237	62356	79
 Staples	0.196	62446	65
 Starbuck	0.262	62500	87
 Steen	0.114	62662	38
@@ -799,8 +754,6 @@ Taopi	0.180	64210	60
 Taunton	0.048	64264	16
 Taylors Falls	0.139	64318	46
 Tenstrike	0.109	64444	36
-The Lakes CDP	0.089	64543	30
-The Ranch CDP	0.500	64547	100
 Thief River Falls	0.128	64570	43
 Thomson	0.055	64750	18
 Tintah	0.047	64948	16
@@ -814,7 +767,6 @@ Trosky	0.200	65542	67
 Truman	0.127	65668	42
 Turtle River	0.099	65794	33
 Twin Lakes	0.073	65920	24
-Twin Lakes CDP	0.080	65927	27
 Twin Valley	0.129	65938	43
 Two Harbors	0.148	65956	49
 Tyler	0.199	66046	66
@@ -832,7 +784,6 @@ Vesta	0.104	66982	35
 Victoria	0.047	67036	16
 Viking	0.000	67090	0
 Villard	0.158	67144	53
-Vineland CDP	0.116	67180	39
 Vining	0.083	67216	28
 Virginia	0.205	67288	68
 Wabasha	0.190	67378	63
@@ -851,7 +802,6 @@ Wanda	0.081	68008	27
 Warba	0.171	68080	57
 Warren	0.149	68170	50
 Warroad	0.102	68224	34
-Warsaw CDP	0.128	68260	43
 Waseca	0.115	68296	38
 Watertown	0.116	68548	39
 Waterville	0.154	68584	51
@@ -866,14 +816,11 @@ Wendell	0.292	69142	97
 Westbrook	0.132	69250	44
 West Concord	0.135	69304	45
 Westport	0.190	69628	63
-West Roy Lake CDP	0.140	69690	47
 West St Paul	0.121	69700	40
 West Union	0.000	69736	0
 Whalan	0.062	69808	21
 Wheaton	0.151	69844	50
-Whipholt CDP	0.214	69880	71
 White Bear Lake	0.097	69970	32
-White Earth CDP	0.235	70006	78
 Wilder	0.100	70258	33
 Willernie	0.112	70366	37
 Williams	0.145	70402	48

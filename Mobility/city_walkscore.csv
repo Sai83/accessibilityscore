@@ -1,0 +1,852 @@
+city,county,walkscore
+Center City,Chisago,0
+Chisago City,Chisago,37
+Clara City,Chippewa,37
+Grove City,Meeker,21
+Hill City,Aitkin,28
+Lake City,Wabasha,27
+Minnesota City,Winona,6
+Pine City,Pine,34
+Rush City,Chisago,26
+Zumbrota,Goodhue,58
+Breckenridge,Wilkin,56
+Breezy Point,Crow Wing,5
+Brewster,Nobles,6
+Bricelyn,Faribault,21
+Brook Park,Pine,0
+Brooklyn Center,Hennepin,33
+Brooklyn Park,Hennepin,32
+Brooks,Red Lake,15
+Brookston,St Louis,6
+Brooten,Stearns,10
+Browerville,Todd,25
+Browns Valley,Traverse,26
+Brownsdale,Mower,21
+Brownsville,Houston,18
+Brownton,McLeod,4
+Bruno,Pine,8
+Buckman,Morrison,6
+Buffalo,Wright,55
+Buffalo Lake,Renville,19
+Buhl,St Louis,2
+Burnsville,Dakota,39
+Burtrum,Todd,1
+Butterfield,Watonwan,13
+Byron,Olmsted,9
+Caledonia,Houston,55
+Callaway,Becker,0
+Calumet,Itasca,1
+Cambridge,Isanti,16
+Chickamaw Beach,Cass,0
+Chisholm,St Louis,61
+Chokio,Stevens,7
+Circle Pines,Anoka,6
+Claremont,Dodge,7
+Clarissa,Todd,28
+Clarkfield,Yellow Medicine,43
+Clarks Grove,Freeborn,9
+Clear Lake,Sherburne,8
+Clearbrook,Clearwater,43
+Clearwater,Wright,14
+Clements,Redwood,7
+Cleveland,Le Sueur,17
+Climax,Polk,9
+Clinton,Big Stone,22
+Clitherall,Otter Tail,9
+Clontarf,Swift,0
+Cloquet,Carlton,4
+Coates,Dakota,7
+Cobden,Brown,7
+Cohasset,Itasca,0
+Cokato,Wright,50
+Cold Spring,Stearns,56
+Coleraine,Itasca,1
+Cologne,Carver,6
+Columbia Heights,Anoka,74
+Columbus,Anoka,0
+Comfrey,Brown,28
+Comstock,Clay,6
+Conger,Freeborn,0
+Cook,St Louis,4
+Coon Rapids,Anoka,23
+Corcoran,Hennepin,0
+Correll,Big Stone,0
+Cosmos,Meeker,2
+Cottage Grove,Washington,38
+Cottonwood,Lyon,33
+Courtland,Nicollet,13
+Cromwell,Carlton,9
+Crookston,Polk,70
+Crosby,Crow Wing,20
+Crosslake,Crow Wing,0
+Crystal,Hennepin,51
+Currie,Murray,17
+Cuyuna,Crow Wing,0
+Cyrus,Pope,0
+Dakota,Winona,1
+Dalton,Otter Tail,13
+Danube,Renville,15
+Danvers,Swift,14
+Darfur,Watonwan,4
+Darwin,Meeker,7
+Dassel,Meeker,26
+Campbell,Wilkin,0
+Canby,Yellow Medicine,41
+Cannon Falls,Goodhue,31
+Canton,Fillmore,8
+Carlos,Douglas,30
+Carlton,Carlton,28
+Carver,Carver,14
+Cass Lake,Cass,30
+Cedar Mills,Meeker,0
+Centerville,Anoka,25
+Ceylon,Martin,1
+Champlin,Hennepin,43
+Chandler,Murray,10
+Chanhassen,Carver,16
+Chaska,Carver,13
+Chatfield,Fillmore,23
+Ada,Norman,56
+Adams,Mower,21
+Adrian,Nobles,39
+Afton,Washington,0
+Aitkin,Aitkin,47
+Akeley,Hubbard,14
+Albany,Stearns,53
+Albert Lea,Freeborn,48
+Alberta,Stevens,7
+Albertville,Wright,74
+Alden,Freeborn,7
+Aldrich,Wadena,7
+Alexandria,Douglas,46
+Alpha,Jackson,0
+Altura,Winona,28
+Alvarado,Marshall,0
+Amboy,Blue Earth,36
+Andover,Anoka,0
+Annandale,Wright,43
+Anoka,Anoka,22
+Apple Valley,Dakota,6
+Appleton,Swift,42
+Arco,Lincoln,6
+Arden Hills,Ramsey,0
+Argyle,Marshall,16
+Arlington,Sibley,47
+Ashby,Grant,26
+Askov,Pine,33
+Atwater,Kandiyohi,38
+Audubon,Becker,9
+Aurora,St Louis,36
+Austin,Mower,81
+Avoca,Murray,3
+Avon,Stearns,29
+Babbitt,St Louis,0
+Backus,Cass,2
+Badger,Roseau,12
+Bagley,Clearwater,40
+Balaton,Lyon,23
+Barnesville,Clay,39
+Barnum,Carlton,16
+Barrett,Grant,28
+Barry,Big Stone,1
+Battle Lake,Otter Tail,36
+Baudette,Lake of the Woods,0
+Baxter,Crow Wing,15
+Bayport,Washington,33
+Beardsley,Big Stone,17
+Beaver Bay,Lake,14
+Beaver Creek,Rock,17
+Becker,Sherburne,28
+Bejou,Mahnomen,15
+Belgrade,Stearns,30
+Belle Plaine,Scott,33
+Bellechester,Goodhue,0
+Bellingham,Lac qui Parle,7
+Beltrami,Polk,0
+Belview,Redwood,13
+Bemidji,Beltrami,50
+Bena,Cass,3
+Benson,Swift,56
+Bertha,Todd,8
+Bethel,Anoka,7
+Big Falls,Koochiching,8
+Big Lake,Sherburne,17
+Bigelow,Nobles,2
+Bigfork,Itasca,34
+Bingham Lake,Cottonwood,9
+Birchwood Village,Washington,3
+Bird Island,Renville,36
+Biscay,McLeod,10
+Biwabik,St Louis,0
+Blackduck,Beltrami,45
+Blaine,Anoka,17
+Blomkest,Kandiyohi,0
+Blooming Prairie,Steele,43
+Bloomington,Hennepin,6
+Blue Earth,Faribault,55
+Bluffton,Otter Tail,0
+Bock,Mille Lacs,7
+Borup,Norman,0
+Bovey,Itasca,14
+Bowlus,Morrison,16
+Boy River,Cass,21
+Boyd,Lac qui Parle,12
+Braham,Isanti,39
+Brainerd,Crow Wing,71
+Brandon,Douglas,28
+Greenwood,Hennepin,13
+Grey Eagle,Todd,32
+Grygla,Marshall,34
+Gully,Polk,2
+Hackensack,Cass,43
+Hadley,Murray,0
+Hallock,Kittson,32
+Halma,Kittson,22
+Halstad,Norman,25
+Ham Lake,Anoka,0
+Hamburg,Carver,12
+Hammond,Wabasha,6
+Hampton,Dakota,11
+Hancock,Stevens,16
+Hanley Falls,Yellow Medicine,3
+Hanover,Wright,7
+Hanska,Brown,3
+Harding,Morrison,0
+Hardwick,Rock,6
+Harmony,Fillmore,44
+Harris,Chisago,0
+Hartland,Freeborn,14
+Hastings,Dakota,66
+Hatfield,Pipestone,15
+Hawley,Clay,27
+Hayfield,Dodge,42
+Hayward,Freeborn,13
+Hazel Run,Yellow Medicine,3
+Hector,Renville,31
+Heidelberg,Le Sueur,0
+Henderson,Sibley,31
+Hendricks,Lincoln,46
+Hendrum,Norman,10
+Henning,Otter Tail,30
+Henriette,Pine,0
+Herman,Grant,13
+Hermantown,St Louis,0
+Heron Lake,Jackson,20
+Hewitt,Todd,7
+Hibbing,St Louis,32
+Hillman,Morrison,12
+Hills,Rock,3
+Hilltop,Anoka,61
+Hinckley,Pine,17
+Hitterdal,Clay,10
+Hoffman,Grant,37
+Hokah,Houston,10
+Holdingford,Stearns,20
+Holland,Pipestone,15
+Hollandale,Freeborn,10
+Holloway,Swift,12
+Holt,Marshall,8
+Hopkins,Hennepin,77
+Houston,Houston,40
+Howard Lake,Wright,30
+Hoyt Lakes,St Louis,0
+Hugo,Washington,3
+Humboldt,Kittson,0
+Hutchinson,McLeod,32
+Ihlen,Pipestone,6
+Dawson,Lac qui Parle,40
+Dayton,Hennepin,0
+De Graff,Swift,5
+Deephaven,Hennepin,4
+Deer Creek,Otter Tail,10
+Deer River,Itasca,19
+Deerwood,Crow Wing,15
+Delano,Wright,26
+Delavan,Faribault,0
+Delhi,Redwood,0
+Dellwood,Washington,0
+Denham,Pine,0
+Dennison,Goodhue,6
+Dent,Otter Tail,12
+Detroit Lakes,Becker,12
+Dexter,Mower,8
+Dilworth,Clay,30
+Dodge Center,Dodge,28
+Donaldson,Kittson,0
+Donnelly,Stevens,15
+Doran,Wilkin,0
+Dover,Olmsted,2
+Dovray,Murray,0
+Duluth,St Louis,6
+Dumont,Traverse,0
+Dundas,Rice,18
+Dundee,Nobles,3
+Dunnell,Martin,2
+Eagan,Dakota,4
+Eagle Bend,Todd,10
+Eagle Lake,Blue Earth,24
+East Bethel,Anoka,0
+East Grand Forks,Polk,53
+East Gull Lake,Cass,0
+Easton,Faribault,25
+Echo,Yellow Medicine,7
+Eden Prairie,Hennepin,21
+Eden Valley,Meeker,28
+Edgerton,Pipestone,32
+Edina,Hennepin,14
+Effie,Itasca,6
+Eitzen,Houston,11
+Elba,Winona,9
+Elbow Lake,Grant,36
+Elgin,Wabasha,5
+Elizabeth,Otter Tail,7
+Elk River,Sherburne,25
+Elko New Market,Scott,0
+Elkton,Mower,5
+Ellendale,Steele,25
+Ellsworth,Nobles,26
+Elmdale,Morrison,6
+Elmore,Faribault,26
+Elrosa,Stearns,16
+Ely,St Louis,48
+Elysian,Le Sueur,7
+Emily,Crow Wing,10
+Emmons,Freeborn,25
+Erhard,Otter Tail,7
+Erskine,Polk,14
+Evan,Brown,0
+Evansville,Douglas,11
+Eveleth,St Louis,57
+Excelsior,Hennepin,53
+Eyota,Olmsted,25
+Fairfax,Renville,37
+Fairmont,Martin,32
+Falcon Heights,Ramsey,23
+Faribault,Rice,44
+Farmington,Dakota,8
+Farwell,Pope,1
+Federal Dam,Cass,6
+Felton,Clay,7
+Fergus Falls,Otter Tail,74
+Fertile,Polk,0
+Fifty Lakes,Crow Wing,0
+Finlayson,Pine,12
+Fisher,Polk,10
+Flensburg,Morrison,0
+Floodwood,St Louis,26
+Florence,Lyon,3
+Foley,Benton,47
+Forada,Douglas,7
+Forest Lake,Washington,5
+Foreston,Mille Lacs,11
+Fort Ripley,Crow Wing,8
+Fosston,Polk,27
+Fountain,Fillmore,30
+Foxhome,Wilkin,0
+Franklin,Renville,7
+Frazee,Becker,39
+Freeborn,Freeborn,0
+Freeport,Stearns,32
+Fridley,Anoka,59
+Frost,Faribault,18
+Fulda,Murray,24
+Garfield,Douglas,8
+Garrison,Crow Wing,28
+Garvin,Lyon,4
+Gary,Norman,7
+Gaylord,Sibley,29
+Gem Lake,Ramsey,0
+Geneva,Freeborn,12
+Genola,Morrison,17
+Georgetown,Clay,0
+Ghent,Lyon,7
+Gibbon,Sibley,20
+Gilbert,St Louis,21
+Gilman,Benton,6
+Glencoe,McLeod,49
+Glenville,Freeborn,24
+Glenwood,Pope,10
+Glyndon,Clay,14
+Golden Valley,Hennepin,16
+Gonvick,Clearwater,28
+Good Thunder,Blue Earth,15
+Goodhue,Goodhue,23
+Goodridge,Pennington,23
+Goodview,Winona,13
+Graceville,Big Stone,29
+Granada,Martin,10
+Grand Marais,Cook,49
+Grand Meadow,Mower,41
+Grand Rapids,Itasca,41
+Granite Falls,Yellow Medicine,39
+Grant,Washington,0
+Grasston,Kanabec,12
+Green Isle,Sibley,12
+Greenbush,Roseau,24
+Greenfield,Hennepin,0
+Greenwald,Stearns,5
+Marble,Itasca,14
+Marietta,Lac qui Parle,6
+Marine on St Croix,Washington,13
+Marshall,Lyon,74
+Mayer,Carver,21
+Maynard,Chippewa,12
+Mazeppa,Wabasha,3
+McGrath,Aitkin,0
+McGregor,Aitkin,22
+McIntosh,Polk,33
+McKinley,St Louis,0
+Meadowlands,St Louis,0
+Medford,Steele,29
+Medicine Lake,Hennepin,5
+Medina,Hennepin,0
+Meire Grove,Stearns,10
+Melrose,Stearns,60
+Menahga,Wadena,34
+Mendota,Dakota,11
+Mendota Heights,Dakota,0
+Mentor,Polk,24
+Mound,Hennepin,33
+Mounds View,Ramsey,50
+Mountain Iron,St Louis,0
+Mountain Lake,Cottonwood,40
+Murdock,Swift,2
+Myrtle,Freeborn,0
+Nashua,Wilkin,0
+Nashwauk,Itasca,0
+Nassau,Lac qui Parle,0
+Nelson,Douglas,8
+Nerstrand,Rice,8
+Nevis,Hubbard,28
+New Auburn,Sibley,0
+New Brighton,Ramsey,18
+New Germany,Carver,14
+New Hope,Hennepin,37
+New London,Kandiyohi,28
+New Munich,Stearns,8
+New Prague,Scott,28
+New Richland,Waseca,45
+New Trier,Dakota,11
+New Ulm,Brown,59
+New York Mills,Otter Tail,37
+Newfolden,Marshall,28
+Newport,Washington,29
+Nicollet,Nicollet,20
+Nielsville,Polk,0
+Nimrod,Wadena,0
+Nisswa,Crow Wing,20
+Norcross,Grant,0
+North Branch,Chisago,8
+North Mankato,Nicollet,65
+North Oaks,Ramsey,0
+North St Paul,Ramsey,46
+Northfield,Rice,63
+Northome,Koochiching,4
+Northrop,Martin,13
+Norwood Young America,Carver,48
+Oak Grove,Anoka,0
+Oak Park Heights,Washington,32
+Oakdale,Washington,9
+Odessa,Big Stone,6
+Odin,Watonwan,12
+Ogema,Becker,13
+Ogilvie,Kanabec,15
+Okabena,Jackson,3
+Oklee,Red Lake,24
+Middle River,Marshall,15
+Miesville,Dakota,15
+Milaca,Mille Lacs,56
+Milan,Chippewa,17
+Millerville,Douglas,0
+Millville,Wabasha,14
+Milroy,Redwood,0
+Miltona,Douglas,17
+Minneapolis,Hennepin,83
+Minneiska,Winona,8
+Minneota,Lyon,24
+Minnesota Lake,Faribault,19
+Minnetonka,Hennepin,19
+Minnetonka Beach,Hennepin,2
+Minnetrista,Hennepin,5
+Mizpah,Koochiching,0
+Montevideo,Chippewa,50
+Montgomery,Le Sueur,57
+Monticello,Wright,82
+Montrose,Wright,14
+Moorhead,Clay,9
+Moose Lake,Carlton,8
+Mora,Kanabec,52
+Morgan,Redwood,32
+Morris,Stevens,52
+Morristown,Rice,21
+Morton,Renville,10
+Motley,Morrison,30
+Independence,Hennepin,0
+International Falls,Koochiching,74
+Inver Grove Heights,Dakota,4
+Iona,Murray,6
+Iron Junction,St Louis,3
+Ironton,Crow Wing,0
+Isanti,Isanti,46
+Isle,Mille Lacs,26
+Ivanhoe,Lincoln,25
+Jackson,Jackson,43
+Janesville,Waseca,44
+Jasper,Pipestone,0
+Jeffers,Cottonwood,0
+Jenkins,Crow Wing,5
+Johnson,Big Stone,0
+Jordan,Scott,34
+Kandiyohi,Kandiyohi,17
+Karlstad,Kittson,46
+Kasota,Le Sueur,6
+Kasson,Dodge,53
+Keewatin,Itasca,6
+Kelliher,Beltrami,20
+Kellogg,Wabasha,18
+Kennedy,Kittson,0
+Kenneth,Rock,0
+Kensington,Douglas,21
+Kent,Wilkin,0
+Kenyon,Goodhue,45
+Kerkhoven,Swift,31
+Kerrick,Pine,0
+Kettle River,Carlton,7
+Kiester,Faribault,12
+Kilkenny,Le Sueur,9
+Kimball,Stearns,25
+Kinbrae,Nobles,14
+Kingston,Meeker,0
+Kinney,St Louis,12
+La Crescent,Houston,53
+La Prairie,Itasca,19
+La Salle,Watonwan,6
+Lafayette,Nicollet,8
+Lake Benton,Lincoln,13
+Lake Bronson,Kittson,6
+Lake Crystal,Blue Earth,21
+Lake Elmo,Washington,2
+Lake Henry,Stearns,8
+Lake Lillian,Kandiyohi,21
+Lake Park,Becker,33
+Lake St Croix Beach,Washington,0
+Lake Shore,Cass,2
+Lake Wilson,Murray,15
+Lakefield,Jackson,47
+Lakeland,Washington,6
+Lakeland Shores,Washington,21
+Lakeville,Dakota,8
+Lamberton,Redwood,32
+Lancaster,Kittson,18
+Landfall,Washington,15
+Lanesboro,Fillmore,42
+Laporte,Hubbard,29
+Lastrup,Morrison,0
+Lauderdale,Ramsey,25
+Le Center,Le Sueur,54
+Le Roy,Mower,23
+Le Sueur,Le Sueur,15
+Lengby,Polk,7
+Leonard,Clearwater,5
+Leonidas,St Louis,0
+Lester Prairie,McLeod,28
+Lewiston,Winona,27
+Lewisville,Watonwan,3
+Lexington,Anoka,54
+Lilydale,Dakota,5
+Lindstrom,Chisago,43
+Lino Lakes,Anoka,3
+Lismore,Nobles,7
+Litchfield,Meeker,51
+Little Canada,Ramsey,37
+Little Falls,Morrison,35
+Littlefork,Koochiching,34
+Long Beach,Pope,0
+Long Lake,Hennepin,27
+Long Prairie,Todd,62
+Longville,Cass,37
+Lonsdale,Rice,38
+Loretto,Hennepin,22
+Louisburg,Lac qui Parle,0
+Lowry,Pope,6
+Lucan,Redwood,10
+Luverne,Rock,56
+Lyle,Mower,11
+Lynd,Lyon,0
+Mabel,Fillmore,22
+Madelia,Watonwan,49
+Madison,Lac qui Parle,48
+Madison Lake,Blue Earth,29
+Magnolia,Rock,6
+Mahnomen,Mahnomen,77
+Mahtomedi,Washington,15
+Manchester,Freeborn,0
+Manhattan Beach,Crow Wing,0
+Mankato,Blue Earth,44
+Mantorville,Dodge,15
+Maple Grove,Hennepin,5
+Maple Lake,Wright,34
+Maple Plain,Hennepin,40
+Mapleton,Blue Earth,21
+Mapleview,Mower,8
+Maplewood,Ramsey,17
+Shafer,Chisago,8
+Shakopee,Scott,18
+Shelly,Norman,0
+Sherburn,Martin,38
+Shevlin,Clearwater,10
+Shoreview,Ramsey,9
+Shorewood,Hennepin,9
+Silver Bay,Lake,33
+Silver Lake,McLeod,17
+Skyline,Blue Earth,0
+Slayton,Murray,56
+Sleepy Eye,Brown,48
+Sobieski,Morrison,0
+Solway,Beltrami,9
+South Haven,Wright,7
+South St Paul,Dakota,66
+Spicer,Kandiyohi,25
+Spring Grove,Houston,35
+Spring Hill,Stearns,16
+Spring Lake Park,Anoka,37
+Spring Park,Hennepin,25
+Spring Valley,Fillmore,48
+Springfield,Brown,48
+Squaw Lake,Itasca,0
+Stacy,Chisago,14
+Staples,Todd,36
+Starbuck,Pope,46
+Steen,Rock,0
+Stephen,Marshall,20
+Stewart,McLeod,7
+Stewartville,Olmsted,71
+Stillwater,Washington,28
+Stockton,Winona,6
+Storden,Cottonwood,22
+Strandquist,Marshall,8
+Strathcona,Roseau,0
+Sturgeon Lake,Pine,1
+Sunburg,Kandiyohi,24
+Sunfish Lake,Dakota,1
+Swanville,Morrison,26
+Taconite,Itasca,0
+Tamarack,Aitkin,6
+Taopi,Mower,0
+Taunton,Lyon,7
+Taylors Falls,Chisago,4
+Tenstrike,Beltrami,9
+Thief River Falls,Pennington,61
+Thomson,Carlton,0
+Olivia,Renville,27
+Onamia,Mille Lacs,44
+Ormsby,Watonwan,8
+Orono,Hennepin,2
+Oronoco,Olmsted,3
+Orr,St Louis,4
+Ortonville,Big Stone,47
+Osakis,Douglas,29
+Oslo,Marshall,11
+Osseo,Hennepin,69
+Ostrander,Fillmore,8
+Otsego,Wright,0
+Ottertail,Otter Tail,14
+Owatonna,Steele,53
+Palisade,Aitkin,15
+Park Rapids,Hubbard,64
+Parkers Prairie,Otter Tail,26
+Paynesville,Stearns,29
+Pease,Mille Lacs,5
+Pelican Rapids,Otter Tail,61
+Pemberton,Blue Earth,0
+Pennock,Kandiyohi,0
+Pequot Lakes,Crow Wing,0
+Perham,Otter Tail,55
+Perley,Norman,0
+Peterson,Fillmore,12
+Pierz,Morrison,45
+Pillager,Cass,22
+Pine Island,Goodhue,38
+Pine River,Cass,23
+Pine Springs,Washington,2
+Pipestone,Pipestone,53
+Plainview,Wabasha,58
+Plato,McLeod,0
+Plummer,Red Lake,3
+Plymouth,Hennepin,27
+Porter,Yellow Medicine,12
+Preston,Fillmore,37
+Princeton,Mille Lacs,13
+Prinsburg,Kandiyohi,9
+Prior Lake,Scott,10
+Proctor,St Louis,29
+Quamba,Kanabec,0
+Racine,Mower,9
+Ramsey,Anoka,0
+Randall,Morrison,19
+Randolph,Dakota,18
+Ranier,Koochiching,14
+Raymond,Kandiyohi,16
+Red Lake Falls,Red Lake,24
+Red Wing,Goodhue,9
+Redwood Falls,Redwood,22
+Regal,Kandiyohi,3
+Remer,Cass,30
+Renville,Renville,30
+Revere,Redwood,8
+Rice,Benton,11
+Richfield,Hennepin,46
+Richmond,Stearns,41
+Richville,Otter Tail,7
+Riverton,Crow Wing,0
+Robbinsdale,Hennepin,65
+Rochester,Olmsted,46
+Rock Creek,Pine,0
+Rockford,Wright,24
+Rockville,Stearns,0
+Rogers,Hennepin,43
+Rollingstone,Winona,21
+Roosevelt,Roseau,0
+Roscoe,Stearns,8
+Rose Creek,Mower,11
+Roseau,Roseau,52
+Rosemount,Dakota,0
+Roseville,Ramsey,30
+Rothsay,Wilkin,23
+Round Lake,Nobles,10
+Royalton,Morrison,19
+Rushford,Fillmore,37
+Rushford Village,Fillmore,10
+Rushmore,Nobles,12
+Russell,Lyon,20
+Ruthton,Pipestone,23
+Rutledge,Pine,11
+Sabin,Clay,10
+Sacred Heart,Renville,5
+St Anthony,Hennepin,46
+St Augusta,Stearns,0
+St Bonifacius,Hennepin,29
+St Charles,Winona,48
+St Clair,Blue Earth,0
+St Cloud,Stearns,0
+St Francis,Anoka,7
+St Hilaire,Pennington,17
+St James,Watonwan,67
+St Joseph,Stearns,23
+St Leo,Yellow Medicine,6
+St Louis Park,Hennepin,39
+St Martin,Stearns,12
+St Marys Point,Washington,2
+St Michael,Wright,0
+St Paul,Ramsey,86
+St Paul Park,Washington,16
+St Peter,Nicollet,50
+St Rosa,Stearns,16
+St Stephen,Stearns,8
+St Vincent,Kittson,17
+Sanborn,Redwood,7
+Sandstone,Pine,34
+Sargeant,Mower,0
+Sartell,Stearns,9
+Sauk Centre,Stearns,56
+Sauk Rapids,Benton,26
+Savage,Scott,19
+Scandia,Washington,1
+Scanlon,Carlton,14
+Seaforth,Redwood,6
+Sebeka,Wadena,27
+Sedan,Pope,12
+Tintah,Traverse,6
+Tonka Bay,Hennepin,4
+Tower,St Louis,34
+Tracy,Lyon,27
+Trail,Polk,12
+Trimont,Martin,11
+Trommald,Crow Wing,0
+Trosky,Pipestone,0
+Truman,Martin,33
+Turtle River,Beltrami,0
+Twin Lakes,Freeborn,3
+Twin Valley,Norman,26
+Two Harbors,Lake,34
+Tyler,Lincoln,31
+Ulen,Clay,13
+Underwood,Otter Tail,10
+Upsala,Morrison,45
+Urbank,Otter Tail,9
+Utica,Winona,9
+Vadnais Heights,Ramsey,5
+Vergas,Otter Tail,40
+Vermillion,Dakota,17
+Verndale,Wadena,32
+Vernon Center,Blue Earth,7
+Vesta,Redwood,11
+Victoria,Carver,5
+Viking,Marshall,7
+Villard,Pope,0
+Vining,Otter Tail,14
+Virginia,St Louis,6
+Wabasha,Wabasha,0
+Wabasso,Redwood,37
+Waconia,Carver,41
+Wadena,Wadena,78
+Wahkon,Mille Lacs,18
+Waite Park,Stearns,2
+Waldorf,Waseca,13
+Walker,Cass,49
+Walnut Grove,Redwood,32
+Walters,Faribault,7
+Waltham,Mower,6
+Wanamingo,Goodhue,34
+Wanda,Redwood,2
+Warba,Itasca,0
+Warren,Marshall,60
+Warroad,Roseau,22
+Waseca,Waseca,48
+Watertown,Carver,44
+Waterville,Le Sueur,25
+Watkins,Meeker,30
+Watson,Chippewa,0
+Waubun,Mahnomen,10
+Waverly,Wright,10
+Wayzata,Hennepin,54
+Welcome,Martin,0
+Wells,Faribault,58
+Wendell,Grant,3
+West Concord,Dodge,28
+West St Paul,Dakota,39
+West Union,Todd,5
+Westbrook,Cottonwood,32
+Westport,Pope,0
+Whalan,Fillmore,6
+Wheaton,Traverse,44
+White Bear Lake,Ramsey,22
+Wilder,Jackson,0
+Willernie,Washington,51
+Williams,Lake of the Woods,0
+Willmar,Kandiyohi,59
+Willow River,Pine,16
+Wilmont,Nobles,7
+Wilton,Beltrami,0
+Windom,Cottonwood,31
+Winger,Polk,6
+Winnebago,Faribault,42
+Winona,Winona,43
+Winsted,McLeod,37
+Winthrop,Sibley,33
+Winton,St Louis,0
+Wolf Lake,Becker,15
+Wolverton,Wilkin,8
+Wood Lake,Yellow Medicine,15
+Woodbury,Washington,7
+Woodland,Hennepin,13
+Woodstock,Pipestone,6
+Worthington,Nobles,62
+Wrenshall,Carlton,7
+Wright,Carlton,14
+Wykoff,Fillmore,18
+Wyoming,Chisago,13
+Zemple,Itasca,15
+Zimmerman,Sherburne,13
+Zumbro Falls,Wabasha,8
+Nowthen,Anoka,0

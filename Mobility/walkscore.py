@@ -54,8 +54,8 @@ if __name__ == "__main__":
     apiKey='ffd1c56f9abcf84872116b4cc2dfcf31'
     walkscore = WalkScore(apiKey)
     address=''
-    lat = 45.02
-    long= -93.0501
+    lat = 45.0826172
+    long= -92.90904
     ws = walkscore.get_score(address, lat, long)
     print(ws)
 

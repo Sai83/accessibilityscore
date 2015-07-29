@@ -38,15 +38,24 @@ def calc_community_score(level='county'):
                 county= data["name"].split(',')[0].replace('County', '').strip()
                 id = data['county']
                 county = county.replace('St.', 'St')
+                
             elif level == 'city':
                 id = data["place"]
                 city= data["name"].split(',')[0].replace('city', '').strip()
-                #if 'CDP' in city:
-                #    continue
+                if 'CDP' in city:
+                    continue                
+                
                 city = city.replace('St.', 'St')
+                if city == 'St Anthony  (Hennepin and Ramsey Counties)':
+                    city = 'St Anthony'
+                elif city == 'St Anthony  (Stearns County)':
+                    continue
+
             elif level == 'tract':
                 id = data['state']+data['county']+data['tract']
                 county = data['name'].split(',')[1].replace('County', '').strip()
+                county = county.replace(' qui ', ' Qui ')
+                county = county.replace('St.', 'St')
             total = int(data["B18101_001E"].strip('"'))
             #print(total)
             dis_stas = [int(data[x].strip('"')) for x in dis_keys]
@@ -77,7 +86,10 @@ def calc_community_score(level='county'):
     #plt.show()
     
     min_v = place_data['disability_percentage'].min()
-    max_v = min(0.3, place_data['disability_percentage'].max()) # remove maximum outlier
+    if level == 'city' or level == 'tract':
+        max_v = min(0.3, place_data['disability_percentage'].max()) # remove maximum outlier
+    else:
+        max_v = place_data['disability_percentage'].max()
     #S = place_data['disability_percentage']
     #outlier = S[S.apply(lambda x:math.fabs(x-S.mean())>5*S.std())]
     #outlier = S

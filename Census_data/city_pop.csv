@@ -17,7 +17,6 @@ Altura	01234	495
 Alvarado	01252	368
 Amboy	01324	534
 Andover	01486	30972
-Angle Inlet CDP	01558	39
 Annandale	01684	3183
 Anoka	01720	16557
 Appleton	01864	1388
@@ -26,7 +25,6 @@ Arco	01972	71
 Arden Hills	02026	9508
 Argyle	02134	539
 Arlington	02152	2232
-Arnold CDP	02260	2971
 Ashby	02422	450
 Askov	02548	383
 Atwater	02692	1002
@@ -39,9 +37,7 @@ Babbitt	03106	1417
 Backus	03124	347
 Badger	03160	507
 Bagley	03196	1291
-Baker CDP	03214	64
 Balaton	03250	551
-Ball Club CDP	03376	371
 Barnesville	03574	2508
 Barnum	03628	636
 Barrett	03682	258
@@ -51,7 +47,6 @@ Baudette	04024	1038
 Baxter	04042	7590
 Bayport	04114	2957
 Beardsley	04204	191
-Beaulieu CDP	04348	79
 Beaver Bay	04456	110
 Beaver Creek	04492	295
 Becker	04618	4539
@@ -70,7 +65,6 @@ Bethel	05554	456
 Bigelow	05644	278
 Big Falls	05680	183
 Bigfork	05698	333
-Big Lake CDP	05744	297
 Big Lake	05752	10148
 Bingham Lake	05896	170
 Birchwood Village	06058	783
@@ -228,7 +222,6 @@ East Bethel	17486	11608
 East Grand Forks	17612	8512
 East Gull Lake	17630	1067
 Easton	17738	194
-Ebro CDP	17882	94
 Echo	17900	374
 Eden Prairie	18116	61385
 Eden Valley	18134	867
@@ -237,7 +230,6 @@ Edina	18188	48347
 Effie	18260	158
 Eitzen	18368	256
 Elba	18386	156
-Elbow Lake CDP	18440	107
 Elbow Lake	18458	1285
 Elgin	18530	1280
 Elizabeth	18566	182
@@ -255,14 +247,12 @@ Emily	19286	860
 Emmons	19340	388
 Erhard	19556	116
 Erskine	19700	506
-Esko CDP	19718	1916
 Evan	19880	35
 Evansville	19898	566
 Eveleth	19934	3590
 Excelsior	20078	2166
 Eyota	20114	2175
 Fairfax	20222	956
-Fairhaven CDP	20276	367
 Fairmont	20330	10393
 Falcon Heights	20420	5406
 Faribault	20546	20721
@@ -273,10 +263,8 @@ Felton	20834	139
 Fergus Falls	20906	12753
 Fertile	20978	860
 Fifty Lakes	21032	397
-Finland CDP	21104	189
 Finlayson	21122	236
 Fisher	21158	368
-Fish Lake CDP	21190	34
 Flensburg	21266	188
 Floodwood	21338	560
 Florence	21410	22
@@ -293,10 +281,8 @@ Frazee	22472	1186
 Freeborn	22526	302
 Freeport	22652	580
 Fridley	22814	27384
-Frontenac CDP	22904	247
 Frost	22940	233
 Fulda	22958	1325
-Garden City CDP	23084	345
 Garfield	23120	236
 Garrison	23192	167
 Garvin	23228	145
@@ -386,7 +372,6 @@ Holland	29618	197
 Hollandale	29636	254
 Holloway	29672	116
 Holt	29870	99
-Homer CDP	30014	87
 Hopkins	30140	17545
 Houston	30230	997
 Howard Lake	30284	1884
@@ -396,7 +381,6 @@ Humboldt	30446	25
 Hutchinson	30644	13889
 Ihlen	30806	41
 Independence	30842	3557
-Inger CDP	30950	246
 International Falls	31040	6291
 Inver Grove Heights	31076	33850
 Iona	31094	146
@@ -441,7 +425,6 @@ Lake City	34172	4995
 Lake Crystal	34190	2540
 Lake Elmo	34244	8062
 Lakefield	34316	1567
-Lake George CDP	34370	219
 Lake Henry	34478	69
 Lakeland	34622	1818
 Lakeland Shores	34658	274
@@ -455,7 +438,6 @@ Lamberton	35288	944
 Lancaster	35378	373
 Landfall	35414	864
 Lanesboro	35450	777
-Lansing CDP	35558	147
 Laporte	35612	223
 La Prairie	35648	790
 La Salle	35702	71
@@ -465,7 +447,6 @@ Le Center	36134	2267
 Lengby	36404	94
 Leonard	36494	29
 Leonidas	36530	68
-Leota CDP	36548	134
 Le Roy	36620	898
 Lester Prairie	36728	1690
 Le Sueur	36746	3960
@@ -480,7 +461,6 @@ Litchfield	37448	6533
 Little Canada	37502	9896
 Little Falls	37556	8109
 Littlefork	37592	623
-Little Rock CDP	37656	1362
 Long Beach	37970	374
 Long Lake	38006	1983
 Long Prairie	38060	3310
@@ -490,7 +470,6 @@ Loretto	38222	651
 Louisburg	38258	28
 Lowry	38366	251
 Lucan	38420	163
-Lutsen CDP	38546	402
 Luverne	38564	4534
 Lyle	38654	468
 Lynd	38708	446
@@ -504,9 +483,7 @@ Madison	39266	1479
 Madison Lake	39320	1104
 Magnolia	39338	245
 Mahnomen	39392	1368
-Mahnomen CDP	39394	348
 Mahtomedi	39428	7780
-Mahtowa CDP	39446	388
 Manchester	39716	40
 Manhattan Beach	39806	45
 Mankato	39878	39478
@@ -521,7 +498,6 @@ Marble	40418	640
 Marietta	40526	220
 Marine on St Croix	40562	678
 Marshall	40688	13443
-Martin Lake CDP	40814	836
 Mayer	41138	1628
 Maynard	41210	387
 Mazeppa	41282	749
@@ -535,9 +511,7 @@ Menahga	41660	1261
 Mendota	41678	202
 Mendota Heights	41696	11123
 Mentor	41714	160
-Merrifield CDP	41804	84
 Middle River	41912	356
-Midway CDP	42010	22
 Miesville	42092	158
 Milaca	42110	2743
 Milan	42146	422
@@ -575,10 +549,8 @@ Myrtle	44890	62
 Nashua	44944	82
 Nashwauk	44980	932
 Nassau	45016	63
-Naytahwaush CDP	45052	479
 Nelson	45106	181
 Nerstrand	45196	244
-Nett Lake CDP	45268	307
 Nevis	45340	481
 New Auburn	45376	545
 New Brighton	45430	21425
@@ -610,7 +582,6 @@ Nowthen	47536	4412
 Oakdale	47680	27511
 Oak Grove	47690	8063
 Oak Park Heights	47914	3811
-Oakport CDP	47923	1214
 Odessa	48058	122
 Odin	48094	111
 Ogema	48130	142
@@ -624,7 +595,6 @@ Orono	48580	7586
 Oronoco	48598	1264
 Orr	48634	292
 Ortonville	48706	1931
-Osage CDP	48760	248
 Osakis	48796	1659
 Oslo	48976	252
 Osseo	49012	2412
@@ -646,10 +616,8 @@ Perley	50506	113
 Peterson	50596	200
 Pierz	50776	1233
 Pillager	50902	442
-Pine Bend CDP	51028	5
 Pine City	51064	2916
 Pine Island	51136	3379
-Pine Point CDP	51234	264
 Pine River	51280	634
 Pine Springs	51316	406
 Pipestone	51388	4109
@@ -657,7 +625,6 @@ Plainview	51424	3237
 Plato	51460	318
 Plummer	51712	395
 Plymouth	51730	71196
-Ponemah CDP	51892	650
 Porter	52144	200
 Preston	52450	1173
 Princeton	52522	4552
@@ -671,8 +638,6 @@ Randall	53080	589
 Randolph	53098	420
 Ranier	53134	657
 Raymond	53296	748
-Redby CDP	53386	1214
-Red Lake CDP	53458	1290
 Red Lake Falls	53476	1330
 Red Wing	53620	16016
 Redwood Falls	53656	5068
@@ -681,11 +646,9 @@ Remer	53782	402
 Renville	53890	1303
 Revere	53908	96
 Rice	53998	1337
-Rice Lake CDP	54056	272
 Richfield	54214	35483
 Richmond	54268	1518
 Richville	54340	97
-Riverland CDP	54596	189
 Riverton	54736	147
 Robbinsdale	54808	14007
 Rochester	54880	106322
@@ -694,7 +657,6 @@ Rockford	55006	4161
 Rockville	55078	2504
 Rogers	55186	10858
 Rollingstone	55276	633
-Ronneby CDP	55366	28
 Roosevelt	55438	63
 Roscoe	55510	138
 Roseau	55546	2521
@@ -704,7 +666,6 @@ Roseville	55852	33706
 Rothsay	56014	471
 Round Lake	56086	367
 Royalton	56176	1136
-Roy Lake CDP	56212	22
 Rush City	56266	2001
 Rushford	56284	1911
 Rushford Village	56302	979
@@ -714,8 +675,7 @@ Ruthton	56482	252
 Rutledge	56518	297
 Sabin	56554	596
 Sacred Heart	56572	570
-St Anthony  (Hennepin and Ramsey Counties)	56680	8215
-St Anthony  (Stearns County)	56698	104
+St Anthony	56680	8215
 St Augusta	56724	3372
 St Bonifacius	56770	2469
 St Charles	56788	3661
@@ -746,7 +706,6 @@ Savage	58738	27546
 Scandia	58900	3957
 Scanlon	58936	1123
 Seaforth	59098	91
-Searles CDP	59116	202
 Sebeka	59152	685
 Sedan	59188	73
 Shafer	59314	880
@@ -757,15 +716,12 @@ Shevlin	59782	165
 Shoreview	59998	25405
 Shorewood	60016	7397
 Silver Bay	60250	1855
-Silver Creek CDP	60322	212
 Silver Lake	60376	789
 Skyline	60754	273
 Slayton	60808	2078
 Sleepy Eye	60844	3458
 Sobieski	61006	201
 Solway	61114	113
-Soudan CDP	61204	432
-South End CDP	61308	72
 South Haven	61402	243
 South St Paul	61492	20297
 Spicer	61690	1248
@@ -777,7 +733,6 @@ Spring Park	62014	1689
 Spring Valley	62104	2636
 Squaw Lake	62284	121
 Stacy	62320	1563
-Stanchfield CDP	62356	131
 Staples	62446	2505
 Starbuck	62500	1151
 Steen	62662	219
@@ -799,8 +754,6 @@ Taopi	64210	61
 Taunton	64264	147
 Taylors Falls	64318	996
 Tenstrike	64444	192
-The Lakes CDP	64543	641
-The Ranch CDP	64547	26
 Thief River Falls	64570	8443
 Thomson	64750	163
 Tintah	64948	64
@@ -814,7 +767,6 @@ Trosky	65542	110
 Truman	65668	1027
 Turtle River	65794	71
 Twin Lakes	65920	220
-Twin Lakes CDP	65927	200
 Twin Valley	65938	735
 Two Harbors	65956	3599
 Tyler	66046	1077
@@ -832,7 +784,6 @@ Vesta	66982	356
 Victoria	67036	7609
 Viking	67090	122
 Villard	67144	292
-Vineland CDP	67180	1060
 Vining	67216	36
 Virginia	67288	8450
 Wabasha	67378	2604
@@ -851,7 +802,6 @@ Wanda	68008	62
 Warba	68080	170
 Warren	68170	1540
 Warroad	68224	1842
-Warsaw CDP	68260	802
 Waseca	68296	9214
 Watertown	68548	4175
 Waterville	68584	1813
@@ -866,14 +816,11 @@ Wendell	69142	130
 Westbrook	69250	658
 West Concord	69304	763
 Westport	69628	58
-West Roy Lake CDP	69690	50
 West St Paul	69700	19411
 West Union	69736	120
 Whalan	69808	112
 Wheaton	69844	1479
-Whipholt CDP	69880	84
 White Bear Lake	69970	23820
-White Earth CDP	70006	537
 Wilder	70258	60
 Willernie	70366	687
 Williams	70402	200
