@@ -28,20 +28,16 @@ function initialize() {
   layer = new google.maps.FusionTablesLayer({
     query: {
       select: 'geometry',
-      from: '1b1VQWj4zxjtr68XYdIEO0QUlNUG8Yz7VQ2iy6fKV'
+      from: '1b1VQWj4zxjtr68XYdIEO0QUlNUG8Yz7VQ2iy6fKV',
+      where: "county = 'Kittson'"
     },
     styles: [{
       polygonOptions: {
         fillColor: '#00FF00',
         fillOpacity: 0.3
       }
-    }, {
-      where: 'birds > 300',
-      polygonOptions: {
-        fillColor: '#0000FF'
-      }
-    }, {
-      where: 'population > 5',
+    },  {
+      where: 'accessibility_score >= 60',
       polygonOptions: {
         fillOpacity: 1.0
       }

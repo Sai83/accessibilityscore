@@ -17,7 +17,7 @@
 \def \yy #1{{\color{red}{\textbf{[#1]}} }}
 
 %\usepackage[tight,footnotesize]{subfigure}
-\doublespacing
+\singlespacing
 \topmargin 0.0cm
 \oddsidemargin 0.5cm
 \evensidemargin 0.5cm
@@ -36,7 +36,7 @@
 \begin{document}
 \begin{flushleft}
 {\Large
-\textbf{Demo: Accessible Places Finder/Scoring for People with Disabilities}
+\textbf{Accessible Places Finder/Scoring for People with Disabilities}
 }
 % Insert Author names, affiliations and corresponding author email.
 \\
@@ -56,33 +56,27 @@ $\ast$ E-mail: xin.shuai@thomsonreuters.com
 
 
 \section{Background}
-This demo aims to help people with disabilities to easily find a place to live in the state of Minnesota that satisfies the specific accessibility needs of this population group. Places that are safe, offer easy access to shops, hospitals etc. and may already have a high ratio of other disabled people in order to build a supportive community would be preferred by a person with a disability. Over 10\% of the population in Minnesota report to be disabled, and the percentage is even higher among seniors. How to find a conveniently located and accessible place to live or travel to, is one of the most important issues for people with disabilities. This application will allow people to explore such places by pulling together various data sources of interest.
+This demo aims to help people with disabilities to easily find a place to live or travel in the state of Minnesota that satisfies the specific accessibility needs of this population group. Places that are safe, offer easy access to shops, hospitals etc. and may already have a high ratio of other disabled people in order to build a supportive community would be preferred by a person with a disability. Over 10\% of the population in Minnesota report to be disabled, and the percentage is even higher among seniors. How to find a conveniently located and accessible place to live or travel to, is one of the most important issues for people with disabilities. This app will allow people to explore such places by pulling together various data sources of interest.
 
 \section{Functionality and Data Source}
-This app implements two functionalities. Fore example, after a user inputs an address name, a zip code or a city name, an ?accessibility score? based on different features (details come later in this document) will be computed and returned to the user and a short summary report will be generated as well. Alternatively, a user can specify a specific geographical range (i.e., state, county or city), and the level of places to rank (i.e., county, city, or zip code), and as a result accessibility scores will be computed at the requested level of places and a ranked list of places will returned to the user. 
-Some technical details about the ranking:
-\begin{itemize}
-\item Each feature that is involved in the ranking is scored on a 0 to 100 scale. 
-\item Each feature is assigned a weight in the final scoring function. By default, the all features have the same weights; but the weight can be adjusted by the user.
-\item The score computing is composed of online computation and offline computation. 
-\end{itemize}
+This app implements two functionalities. For example, after a user inputs an address name, a zip code or a city name, an ``accessibility score'' based on different features (details come later in this document) will be computed and returned to the user and a short summary report will be generated as well. Alternatively, a user can specify a specific geographical container (i.e., state, county or census tract), and a specific sub-level of places to rank (i.e., county, city, or zip code). As a result accessibility scores will be computed at the requested container and level of places and a ranked list of places will returned to the user. Particularly, each feature that is involved in the ranking is scored on a 0 to 100 scale and assigned a weight in the final scoring function. By default, all features have the same weights; but the weight can be adjusted by the users according to their different preference.
 Now we will explain the data resources and the features that will be used in scoring and ranking a location $x$. 
 \subsection{Mobility}
-This feature combines three scores: walkability score, transit score as well metro mobility associability score.  The proposed computation is as follows:
+This feature combines two scores: walk score and metro mobility score.  The proposed computation is:
 \begin{equation}
 MobilityScore(x) = \alpha \cdot walkscore(x) + \beta \cdot metroscore(x)
 \label{eq:mobility}
 \end{equation}
-Especially, walk score measures how friendly an area is to walking, considering factors like presence of footpaths, traffic condition and nearby facilities. Given a location, the walk score can be returned through API\footnote{https://www.walkscore.com/professional/api.php}. In addition, metro mobility is a shared public transportation service that is especially provided for people with disabilities, and the timetable of metro service is provided in difference cities in Minnesota~\footnote{\url{http://www.metrocouncil.org/Transportation/Services/Metro-Mobility/Service-Hours-By-Community.aspx?source=child}}. The metro score 
+Especially, walk score measures how friendly an area is to walking, considering factors like presence of footpaths, traffic condition and nearby facilities. Given a location, the walk score can be returned through API\footnote{https://www.walkscore.com/professional/api.php}. In addition, metro mobility is a shared public transportation service that is especially provided for people with disabilities, and the time schedule of metro mobility service in difference areas in Minnesota is provided as well\footnote{\url{http://www.metrocouncil.org/Transportation/Services/Metro-Mobility/Service-Hours-By-Community.aspx?source=child}}. The metro score 
 is computed as the percentage of hours when metro service is available during a week. By default, we set $\alpha$ to 0.7 and $\beta$ to 0.3 in Equation~\ref{eq:mobility}
 
 \subsection{Housing and Development (HUD)}
-This feature reflects the availability of as well as the physical quality nearby affordable apartments, which can be compute as:
+This feature reflects the availability as well as the physical quality of nearby affordable apartments, which can be computed as:
 \begin{equation}
 HouseScore(x) = \underset{|y-x|<dist}{max}HUDscore(y), y\in Y
 \label{eq:house}
 \end{equation}
-where $Y$ is the set of locations of affordable apartments listed in HUD.gov.~\footnote{\url{http://www.hud.gov/apps/section8/results.cfm?city_name_text=&county_name_text=&zip_code=&property_name_text=&client_group_type=Disabled&maxrec=20&state_code=MN&statename=Minnesota}}. In addition, each apartment is assigned a HUD score.~\footnote{\url{http://portal.hud.gov/hudportal/HUD?src=/program_offices/housing/mfh/rems/remsinspecscores/remsphysinspscores}} The $dist$ is set to 5 miles by default.
+where $Y$ is the set of locations of affordable apartments listed in HUD.gov.\footnote{\url{http://www.hud.gov/apps/section8/results.cfm?city_name_text=&county_name_text=&zip_code=&property_name_text=&client_group_type=Disabled&maxrec=20&state_code=MN&statename=Minnesota}} In addition, each apartment is assigned a HUD score.\footnote{\url{http://portal.hud.gov/hudportal/HUD?src=/program_offices/housing/mfh/rems/remsinspecscores/remsphysinspscores}} The $dist$ in Equation~\ref{eq:house} is set to 5 miles by default.
 
 \subsection{Health}
 People with disabilities generally need more special health care and services, which can help them to live a better life. Therefore, one advantage of a location is its closeness to hospitals, health centers or some special disabilities organizations, which can be quantified as:
@@ -90,27 +84,30 @@ People with disabilities generally need more special health care and services, w
 HospitalScore(x) = \underset{|z-x|<dist}{max}hospital\_score(y), z\in Z
 \label{eq:hosp}
 \end{equation}
- where $Z$ is the set of hospitals registered at medicare.gov~\footnote{\url{https://data.medicare.gov/data/hospital-compare}} and the corresponding scores are provided by healthgov.com~\footnote{\url{http://hospitals.healthgrove.com/}} The $dist$ is set to 5 miles by default.
+ where $Z$ is the set of hospitals registered at medicare.gov\footnote{\url{https://data.medicare.gov/data/hospital-compare}} and the corresponding scores are provided by healthgov.com.\footnote{\url{http://hospitals.healthgrove.com/}} The $dist$ in Equation~\ref{eq:hosp} is set to 5 miles by default.
  
 \subsection{Safety}
 This feature measures the crime rate of nearby environment and the proposed equation is
 \begin{equation}
 SafetyScore(x) = 1 - crime\_rate(x)
 \end{equation}
-Especially, the crime rate data is provided by Minnesota Department of Public Safety.~\footnote{\url{https://dps.mn.gov/divisions/bca/bca-divisions/mnjis/Pages/uniform-crime-reports.aspx}} 
+Especially, the crime rate data are provided by Minnesota Department of Public Safety.\footnote{\url{https://dps.mn.gov/divisions/bca/bca-divisions/mnjis/Pages/uniform-crime-reports.aspx}} 
 
 \subsection{Disability Community}
 People with disability may prefer to live within a supportive community where many other people with disabilities have already lived there and can help each other. Therefore, we define a community score for a location from the ratio of the number of disabled population to total population:
 \begin{equation}
 CommunityScore(x) = disabled\_population/total\_population
 \end{equation}
- Such data can be extracted through CitySDK Census Module~\footnote{\url{http://uscensusbureau.github.io/citysdk/guides/censusModule.html}}
+ Such data can be extracted through CitySDK Census Module.\footnote{\url{http://uscensusbureau.github.io/citysdk/guides/censusModule.html}}
  
  \subsection{Feature Scaling}
- For all five features/scores, safety score and community score are transformed into a 0 to 100 range using maximum-minimum scaling. The rest scores are already in the range of 0 to 100.
+Of all five features/scores, safety score and community score are transformed into a 0 to 100 range using maximum-minimum scaling technique. The rest scores are already in the range of 0 to 100.
  
  \section{Summary}
- Using this app, people with disabilities are able to extract two important pieces of information: (1) Given a place, compute the accessibility score for this place and receive a textual summary about this score; (2) Given a geographical boundary, rank the sub-level places within the boundary in terms of accessibility score, and exhibit the geographical distribution in the form of intensity map. As an important part of the app, CitySDK provides very convenient API to extract census data and other open government data at different levels within different boundaries. We think it would be more helpful if more data resources can be integrated into CitySDK. 
+ Using this app, people with disabilities are able to extract two important pieces of information: (1) Given a place, compute the accessibility score for this place and receive a textual summary about this score; (2) Given a geographical container, rank the sub-level places within the container in terms of accessibility score, and exhibit the geographical distribution in the form of intensity map. As an important part of the app, CitySDK provides very convenient API to extract US census data at different levels within different containers. In addition, the documentation and examples are very useful guidance. At the same time, we think CitySDK can be improved if (1) multiple programing languages are supported (i.e. Java, Python, C, Ruby, etc); (2) more data resources (i.e. crime rate) can be integrated. 
+
+\section*{Team Member Introduction}
+This app is a collaborative product and each member of our team dedicatedly contributes its development. \emph{Melinda Miller} is a Sr. Management Analyst with State of Minnesota and initiated the idea of developing an app for disabilities and seniors; \emph{Xin Shuai} and \emph{Frank Schilder} are Research Scientists from Eagan R \& D Group at Thomson Reuters, who designed the prototype of the app and implemented the main functionalities; \emph{Zhuoren Jiang} is a Postdoctoral Researcher from Beijing University in China, who focused on the implementation and development of the front and back ends. We also want to thank \emph{Ryan Dolan} from US Census Bureau for providing useful advice and help in the process of our app development.
 %\input{results}
 %\input{conclusion}
 %\input{relatedwork}
