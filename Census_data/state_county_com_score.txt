@@ -1,88 +1,88 @@
 county	disability_percentage	id	score
 Aitkin	0.186	001	100
-Anoka	0.092	003	22
-Becker	0.120	005	46
-Beltrami	0.116	007	42
-Benton	0.127	009	52
-Big Stone	0.158	011	77
-Blue Earth	0.096	013	26
-Brown	0.111	015	38
-Carlton	0.126	017	51
-Carver	0.065	019	0
-Cass	0.158	021	77
-Chippewa	0.134	023	57
-Chisago	0.103	025	32
-Clay	0.098	027	28
-Clearwater	0.171	029	88
-Cook	0.108	031	36
-Cottonwood	0.134	033	58
-Crow Wing	0.141	035	63
-Dakota	0.082	037	14
-Dodge	0.077	039	10
-Douglas	0.118	041	44
-Faribault	0.123	043	49
-Fillmore	0.114	045	40
-Freeborn	0.132	047	56
-Goodhue	0.101	049	30
-Grant	0.144	051	65
-Hennepin	0.093	053	24
-Houston	0.111	055	38
-Hubbard	0.139	057	61
-Isanti	0.115	059	41
-Itasca	0.155	061	75
-Jackson	0.107	063	35
-Kanabec	0.139	065	61
-Kandiyohi	0.117	067	44
-Kittson	0.160	069	79
-Koochiching	0.171	071	88
-Lac qui Parle	0.140	073	62
-Lake	0.137	075	60
-Lake of the Woods	0.165	077	83
-Le Sueur	0.097	079	27
-Lincoln	0.134	081	58
-Lyon	0.111	083	38
-McLeod	0.106	085	34
-Mahnomen	0.139	087	61
-Marshall	0.125	089	50
-Martin	0.139	091	61
-Meeker	0.111	093	39
-Mille Lacs	0.144	095	66
-Morrison	0.129	097	53
-Mower	0.124	099	49
-Murray	0.135	101	58
-Nicollet	0.094	103	25
-Nobles	0.108	105	36
-Norman	0.116	107	43
-Olmsted	0.081	109	14
-Otter Tail	0.136	111	59
-Pennington	0.123	113	48
-Pine	0.156	115	75
-Pipestone	0.129	117	53
-Polk	0.126	119	51
-Pope	0.129	121	54
-Ramsey	0.108	123	36
-Red Lake	0.129	125	53
-Redwood	0.133	127	57
-Renville	0.125	129	50
-Rice	0.086	131	18
-Rock	0.107	133	35
+Anoka	0.092	003	11
+Becker	0.120	005	49
+Beltrami	0.116	007	45
+Benton	0.127	009	60
+Big Stone	0.158	011	93
+Blue Earth	0.096	013	15
+Brown	0.111	015	33
+Carlton	0.126	017	59
+Carver	0.065	019	2
+Cass	0.158	021	92
+Chippewa	0.134	023	70
+Chisago	0.103	025	23
+Clay	0.098	027	18
+Clearwater	0.171	029	99
+Cook	0.108	031	29
+Cottonwood	0.134	033	71
+Crow Wing	0.141	035	84
+Dakota	0.082	037	8
+Dodge	0.077	039	5
+Douglas	0.118	041	48
+Faribault	0.123	043	53
+Fillmore	0.114	045	41
+Freeborn	0.132	047	68
+Goodhue	0.101	049	20
+Grant	0.144	051	86
+Hennepin	0.093	053	13
+Houston	0.111	055	34
+Hubbard	0.139	057	79
+Isanti	0.115	059	43
+Itasca	0.155	061	90
+Jackson	0.107	063	26
+Kanabec	0.139	065	82
+Kandiyohi	0.117	067	47
+Kittson	0.160	069	94
+Koochiching	0.171	071	98
+Lac qui Parle	0.140	073	83
+Lake	0.137	075	77
+Lake of the Woods	0.165	077	95
+Le Sueur	0.097	079	16
+Lincoln	0.134	081	72
+Lyon	0.111	083	36
+McLeod	0.106	085	25
+Mahnomen	0.139	087	80
+Marshall	0.125	089	56
+Martin	0.139	091	78
+Meeker	0.111	093	38
+Mille Lacs	0.144	095	87
+Morrison	0.129	097	62
+Mower	0.124	099	54
+Murray	0.135	101	75
+Nicollet	0.094	103	14
+Nobles	0.108	105	30
+Norman	0.116	107	46
+Olmsted	0.081	109	7
+Otter Tail	0.136	111	76
+Pennington	0.123	113	51
+Pine	0.156	115	91
+Pipestone	0.129	117	63
+Polk	0.126	119	57
+Pope	0.129	121	66
+Ramsey	0.108	123	31
+Red Lake	0.129	125	64
+Redwood	0.133	127	69
+Renville	0.125	129	55
+Rice	0.086	131	10
+Rock	0.107	133	28
 Roseau	0.113	135	40
-St Louis	0.135	137	58
-Scott	0.065	139	0
-Sherburne	0.084	141	16
-Sibley	0.116	143	42
-Stearns	0.102	145	31
-Steele	0.098	147	27
-Stevens	0.109	149	36
-Swift	0.143	151	64
-Todd	0.128	153	52
-Traverse	0.154	155	74
-Wabasha	0.111	157	38
-Wadena	0.169	159	86
-Waseca	0.106	161	34
-Washington	0.077	163	11
-Watonwan	0.113	165	40
-Wilkin	0.123	167	48
-Winona	0.102	169	31
-Wright	0.071	171	5
-Yellow Medicine	0.131	173	54
+St Louis	0.135	137	74
+Scott	0.065	139	1
+Sherburne	0.084	141	9
+Sibley	0.116	143	44
+Stearns	0.102	145	22
+Steele	0.098	147	17
+Stevens	0.109	149	32
+Swift	0.143	151	85
+Todd	0.128	153	61
+Traverse	0.154	155	89
+Wabasha	0.111	157	37
+Wadena	0.169	159	97
+Waseca	0.106	161	24
+Washington	0.077	163	6
+Watonwan	0.113	165	39
+Wilkin	0.123	167	52
+Winona	0.102	169	21
+Wright	0.071	171	3
+Yellow Medicine	0.131	173	67

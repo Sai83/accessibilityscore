@@ -300,13 +300,13 @@ def calc_city_score(tract_score_file):
         score_list.append({'city':city, 'county':county, 'id':id,
                            'walk_score':walk_score, 'metro_score':metro_score,
                            'safety_score':safety_score, 'house_score':house_score,
-                           'hospital_score':hosp_score, 'community_score':com_score, 'accessbility_score':accessbility_score})
+                           'hospital_score':hosp_score, 'community_score':com_score, 'accessibility_score':accessbility_score})
 
         #print(score_list)
         #exit(1)
     score_list = pd.DataFrame(score_list)
     score_list.to_csv(tract_score_file, index=False, float_format='%.0f', columns=['id', 'city', 'county',
-                       'walk_score', 'metro_score', 'safety_score', 'community_score', 'hospital_score', 'house_score', 'accessbility_score'])
+                       'walk_score', 'metro_score', 'safety_score', 'community_score', 'hospital_score', 'house_score', 'accessibility_score'])
 
 def calc_county_score(tract_score_file):
     "calculate the accessibility score for each county"

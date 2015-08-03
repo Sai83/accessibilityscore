@@ -41,15 +41,15 @@
 % Insert Author names, affiliations and corresponding author email.
 \\
 Xin Shuai$^{1,\ast}$,
+Zhuoren Jiang$^{2}$
 Frank Schilder$^{1}$,
-Melinda Miller$^{2}$,
-Zhuoren Jiang$^{3}$
+Melinda Miller$^{3}$
 \\
 \bf{1} R \& D group at Thomson Reuters, Eagan, MN, US
 \\
-\bf{2} State of Minnesota IT Services, St Paul, MN, US
+\bf{2} Beijing University, Beijing, China
 \\
-\bf{3} Beijing University, Beijing, China
+\bf{3} State of Minnesota IT Services, St Paul, MN, US
 \\
 $\ast$ E-mail: xin.shuai@thomsonreuters.com
 \end{flushleft}
@@ -59,7 +59,7 @@ $\ast$ E-mail: xin.shuai@thomsonreuters.com
 This demo aims to help people with disabilities to easily find a place to live or travel in the state of Minnesota that satisfies the specific accessibility needs of this population group. Places that are safe, offer easy access to shops, hospitals etc. and may already have a high ratio of other disabled people in order to build a supportive community would be preferred by a person with a disability. Over 10\% of the population in Minnesota report to be disabled, and the percentage is even higher among seniors. How to find a conveniently located and accessible place to live or travel to, is one of the most important issues for people with disabilities. This app will allow people to explore such places by pulling together various data sources of interest.
 
 \section{Functionality and Data Source}
-This app implements two functionalities. For example, after a user inputs an address name, a zip code or a city name, an ``accessibility score'' based on different features (details come later in this document) will be computed and returned to the user and a short summary report will be generated as well. Alternatively, a user can specify a specific geographical container (i.e., state, county or census tract), and a specific sub-level of places to rank (i.e., county, city, or zip code). As a result accessibility scores will be computed at the requested container and level of places and a ranked list of places will returned to the user. Particularly, each feature that is involved in the ranking is scored on a 0 to 100 scale and assigned a weight in the final scoring function. By default, all features have the same weights; but the weight can be adjusted by the users according to their different preference.
+This app implements two functionalities: \emph{evaluate} and \emph{explore}. In the \emph{evaluate} page, after a user inputs an address name, a zip code, an ``accessibility score'' based on different features (details come later in this document) will be computed and returned to the user and a short summary report will be generated as well. Alternatively, in the \emph{explore} page, a user can specify a specific geographical container (i.e., state, county or census tract), and a specific sub-level of places to rank (i.e., county, city, or zip code). As a result accessibility scores will be computed at the requested container and level of places and a ranked list of places will returned to the user. Particularly, each feature that is involved in the ranking is scored on a 0 to 100 scale and assigned a weight in the final scoring function. By default, all features have the same weights; but the weights can be adjusted by the users according to their different preferences.
 Now we will explain the data resources and the features that will be used in scoring and ranking a location $x$. 
 \subsection{Mobility}
 This feature combines two scores: walk score and metro mobility score.  The proposed computation is:
@@ -101,10 +101,11 @@ CommunityScore(x) = disabled\_population/total\_population
  Such data can be extracted through CitySDK Census Module.\footnote{\url{http://uscensusbureau.github.io/citysdk/guides/censusModule.html}}
  
  \subsection{Feature Scaling}
-Of all five features/scores, safety score and community score are transformed into a 0 to 100 range using maximum-minimum scaling technique. The rest scores are already in the range of 0 to 100.
+Of all five features/scores, safety score and community score are transformed into a 0 to 100 range based on cumulative percentage score. The rest scores are already in the range of 0 to 100 thus requires no transformation.
  
  \section{Summary}
- Using this app, people with disabilities are able to extract two important pieces of information: (1) Given a place, compute the accessibility score for this place and receive a textual summary about this score; (2) Given a geographical container, rank the sub-level places within the container in terms of accessibility score, and exhibit the geographical distribution in the form of intensity map. As an important part of the app, CitySDK provides very convenient API to extract US census data at different levels within different containers. In addition, the documentation and examples are very useful guidance. At the same time, we think CitySDK can be improved if (1) multiple programing languages are supported (i.e. Java, Python, C, Ruby, etc); (2) more data resources (i.e. crime rate) can be integrated. 
+ In summary, people with disabilities can easily extract two important pieces of information using this app: (1) Given an address, this app computes the accessibility score for this place and receive a textual summary about this score; (2) Given a geographical container, this app ranks the sub-level places within the container in terms of accessibility scores, and exhibits the geographical distribution of different types of scores in the form of intensity map. Furthermore, the user can adjust the weights (i.e. 0 to 10) of different features, and obtain customized accessibility score and places ranking.
+As an important part of the app, CitySDK provides very convenient API to extract US census data at different levels within different containers. In addition, the documentation and examples are very useful guidance. At the same time, we think CitySDK can be improved if (1) multiple programing languages are supported (i.e. Java, Python, C, Ruby, etc); (2) more data resources (i.e. crime rate) can be integrated. 
 
 \section*{Team Member Introduction}
 This app is a collaborative product and each member of our team dedicatedly contributes its development. \emph{Melinda Miller} is a Sr. Management Analyst with State of Minnesota and initiated the idea of developing an app for disabilities and seniors; \emph{Xin Shuai} and \emph{Frank Schilder} are Research Scientists from Eagan R \& D Group at Thomson Reuters, who designed the prototype of the app and implemented the main functionalities; \emph{Zhuoren Jiang} is a Postdoctoral Researcher from Beijing University in China, who focused on the implementation and development of the front and back ends. We also want to thank \emph{Ryan Dolan} from US Census Bureau for providing useful advice and help in the process of our app development.

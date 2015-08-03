@@ -84,22 +84,30 @@ def calc_community_score(level='county'):
     #print(mean)
     #place_data.boxplot(column='disability_percentage')
     #plt.show()
-    
-    min_v = place_data['disability_percentage'].min()
-    if level == 'city' or level == 'tract':
-        max_v = min(0.3, place_data['disability_percentage'].max()) # remove maximum outlier
-    else:
-        max_v = place_data['disability_percentage'].max()
-    print(min_v, max_v)
-    #S = place_data['disability_percentage']
-    #outlier = S[S.apply(lambda x:math.fabs(x-S.mean())>5*S.std())]
-    #outlier = S
-    #print(outlier)
-    #max_v = 0.3
-    place_data['score'] = (place_data['disability_percentage']-min_v)/(max_v-min_v)*100
-    #place_data[place_data['score']>100]['score']=100
-    outlier_index = place_data[place_data['score']>100].index
-    place_data.ix[outlier_index, 'score'] = 100
+
+
+    ## old algorithm, using minimum-maximum scaling #
+##    min_v = place_data['disability_percentage'].min()
+##    if level == 'city' or level == 'tract':
+##        max_v = min(0.3, place_data['disability_percentage'].max()) # remove maximum outlier
+##    else:
+##        max_v = place_data['disability_percentage'].max()
+##    print(min_v, max_v)
+##    place_data['score'] = (place_data['disability_percentage']-min_v)/(max_v-min_v)*100
+##    #place_data[place_data['score']>100]['score']=100
+##    outlier_index = place_data[place_data['score']>100].index
+##    place_data.ix[outlier_index, 'score'] = 100
+
+
+    ## now using new altorihgm, i.e. cumulative percentage as score ##
+    rate_list = list(place_data['disability_percentage'])
+    score_list = []
+    for index, row in place_data.iterrows():
+        rate = row['disability_percentage']
+        x_filter = list(filter(lambda x:x<=rate, rate_list))
+        r = len(x_filter)/len(rate_list)
+        score_list.append(r*100)
+    place_data['score'] = score_list
 
 
     #place_data['score'] = 100/(max_v-min_v)*(place_data['disability_percentage']-min_v)

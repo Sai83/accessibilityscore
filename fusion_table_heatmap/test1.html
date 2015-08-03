@@ -28,8 +28,8 @@ function initialize() {
   layer = new google.maps.FusionTablesLayer({
     query: {
       select: 'geometry',
-      from: '1b1VQWj4zxjtr68XYdIEO0QUlNUG8Yz7VQ2iy6fKV',
-      where: "county = 'Kittson'"
+      from: '12pr_N_-LWRFXoG7l4qxj4FD_PnGZDBhDW8V5yPWs',
+      where: "county = 'St Louis'"
     },
     styles: [{
       polygonOptions: {
@@ -37,7 +37,7 @@ function initialize() {
         fillOpacity: 0.3
       }
     },  {
-      where: 'accessibility_score >= 60',
+      where: 'accessibility_score >= 30',
       polygonOptions: {
         fillOpacity: 1.0
       }
