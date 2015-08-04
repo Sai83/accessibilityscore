@@ -1,369 +1,370 @@
 city	cleared	county	crime_rate	population	score
-Aitkin County Total	55	Aitkin	5426	15887	78
-Anoka County Total	49	Anoka	5984	339364	75
-Anoka Co. Sheriff	49	Anoka	3601	83069	85
-Anoka PD	42	Anoka	8338	17270	66
-Blaine	39	Anoka	7187	60093	70
-Centennial Lakes	52	Anoka	4134	10812	83
-Columbia Heights	43	Anoka	6447	19715	73
-Coon Rapids	66	Anoka	6272	62056	74
-Fridley	46	Anoka	11564	27775	52
-Lino Lakes	52	Anoka	2468	20910	90
-Spring Lake Park	35	Anoka	10839	6458	55
-Ramsey	46	Anoka	4217	24186	83
-St Francis	65	Anoka	7953	6274	67
-Becker County Total	45	Becker	3640	33266	85
-Becker Co. Sheriff	70	Becker	2010	24379	92
-Detroit Lakes	28	Becker	8113	8887	66
-Beltrami County Total	71	Beltrami	10530	45793	56
-Beltrami Co. Sheriff	72	Beltrami	4716	31193	81
+Aitkin County Total	55	Aitkin	5426	15887	40
+Anoka County Total	49	Anoka	5984	339364	35
+Anoka Co. Sheriff	49	Anoka	3601	83069	70
+Anoka PD	42	Anoka	8338	17270	16
+Blaine	39	Anoka	7187	60093	23
+Centennial Lakes	52	Anoka	4134	10812	61
+Columbia Heights	43	Anoka	6447	19715	29
+Coon Rapids	66	Anoka	6272	62056	31
+Fridley	46	Anoka	11564	27775	4
+Lino Lakes	52	Anoka	2468	20910	86
+Spring Lake Park	35	Anoka	10839	6458	6
+Ramsey	46	Anoka	4217	24186	60
+St Francis	65	Anoka	7953	6274	18
+Becker County Total	45	Becker	3640	33266	69
+Becker Co. Sheriff	70	Becker	2010	24379	91
+Detroit Lakes	28	Becker	8113	8887	17
+Beltrami County Total	71	Beltrami	10530	45793	7
+Beltrami Co. Sheriff	72	Beltrami	4716	31193	53
 Bemidji	70	Beltrami	24006	13805	0
-Blackduck	65	Beltrami	4654	795	81
-Benton County Total	46	Benton	3818	30252	84
-Benton Co. Sheriff	32	Benton	2639	17244	89
-Sauk Rapids	55	Benton	5381	13008	78
-Big Stone County Total	61	Big Stone	2368	5151	90
-Big Stone Co. Sheriff	62	Big Stone	3006	3293	88
-Ortonville	57	Big Stone	1238	1858	95
-Blue Earth County Total	54	Blue Earth	8791	65658	64
-Blue Earth Co. Sheriff	76	Blue Earth	6533	17343	73
-Mankato	49	Blue Earth	10877	40360	55
-Mapleton	75	Blue Earth	3454	1766	86
-Eagle Lake	41	Blue Earth	2099	2573	92
-Lake Crystal	45	Blue Earth	3598	2557	85
-Madison Lake	60	Blue Earth	3966	1059	84
-Brown County Total	66	Brown	3927	25364	84
-Brown Co. Sheriff	41	Brown	1049	6576	96
-New Ulm	67	Brown	6735	13185	72
-Sleepy Eye	97	Brown	1057	3501	96
+Blackduck	65	Beltrami	4654	795	54
+Benton County Total	46	Benton	3818	30252	66
+Benton Co. Sheriff	32	Benton	2639	17244	83
+Sauk Rapids	55	Benton	5381	13008	41
+Big Stone County Total	61	Big Stone	2368	5151	88
+Big Stone Co. Sheriff	62	Big Stone	3006	3293	79
+Ortonville	57	Big Stone	1238	1858	98
+Blue Earth County Total	54	Blue Earth	8791	65658	13
+Blue Earth Co. Sheriff	76	Blue Earth	6533	17343	28
+Mankato	49	Blue Earth	10877	40360	6
+Mapleton	75	Blue Earth	3454	1766	73
+Eagle Lake	41	Blue Earth	2099	2573	90
+Lake Crystal	45	Blue Earth	3598	2557	70
+Madison Lake	60	Blue Earth	3966	1059	64
+Brown County Total	66	Brown	3927	25364	64
+Brown Co. Sheriff	41	Brown	1049	6576	99
+New Ulm	67	Brown	6735	13185	25
+Sleepy Eye	97	Brown	1057	3501	98
 Springfield	50	Brown	95	2102	100
-Carlton County Total	37	Carlton	6393	35446	74
-Carlton Co. Sheriff	35	Carlton	4127	20643	83
-Cloquet	40	Carlton	9879	12005	59
-Moose Lake	31	Carlton	8149	2798	66
-Carver County Total	61	Carver	3127	94823	87
-Carver Co. Sheriff	60	Carver	3211	70665	87
-Chaska	64	Carver	2881	24158	88
-Cass County Total	47	Cass	13658	28358	43
-Chippewa County Total	50	Chippewa	4196	11249	83
-Chippewa Co. Sheriff	28	Chippewa	1075	6048	96
-Montevideo	54	Chippewa	7825	5201	68
-Chisago County Total	40	Chisago	3723	53478	85
-Chisago Co. Sheriff	31	Chisago	2534	26520	90
-North Branch	46	Chisago	5639	9966	77
-Wyoming	55	Chisago	3459	7690	86
-Lakes Area PD	37	Chisago	5278	9302	78
-Clay County Total	52	Clay	6248	60693	74
-Clay Co. Sheriff	62	Clay	2949	17260	88
-Dilworth	72	Clay	9852	4111	59
-Moorhead	48	Clay	7319	39322	70
-Clearwater County Total	57	Clearwater	5348	8733	78
-Cook County Total	26	Cook	6682	5208	72
-Cottonwood County Total	68	Cottonwood	5384	11608	78
-Cottonwood Co. Sheriff	57	Cottonwood	3280	4939	87
+Carlton County Total	37	Carlton	6393	35446	29
+Carlton Co. Sheriff	35	Carlton	4127	20643	62
+Cloquet	40	Carlton	9879	12005	9
+Moose Lake	31	Carlton	8149	2798	17
+Carver County Total	61	Carver	3127	94823	77
+Carver Co. Sheriff	60	Carver	3211	70665	76
+Chaska	64	Carver	2881	24158	80
+Cass County Total	47	Cass	13658	28358	3
+Chippewa County Total	50	Chippewa	4196	11249	60
+Chippewa Co. Sheriff	28	Chippewa	1075	6048	98
+Montevideo	54	Chippewa	7825	5201	18
+Chisago County Total	40	Chisago	3723	53478	68
+Chisago Co. Sheriff	31	Chisago	2534	26520	85
+North Branch	46	Chisago	5639	9966	38
+Wyoming	55	Chisago	3459	7690	72
+Lakes Area PD	37	Chisago	5278	9302	44
+Clay County Total	52	Clay	6248	60693	31
+Clay Co. Sheriff	62	Clay	2949	17260	80
+Dilworth	72	Clay	9852	4111	10
+Moorhead	48	Clay	7319	39322	22
+Clearwater County Total	57	Clearwater	5348	8733	42
+Cook County Total	26	Cook	6682	5208	26
+Cottonwood County Total	68	Cottonwood	5384	11608	41
+Cottonwood Co. Sheriff	57	Cottonwood	3280	4939	75
 Mountain Lake	56	Cottonwood	1976	2075	92
-Windom	74	Cottonwood	9186	4594	62
-Crow Wing County Total	51	Crow Wing	6810	63182	72
-Crow Wing Co. Sheriff	48	Crow Wing	2144	39601	91
-Brainerd	44	Crow Wing	18180	13493	24
-Crosby	64	Crow Wing	9540	2369	60
-Baxter	70	Crow Wing	10040	7719	58
-Dakota County Total	53	Dakota	4898	407257	80
-Dakota Co. Sheriff	53	Dakota	3873	19983	84
-Burnsville	31	Dakota	5718	61371	76
-Farmington	44	Dakota	2506	22190	90
-Hastings	55	Dakota	5987	22365	75
-Mendota Heights	34	Dakota	4230	11158	83
-Rosemount	47	Dakota	3530	22579	86
-South St Paul	99	Dakota	6576	20484	73
-West St Paul	47	Dakota	10394	19761	57
-Eagan	49	Dakota	4234	65052	83
-Inver Grove Heights	99	Dakota	4980	34294	80
-Apple Valley	51	Dakota	5428	50262	78
-Lakeville	46	Dakota	3305	57758	87
-Dodge County Total	82	Dodge	7675	20326	68
-Dodge Co. Sheriff	82	Dodge	8544	14303	65
-Kasson	80	Dodge	5612	6023	77
-Douglas County Total	59	Douglas	4682	36821	81
-Douglas Co. Sheriff	55	Douglas	2428	23395	90
-Alexandria	61	Douglas	9449	11716	61
-Osakis	73	Douglas	2865	1710	88
-Faribault County Total	56	Faribault	3590	14234	85
-Faribault Co. Sheriff	53	Faribault	3486	6656	86
-Blue Earth	58	Faribault	4871	3264	80
+Windom	74	Cottonwood	9186	4594	12
+Crow Wing County Total	51	Crow Wing	6810	63182	25
+Crow Wing Co. Sheriff	48	Crow Wing	2144	39601	89
+Brainerd	44	Crow Wing	18180	13493	1
+Crosby	64	Crow Wing	9540	2369	11
+Baxter	70	Crow Wing	10040	7719	8
+Dakota County Total	53	Dakota	4898	407257	50
+Dakota Co. Sheriff	53	Dakota	3873	19983	65
+Burnsville	31	Dakota	5718	61371	37
+Farmington	44	Dakota	2506	22190	85
+Hastings	55	Dakota	5987	22365	34
+Mendota Heights	34	Dakota	4230	11158	59
+Rosemount	47	Dakota	3530	22579	71
+South St Paul	99	Dakota	6576	20484	27
+West St Paul	47	Dakota	10394	19761	8
+Eagan	49	Dakota	4234	65052	59
+Inver Grove Heights	99	Dakota	4980	34294	48
+Apple Valley	51	Dakota	5428	50262	40
+Lakeville	46	Dakota	3305	57758	74
+Dodge County Total	82	Dodge	7675	20326	19
+Dodge Co. Sheriff	82	Dodge	8544	14303	15
+Kasson	80	Dodge	5612	6023	38
+Douglas County Total	59	Douglas	4682	36821	53
+Douglas Co. Sheriff	55	Douglas	2428	23395	87
+Alexandria	61	Douglas	9449	11716	11
+Osakis	73	Douglas	2865	1710	80
+Faribault County Total	56	Faribault	3590	14234	70
+Faribault Co. Sheriff	53	Faribault	3486	6656	72
+Blue Earth	58	Faribault	4871	3264	51
 Elmore	42	Faribault	1860	645	93
 Wells	49	Faribault	1978	2275	92
-Winnebago	68	Faribault	4519	1394	81
-Fillmore County Total	48	Fillmore	1153	20905	96
-Freeborn County Total	64	Freeborn	4646	31104	81
-Freeborn Co. Sheriff	65	Freeborn	2553	13237	90
-Albert Lea	63	Freeborn	6196	17867	74
-Goodhue County Total	49	Goodhue	5999	45791	75
-Goodhue Co. Sheriff	35	Goodhue	2633	21917	89
-Cannon Falls	54	Goodhue	7377	4080	70
-Red Wing	53	Goodhue	10401	16489	57
-Zumbrota	47	Goodhue	4660	3305	81
-Grant County Total	35	Grant	3095	5946	87
-Hennepin County Total	39	Hennepin	6166	1211265	75
-Hennepin Co. Sheriff	79	Hennepin	7651	9528	68
-Bloomington	56	Hennepin	8842	87057	63
-Brooklyn Center	51	Hennepin	8107	30814	66
-Brooklyn Park	43	Hennepin	9068	78353	62
-Crystal	50	Hennepin	7349	22642	70
-Deephaven-Woodland	73	Hennepin	4062	3742	83
-Edina	43	Hennepin	3180	49405	87
-So Lake Mtka	69	Hennepin	5762	11992	76
-Golden Valley	29	Hennepin	4822	20904	80
-Hopkins	31	Hennepin	6660	18108	73
-Minneapolis	20	Hennepin	6957	396206	71
-Minnetonka	46	Hennepin	3843	51573	84
-New Hope	58	Hennepin	4762	20852	80
-Orono	45	Hennepin	2563	21190	90
-Osseo	28	Hennepin	2697	2484	89
-Plymouth	42	Hennepin	3727	73684	85
-Richfield	50	Hennepin	5758	36367	76
-Robbinsdale	51	Hennepin	8731	14363	64
-St Anthony	53	Hennepin	5352	8445	78
-St Louis Park	44	Hennepin	5783	46723	76
-Wayzata	47	Hennepin	7201	3805	70
-Eden Prairie	50	Hennepin	3109	62714	87
-Maple Grove	59	Hennepin	4291	65318	82
-Minnetrista	66	Hennepin	3016	9119	88
-Champlin	30	Hennepin	3940	23881	84
-Medina	69	Hennepin	5282	5093	78
-Corcoran	94	Hennepin	2816	5539	89
-Dayton	79	Hennepin	3623	4885	85
-Rogers PD	49	Hennepin	5856	11782	76
-West Hennepin	75	Hennepin	3115	5458	87
-Houston County Total	70	Houston	5291	18845	78
-Houston Co. Sheriff	77	Houston	7654	8388	68
-Caledonia	66	Houston	9227	2807	62
-Houston PD	35	Houston	5521	978	77
-Hokah	29	Houston	7420	566	69
-Hubbard County Total	70	Hubbard	8469	20391	65
-Hubbard Co. Sheriff	69	Hubbard	6448	16718	73
-Park Rapids	71	Hubbard	17669	3673	27
-Isanti County Total	63	Isanti	4975	38496	80
-Isanti Co. Sheriff	65	Isanti	3298	24835	87
-Cambridge	58	Isanti	10784	8244	55
-Isanti PD	76	Isanti	3821	5417	84
-Itasca County Total	67	Itasca	7273	45443	70
-Itasca Co. Sheriff	62	Itasca	5025	34509	79
-Grand Rapids	72	Itasca	14368	10934	40
-Jackson County Total	45	Jackson	2047	13627	92
-Jackson Co. Sheriff	45	Jackson	2767	8639	89
-Lakefield	48	Jackson	2372	1686	90
-Kanabec County Total	90	Kanabec	5056	15982	79
-Kandiyohi County Total	58	Kandiyohi	5054	42562	79
-Kandiyohi Co. Sheriff	56	Kandiyohi	3231	22871	87
-Willmar	59	Kandiyohi	7171	19691	70
-Kittson County Total	25	Kittson	3005	4493	88
-Kittson Co. Sheriff	25	Kittson	3823	3531	84
-Koochiching County Total	22	Koochiching	7550	13219	69
-Koochiching Co. Sheriff	22	Koochiching	5492	6883	77
-International Falls	22	Koochiching	9785	6336	59
-Lac Qui Parle County Total	33	Lac Qui Parle	1600	8623	94
-Lac Qui Parle Co. Sheriff	24	Lac Qui Parle	1750	5601	93
-Dawson Boyd	55	Lac Qui Parle	2676	1495	89
-Lake County Total	45	Lake	2464	10837	90
-Lake Co. Sheriff	39	Lake	1642	5300	94
-Silver Bay	32	Lake	1505	1861	94
-Two Harbors	50	Lake	4135	3676	83
-Lake of the Woods County Total	84	Lake of the Woods	2244	3966	91
-Le Sueur County Total	62	Le Sueur	2228	24734	91
-Le Sueur Co. Sheriff	69	Le Sueur	933	17787	96
-Le Sueur PD	69	Le Sueur	6317	4021	74
-Montgomery	38	Le Sueur	4477	2926	82
-Lincoln County Total	34	Lincoln	2476	5816	90
-Lyon County Total	64	Lyon	4936	25525	80
-Lyon Co. Sheriff	59	Lyon	2096	10020	92
-Marshall	66	Lyon	7607	13370	69
-Tracy	33	Lyon	1546	2135	94
-McLeod County Total	60	McLeod	6538	35988	73
-McLeod Co. Sheriff	75	McLeod	9990	11061	59
-Glencoe	63	McLeod	4628	5532	81
-Hutchinson	39	McLeod	5398	13857	78
-Brownton	45	McLeod	1484	741	94
-Lester Prairie	66	McLeod	5585	1683	77
-Silver Lake	45	McLeod	5153	815	79
-Winsted	53	McLeod	4219	2299	83
-Mahnomen County Total	18	Mahnomen	14250	5593	41
-Martin County Total	55	Martin	6457	20428	73
-Martin Co. Sheriff	72	Martin	1396	10028	95
-Fairmont	53	Martin	11337	10400	53
-Meeker County Total	46	Meeker	4116	23058	83
-Meeker Co. Sheriff	46	Meeker	3572	16405	85
-Litchfield	48	Meeker	5456	6653	78
-Mille Lacs County Total	80	Mille Lacs	14363	25761	40
-Mille Lacs Co. Sheriff	84	Mille Lacs	17782	18226	26
-Milaca	66	Mille Lacs	6003	2882	75
-Princeton	43	Mille Lacs	6147	4653	75
-Morrison County Total	65	Morrison	3685	33109	85
-Morrison Co. Sheriff	56	Morrison	2749	24843	89
-Little Falls	76	Morrison	6496	8266	73
-Mower County Total	72	Mower	8258	39563	66
-Mower Co. Sheriff	74	Mower	5380	14740	78
-Austin	72	Mower	9967	24823	59
-Murray County Total	98	Murray	3420	8567	86
-Murray Co. Sheriff	98	Murray	2410	6472	90
-Slayton	99	Murray	6539	2095	73
-Nicollet County Total	64	Nicollet	7371	33091	70
-Nicollet Co. Sheriff	72	Nicollet	11315	8228	53
-North Mankato	62	Nicollet	7270	13357	70
-St Peter	53	Nicollet	4667	11506	81
-Nobles County Total	65	Nobles	3273	21599	87
-Nobles Co. Sheriff	68	Nobles	1782	8696	93
-Worthington	65	Nobles	4278	12903	83
-Norman County Total	50	Norman	2323	6586	91
-Olmsted County Total	50	Olmsted	4593	148419	81
-Olmsted Co. Sheriff	58	Olmsted	2542	38744	90
-Rochester	49	Olmsted	5318	109675	78
-Ottertail County Total	66	Ottertail	5671	58417	77
-Ottertail Co. Sheriff	57	Ottertail	3455	44173	86
-Fergus Falls	73	Ottertail	13493	13244	44
-Pennington County Total	55	Pennington	6305	14164	74
-Pennington Co. Sheriff	63	Pennington	2829	5478	89
-Thief River Falls	54	Pennington	8496	8686	65
-Pine County Total	44	Pine	8656	29148	64
-Pipestone County Total	39	Pipestone	3301	9299	87
-Polk County Total	67	Polk	6410	31453	74
-Polk  Co. Sheriff	56	Polk	4371	15098	82
-Crookston	69	Polk	4855	7827	80
-East Grand Forks	74	Polk	11445	8528	53
-Pope County Total	46	Pope	2787	10906	89
-Pope Co. Sheriff	49	Pope	2527	8388	90
-Glenwood	39	Pope	3654	2518	85
-Ramsey County Total	30	Ramsey	5608	523009	77
-Ramsey Co. Sheriff (Combined Agencies*)	37	Ramsey	3826	82420	84
-Arden Hills	29	Ramsey	2762	9813	89
-Falcon Heights	50	Ramsey	3885	5483	84
-Lauderdale	56	Ramsey	4293	2446	82
-Maplewood	39	Ramsey	8590	39765	64
-Mounds View	39	Ramsey	7953	12486	67
-New Brighton	33	Ramsey	4947	21995	80
-North St Paul	28	Ramsey	4275	11767	83
-Roseville	36	Ramsey	8811	34991	64
-St Paul	23	Ramsey	5075	294690	79
-White Bear Lake	42	Ramsey	8737	24472	64
-White Bear Lake Township	31	Ramsey	3062	11266	88
-Little Canada	31	Ramsey	6189	10083	75
-Shoreview	28	Ramsey	2608	25810	89
-Vadnais Heights	37	Ramsey	4887	12911	80
-North Oaks	27	Ramsey	1541	4608	94
-Red Lake County Total	62	Red Lake	3436	4104	86
-Redwood County Total	65	Redwood	4659	15841	81
-Redwood Co. Sheriff	62	Redwood	2358	10689	91
-Redwood Falls	67	Redwood	9433	5152	61
-Renville County Total	64	Renville	4412	15321	82
-Renville Co. Sheriff	63	Renville	3216	12903	87
-Olivia	67	Renville	10794	2418	55
-Rice County Total	44	Rice	4207	66458	83
-Rice Co. Sheriff	46	Rice	2266	22378	91
-Faribault PD	43	Rice	6652	23405	73
-Northfield	46	Rice	3541	20675	86
-Rock County Total	77	Rock	4953	9549	80
-Roseau County Total	25	Roseau	5105	15496	79
-Roseau Co. Sheriff	21	Roseau	4099	11125	83
-Roseau PD	25	Roseau	6339	2603	74
-Warroad	34	Roseau	9615	1768	60
-St Louis County Total	45	St Louis	8152	201036	66
-St Louis Co. Sheriff	35	St Louis	3886	59264	84
-Babbitt	45	St Louis	5044	1467	79
-Chisholm	38	St Louis	2440	5042	90
-Duluth	44	St Louis	10900	86211	55
-Ely	41	St Louis	5915	3432	76
-Eveleth	52	St Louis	11298	3691	53
-Gilbert	37	St Louis	12486	1794	48
-Hibbing	61	St Louis	6338	16267	74
+Winnebago	68	Faribault	4519	1394	56
+Fillmore County Total	48	Fillmore	1153	20905	98
+Freeborn County Total	64	Freeborn	4646	31104	54
+Freeborn Co. Sheriff	65	Freeborn	2553	13237	84
+Albert Lea	63	Freeborn	6196	17867	31
+Goodhue County Total	49	Goodhue	5999	45791	34
+Goodhue Co. Sheriff	35	Goodhue	2633	21917	83
+Cannon Falls	54	Goodhue	7377	4080	21
+Red Wing	53	Goodhue	10401	16489	8
+Zumbrota	47	Goodhue	4660	3305	53
+Grant County Total	35	Grant	3095	5946	78
+Hennepin County Total	39	Hennepin	6166	1211265	32
+Hennepin Co. Sheriff	79	Hennepin	7651	9528	19
+Bloomington	56	Hennepin	8842	87057	13
+Brooklyn Center	51	Hennepin	8107	30814	17
+Brooklyn Park	43	Hennepin	9068	78353	12
+Crystal	50	Hennepin	7349	22642	21
+Deephaven-Woodland	73	Hennepin	4062	3742	63
+Edina	43	Hennepin	3180	49405	76
+So Lake Mtka	69	Hennepin	5762	11992	37
+Golden Valley	29	Hennepin	4822	20904	51
+Hopkins	31	Hennepin	6660	18108	26
+Minneapolis	20	Hennepin	6957	396206	24
+Minnetonka	46	Hennepin	3843	51573	65
+New Hope	58	Hennepin	4762	20852	52
+Orono	45	Hennepin	2563	21190	84
+Osseo	28	Hennepin	2697	2484	82
+Plymouth	42	Hennepin	3727	73684	67
+Richfield	50	Hennepin	5758	36367	37
+Robbinsdale	51	Hennepin	8731	14363	14
+St Anthony	53	Hennepin	5352	8445	42
+St Louis Park	44	Hennepin	5783	46723	37
+Wayzata	47	Hennepin	7201	3805	23
+Eden Prairie	50	Hennepin	3109	62714	78
+Maple Grove	59	Hennepin	4291	65318	57
+Minnetrista	66	Hennepin	3016	9119	78
+Champlin	30	Hennepin	3940	23881	64
+Medina	69	Hennepin	5282	5093	43
+Corcoran	94	Hennepin	2816	5539	81
+Dayton	79	Hennepin	3623	4885	69
+Rogers PD	49	Hennepin	5856	11782	36
+West Hennepin	75	Hennepin	3115	5458	77
+Houston County Total	70	Houston	5291	18845	43
+Houston Co. Sheriff	77	Houston	7654	8388	19
+Caledonia	66	Houston	9227	2807	11
+Houston PD	35	Houston	5521	978	39
+Hokah	29	Houston	7420	566	20
+Hubbard County Total	70	Hubbard	8469	20391	15
+Hubbard Co. Sheriff	69	Hubbard	6448	16718	28
+Park Rapids	71	Hubbard	17669	3673	1
+Isanti County Total	63	Isanti	4975	38496	49
+Isanti Co. Sheriff	65	Isanti	3298	24835	75
+Cambridge	58	Isanti	10784	8244	7
+Isanti PD	76	Isanti	3821	5417	66
+Itasca County Total	67	Itasca	7273	45443	22
+Itasca Co. Sheriff	62	Itasca	5025	34509	47
+Grand Rapids	72	Itasca	14368	10934	2
+Jackson County Total	45	Jackson	2047	13627	91
+Jackson Co. Sheriff	45	Jackson	2767	8639	81
+Lakefield	48	Jackson	2372	1686	87
+Kanabec County Total	90	Kanabec	5056	15982	46
+Kandiyohi County Total	58	Kandiyohi	5054	42562	46
+Kandiyohi Co. Sheriff	56	Kandiyohi	3231	22871	76
+Willmar	59	Kandiyohi	7171	19691	23
+Kittson County Total	25	Kittson	3005	4493	79
+Kittson Co. Sheriff	25	Kittson	3823	3531	66
+Koochiching County Total	22	Koochiching	7550	13219	20
+Koochiching Co. Sheriff	22	Koochiching	5492	6883	39
+International Falls	22	Koochiching	9785	6336	10
+Lac Qui Parle County Total	33	Lac Qui Parle	1600	8623	95
+Lac Qui Parle Co. Sheriff	24	Lac Qui Parle	1750	5601	94
+Dawson Boyd	55	Lac Qui Parle	2676	1495	82
+Lake County Total	45	Lake	2464	10837	86
+Lake Co. Sheriff	39	Lake	1642	5300	95
+Silver Bay	32	Lake	1505	1861	96
+Two Harbors	50	Lake	4135	3676	61
+Lake of the Woods County Total	84	Lake of the Woods	2244	3966	89
+Le Sueur County Total	62	Le Sueur	2228	24734	89
+Le Sueur Co. Sheriff	69	Le Sueur	933	17787	99
+Le Sueur PD	69	Le Sueur	6317	4021	30
+Montgomery	38	Le Sueur	4477	2926	56
+Lincoln County Total	34	Lincoln	2476	5816	86
+Lyon County Total	64	Lyon	4936	25525	50
+Lyon Co. Sheriff	59	Lyon	2096	10020	91
+Marshall	66	Lyon	7607	13370	20
+Tracy	33	Lyon	1546	2135	95
+McLeod County Total	60	McLeod	6538	35988	27
+McLeod Co. Sheriff	75	McLeod	9990	11061	9
+Glencoe	63	McLeod	4628	5532	55
+Hutchinson	39	McLeod	5398	13857	41
+Brownton	45	McLeod	1484	741	96
+Lester Prairie	66	McLeod	5585	1683	39
+Silver Lake	45	McLeod	5153	815	45
+Winsted	53	McLeod	4219	2299	59
+Mahnomen County Total	18	Mahnomen	14250	5593	3
+Martin County Total	55	Martin	6457	20428	28
+Martin Co. Sheriff	72	Martin	1396	10028	97
+Fairmont	53	Martin	11337	10400	5
+Meeker County Total	46	Meeker	4116	23058	62
+Meeker Co. Sheriff	46	Meeker	3572	16405	70
+Litchfield	48	Meeker	5456	6653	40
+Mille Lacs County Total	80	Mille Lacs	14363	25761	3
+Mille Lacs Co. Sheriff	84	Mille Lacs	17782	18226	1
+Milaca	66	Mille Lacs	6003	2882	34
+Princeton	43	Mille Lacs	6147	4653	33
+Morrison County Total	65	Morrison	3685	33109	68
+Morrison Co. Sheriff	56	Morrison	2749	24843	82
+Little Falls	76	Morrison	6496	8266	28
+Mower County Total	72	Mower	8258	39563	16
+Mower Co. Sheriff	74	Mower	5380	14740	42
+Austin	72	Mower	9967	24823	9
+Murray County Total	98	Murray	3420	8567	74
+Murray Co. Sheriff	98	Murray	2410	6472	87
+Slayton	99	Murray	6539	2095	27
+Nicollet County Total	64	Nicollet	7371	33091	21
+Nicollet Co. Sheriff	72	Nicollet	11315	8228	5
+North Mankato	62	Nicollet	7270	13357	22
+St Peter	53	Nicollet	4667	11506	53
+Nobles County Total	65	Nobles	3273	21599	75
+Nobles Co. Sheriff	68	Nobles	1782	8696	94
+Worthington	65	Nobles	4278	12903	58
+Norman County Total	50	Norman	2323	6586	88
+Olmsted County Total	50	Olmsted	4593	148419	55
+Olmsted Co. Sheriff	58	Olmsted	2542	38744	85
+Rochester	49	Olmsted	5318	109675	43
+Ottertail County Total	66	Ottertail	5671	58417	38
+Ottertail Co. Sheriff	57	Ottertail	3455	44173	73
+Fergus Falls	73	Ottertail	13493	13244	4
+Pennington County Total	55	Pennington	6305	14164	30
+Pennington Co. Sheriff	63	Pennington	2829	5478	80
+Thief River Falls	54	Pennington	8496	8686	15
+Pine County Total	44	Pine	8656	29148	14
+Pipestone County Total	39	Pipestone	3301	9299	74
+Polk County Total	67	Polk	6410	31453	29
+Polk  Co. Sheriff	56	Polk	4371	15098	57
+Crookston	69	Polk	4855	7827	51
+East Grand Forks	74	Polk	11445	8528	5
+Pope County Total	46	Pope	2787	10906	81
+Pope Co. Sheriff	49	Pope	2527	8388	85
+Glenwood	39	Pope	3654	2518	69
+Ramsey County Total	30	Ramsey	5608	523009	38
+Ramsey Co. Sheriff (Combined Agencies*)	37	Ramsey	3826	82420	66
+Arden Hills	29	Ramsey	2762	9813	82
+Falcon Heights	50	Ramsey	3885	5483	65
+Lauderdale	56	Ramsey	4293	2446	57
+Maplewood	39	Ramsey	8590	39765	15
+Mounds View	39	Ramsey	7953	12486	18
+New Brighton	33	Ramsey	4947	21995	50
+North St Paul	28	Ramsey	4275	11767	58
+Roseville	36	Ramsey	8811	34991	13
+St Paul	23	Ramsey	5075	294690	46
+White Bear Lake	42	Ramsey	8737	24472	14
+White Bear Lake Township	31	Ramsey	3062	11266	78
+Little Canada	31	Ramsey	6189	10083	32
+Shoreview	28	Ramsey	2608	25810	83
+Vadnais Heights	37	Ramsey	4887	12911	51
+North Oaks	27	Ramsey	1541	4608	96
+Red Lake County Total	62	Red Lake	3436	4104	73
+Redwood County Total	65	Redwood	4659	15841	54
+Redwood Co. Sheriff	62	Redwood	2358	10689	88
+Redwood Falls	67	Redwood	9433	5152	11
+Renville County Total	64	Renville	4412	15321	56
+Renville Co. Sheriff	63	Renville	3216	12903	76
+Olivia	67	Renville	10794	2418	7
+Rice County Total	44	Rice	4207	66458	60
+Rice Co. Sheriff	46	Rice	2266	22378	88
+Faribault PD	43	Rice	6652	23405	26
+Northfield	46	Rice	3541	20675	71
+Rock County Total	77	Rock	4953	9549	49
+Roseau County Total	25	Roseau	5105	15496	46
+Roseau Co. Sheriff	21	Roseau	4099	11125	62
+Roseau PD	25	Roseau	6339	2603	30
+Warroad	34	Roseau	9615	1768	10
+St Louis County Total	45	St Louis	8152	201036	16
+St Louis Co. Sheriff	35	St Louis	3886	59264	64
+Babbitt	45	St Louis	5044	1467	47
+Chisholm	38	St Louis	2440	5042	86
+Duluth	44	St Louis	10900	86211	6
+Ely	41	St Louis	5915	3432	35
+Eveleth	52	St Louis	11298	3691	5
+Gilbert	37	St Louis	12486	1794	4
+Hibbing	61	St Louis	6338	16267	30
 Hoyt Lakes	50	St Louis	200	2002	100
-Proctor	28	St Louis	8058	3053	67
-Virginia	59	St Louis	16788	8625	30
-Floodwood	39	St Louis	17424	528	28
-Hermantown	39	St Louis	5942	9660	76
-Scott County Total	52	Scott	5012	140232	79
-Scott Co. Sheriff	46	Scott	1467	28417	94
-Belle Plaine	69	Scott	4892	6848	80
-Jordan	54	Scott	4400	5955	82
-New Prague	60	Scott	6115	7457	75
-Shakopee	54	Scott	5473	39214	78
-Savage	45	Scott	6802	28285	72
-Prior Lake	52	Scott	6190	24056	75
-Sherburne County Total	58	Sherburne	4486	83097	82
-Sherburne Co. Sheriff	62	Sherburne	3496	44828	86
-Big Lake	42	Sherburne	4089	10296	83
-Elk River	59	Sherburne	6629	23351	73
-Becker PD	59	Sherburne	4154	4622	83
-Stearns County Total	56	Stearns	6153	168116	75
-Stearns Co. Sheriff	51	Stearns	3007	51189	88
-Cold  Spring/Richmond	55	Stearns	4271	5455	83
-Melrose	43	Stearns	2109	3603	92
-Paynesville	36	Stearns	4076	2429	83
-St Cloud	55	Stearns	8915	65977	63
-Sauk Centre	59	Stearns	6890	4325	72
-Waite Park	88	Stearns	17702	6683	26
-St Joseph	74	Stearns	1364	6671	95
-Sartell	28	Stearns	4761	16258	80
-Albany	37	Stearns	3809	2599	84
-Avon	57	Stearns	4950	1414	80
-Steele County Total	57	Steele	5212	36379	79
-Steele Co. Sheriff	49	Steele	3728	9040	85
-Owatonna	59	Steele	6029	25377	75
-Blooming Prairie	66	Steele	1478	1962	94
-Stevens County Total	75	Stevens	5393	9679	78
-Stevens Co. Sheriff	76	Stevens	3248	4403	87
-Morris	74	Stevens	6691	5276	72
-Swift County Total	58	Swift	3667	9572	85
-Swift  Co. Sheriff	66	Swift	2568	5062	90
-Appleton	53	Swift	11696	1368	51
-Benson	51	Swift	1941	3142	92
-Todd County Total	65	Todd	5340	25189	78
-Todd  Co. Sheriff	62	Todd	4640	18881	81
-Long Prairie	55	Todd	7724	3392	68
-Staples	88	Todd	7099	2916	71
-Traverse County Total	61	Traverse	4981	3433	80
-TraverseCo. Sheriff	65	Traverse	3438	2065	86
-Wheaton	58	Traverse	7310	1368	70
-Wabasha County Total	48	Wabasha	2613	22239	89
+Proctor	28	St Louis	8058	3053	17
+Virginia	59	St Louis	16788	8625	2
+Floodwood	39	St Louis	17424	528	2
+Hermantown	39	St Louis	5942	9660	35
+Scott County Total	52	Scott	5012	140232	48
+Scott Co. Sheriff	46	Scott	1467	28417	97
+Belle Plaine	69	Scott	4892	6848	50
+Jordan	54	Scott	4400	5955	57
+New Prague	60	Scott	6115	7457	33
+Shakopee	54	Scott	5473	39214	40
+Savage	45	Scott	6802	28285	25
+Prior Lake	52	Scott	6190	24056	32
+Sherburne County Total	58	Sherburne	4486	83097	56
+Sherburne Co. Sheriff	62	Sherburne	3496	44828	72
+Big Lake	42	Sherburne	4089	10296	62
+Elk River	59	Sherburne	6629	23351	27
+Becker PD	59	Sherburne	4154	4622	61
+Stearns County Total	56	Stearns	6153	168116	33
+Stearns Co. Sheriff	51	Stearns	3007	51189	79
+Cold Spring	55	Stearns	4271	5455	59
+Richmond	55	Stearns	4271	5455	59
+Melrose	43	Stearns	2109	3603	90
+Paynesville	36	Stearns	4076	2429	63
+St Cloud	55	Stearns	8915	65977	12
+Sauk Centre	59	Stearns	6890	4325	24
+Waite Park	88	Stearns	17702	6683	1
+St Joseph	74	Stearns	1364	6671	97
+Sartell	28	Stearns	4761	16258	52
+Albany	37	Stearns	3809	2599	67
+Avon	57	Stearns	4950	1414	49
+Steele County Total	57	Steele	5212	36379	44
+Steele Co. Sheriff	49	Steele	3728	9040	67
+Owatonna	59	Steele	6029	25377	34
+Blooming Prairie	66	Steele	1478	1962	96
+Stevens County Total	75	Stevens	5393	9679	41
+Stevens Co. Sheriff	76	Stevens	3248	4403	75
+Morris	74	Stevens	6691	5276	25
+Swift County Total	58	Swift	3667	9572	69
+Swift  Co. Sheriff	66	Swift	2568	5062	84
+Appleton	53	Swift	11696	1368	4
+Benson	51	Swift	1941	3142	93
+Todd County Total	65	Todd	5340	25189	43
+Todd  Co. Sheriff	62	Todd	4640	18881	54
+Long Prairie	55	Todd	7724	3392	18
+Staples	88	Todd	7099	2916	24
+Traverse County Total	61	Traverse	4981	3433	48
+Traverse Co. Sheriff	65	Traverse	3438	2065	73
+Wheaton	58	Traverse	7310	1368	22
+Wabasha County Total	48	Wabasha	2613	22239	83
 Wabasha Co. Sheriff	28	Wabasha	1946	11462	92
-Lake City	65	Wabasha	3990	4988	84
-Plainview	29	Wabasha	851	3292	97
-Wabasha PD	61	Wabasha	5246	2497	78
-Wadena County Total	74	Wadena	3787	12991	85
-Wadena  Co. Sheriff	72	Wadena	2247	8899	91
-Wadena PD	75	Wadena	7136	4092	71
-Waseca County Total	57	Waseca	5016	19340	79
-Waseca Co. Sheriff	56	Waseca	5825	6421	76
-Janesville	59	Waseca	4720	2267	81
-New Richland	48	Waseca	1737	1209	93
-Waseca PD	58	Waseca	4956	9443	80
-Washington County Total	46	Washington	6197	246217	74
-Washington Co. Sheriff	46	Washington	5118	62932	79
-Bayport	79	Washington	5042	3649	79
-Forest Lake	51	Washington	8668	19140	64
-Newport	73	Washington	9951	3457	59
-St Paul Park	71	Washington	10384	5335	57
-Stillwater	45	Washington	5883	18631	76
-Cottage Grove	48	Washington	5807	35339	76
-Oakdale	27	Washington	8925	27820	63
-Woodbury	46	Washington	4582	65259	81
-Oak Park Heights	49	Washington	14522	4655	40
-Watonwan County Total	60	Watonwan	4190	11216	83
+Lake City	65	Wabasha	3990	4988	63
+Plainview	29	Wabasha	851	3292	99
+Wabasha PD	61	Wabasha	5246	2497	44
+Wadena County Total	74	Wadena	3787	12991	67
+Wadena  Co. Sheriff	72	Wadena	2247	8899	89
+Wadena PD	75	Wadena	7136	4092	24
+Waseca County Total	57	Waseca	5016	19340	47
+Waseca Co. Sheriff	56	Waseca	5825	6421	36
+Janesville	59	Waseca	4720	2267	52
+New Richland	48	Waseca	1737	1209	94
+Waseca PD	58	Waseca	4956	9443	49
+Washington County Total	46	Washington	6197	246217	31
+Washington Co. Sheriff	46	Washington	5118	62932	45
+Bayport	79	Washington	5042	3649	47
+Forest Lake	51	Washington	8668	19140	14
+Newport	73	Washington	9951	3457	9
+St Paul Park	71	Washington	10384	5335	8
+Stillwater	45	Washington	5883	18631	36
+Cottage Grove	48	Washington	5807	35339	36
+Oakdale	27	Washington	8925	27820	12
+Woodbury	46	Washington	4582	65259	55
+Oak Park Heights	49	Washington	14522	4655	2
+Watonwan County Total	60	Watonwan	4190	11216	60
 Watonwan Co. Sheriff	55	Watonwan	1974	6636	92
-St James	62	Watonwan	7402	4580	69
-Wilkin County Total	69	Wilkin	7351	6611	70
-Wilkin	65	Wilkin	4065	3223	83
-Breckenridge	71	Wilkin	10478	3388	57
-Winona County Total	92	Winona	2072	51881	92
+St James	62	Watonwan	7402	4580	20
+Wilkin County Total	69	Wilkin	7351	6611	21
+Wilkin	65	Wilkin	4065	3223	63
+Breckenridge	71	Wilkin	10478	3388	7
+Winona County Total	92	Winona	2072	51881	91
 Winona Co. Sheriff	89	Winona	1817	14531	93
-Winona PD	99	Winona	2137	28077	91
-Goodview	75	Winona	5280	3996	78
-Wright County Total	54	Wright	3721	128444	85
-Wright Co. Sheriff	56	Wright	3483	109325	86
-Buffalo	44	Wright	6151	15802	75
-Yellow Medicine County Total	45	Yellow Medicine	3551	10926	86
-Yellow Medicine Co. Sheriff	54	Yellow Medicine	2998	6137	88
-Canby	20	Yellow Medicine	3123	1729	87
-Granite Falls	46	Yellow Medicine	5197	2790	79
+Winona PD	99	Winona	2137	28077	90
+Goodview	75	Winona	5280	3996	44
+Wright County Total	54	Wright	3721	128444	68
+Wright Co. Sheriff	56	Wright	3483	109325	72
+Buffalo	44	Wright	6151	15802	33
+Yellow Medicine County Total	45	Yellow Medicine	3551	10926	71
+Yellow Medicine Co. Sheriff	54	Yellow Medicine	2998	6137	79
+Canby	20	Yellow Medicine	3123	1729	77
+Granite Falls	46	Yellow Medicine	5197	2790	45
 Echo	0	Yellow Medicine	1859	269	93
-Otter Tail	50	Otter Tail	1728	57159	93
+Otter Tail	50	Otter Tail	1728	57159	95
 Sibley	50	Sibley	339	15036	99
